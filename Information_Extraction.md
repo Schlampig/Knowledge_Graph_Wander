@@ -4,19 +4,22 @@
 
 
 ---
-### Pattern Matching
+### Basic Tools
 
 ---
 ### Tokenization/Parsing
 
 ---
-### Word/Sentence/Document Embedding
+### Word / Sentence / Document Embedding
 
 ---
-### Sentence Labeling
+### NER / Slot-Filling
 
 ---
-### Sequence Tagging / Sequence to Sequence
+### Sequence Tagging / Sentence Labeling
+
+---
+### Sequence to Sequence
 
 ---
 ### Reading Comprehension
@@ -34,7 +37,7 @@
 ### Open Information Extraction
 
 ---
-### Few/One/Zero Shot Learning
+### Few / One / Zero Shot Learning
 
 ---
 ### Text Classification
@@ -42,5 +45,6 @@
 ---
 ### Data Programming
 
-
+---
+### Pattern Matching
 
