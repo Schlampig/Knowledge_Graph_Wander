@@ -18,7 +18,7 @@
 ### Relation Extraction
 
 ---
-### Coreference Resolution / Ontology Align
+### Coreference Resolution
 
 ---
 ### Entity Linking
@@ -27,7 +27,7 @@
 ### Distant Supervison
 
 ---
-### Knowledge Graph Completion
+### Knowledge Graph Completion / Ontology Align
 
 ---
 ### Network Representation Learning / Network Embedding
