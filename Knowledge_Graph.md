@@ -3,11 +3,19 @@
 <br>
 
 ---
-### Graph Construction from scratch
+### Open Source Graphs
+
+---
+### Graph from scratch
+
+---
+### Network Spider
 
 ---
 ### Hypernym Discovery
 
+---
+### Relation Extraction
 
 ---
 ### Coreference Resolution / Ontology Align
@@ -30,3 +38,5 @@
 ---
 ### Event Evolutionary Graph
 
+---
+### Causality Recognition
