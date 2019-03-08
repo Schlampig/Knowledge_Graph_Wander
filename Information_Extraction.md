@@ -7,7 +7,10 @@
 ### Pattern Matching
 
 ---
-### Embedding
+### Tokenization/Parsing
+
+---
+### Word/Sentence/Document Embedding
 
 ---
 ### Sentence Labeling
