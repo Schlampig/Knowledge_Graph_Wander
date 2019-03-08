@@ -28,10 +28,16 @@
 ### Question Generation
 
 ---
+### Ranking/ReRanking
+
+---
 ### Open Information Extraction
 
 ---
 ### Few/One/Zero Shot Learning
+
+---
+### Text Classification
 
 ---
 ### Data Programming
