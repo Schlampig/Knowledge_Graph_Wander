@@ -4,7 +4,7 @@
 
 ---
 ## Open Source Graphs
-CN BDPedia 知识工厂
+### CN BDPedia 知识工厂
   * [link](http://kw.fudan.edu.cn/)<br>
   * [paper](https://www.researchgate.net/publication/318144300_CN-DBpedia_A_Never-Ending_Chinese_Knowledge_Extraction_System): CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System<br>
   * [source](http://openkg.cn/dataset/cndbpedia)<br>
@@ -38,6 +38,29 @@ CN BDPedia 知识工厂
 
 ---
 ## Graph from scratch
+### On Publishing Chinese Linked Open Schema
+  * [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-11964-9_19)<br>
+  * cite:<br>
+
+### An automatic approach for constructing a knowledge base of symptoms in Chinese
+  * [paper](https://www.researchgate.net/publication/312561715_An_automatic_approach_for_constructing_a_knowledge_base_of_symptoms_in_Chinese)<br>
+  * cite:<br>
+
+### Fonduer: Knowledge Base Construction from Richly Formatted Data
+  * [paper](https://arxiv.org/abs/1703.05028)<br>
+  * cite:<br>
+
+### Publishing Life Science Data as Linked Open Data: the Case Study of miRBase
+  * [paper](https://arxiv.org/pdf/1205.2320.pdf)<br>
+  * cite:<br>
+
+### KnowLife: a versatile approach for constructing a large knowledge graph for biomedical sciences
+  * [paper](https://pure.mpg.de/rest/items/item_2157584_1/component/file_2157583/content)<br>
+  * cite:<br>
+
+### 阿里“神马”图谱技术简介
+  * [voice](https://blog.csdn.net/yunqiinsight/article/details/79563396): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？<br>
+  * [voice](https://mp.weixin.qq.com/s/qw9i24goTsVgdk1qW6ie9A): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？(阿里技术公众号)<br>
 
 ---
 ## Network Spider
