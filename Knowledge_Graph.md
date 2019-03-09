@@ -4,8 +4,7 @@
 
 ---
 ## Open Source Graphs
-<br>
-### CN BDPedia 知识工厂 <br>
+CN BDPedia 知识工厂
   * [link](http://kw.fudan.edu.cn/)<br>
   * [paper](https://www.researchgate.net/publication/318144300_CN-DBpedia_A_Never-Ending_Chinese_Knowledge_Extraction_System): CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System<br>
   * [source](http://openkg.cn/dataset/cndbpedia)<br>
