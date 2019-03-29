@@ -5,6 +5,7 @@ link, paper, code, note, data, remark
 
 ## **Useful Toolboxes**
 <br>
+
 ### Opensource Guide
   * link: https://opensource.guide/
   * note: how to make your project in github attractive.
@@ -30,6 +31,7 @@ link, paper, code, note, data, remark
 
 ## **Literatures Searching Tools**
 <br>
+
 ### ACL Anthology
   * link: https://aclanthology.info/
   * note: infomation for ACL
@@ -44,6 +46,7 @@ link, paper, code, note, data, remark
 
 ## **Open Source Graphs**
 <br>
+
 ### CN BDPedia 知识工厂
   * link: http://kw.fudan.edu.cn/
   * [paper](https://www.researchgate.net/publication/318144300_CN-DBpedia_A_Never-Ending_Chinese_Knowledge_Extraction_System): CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System
@@ -82,6 +85,7 @@ link, paper, code, note, data, remark
 
 ## **Graph from Scratch**
 <br>
+
 ### Paper
   * [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-11964-9_19): Wang, H., Wu, T., Qi, G., & Tong, R. (2014). On Publishing Chinese Linked Open Schema. International Semantic Web Conference.
   * [paper](https://www.researchgate.net/publication/312561715_An_automatic_approach_for_constructing_a_knowledge_base_of_symptoms_in_Chinese): Ruan, T. , Wang, M. , Sun, J. , Wang, T. , & Gao, J. . (2016). An automatic approach for constructing a knowledge base of symptoms in Chinese. 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
