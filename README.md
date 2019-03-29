@@ -1,6 +1,6 @@
 # Knowledge Graph and other NLP Collections
 
-link, data, code, paper, remark, note
+link, paper, code, note, data, remark
 
 
 ---
@@ -26,7 +26,7 @@ link, data, code, paper, remark, note
 
 
 ---
-## About Literatures
+## Literatures Searching Tools
 ### ACL Anthology
   * link: https://aclanthology.info/
   * note: infomation for ACL
@@ -73,20 +73,12 @@ link, data, code, paper, remark, note
 
 ---
 ## Graph from Scratch
-### Wang, H., Wu, T., Qi, G., & Tong, R. (2014). On Publishing Chinese Linked Open Schema. International Semantic Web Conference.
-  * link: https://link.springer.com/chapter/10.1007%2F978-3-319-11964-9_19
-
-### Ruan, T. , Wang, M. , Sun, J. , Wang, T. , & Gao, J. . (2016). An automatic approach for constructing a knowledge base of symptoms in Chinese. 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
-  * link: https://www.researchgate.net/publication/312561715_An_automatic_approach_for_constructing_a_knowledge_base_of_symptoms_in_Chinese
-
-### Wu, S. , Hsiao, L. , Cheng, X. , Hancock, B. , Rekatsinas, T. , & Levis, P. , et al. (2017). Fonduer: knowledge base construction from richly formatted data. arXiv.
-  * link: https://arxiv.org/abs/1703.05028
-
-### Dalamagas, T. , Bikakis, N. , Papastefanatos, G. , Stavrakas, Y. , & Hatzigeorgiou, A. G. . (2012). Publishing life science data as linked open data: the case study of miRBase. arXiv.
-  * link: https://arxiv.org/pdf/1205.2320.pdf
-
-### Ernst, P. , Siu, A. , & Weikum, G. . (2015). Knowlife: a versatile approach for constructing a large knowledge graph for biomedical sciences. BMC Bioinformatics, 16(1), 157.
-  * link: https://pure.mpg.de/rest/items/item_2157584_1/component/file_2157583/content
+### Paper
+  * [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-11964-9_19): Wang, H., Wu, T., Qi, G., & Tong, R. (2014). On Publishing Chinese Linked Open Schema. International Semantic Web Conference.
+  * [paper](https://www.researchgate.net/publication/312561715_An_automatic_approach_for_constructing_a_knowledge_base_of_symptoms_in_Chinese): Ruan, T. , Wang, M. , Sun, J. , Wang, T. , & Gao, J. . (2016). An automatic approach for constructing a knowledge base of symptoms in Chinese. 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+  * [paper](https://arxiv.org/abs/1703.05028): Wu, S. , Hsiao, L. , Cheng, X. , Hancock, B. , Rekatsinas, T. , & Levis, P. , et al. (2017). Fonduer: knowledge base construction from richly formatted data. arXiv.
+  * [paper](https://arxiv.org/pdf/1205.2320.pdf): Dalamagas, T. , Bikakis, N. , Papastefanatos, G. , Stavrakas, Y. , & Hatzigeorgiou, A. G. . (2012). Publishing life science data as linked open data: the case study of miRBase. arXiv.
+  * [paper](https://pure.mpg.de/rest/items/item_2157584_1/component/file_2157583/content): Ernst, P. , Siu, A. , & Weikum, G. . (2015). Knowlife: a versatile approach for constructing a large knowledge graph for biomedical sciences. BMC Bioinformatics, 16(1), 157.
 
 ### ShenMa from Ali
   * [remark](https://blog.csdn.net/yunqiinsight/article/details/79563396): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？<br>
