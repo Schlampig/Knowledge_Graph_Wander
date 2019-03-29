@@ -23,7 +23,9 @@ link, paper, code, note, data, remark
 
 ### Some funny and helpful python lib.
   * link: https://www.cnblogs.com/palace/p/9889235.html
-
+<br>
+<br>
+<br>
 
 ---
 ## Literatures Searching Tools
@@ -34,7 +36,9 @@ link, paper, code, note, data, remark
 ### Awesome Chinese NLP
   * link: https://github.com/crownpku/awesome-chinese-nlp
   * note: a curated list of resources for NLP (Natural Language Processing) for Chinese.
-
+<br>
+<br>
+<br>
 
 ---
 ## Open Source Graphs
@@ -69,7 +73,9 @@ link, paper, code, note, data, remark
 
 ### EventKG
   * link: http://eventkg.l3s.uni-hannover.de/index.html
-
+<br>
+<br>
+<br>
 
 ---
 ## Graph from Scratch
@@ -83,7 +89,9 @@ link, paper, code, note, data, remark
 ### ShenMa from Ali
   * [remark](https://blog.csdn.net/yunqiinsight/article/details/79563396): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？<br>
   * [remark](https://mp.weixin.qq.com/s/qw9i24goTsVgdk1qW6ie9A): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？(阿里技术公众号)<br>
-
+<br>
+<br>
+<br>
 
 
 
