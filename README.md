@@ -3,8 +3,7 @@
 link, paper, code, note, data, remark
 
 
----
-## *Useful Toolboxes*
+## **Useful Toolboxes**
 <br>
 ### Opensource Guide
   * link: https://opensource.guide/
@@ -28,8 +27,8 @@ link, paper, code, note, data, remark
 <br>
 <br>
 
----
-## *Literatures Searching Tools*
+
+## **Literatures Searching Tools**
 <br>
 ### ACL Anthology
   * link: https://aclanthology.info/
@@ -42,8 +41,8 @@ link, paper, code, note, data, remark
 <br>
 <br>
 
----
-## *Open Source Graphs*
+
+## **Open Source Graphs**
 <br>
 ### CN BDPedia 知识工厂
   * link: http://kw.fudan.edu.cn/
@@ -80,8 +79,8 @@ link, paper, code, note, data, remark
 <br>
 <br>
 
----
-## *Graph from Scratch*
+
+## **Graph from Scratch**
 <br>
 ### Paper
   * [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-11964-9_19): Wang, H., Wu, T., Qi, G., & Tong, R. (2014). On Publishing Chinese Linked Open Schema. International Semantic Web Conference.
