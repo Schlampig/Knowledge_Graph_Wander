@@ -1,6 +1,6 @@
-# Knowledge Graph and other NLP Collections
+# Knowledge Graph and other NLP source
+*Colleted by Kuyi King*
 
-link, paper, code, note, data, remark
 
 ---
 ## **Useful Toolboxes**
