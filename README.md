@@ -100,18 +100,98 @@ link, paper, code, note, data, remark
 ## **Hypernym Discovery**
 
 ### Paper
-  * [paper](https://arxiv.org/pdf/1703.04178.pdf)Camachocollados, J. . (2017). Why we have switched from building full-fledged taxonomies to simply detecting hypernymy relations. arXiv.
-  * [paper](http://aclweb.org/anthology/E17-1007)/[code](https://github.com/vered1986/UnsupervisedHypernymy):Shwartz, V. , Santus, E. , & Schlechtweg, D. . (2016). Hypernyms under siege: linguistically-motivated artillery for hypernymy detection. ACL 2016.
+  * [paper](https://arxiv.org/pdf/1703.04178.pdf): Camachocollados, J. . (2017). Why we have switched from building full-fledged taxonomies to simply detecting hypernymy relations. arXiv.
+  * [paper](http://aclweb.org/anthology/E17-1007)/[code](https://github.com/vered1986/UnsupervisedHypernymy): Shwartz, V. , Santus, E. , & Schlechtweg, D. . (2016). Hypernyms under siege: linguistically-motivated artillery for hypernymy detection. ACL 2016.
   * [paper](http://aclweb.org/anthology/D17-1123): A Short Survey on Taxonomy Learning from Text Corpora-Issues, Resources and Recent Advances, EMNLP 2017.
   * [paper](http://aclweb.org/anthology/P16-1226)/[code](https://github.com/vered1986/HypeNET): Shwartz, V. , Goldberg, Y. , & Dagan, I. . (2016). Improving hypernymy detection with an integrated path-based and distributional method. ACL 2016.
   * [paper](http://wwwusers.di.uniroma1.it/~navigli/pubs/Semeval_2015_Bordeaetal.pdf): SemEval-2015 Task 17: Taxonomy Extraction Evaluation (TExEval).
-  * [paper](http://ai.stanford.edu/~rion/papers/hypernym_nips05.pdf):A Snow, R. , Jurafsky, D. , & Ng, A. Y. . (2004). Learning Syntactic Patterns for Automatic Hypernym Discovery. Advances in Neural Information Processing Systems.
-
-
-
-
+  * [paper](http://ai.stanford.edu/~rion/papers/hypernym_nips05.pdf): A Snow, R. , Jurafsky, D. , & Ng, A. Y. . (2004). Learning Syntactic Patterns for Automatic Hypernym Discovery. Advances in Neural Information Processing Systems.
+<br>
+<br>
+<br>
 
 ---
+## **Network Representation Learning / Network Embedding**
+
+### NRLPapers
+  * link: https://github.com/thunlp/NRLPapers
+  * author: thunlp
+  * note: a lists of must-read papers for network representation learning/ network embedding
+
+### OpenKE
+  * link: https://github.com/thunlp/OpenKE
+  * author: thunlp
+  * note: An open-source framework for knowledge embedding with both [tensorflow](https://github.com/thunlp/TensorFlow-TransX) and [pytorch](https://github.com/thunlp/OpenKE/tree/OpenKE-PyTorch) versions, including several classic methods such as TransE, TransD, TransH, TransR, etc, and related to another light C++ project named [Fast-TransX](https://github.com/thunlp/Fast-TransX).
+  * extra: various network embedding-related works could be found under the lists of thunlp groups, such as [KB2E](https://github.com/thunlp/KB2E), [OpenNE](https://github.com/thunlp/OpenNE), [Fast-TransX](https://github.com/thunlp/Fast-TransX).
+
+### CANE
+  * link: https://github.com/thunlp/CANE
+  * author: thunlp
+  * note: Network embedding using mutual attention to acquire contextual information of attributes (eg. the description about the node) of nodes
+
+### SINE
+  * link: https://github.com/benedekrozemberczki/SINE
+  * author: Benedek Rozemberczki
+  * note: Attributed network embedding from incomplete graphs by learning the attribute infomation, pytorch approach.
+
+### DGI
+  * link: https://github.com/PetarV-/DGI
+  * author: Petar Veličković
+  * note: a pytorch unsupervised approach for learning node representations within graph-structured data.
+
+### StarSpace
+  * link: https://github.com/facebookresearch/StarSpace
+  * author: Facebook Research
+  * note: a framework to learn entity embedding for various downstream works
+
+### HARP
+  * link: https://github.com/GTmac/HARP
+  * author: Haochen Chen
+  * note: a meta-strategy based on hierarchical representation learning to improve other network embedding methods, such as DeepWalk, LINE and Node2vec.
+
+### NetMF
+  * link: https://github.com/xptree/NetMF
+  * author: Jiezhong Qiu
+  * note: a model to unify DeepWalk, LINE, PTE, and node2vec through matrix factorization, python version.
+
+### deepwalk
+  * link: https://github.com/phanein/deepwalk
+  * author: Bryan Perozzi
+  * note: a classic method using short random walks to learn representations for nodes in graphs.
+<br>
+<br>
+<br>
+
+---
+## **Relation Extraction**
+
+### OpenNRE
+  * link: https://github.com/thunlp/OpenNRE
+  * author: thunlp
+  * note: a tensorflow-based framework for neural relation extraction tasks (mainly for English corpus)
+  * extra: various NRE-related works could be found under the lists of thunlp groups, such as [NRE](https://github.com/thunlp/NRE)(C++ approach), [JointNRE](https://github.com/thunlp/JointNRE)(Mutual Attention between graph and text), [PathNRE](https://github.com/thunlp/PathNRE)(C++ approach), [AMNRE](https://github.com/thunlp/AMNRE)(Adversarial Multi-lingual NRE), [MNRE](https://github.com/thunlp/MNRE)(Multi-Language NRE).
+
+### Information-Extraction-Chinese
+  * link: https://github.com/crownpku/Information-Extraction-Chinese
+  * author: Guan Wang
+  * note: approaches for Chinese corpus including RE_BGRU_2ATT, NER_IDCNN_CRF, and ID-CNN-CWS
+
+### Awesome Relation Extraction
+  * link: https://github.com/roomylee/awesome-relation-extraction
+  * Joohong Lee
+
+### NREPapers
+    * link: https://github.com/thunlp/NREPapers
+    * author: thunlp
+    * note: a lists of must-read papers for neural relation extraction
+
+### BaiDu2019 Relation Extraction Competition
+  * link: http://lic2019.ccf.org.cn/kg
+  * code: [kg-2019-baseline](https://github.com/bojone/kg-2019-baseline)(author: 苏剑林(Jianlin Su))
+<br>
+<br>
+<br>
+
 
 ---
 
