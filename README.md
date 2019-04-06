@@ -182,9 +182,9 @@
   * Joohong Lee
 
 ### NREPapers
-    * link: https://github.com/thunlp/NREPapers
-    * author: thunlp
-    * note: a lists of must-read papers for neural relation extraction
+  * link: https://github.com/thunlp/NREPapers
+  * author: thunlp
+  * note: a lists of must-read papers for neural relation extraction
 
 ### BaiDu2019 Relation Extraction Competition
   * link: http://lic2019.ccf.org.cn/kg
