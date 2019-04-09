@@ -38,6 +38,11 @@
 ### Awesome Chinese NLP
   * link: https://github.com/crownpku/awesome-chinese-nlp
   * note: a curated list of resources for NLP (Natural Language Processing) for Chinese.
+
+### awesome-knowledge-graph
+  * link: https://github.com/husthuke/awesome-knowledge-graph
+  * author: hooke
+  * note: a well-organized knowledge-graph learning source list including research organization, researchers, vedios, etc.
 <br>
 <br>
 <br>
