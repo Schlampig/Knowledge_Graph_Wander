@@ -42,7 +42,7 @@
 ### awesome-knowledge-graph
   * link: https://github.com/husthuke/awesome-knowledge-graph
   * author: hooke
-  * note: a well-organized knowledge-graph learning source list including research organization, researchers, vedios, etc.
+  * note: a well-organized knowledge-graph learning source list including organizations, researchers, education vedios, conferences, competitions, etc.
 <br>
 <br>
 <br>
