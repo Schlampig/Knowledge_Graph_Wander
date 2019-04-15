@@ -103,6 +103,31 @@
 <br>
 
 ---
+## **Rule-based Techniques**
+
+### Paper
+  * [paper](https://arxiv.org/pdf/1801.09856.pdf): Wang, H. . (2018). Renn: rule-embedded neural networks.
+  * [paper](https://arxiv.org/pdf/1805.05588.pdf): Luo, B. , Feng, Y. , Wang, Z. , Huang, S. , Yan, R. , & Zhao, D. . (2018). Marrying up regular expressions with neural networks: a case study for spoken language understanding.
+
+### Duckling
+  * link: https://github.com/facebook/duckling
+  * author: facebook
+  * note: a Haskell library that parses text into structured data.
+
+### SLING
+  * link: https://github.com/google/sling
+  * author: google
+
+### Implementing a Regular Expression Engine
+  * link: https://github.com/deniskyashif/regexjs/
+  * author: Denis Kyashif
+  * remark: https://deniskyashif.com/implementing-a-regular-expression-engine/
+  
+<br>
+<br>
+<br>
+
+---
 ## **Hypernym Discovery**
 
 ### Paper
@@ -168,6 +193,9 @@
   * link: https://github.com/phanein/deepwalk
   * author: Bryan Perozzi
   * note: a classic method using short random walks to learn representations for nodes in graphs.
+
+### Graph Embedding中文总结博客
+  * link: http://www.jintiankansha.me/t/3gSTXhbNvB
 <br>
 <br>
 <br>
