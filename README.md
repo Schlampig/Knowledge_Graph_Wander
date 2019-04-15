@@ -119,6 +119,9 @@
 ---
 ## **Network Representation Learning / Network Embedding**
 
+### Paper
+  * [paper](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216/12004): Ruobing Xie, Zhiyuan Liu, Jia Jia1, Huanbo Luan, Maosong Sun (2016). Representation Learning of Knowledge Graphs with Entity Descriptions, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16).
+
 ### NRLPapers
   * link: https://github.com/thunlp/NRLPapers
   * author: thunlp
