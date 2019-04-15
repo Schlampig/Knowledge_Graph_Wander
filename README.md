@@ -246,6 +246,32 @@
 <br>
 <br>
 
+
+---
+## **Open Information Extraction**
+
+### Paper
+  * [paper](https://arxiv.org/abs/1806.05599v1): Niklaus, C. , Cetto, M. , Freitas, André, & Handschuh, S. . (2018). A survey on open information extraction.
+  * [paper](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf): Etzioni, O. , Fader, A. , Christensen, J. , Soderland, S. , & Mausam. (2012). Open Information Extraction: The Second Generation. International Joint Conference on Ijcai. DBLP.
+  * [slide](https://user.eng.umd.edu/~smiran/OpenIE.pdf):  Sina Miran. Brief Introduction and Review of Open Information Extraction (Open-IE) Systems. CS 290D Project Presentation.
+  * [paper](http://jcip.cipsc.org.cn/CN/abstract/abstract1548.shtml): 赵 军,刘 康,周光有,蔡 黎. 开放式文本信息抽取[J]. 中文信息学报, 2011, 25(6): 98-111.
+
+### Open Information Extraction (OIE) Resources
+  * link: https://github.com/gkiril/oie-resources
+  * author: Kiril Gashteovski
+  * note: a collection of papers for oie tasks.
+
+### ReVerb
+  * link: http://reverb.cs.washington.edu/
+
+### CoreNLP(OpenIE)
+  * link: https://stanfordnlp.github.io/CoreNLP/openie.html
+  * author: Stanford
+<br>
+<br>
+<br>
+
+
 ---
 ## **Zero-Shot Learning**
 
@@ -257,10 +283,6 @@
   * [paper](https://arxiv.org/pdf/1608.03542.pdf): Hewlett, D. , Lacoste, A. , Jones, L. , Polosukhin, I. , Fandrianto, A. , & Han, J. , et al. (2016). Wikireading: a novel large-scale language understanding task over wikipedia.
   * [paper](https://arxiv.org/pdf/1706.04115.pdf)/[link](http://nlp.cs.washington.edu/zeroshot/): Levy, O. , Seo, M. , Choi, E. , & Zettlemoyer, L. . (2017). Zero-shot relation extraction via reading comprehension.
   * [paper](https://arxiv.org/pdf/1802.06842.pdf)/[code](https://github.com/hadyelsahar/Zeroshot-QuestionGeneration): Elsahar, H. , Gravier, C. , & Laforest, F. . (2018). Zero-shot question generation from knowledge graphs for unseen predicates and entity types.
-
-
-### Paper about other nlp tasks
-
 <br>
 <br>
 <br>
