@@ -201,6 +201,23 @@
 <br>
 <br>
 
+---
+## **Network Representation Learning / Network Embedding**
+
+### Paper about entity/relation discovery/classificaiton
+  * [paper](https://www.researchgate.net/publication/318058815_Zero-Shot_Embedding_for_Unseen_Entities_in_Knowledge_Graph)/[code](https://github.com/yzur/JointE): Zhao, Y. , Gao, S. , Gallinari, P. , & Guo, J. . (2017). Zero-shot embedding for unseen entities in knowledge graph. IEICE Transactions on Information and Systems, 100.
+  * 
+
+### Paper about QA
+  * [paper](https://arxiv.org/pdf/1802.06842.pdf)/[code](https://github.com/hadyelsahar/Zeroshot-QuestionGeneration): Elsahar, H. , Gravier, C. , & Laforest, F. . (2018). Zero-shot question generation from knowledge graphs for unseen predicates and entity types.
+
+
+### Paper about other nlp tasks
+
+<br>
+<br>
+<br>
+
 
 ---
 ### Coming soon ...
