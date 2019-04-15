@@ -211,7 +211,7 @@
 
 ### Paper about QA
   * [paper](https://arxiv.org/pdf/1608.03542.pdf): Hewlett, D. , Lacoste, A. , Jones, L. , Polosukhin, I. , Fandrianto, A. , & Han, J. , et al. (2016). Wikireading: a novel large-scale language understanding task over wikipedia.
-  * [paper](https://arxiv.org/pdf/1706.04115.pdf): Levy, O. , Seo, M. , Choi, E. , & Zettlemoyer, L. . (2017). Zero-shot relation extraction via reading comprehension.
+  * [paper](https://arxiv.org/pdf/1706.04115.pdf)/[link](http://nlp.cs.washington.edu/zeroshot/): Levy, O. , Seo, M. , Choi, E. , & Zettlemoyer, L. . (2017). Zero-shot relation extraction via reading comprehension.
   * [paper](https://arxiv.org/pdf/1802.06842.pdf)/[code](https://github.com/hadyelsahar/Zeroshot-QuestionGeneration): Elsahar, H. , Gravier, C. , & Laforest, F. . (2018). Zero-shot question generation from knowledge graphs for unseen predicates and entity types.
 
 
