@@ -202,7 +202,7 @@
 <br>
 
 ---
-## **Network Representation Learning / Network Embedding**
+## **Zero-Shot Learning**
 
 ### Paper about entity/relation discovery/classificaiton
   * [paper](https://www.researchgate.net/publication/318058815_Zero-Shot_Embedding_for_Unseen_Entities_in_Knowledge_Graph)/[code](https://github.com/yzur/JointE): Zhao, Y. , Gao, S. , Gallinari, P. , & Guo, J. . (2017). Zero-shot embedding for unseen entities in knowledge graph. IEICE Transactions on Information and Systems, 100.
