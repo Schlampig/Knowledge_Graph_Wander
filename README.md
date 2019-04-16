@@ -242,6 +242,10 @@
 ### BaiDu2019 Relation Extraction Competition
   * link: http://lic2019.ccf.org.cn/kg
   * code: [kg-2019-baseline](https://github.com/bojone/kg-2019-baseline)(author: 苏剑林(Jianlin Su))
+  
+### Papers about Open Relation Extraction(ORE)
+  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). ZORE: A Syntax-based System for Chinese Open Relation Extraction. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+  * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). Chinese open relation extraction for knowledge acquisition. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16. 
 <br>
 <br>
 <br>
@@ -253,8 +257,11 @@
 ### Paper
   * [paper](https://arxiv.org/abs/1806.05599v1): Niklaus, C. , Cetto, M. , Freitas, André, & Handschuh, S. . (2018). A survey on open information extraction.
   * [paper](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf): Etzioni, O. , Fader, A. , Christensen, J. , Soderland, S. , & Mausam. (2012). Open Information Extraction: The Second Generation. International Joint Conference on Ijcai. DBLP.
+  * [paper](https://aclweb.org/anthology/P17-2050): Saha Swarnadeep, Pal Harinder,  Mausam. (2017). Bootstrapping for Numerical Open IE. 10.18653/v1/P17-2050. 
+  * [paper](http://www.docin.com/p-1065213229.html): 王莉峰. (0). 领域自适应的中文实体关系抽取研究. (Doctoral dissertation, 哈尔滨工业大学).
   * [slide](https://user.eng.umd.edu/~smiran/OpenIE.pdf):  Sina Miran. Brief Introduction and Review of Open Information Extraction (Open-IE) Systems. CS 290D Project Presentation.
-  * [paper](http://jcip.cipsc.org.cn/CN/abstract/abstract1548.shtml): 赵 军,刘 康,周光有,蔡 黎. 开放式文本信息抽取[J]. 中文信息学报, 2011, 25(6): 98-111.
+  * [paper](http://jcip.cipsc.org.cn/CN/abstract/abstract1548.shtml): 赵 军, 刘 康, 周光有, 蔡 黎. 开放式文本信息抽取[J]. 中文信息学报, 2011, 25(6): 98-111.
+  * [paper](http://crad.ict.ac.cn/CN/abstract/abstract2910.shtml): 秦兵, 刘安安, & 刘挺. (2015). 无指导的中文开放式实体关系抽取. 计算机研究与发展, 52(5), 1029-1035.
 
 ### Open Information Extraction (OIE) Resources
   * link: https://github.com/gkiril/oie-resources
@@ -273,7 +280,7 @@
 
 
 ---
-## **Zero-Shot Learning**
+## **Zero-Shot Learning (NLP)**
 
 ### Paper about entity/relation discovery/classificaiton
   * [paper](http://www.cis.upenn.edu/~danielkh/files/2018_zoe/2018_zero_zhot_typing.pdf)/[code](https://github.com/CogComp/zoe): Ben Zhou, Daniel Khashabi, Chen-Tse Tsai, Dan Roth (2018). Zero-Shot Open Entity Typing as Type-Compatible Grounding.
