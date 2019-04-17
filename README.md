@@ -10,18 +10,6 @@
   * link: https://opensource.guide/
   * note: how to make your project in github attractive.
 
-### StateOfTheArt# Knowledge Graph and other NLP source
-*Colleted by Kuyi King*
-<br>
-<br>
-
----
-## **Useful Toolboxes**
-
-### Opensource Guide
-  * link: https://opensource.guide/
-  * note: how to make your project in github attractive.
-
 ### StateOfTheArt
   * link: https://www.stateoftheart.ai/
   * note: collections of the SOTA codes and papers of 7 main machine learning domains.
