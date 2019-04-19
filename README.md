@@ -533,6 +533,10 @@
 ---
 ## **Relation Extraction**
 
+### Papers about Open Relation Extraction(ORE)
+  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). ZORE: A Syntax-based System for Chinese Open Relation Extraction. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+  * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). Chinese open relation extraction for knowledge acquisition. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16. 
+
 ### OpenNRE
   * link: https://github.com/thunlp/OpenNRE
   * author: thunlp
@@ -557,9 +561,10 @@
   * link: http://lic2019.ccf.org.cn/kg
   * code: [kg-2019-baseline](https://github.com/bojone/kg-2019-baseline)(author: 苏剑林(Jianlin Su))
   
-### Papers about Open Relation Extraction(ORE)
-  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). ZORE: A Syntax-based System for Chinese Open Relation Extraction. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-  * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). Chinese open relation extraction for knowledge acquisition. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16. 
+### Tacred-Relation
+  * link: https://github.com/yuhaozhang/tacred-relation
+  * author: Yuhao Zhang
+  * [paper](https://nlp.stanford.edu/pubs/zhang2017tacred.pdf): Bilan, Ivan & Roth, Benjamin. (2018). Position-aware Self-attention with Relative Positional Encodings for Slot Filling. arXiv.
 <br>
 <br>
 <br>
@@ -567,6 +572,9 @@
 
 ---
 ## **Automatic Terminology Extraction**
+
+### Papers
+  * [paper](https://www.researchgate.net/publication/220387502_Automatic_Recognition_of_Multi-word_Terms_The_C-value_NC-value_Method): Frantzi, K. , Ananiadou, S. , & Mima, H. . (2000). Automatic recognition of multi-word terms:. the c-value/nc-value method. International Journal on Digital Libraries, 3(2), 115-130.
 
 ### Introduction from ACADEMIA, Wikipedia, etc
   * [ACADEMIA](https://www.academia.edu/Documents/in/Automatic_Term_Extraction): a collection of papers about term extraction
@@ -578,8 +586,20 @@
   * author: Terminology Coordination Unit
   * note: a community including resources, articles, tools for term extraction
 
-###
+### HAST
+  * link: https://github.com/lixin4ever/HAST
+  * author: LI XIN
+  * [paper](https://arxiv.org/abs/1805.00760):Li, X. , Bing, L. , Li, P. , Lam, W. , & Yang, Z. . (2018). Aspect term extraction with history attention and selective transformation.
+
+### C-Value-Term-Extraction
+  * link: https://github.com/huanyannizu/C-Value-Term-Extraction
+  * author: Xinyue Li
+  * note: implementations of the c-value-based term extraction algorithm without filters.
   
+### SemRe-Rank
+  * link: https://github.com/ziqizhang/semrerank
+  * author:
+  * [paper](https://arxiv.org/abs/1711.03373): Zhang, Z. , Gao, J. , & Ciravegna, F. . (2017). Semre-rank: improving automatic term extraction by incorporating semantic relatedness with personalised pagerank. Acm Transactions on Knowledge Discovery from Data, 12(5).
 <br>
 <br>
 <br>
