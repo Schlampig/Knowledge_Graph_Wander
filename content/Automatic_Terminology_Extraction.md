@@ -16,7 +16,7 @@
 ### HAST
   * link: https://github.com/lixin4ever/HAST
   * author: LI XIN
-  * [paper](https://arxiv.org/abs/1805.00760):Li, X. , Bing, L. , Li, P. , Lam, W. , & Yang, Z. . (2018). Aspect term extraction with history attention and selective transformation.
+  * [paper](https://arxiv.org/abs/1805.00760): Li, X. , Bing, L. , Li, P. , Lam, W. , & Yang, Z. . (2018). Aspect term extraction with history attention and selective transformation.
 
 ### C-Value-Term-Extraction
   * link: https://github.com/huanyannizu/C-Value-Term-Extraction
