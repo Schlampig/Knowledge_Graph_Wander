@@ -600,6 +600,11 @@
   * link: https://github.com/ziqizhang/semrerank
   * author:
   * [paper](https://arxiv.org/abs/1711.03373): Zhang, Z. , Gao, J. , & Ciravegna, F. . (2017). Semre-rank: improving automatic term extraction by incorporating semantic relatedness with personalised pagerank. Acm Transactions on Knowledge Discovery from Data, 12(5).
+  
+### MFE-CRF
+  * link: https://github.com/xymcsu/MFE-CRF
+  * author: xymcsu
+  * note: approach for task SemEval2014/2015/2016, including data-pre-processing.
 <br>
 <br>
 <br>
