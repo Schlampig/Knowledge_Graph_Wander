@@ -230,6 +230,11 @@
   * author: Guan Wang
   * note: approaches for Chinese corpus including RE_BGRU_2ATT, NER_IDCNN_CRF, and ID-CNN-CWS
 
+### Attention-Based-BiLSTM-relation-extraction
+  * link: https://github.com/SeoSangwoo/Attention-Based-BiLSTM-relation-extraction
+  * author: SeoSangwoo
+  * note: compare with RE_BGRU_2ATT, mainly for task8, SemEval2010
+
 ### Awesome Relation Extraction
   * link: https://github.com/roomylee/awesome-relation-extraction
   * Joohong Lee
