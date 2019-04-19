@@ -19,6 +19,11 @@
   * link: https://github.com/SeoSangwoo/Attention-Based-BiLSTM-relation-extraction
   * author: SeoSangwoo
   * note: compare with RE_BGRU_2ATT, mainly for task8, SemEval2010
+  
+### Tacred-Relation
+  * link: https://github.com/yuhaozhang/tacred-relation
+  * author: Yuhao Zhang
+  * [paper](https://nlp.stanford.edu/pubs/zhang2017tacred.pdf): Bilan, Ivan & Roth, Benjamin. (2018). Position-aware Self-attention with Relative Positional Encodings for Slot Filling. arXiv.
 
 ### Awesome Relation Extraction
   * link: https://github.com/roomylee/awesome-relation-extraction
