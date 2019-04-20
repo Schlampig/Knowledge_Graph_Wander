@@ -1,6 +1,7 @@
 # Learn Knowledge Graph and other NLP Methods
-*Collected by Kuyi King*
 ---
+*Collected by Kuyi King*
+<br>
 
 ### Basic Skill
   * [Useful Toolboxes](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Useful_Toolboxes.md)
