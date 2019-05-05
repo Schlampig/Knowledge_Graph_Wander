@@ -22,6 +22,10 @@
 ### WordNet
   * link: https://wordnet.princeton.edu/download
 
+### BabelNet
+  * link: https://babelnet.org/
+  * note: multi-lingual sources
+
 ### DBPedia
   * link: https://wiki.dbpedia.org/dbpedia-wiki
   * data: https://wiki.dbpedia.org/datasets/dbpedia-version-2016-10
