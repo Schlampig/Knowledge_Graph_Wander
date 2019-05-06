@@ -35,3 +35,8 @@
 
 ### EventKG
   * link: http://eventkg.l3s.uni-hannover.de/index.html
+  
+### OpenKG.CN
+  * link: http://www.openkg.cn/
+  * note: open-source knowledge graph (mainly Chinese-oriented) repository
+  * extra: [cnSchema](http://cnschema.org/)
