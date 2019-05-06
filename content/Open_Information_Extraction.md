@@ -14,9 +14,17 @@
   * author: Kiril Gashteovski
   * note: a collection of papers for oie tasks.
 
-### ReVerb
-  * link: http://reverb.cs.washington.edu/
+### KnowItAll
+  * link: http://projectsweb.cs.washington.edu/research/knowitall/
+  * author: The University of Washington's Turing Center
+  * note: a project for open information extraction
+  * extra: [ReVerb](http://reverb.cs.washington.edu/), [OLLIE](http://knowitall.github.io/ollie/)
 
 ### CoreNLP(OpenIE)
   * link: https://stanfordnlp.github.io/CoreNLP/openie.html
   * author: Stanford
+
+### OpenIE-standalone
+  * link: http://openie.allenai.org/
+  * author: allennlp
+  * extra: [OpenIE-5](https://github.com/dair-iitd/OpenIE-standalone)(the latest version)
