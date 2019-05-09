@@ -27,7 +27,7 @@
   * Graph Convolutional Networks
 
 ### Text Operation
-  * Word/Sentence/Document Embedding
+  * [Word/Sentence/Document Embedding](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/NLP_Embeddings.md)
   * Sequence/Sentence Labeling
   * Reading Comprehension
   * Summarization
