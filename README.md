@@ -41,7 +41,7 @@
   * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery)
 
 ### Few-Shot Learning
-  * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero-Shot_Learning.md)
+  * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
   * One-Shot Learning
   * Few-Shot Learning
 
