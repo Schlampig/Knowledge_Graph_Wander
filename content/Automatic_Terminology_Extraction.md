@@ -20,7 +20,7 @@
   
 ### SemRe-Rank
   * link: https://github.com/ziqizhang/semrerank
-  * author:
+  * author: Ziqi Zhang
   * [paper](https://arxiv.org/abs/1711.03373): Zhang, Z. , Gao, J. , & Ciravegna, F. . (2017). Semre-rank: improving automatic term extraction by incorporating semantic relatedness with personalised pagerank. Acm Transactions on Knowledge Discovery from Data, 12(5).
 
 ### HAST
