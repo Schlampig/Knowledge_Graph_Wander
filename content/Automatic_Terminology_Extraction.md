@@ -1,7 +1,7 @@
 ## **Automatic Terminology Extraction**
 
 ### Papers
-  * [paper](https://personalpages.manchester.ac.uk/staff/sophia.ananiadou/ijodl2000.pdf): Frantzi, K. , Ananiadou, S. , & Mima, H. . (2000). Automatic recognition of multi-word terms:. the c-value/nc-value method. International Journal on Digital Libraries, 3(2), 115-130.
+  * [paper](https://personalpages.manchester.ac.uk/staff/sophia.ananiadou/ijodl2000.pdf): Frantzi, K. , Ananiadou, S. , & Mima, H. . (2000). Automatic recognition of multi-word terms: the c-value/nc-value method. International Journal on Digital Libraries, 3(2), 115-130.
 
 ### Introduction from ACADEMIA, Wikipedia, etc
   * [ACADEMIA](https://www.academia.edu/Documents/in/Automatic_Term_Extraction): a collection of papers about term extraction
