@@ -33,7 +33,7 @@
   * Reading Comprehension
   * Summarization
   * Question Generation
-  * Keyword Detection
+  * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
 
 ### Graph Completion
   * Distant Supervision
