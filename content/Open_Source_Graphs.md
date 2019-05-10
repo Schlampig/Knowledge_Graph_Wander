@@ -40,3 +40,7 @@
   * link: http://www.openkg.cn/
   * note: open-source knowledge graph (mainly Chinese-oriented) repository
   * extra: [cnSchema](http://cnschema.org/)
+
+### NELL: Never-Ending Language Learning
+  * link: http://rtw.ml.cmu.edu/rtw/
+  
