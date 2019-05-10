@@ -36,7 +36,7 @@
 ### Graph Completion
   * Distant Supervision
   * Graph Completion
-  * Entity Linking/Resolution/Deduplication
+  * [Entity Linking/Resolution/Deduplication](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Operation.md)
   * Graph Fusion / Ontology Align
   * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery)
 
