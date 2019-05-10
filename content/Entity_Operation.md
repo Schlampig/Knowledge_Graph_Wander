@@ -1,6 +1,12 @@
 ## **Entity Linking/Resolution/Deduplication**
 
 
+### Paper
+  * [paper](http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/TKDE14-entitylinking.pdf): Shen, W. , Wang, J. , & Han, J. . (2015). Entity linking with a knowledge base: issues, techniques, and solutions. IEEE Transactions on Knowledge and Data Engineering, 27(2), 443-460.
+  * [paper](https://www.researchgate.net/publication/262393695_Entity_resolution_Theory_practice_open_challenges): Getoor, L. , & Machanavajjhala, A. . (2012). Entity resolution: theory, practice & open challenges. Proceedings of the VLDB Endowment, 5(12), 2018-2019.
+  * [slide](http://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf): Getoor, L. , & Machanavajjhala, A. .  Entity Resolution: Tutorial.
+  * [paper](https://www.researchgate.net/publication/304456604_Blocking_for_large-scale_Entity_Resolution_Challenges_algorithms_and_practical_examples): Papadakis, G. , & Palpanas, T. . (2016). Blocking for large-scale Entity Resolution: Challenges, algorithms, and practical examples. IEEE International Conference on Data Engineering.
+
 ### Python Record Linkage Toolkit
   * link: https://github.com/J535D165/recordlinkage
   * document: https://recordlinkage.readthedocs.io/en/latest/
