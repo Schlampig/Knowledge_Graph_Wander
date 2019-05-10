@@ -20,6 +20,7 @@
   * Event Extraction
   * Event Evolutionary Extraction
   * [Automatic Terminology Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Automatic_Terminology_Extraction.md)
+  * New Words Detection
 
 ### Knowledge/Network/Graph Embedding
   * [Knowledge_or_Network Embedding](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Knowledge_or_Network_Embedding.md)
@@ -32,6 +33,7 @@
   * Reading Comprehension
   * Summarization
   * Question Generation
+  * Keyword Detection
 
 ### Graph Completion
   * Distant Supervision
