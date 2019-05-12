@@ -1,6 +1,15 @@
 ## **Basic Skills and Interview Experiences**
 
 
+### PYTORCH TUTORIALS (Official)
+  * link: https://pytorch.org/tutorials/
+  * keywords: tutorials for pytorch
+
+### PyCodeComplete
+  * link: https://github.com/jumper2014/PyCodeComplete
+  * author: jumper2014
+  * keywords: learn python, collections, from Zhihu
+  
 ### Algorithm_Interview_Notes-Chinese
   * link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
   * author: HUA Yang
