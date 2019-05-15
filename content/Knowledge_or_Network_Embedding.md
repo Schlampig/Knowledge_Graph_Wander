@@ -45,6 +45,11 @@
   * author: Jiezhong Qiu
   * note: a model to unify DeepWalk, LINE, PTE, and node2vec through matrix factorization, python version.
 
+### TADW
+  * link: https://github.com/benedekrozemberczki/TADW
+  * author: Benedek Rozemberczki
+  * note: a node embedding algorithm which learns an embedding of nodes and fuses the node representations with node attributes.
+
 ### deepwalk
   * link: https://github.com/phanein/deepwalk
   * author: Bryan Perozzi
