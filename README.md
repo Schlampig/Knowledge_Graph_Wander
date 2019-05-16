@@ -6,6 +6,7 @@
 ### Basic Skill
   * [Useful Toolboxes](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Useful_Toolboxes.md)
   * [Literatures Searching Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Literatures_Searching_Tools.md)
+  * Document Parser
   * Web Crawler 
   * Database
  
