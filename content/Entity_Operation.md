@@ -8,6 +8,7 @@
   * [paper](https://www.researchgate.net/publication/304456604_Blocking_for_large-scale_Entity_Resolution_Challenges_algorithms_and_practical_examples): Papadakis, G. , & Palpanas, T. . (2016). Blocking for large-scale Entity Resolution: Challenges, algorithms, and practical examples. IEEE International Conference on Data Engineering.
 
 ### Python Record Linkage Toolkit
+  * type: entity resolution
   * link: https://github.com/J535D165/recordlinkage
   * document: https://recordlinkage.readthedocs.io/en/latest/
   * author: Jonathan de Bruin
@@ -15,20 +16,30 @@
   * extra: [Data Matching Software List](https://github.com/J535D165/data-matching-software)
   
 ### Dedupe
+  * type: entity resolution
   * link: https://github.com/dedupeio/dedupe
   * document: https://docs.dedupe.io/
   * author: dedupeio
-  * note: a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data
+  * note: a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
 
  ### Record Linkage ToolKit （RLTK）
+  * type: entity resolution
   * link: https://github.com/usc-isi-i2/rltk
   * document: https://rltk.readthedocs.io/en/master/
   * author: USC ISI I2
-  * note: a general-purpose open-source record linkage platform that allows users to build powerful Python programs that link records referring to the same underlying entity
+  * note: a general-purpose open-source record linkage platform that allows users to build powerful Python programs that link records referring to the same underlying entity.
   
 ### Zentity
+  * type: entity resolution
   * link: https://github.com/zentity-io/zentity
   * document: https://zentity.io/docs
   * author: zentity-io
-  * note: an Elasticsearch plugin for entity resolution
+  * note: an Elasticsearch plugin for entity resolution.
+  
+### FlashText
+  * type: entity discovery
+  * link: https://github.com/vi3k6i5/flashtext
+  * author: Vikash Singh
+  * note: a module used to replace keywords in sentences or extract keywords from sentences.
+  
 
