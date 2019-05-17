@@ -1,6 +1,11 @@
 ## **Basic Skills and Interview Experiences**
 
 
+### Awesome-Awesomeness
+  * link: https://github.com/bayandin/awesome-awesomeness
+  * author: Alexander Bayandin
+  * keywords: a curated list of awesome awesomeness
+
 ### PYTORCH TUTORIALS (Official)
   * link: https://pytorch.org/tutorials/
   * keywords: tutorials for pytorch
