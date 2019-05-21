@@ -39,3 +39,8 @@
   * link: https://github.com/bharathgs/Awesome-pytorch-list
   * author: bharathgs
   * keywords: pytorch learning, deep learning, source collections
+  
+### HyperDL-Tutorial
+  * link: https://github.com/zeusees/HyperDL-Tutorial
+  * author: ZEUSEE
+  * keywords: deep learning, source collections
