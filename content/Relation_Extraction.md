@@ -37,6 +37,7 @@
 ### BaiDu2019 Relation Extraction Competition
   * link: http://lic2019.ccf.org.cn/kg
   * code: [kg-2019-baseline](https://github.com/bojone/kg-2019-baseline)(author: 苏剑林(Jianlin Su))
+  * code: [IE-Bert-CNN](https://github.com/Wangpeiyi9979/IE-Bert-CNN)(author: Peiyi Wang)
   
 ### JointRE
   * link: https://github.com/datquocnguyen/jointRE
