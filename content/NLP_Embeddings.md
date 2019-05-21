@@ -13,7 +13,7 @@
 
 ### Transformer
   * [paper](https://arxiv.org/pdf/1706.03762.pdf): Vaswani, A. , Shazeer, N. , Parmar, N. , Uszkoreit, J. , Jones, L. , & Gomez, A. N. , et al. (2017). *Attention is all you need*.
-  * code: [tensorflow by Kyubyong](https://github.com/Kyubyong/transformer)
+  * code: [tensorflow by Kyubyong](https://github.com/Kyubyong/transformer), [pytorch by leviswind](https://github.com/leviswind/pytorch-transformer)
 
 ### Transformer-XL
   * [paper](https://arxiv.org/pdf/1901.02860.pdf): Dai, Z. , Yang, Z. , Yang, Y. , Carbonell, J. , Le, Q. V. , & Salakhutdinov, R. . (2019). *Transformer-xl: attentive language models beyond a fixed-length context*.
