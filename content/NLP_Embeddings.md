@@ -6,6 +6,7 @@
   * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
   * [dict_complete 各类生活字典](https://github.com/hee0624/dict_complete) by He Chen.
+  * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
 
 ### ELMo
   * [paper](http://export.arxiv.org/pdf/1812.10860): Samuel R. , Ellie P. , Edouard G. , Benjamin Van D. , Alex W. , Jan H. , Patrick X. , Raghavendra P. , R. T. M. , Roma P. , Najoung K. , Ian T. , Yinghui H. , Katherin Y. , Shuning J. , Berlin C. . (2018). *Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling*. 
