@@ -35,6 +35,11 @@
   * author: Facebook Research
   * note: a framework to learn entity embedding for various downstream works
 
+### TransC
+  * link: https://github.com/davidlvxin/TransC
+  * author: Xin Lv 
+  * note: a model that encodes each concept in knowledge graph as a sphere and each instance as a vector in the same semantic space.
+
 ### HARP
   * link: https://github.com/GTmac/HARP
   * author: Haochen Chen
