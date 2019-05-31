@@ -41,8 +41,8 @@
   * Graph Completion
   * [Entity Linking/Resolution/Deduplication](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Operation.md)
   * Graph Fusion
-  * Ontology Building
-  * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery)
+  * [Ontology Building](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Ontology_Building.md)
+  * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery.md)
 
 ### Few-Shot Learning
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
