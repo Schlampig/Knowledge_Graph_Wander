@@ -1,6 +1,12 @@
 ## **Ontology (Automatic) Building**
 
 
+### Pronto
+  * link: https://github.com/althonos/pronto
+  * author: Martin Larralde
+  * note:  a python module to parse, create, browse and export ontologies from some popular formats.
+  
+
 ### OntologyTool
   * link: https://github.com/cleghom/OntologyTool
   * author: Zhao Hang
