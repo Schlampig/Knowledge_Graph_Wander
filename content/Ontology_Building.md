@@ -6,12 +6,15 @@
   * author: Martin Larralde
   * note:  a python module to parse, create, browse and export ontologies from some popular formats.
   
-
 ### OntologyTool
   * link: https://github.com/cleghom/OntologyTool
   * author: Zhao Hang
   * note: a java-based program to build an ontology automatically, translating chinese information into an standard ontology in OWL format.
 
+### OntoEMMA
+  * link: https://github.com/allenai/ontoemma
+  * author: AllenNLP
+  * note: an ontology matcher for matching entities between knowledgebases.
 
 ### Ontology-python-sdk
   * link: https://github.com/ontio/ontology-python-sdk
