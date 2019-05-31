@@ -1,10 +1,15 @@
 ## **Ontology (Automatic) Building**
 
 
+### Mappings-Autogeneration
+  * link: https://github.com/dbpedia/mappings-autogeneration
+  * author: DBpedia
+  * note: tools & scripts to infer new Wikipedia infobox to ontology mappings.
+
 ### Pronto
   * link: https://github.com/althonos/pronto
   * author: Martin Larralde
-  * note:  a python module to parse, create, browse and export ontologies from some popular formats.
+  * note: a python module to parse, create, browse and export ontologies from some popular formats.
   
 ### OntologyTool
   * link: https://github.com/cleghom/OntologyTool
