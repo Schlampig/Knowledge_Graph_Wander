@@ -15,6 +15,11 @@
   * link: https://github.com/allenai/ontoemma
   * author: AllenNLP
   * note: an ontology matcher for matching entities between knowledgebases.
+  
+### Hedwig
+  * link: https://github.com/anzev/hedwig
+  * author: Anže Vavpetič 
+  * note: a subgroup discovery tool that can use ontological domain knowledge (RDF graphs) in the learning process. Subgroup descriptions contain terms from the given domain knowledge and enable potentially better generalizations.
 
 ### Ontology-python-sdk
   * link: https://github.com/ontio/ontology-python-sdk
