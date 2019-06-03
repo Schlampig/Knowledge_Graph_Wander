@@ -1,6 +1,8 @@
 ## **Relation Extraction**
 
 ### Papers about Open Relation Extraction(ORE)
+  * [paper](https://arxiv.org/pdf/1810.13083.pdf)/[code](https://github.com/thomas0809/GraphIE): Qian, Y. , Santus, E. , Jin, Z. , Guo, J. , & Barzilay, R. . (2019). Graphie: a graph-based framework for information extraction. NAACL 2019. 
+  * [paper](https://arxiv.org/pdf/1802.00934.pdf)/[code](https://github.com/SmartDataAnalytics/LiteralE): Kristiadi, A. , Khan, M. A. , Lukovnikov, D. , Lehmann, J. , & Fischer, A. . (2018). Incorporating literals into knowledge graph embeddings. arXiv.
   * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). ZORE: A Syntax-based System for Chinese Open Relation Extraction. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
   * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). Chinese open relation extraction for knowledge acquisition. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
   
