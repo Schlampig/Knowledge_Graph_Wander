@@ -3,7 +3,7 @@
 ### Paper
   * [paper](https://arxiv.org/pdf/1810.13083.pdf)/[code](https://github.com/thomas0809/GraphIE)(GraphIE): Qian, Y. , Santus, E. , Jin, Z. , Guo, J. , & Barzilay, R. . (2019). Graphie: a graph-based framework for information extraction. NAACL 2019. 
   * [paper](https://arxiv.org/pdf/1802.00934.pdf)/[code](https://github.com/SmartDataAnalytics/LiteralE)(LiteralIE): Kristiadi, A. , Khan, M. A. , Lukovnikov, D. , Lehmann, J. , & Fischer, A. . (2018). Incorporating literals into knowledge graph embeddings. arXiv.
-  * [paper](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216/12004)/[code](https://github.com/xrb92/DKRL): Ruobing Xie, Zhiyuan Liu, Jia Jia1, Huanbo Luan, Maosong Sun (2016). Representation Learning of Knowledge Graphs with Entity Descriptions, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16).
+  * [paper](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216/12004)/[code](https://github.com/xrb92/DKRL)(DKRL): Ruobing Xie, Zhiyuan Liu, Jia Jia1, Huanbo Luan, Maosong Sun (2016). Representation Learning of Knowledge Graphs with Entity Descriptions, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16).
   * [paper](https://arxiv.org/pdf/1805.02408.pdf)/[code](https://github.com/iieir-km/ComplEx-NNE_AER): Ding, B. , Wang, Q. , Wang, B. , & Guo, L. . (2018). Improving knowledge graph embedding using simple constraints.
 
 ### NRLPapers
