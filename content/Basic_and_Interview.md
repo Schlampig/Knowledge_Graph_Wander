@@ -20,6 +20,11 @@
   * author: HUA Yang
   * keywords: interview, python, nlp, source collections
 
+### AI learning
+ * link: https://github.com/apachecn/AiLearning
+ * author: Apache CN
+ * keywords: mahine learning lessons
+
 ### SCIR-Training-Day
   * link: https://github.com/HIT-SCIR/scir-training-day
   * author: HIT-SCIR
