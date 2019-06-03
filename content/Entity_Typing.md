@@ -16,7 +16,12 @@
 ### FIGER
   * link: http://xiaoling.github.io/figer/
   * code: https://github.com/xiaoling/figer
-  * FIGER is the classic dataset for fine-grained entity recognition task.
+  * note: a classic dataset for fine-grained entity recognition task.
+  
+### OntoNotes
+  * link: http://cemantix.org/data/ontonotes.html
+  * code: https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO
+  * note: a classic dataset for fine-grained entity recognition task.
 
 
 
