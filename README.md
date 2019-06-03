@@ -39,6 +39,7 @@
 ### Graph Completion
   * Distant Supervision
   * Graph Completion
+  * Entity Typing
   * [Entity Linking/Resolution/Deduplication](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Operation.md)
   * Graph Fusion
   * [Ontology Building](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Ontology_Building.md)
@@ -49,7 +50,7 @@
   * One-Shot Learning
   * Few-Shot Learning
   
-### Other
+### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
   * Fun
   
