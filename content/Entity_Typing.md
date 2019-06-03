@@ -7,11 +7,17 @@
   * [paper](https://aclweb.org/anthology/P18-1010)/[code](https://github.com/MurtyShikhar/Hierarchical-Typing): Murty, S., Verga, P., Vilnis, L., Radovanovic, I., & Mccallum, A.. (2018). Hierarchical losses and new resources for fine-grained entity typing and linking. 
   * [paper](http://www.cis.upenn.edu/~danielkh/files/2018_zoe/2018_zero_zhot_typing.pdf)/[code](https://github.com/CogComp/zoe): Zhou, B., Khashabi, D., Tsai, C. T., Roth, D.. (2018). Zero-Shot Open Entity Typing as Type-Compatible Grounding. EMNLP 2018.
   
-  
 ### TAC-KBP(2019)
   * link: http://nlp.cs.rpi.edu/kbp/2019/index.html
   * author: http://nlp.cs.rpi.edu/kbp/2019/committee.html
   * note: TAC-KBP is the top competition in entity discovery and slot filling of the world
   * extra: [TAC-KBP(2017)](https://tac.nist.gov/2017/index.html), [TAC-KBP(2016)](http://nlp.cs.rpi.edu/kbp/2016/index.html), [TAC-KBP(2015)](http://nlp.cs.rpi.edu/kbp/2015/index.html)
+
+### FIGER
+  * link: http://xiaoling.github.io/figer/
+  * code: https://github.com/xiaoling/figer
+  * FIGER is the classic dataset for fine-grained entity recognition task.
+
+
 
 
