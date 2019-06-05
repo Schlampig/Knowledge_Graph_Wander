@@ -39,7 +39,7 @@
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
 
 ### Graph Operation
-  * Distant Supervision
+  * [Distant Supervision](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Distant_Supervision.md)
   * [Entity Linking/Resolution/Deduplication](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Operation.md)
   * Graph Fusion
   * [Ontology Building](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Ontology_Building.md)
