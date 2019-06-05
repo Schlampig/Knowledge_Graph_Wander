@@ -1,6 +1,6 @@
 ## **Open Information Extraction**
 
-### Paper
+### Papers
   * [paper](https://arxiv.org/abs/1806.05599v1): Niklaus, C. , Cetto, M. , Freitas, André, & Handschuh, S. . (2018). A survey on open information extraction.
   * [paper](http://turing.cs.washington.edu/papers/etzioni-ijcai2011.pdf): Etzioni, O. , Fader, A. , Christensen, J. , Soderland, S. , & Mausam. (2012). Open Information Extraction: The Second Generation. International Joint Conference on Ijcai. DBLP.
   * [paper](https://aclweb.org/anthology/P17-2050): Saha Swarnadeep, Pal Harinder,  Mausam. (2017). Bootstrapping for Numerical Open IE. 10.18653/v1/P17-2050. 
