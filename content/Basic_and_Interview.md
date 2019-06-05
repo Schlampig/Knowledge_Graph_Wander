@@ -49,3 +49,9 @@
   * link: https://github.com/zeusees/HyperDL-Tutorial
   * author: ZEUSEE
   * keywords: deep learning, source collections
+
+### The Art of Command Line
+  * link: https://github.com/jlevy/the-art-of-command-line
+  * author: Joshua Levy
+  * keywords: terminal operation skills
+  
