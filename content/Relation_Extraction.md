@@ -48,3 +48,7 @@
   * author: Dat Quoc Nguyen
   * note: aneuralnetworkmodelforjointextractionofnameden- tities and relations between them, tested in CoNLL04 task.
  
+### Multiple-Relations-Extraction-Only-Look-Once
+  * link: https://github.com/yuanxiaosc/Multiple-Relations-Extraction-Only-Look-Once
+  * author: yuanxiaosc
+  * note: a method to look at the sentence only once and extract the multiple pairs of entities and their corresponding relations.
