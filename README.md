@@ -31,21 +31,22 @@
 ### Text Operation
   * [Word/Sentence/Document Embedding](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/NLP_Embeddings.md)
   * Sequence/Sentence Labeling
+  * Named Entity Recognition
+  * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
   * Reading Comprehension
   * Summarization
   * Question Generation
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
 
-### Graph Completion
+### Graph Operation
   * Distant Supervision
-  * Graph Completion
-  * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
   * [Entity Linking/Resolution/Deduplication](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Operation.md)
   * Graph Fusion
   * [Ontology Building](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Ontology_Building.md)
   * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery.md)
+  * Graph Completion
 
-### Few-Shot Learning
+### Few-Shot Learning in NLP
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
   * One-Shot Learning
   * Few-Shot Learning
