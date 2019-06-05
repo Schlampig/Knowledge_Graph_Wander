@@ -37,6 +37,7 @@
   * Summarization
   * Question Generation
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
+  * Text Mining
 
 ### Graph Operation
   * [Distant Supervision](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Distant_Supervision.md)
