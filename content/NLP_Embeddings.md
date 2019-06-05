@@ -1,4 +1,4 @@
-## **Knowledge/Graph/Network Embedding**
+## **Word/Sentence/Document Embedding**
 
 
 ### Word Dictionary / Word Vector Resource
