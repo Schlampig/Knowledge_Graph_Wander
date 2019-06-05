@@ -1,5 +1,9 @@
 ## **Relation Extraction**
 
+
+### Papers
+  * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). A survey of deep learning methods for relation extraction.
+
 ### Papers about Open Relation Extraction(ORE)
   * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). ZORE: A Syntax-based System for Chinese Open Relation Extraction. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
   * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). Chinese open relation extraction for knowledge acquisition. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
