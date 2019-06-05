@@ -46,7 +46,7 @@
 ### JointRE
   * link: https://github.com/datquocnguyen/jointRE
   * author: Dat Quoc Nguyen
-  * note: aneuralnetworkmodelforjointextractionofnameden- tities and relations between them, tested in CoNLL04 task.
+  * note: a neural network model for joint extraction of named entities and relations between them, tested in CoNLL04 task.
  
 ### Multiple-Relations-Extraction-Only-Look-Once
   * link: https://github.com/yuanxiaosc/Multiple-Relations-Extraction-Only-Look-Once
