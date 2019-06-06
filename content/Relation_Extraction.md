@@ -2,6 +2,7 @@
 
 
 ### Papers
+  * [paper](https://arxiv.org/pdf/1712.05191.pdf): Pawar, S. , Palshikar, G. K. , & Bhattacharyya, P. . (2017). Relation extraction : a survey.
   * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). A survey of deep learning methods for relation extraction.
 
 ### Papers about Open Relation Extraction(ORE)
