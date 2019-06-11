@@ -55,3 +55,8 @@
   * author: Joshua Levy
   * keywords: terminal operation skills
   
+### Deeplearning-models
+  * link: https://github.com/rasbt/deeplearning-models
+  * author: Sebastian Raschka 
+  * keywords: deep learning architectures, models, tips, collections
+  
