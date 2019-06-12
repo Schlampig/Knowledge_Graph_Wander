@@ -53,7 +53,7 @@
   * Few-Shot Learning
 
 ### Network Operation
-  * Network Operation Tools
+  * [Network Operation Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Network_operation_tools.md)
 
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
