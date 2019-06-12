@@ -51,7 +51,10 @@
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
   * One-Shot Learning
   * Few-Shot Learning
-  
+
+### Network Operation
+  * Network Operation Tools
+
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
   * Fun
