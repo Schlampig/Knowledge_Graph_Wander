@@ -31,7 +31,7 @@
 ### Text Operation
   * [Word/Sentence/Document Embedding](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/NLP_Embeddings.md)
   * Sequence/Sentence Labeling
-  * Named Entity Recognition
+  * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
   * Reading Comprehension
   * Summarization
