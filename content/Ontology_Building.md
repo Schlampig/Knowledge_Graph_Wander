@@ -1,4 +1,4 @@
-## **Ontology (Automatic) Building**
+## **Automatic Ontology Building/ Automatic Knowledge Graph Construction**
 
 
 ### Mappings-Autogeneration
@@ -30,3 +30,9 @@
   * link: https://github.com/ontio/ontology-python-sdk
   * author: Ontology
   * note: a comprehensive python library for the Ontology blockchain, [documentation](https://nashmiao.github.io/ontology-python-sdk-docs/#introduction) is given.
+
+### COMET-commonsense
+  * link: https://github.com/atcbosselut/comet-commonsense
+  * author: Antoine Bosselut
+  * note: Code for ACL 2019 Paper: "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction"
+  
