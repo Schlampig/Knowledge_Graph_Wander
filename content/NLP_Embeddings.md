@@ -29,6 +29,9 @@
   * code: [tensorflow by google-research](https://github.com/google-research/bert), [pytorch by Hugging Face
 Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by Zhao HG](https://github.com/CyberZHG/keras-bert), [bert-as-service by Han Xiao](https://github.com/hanxiao/bert-as-service)
 
+### BERT-WWM (Pre-Training with Whole Word Masking for BERT)
+  * link: [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) by Yiming Cui.
+
 ### GPT-2
   * [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf): Alec R. , Jeffrey W. , Rewon C. , David L. , Dario A. , Ilya S. . (2019). *Language Models are Unsupervised Multitask Learners*.
   * code: [tensorflow by OpenAI](https://github.com/openai/gpt-2)
