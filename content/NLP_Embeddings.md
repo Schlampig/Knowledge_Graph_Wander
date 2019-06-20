@@ -40,3 +40,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 ### MASS
   * [paper](https://arxiv.org/pdf/1905.02450.pdf): Kaitao S. , Xu T. , Tao Q. , Jianfeng L. , Tie-Y. L. . (2019). *MASS: Masked Sequence to Sequence Pre-training for Language Generation*.
 
+### ERNIE
+  * [paper](https://arxiv.org/pdf/1905.07129.pdf): Zhang, Z. , Han, X. , Liu, Z. , Jiang, X. , Sun, M. , & Liu, Q. . (2019). *Ernie: enhanced language representation with informative entities*.
+  * code: [pytorch by thunlp](https://github.com/thunlp/ERNIE), [paddlepaddle by Bai Du](https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)
+  
