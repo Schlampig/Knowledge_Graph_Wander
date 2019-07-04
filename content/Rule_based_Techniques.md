@@ -35,3 +35,9 @@
   * link: https://github.com/rasaHQ/
   * remark: https://www.rasa.com/docs/
   * note: open source machine learning tools for developers to build, improve, and deploy text-and voice-based chatbots and assistants.
+
+### learn-regex
+  * link: https://github.com/ziishaned/learn-regex
+  * author: Zeeshan Ahmad 
+  * note: a learning repository for regular expression
+  
