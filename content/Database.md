@@ -28,3 +28,8 @@
   
 ### Protégé
   * homepage: https://protege.stanford.edu/
+
+### Trilium
+  * link: https://github.com/zadam/trilium
+  * author: zadam
+  * note: a hierarchical note taking application with focus on building large personal knowledge bases.
