@@ -23,6 +23,10 @@
   * code: https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO
   * note: a classic dataset for fine-grained entity recognition task.
 
+### NFGEC
+  * code: https://github.com/shimaokasonse/NFGEC
+  * author: Shimaoka 
+  * note: Neural Architectures for Fine Grained Entity Type Classification (NFGEC).
 
 
 
