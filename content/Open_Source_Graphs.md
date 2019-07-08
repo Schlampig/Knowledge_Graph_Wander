@@ -44,3 +44,7 @@
 ### NELL: Never-Ending Language Learning
   * link: http://rtw.ml.cmu.edu/rtw/
   
+### ConceptNet
+  * link: http://conceptnet5.media.mit.edu/
+  * extra: [ConceptNet5中文部分](http://openkg.cn/dataset/conceptnet5-chinese)
+
