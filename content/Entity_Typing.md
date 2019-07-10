@@ -12,6 +12,7 @@
   * author: http://nlp.cs.rpi.edu/kbp/2019/committee.html
   * note: TAC-KBP is the top competition in entity discovery and slot filling of the world
   * extra: [TAC-KBP(2017)](https://tac.nist.gov/2017/index.html), [TAC-KBP(2016)](http://nlp.cs.rpi.edu/kbp/2016/index.html), [TAC-KBP(2015)](http://nlp.cs.rpi.edu/kbp/2015/index.html)
+  * code: [kbp_torch](https://github.com/daisyjack/kbp_torch), [tac_kbp_events](https://github.com/cgl/tac_kbp_events), [TAC-KBP-2017-Participation](https://github.com/prafulla77/TAC-KBP-2017-Participation)
 
 ### FIGER
   * link: http://xiaoling.github.io/figer/
@@ -33,5 +34,7 @@
   * author: thunlp 
   * note: Neural Entity Typing with Knowledge Attentio (KNET).
   
-
+### Ultra-Fine Entity Typing
+  * code: https://github.com/uwnlp/open_type
+  * author: UWNLP(Natural Language Processing @ University of Washington) 
 
