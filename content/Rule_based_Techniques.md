@@ -41,3 +41,9 @@
   * author: Zeeshan Ahmad 
   * note: a learning repository for regular expression
   
+### ReCreate
+  * link: https://github.com/tengzhangchao/CreateRe
+  * author: tengzhangchao
+  * note: transform string to regexp automatically without models.
+  
+ 
