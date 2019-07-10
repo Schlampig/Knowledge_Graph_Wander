@@ -11,6 +11,12 @@
   * textract: [pipy](https://pypi.org/project/textract/)/[documentation](https://textract.readthedocs.io/en/stable/)
   * python-docx: [pipy](https://pypi.org/project/python-docx/)/[documentation](https://python-docx.readthedocs.io/en/latest/#)
   
+### GROBID
+  * link: https://github.com/kermitt2/grobid/
+  * doc: https://grobid.readthedocs.io/en/latest/
+  * author: Patrice Lopez
+  * note: a machine learning software for extracting information from scholarly documents.
+  
 
 
   
