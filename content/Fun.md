@@ -7,4 +7,6 @@
 ### News
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
 
-
+### Literature
+  * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
+](https://github.com/THUNLP-MT)
