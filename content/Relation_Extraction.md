@@ -71,3 +71,9 @@
   * link: https://github.com/thunlp/DocRED
   * organizaer: thunlp
   * note: a document-level dataset for relation extraction tasks.
+
+### ChineseNRE
+  * link: https://github.com/buppt/ChineseNRE
+  * author: buppt
+  * note: bilstm + attention to do the Chinese NRE by pytorch
+  
