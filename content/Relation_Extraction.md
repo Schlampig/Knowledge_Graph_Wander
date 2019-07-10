@@ -15,6 +15,12 @@
   * note: a tensorflow-based framework for neural relation extraction tasks (mainly for English corpus)
   * extra: various NRE-related works could be found under the lists of thunlp groups, such as [NRE](https://github.com/thunlp/NRE)(C++ approach), [JointNRE](https://github.com/thunlp/JointNRE)(Mutual Attention between graph and text), [PathNRE](https://github.com/thunlp/PathNRE)(C++ approach), [AMNRE](https://github.com/thunlp/AMNRE)(Adversarial Multi-lingual NRE), [MNRE](https://github.com/thunlp/MNRE)(Multi-Language NRE).
 
+### Chinese_NRE
+  * link: https://github.com/thunlp/Chinese_NRE
+  * author: thunlp
+  * note: Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge
+  * paper: coming soon ... 
+
 ### Information-Extraction-Chinese
   * link: https://github.com/crownpku/Information-Extraction-Chinese
   * author: Guan Wang
