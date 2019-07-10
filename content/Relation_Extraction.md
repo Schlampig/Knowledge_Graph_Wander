@@ -53,3 +53,9 @@
   * link: https://github.com/yuanxiaosc/Multiple-Relations-Extraction-Only-Look-Once
   * author: yuanxiaosc
   * note: a method to look at the sentence only once and extract the multiple pairs of entities and their corresponding relations.
+  
+### DocRED
+  * link: https://github.com/thunlp/DocRED
+  * author: thunlp
+  * note: a document-level dataset for relation extraction tasks
+  * extra: [Codalab competition](https://competitions.codalab.org/competitions/23392)
