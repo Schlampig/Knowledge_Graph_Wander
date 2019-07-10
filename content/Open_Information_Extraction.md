@@ -15,7 +15,8 @@
   * note: a collection of papers for oie tasks.
 
 ### KnowItAll
-  * link: http://projectsweb.cs.washington.edu/research/knowitall/
+  * link: https://github.com/knowitall
+  * web: http://projectsweb.cs.washington.edu/research/knowitall/
   * author: The University of Washington's Turing Center
   * note: a project for open information extraction
   * extra: [ReVerb](http://reverb.cs.washington.edu/), [OLLIE](http://knowitall.github.io/ollie/)
