@@ -54,6 +54,11 @@
   * author: yuanxiaosc
   * note: a method to look at the sentence only once and extract the multiple pairs of entities and their corresponding relations.
   
+### FewRel
+  * homepage: https://thunlp.github.io/fewrel.html
+  * organizaer: thunlp
+  * note: a Few-shot Relation classification dataset, which features 70, 000 natural language sentences expressing 100 relations annotated by crowdworkers.
+  
 ### DocRED
   * link: https://github.com/thunlp/DocRED
   * author: thunlp
