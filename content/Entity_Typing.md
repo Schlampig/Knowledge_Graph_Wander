@@ -28,5 +28,10 @@
   * author: Shimaoka 
   * note: Neural Architectures for Fine Grained Entity Type Classification (NFGEC).
 
+### KNET
+  * code: https://github.com/thunlp/KNET
+  * author: thunlp 
+  * note: Neural Entity Typing with Knowledge Attentio (KNET).
+  
 
 
