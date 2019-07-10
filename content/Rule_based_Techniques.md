@@ -15,7 +15,7 @@
   * author: HazyResearch (Stanford)
   * note: a tool using weak-supervised (which means it needs a small golden set for training process) method to extact assigned triple from context.
   * extra: the same team also supplies a various frameworks for information/relation extraction ([DeepDive](https://github.com/HazyResearch/deepdive)) and knowledge base construction([Fonduer](https://github.com/HazyResearch/fonduer)).
-  * extra: [Quick Start for DeepDive](http://deepdive.stanford.edu/quickstart), [支持中文的DeepDive数据（from OpenKG）](http://www.openkg.cn/dataset/cn-deepdive), [DeepDive中文关系提取](https://blog.csdn.net/whatwho_518/article/details/79467138)
+  * extra: [Quick Start for DeepDive](http://deepdive.stanford.edu/quickstart), [支持中文的DeepDive数据（from OpenKG）](http://www.openkg.cn/dataset/cn-deepdive), [DeepDive中文关系提取](https://blog.csdn.net/whatwho_518/article/details/79467138), [DeepDive_Chinese by qiangsiwei](https://github.com/qiangsiwei/DeepDive_Chinese)
 
 ### SLING
   * link: https://github.com/google/sling
