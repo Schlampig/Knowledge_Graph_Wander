@@ -54,13 +54,14 @@
   * author: yuanxiaosc
   * note: a method to look at the sentence only once and extract the multiple pairs of entities and their corresponding relations.
   
-### FewRel
+### [Dataset/Competition] FewRel
   * homepage: https://thunlp.github.io/fewrel.html
+  * link: https://github.com/thunlp/FewRel
   * organizaer: thunlp
   * note: a Few-shot Relation classification dataset, which features 70, 000 natural language sentences expressing 100 relations annotated by crowdworkers.
   
-### DocRED
+### [Dataset/Competition] DocRED
+  * homepage: https://competitions.codalab.org/competitions/23392
   * link: https://github.com/thunlp/DocRED
-  * author: thunlp
-  * note: a document-level dataset for relation extraction tasks
-  * extra: [Codalab competition](https://competitions.codalab.org/competitions/23392)
+  * organizaer: thunlp
+  * note: a document-level dataset for relation extraction tasks.
