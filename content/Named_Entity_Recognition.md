@@ -15,3 +15,8 @@
   * link: https://github.com/buppt/ChineseNER
   * author: buppt
   * note: a Chinese NER open-source.
+
+### Bert-NER
+  * link: https://github.com/kamalkraj/BERT-NER
+  * author: Kamal Raj 
+  * note: a method to use google BERT doing CoNLL-2003 NER 
