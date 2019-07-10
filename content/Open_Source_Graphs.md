@@ -22,6 +22,10 @@
 ### WordNet
   * link: https://wordnet.princeton.edu/download
 
+### HowNet
+  * link: http://www.keenage.com/
+  * extra: [OpenHowNet by thunlp](https://openhownet.thunlp.org/)
+
 ### BabelNet
   * link: https://babelnet.org/
   * note: multi-lingual sources
