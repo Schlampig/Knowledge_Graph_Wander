@@ -23,7 +23,8 @@
   * link: https://wordnet.princeton.edu/download
 
 ### HowNet
-  * link: http://www.keenage.com/
+  * web: http://www.keenage.com/
+  * link: https://github.com/thunlp/OpenHowNet-API
   * extra: [OpenHowNet by thunlp](https://openhownet.thunlp.org/)
 
 ### BabelNet
