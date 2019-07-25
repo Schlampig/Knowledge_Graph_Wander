@@ -16,5 +16,8 @@
   * link: https://paperswithcode.com/
   * note: ranked lists of researches with codes in various machine learning domains, according to github stars.
 
+### Best Paper Awards in Computer Science (since 1996)
+  * link: https://jeffhuang.com/best_paper_awards.html
+
 ### Some funny and helpful python lib.
   * link: https://www.cnblogs.com/palace/p/9889235.html
