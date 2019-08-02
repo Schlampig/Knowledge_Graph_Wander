@@ -1,4 +1,4 @@
-## **Word/Sentence/Document Embedding**
+## **Unsupervised Representation Learning**
 
 
 ### Word Dictionary / Word Vector Resource
