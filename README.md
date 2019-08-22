@@ -59,8 +59,6 @@
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
   * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md)
 
-<br>
-<br>
-![轻量级人工智能论文导读公众号(Daily AI Paper View)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/my_news.png)
-<br>
+
+<div align=center>![轻量级人工智能论文导读公众号, Daily AI Paper View](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/my_news.png)
 
