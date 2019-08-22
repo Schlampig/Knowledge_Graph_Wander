@@ -60,5 +60,5 @@
   * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md)
 
 
-<div align=center>![](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/my_news.png)
+<div align=center>![](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/daily_ai_paper_view.png)
 
