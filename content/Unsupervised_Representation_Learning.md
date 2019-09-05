@@ -27,7 +27,7 @@
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
   * code: [tensorflow by google-research](https://github.com/google-research/bert), [pytorch by Hugging Face
-Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by Zhao HG](https://github.com/CyberZHG/keras-bert), [keras bert examples by Jianlin Su](https://github.com/bojone/bert_in_keras) and his [blog](https://spaces.ac.cn/archives/6736), [bert-as-service by Han Xiao](https://github.com/hanxiao/bert-as-service)
+Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by Zhao HG](https://github.com/CyberZHG/keras-bert), [keras bert examples by Jianlin Su](https://github.com/bojone/bert_in_keras) and his [blog](https://spaces.ac.cn/archives/6736), [bert-as-service by Han Xiao](https://github.com/hanxiao/bert-as-service), [bert4keras by bojone](https://github.com/bojone/bert4keras)
   * list: [awesome-bert by Jiakui Wang](https://github.com/Jiakui/awesome-bert)
   * pre-trained models: [OpenCLaP](https://github.com/thunlp/OpenCLaP)
 
