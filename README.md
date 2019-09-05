@@ -29,6 +29,7 @@
   * [Knowledge or Network Embedding](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Knowledge_or_Network_Embedding.md)
   * Graph Neural Networks
   * Graph Convolutional Networks
+  * Graph Attention Networks
 
 ### Text Operation
   * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md)
