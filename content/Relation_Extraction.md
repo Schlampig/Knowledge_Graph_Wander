@@ -19,7 +19,7 @@
   * link: https://github.com/thunlp/Chinese_NRE
   * author: thunlp
   * note: Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge
-  * paper: coming soon ... 
+  * [paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_nre4chinese.pdf): Ziran, L. , Ning, D. , Zhiyuan, L. ,  Hai-Tao, Z. , & Ying, S. . (2019). Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge. The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).
 
 ### Information-Extraction-Chinese
   * link: https://github.com/crownpku/Information-Extraction-Chinese
