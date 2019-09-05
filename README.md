@@ -53,7 +53,7 @@
   * [Network Operation Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Network_operation_tools.md)
 
 ### Auxiliary Methods
-  * Active Learning
+  * [Active Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Active_Learning.md)
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
   * One-Shot Learning
   * Few-Shot Learning
