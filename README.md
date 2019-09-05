@@ -35,7 +35,7 @@
   * Sequence/Sentence Labeling
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
-  * Reading Comprehension
+  * Machine Reading Comprehension
   * Summarization
   * Question Generation
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
@@ -49,13 +49,14 @@
   * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery.md)
   * Graph Completion
 
-### Few-Shot Learning in NLP
+### Network Operation
+  * [Network Operation Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Network_operation_tools.md)
+
+### Auxiliary Methods
+  * Active Learning
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
   * One-Shot Learning
   * Few-Shot Learning
-
-### Network Operation
-  * [Network Operation Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Network_operation_tools.md)
 
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
