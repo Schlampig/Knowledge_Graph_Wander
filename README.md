@@ -36,7 +36,7 @@
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
   * Machine Reading Comprehension
-  * Summarization
+  * Summarization/Text Simplification
   * Question Generation
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
   * [Text Mining](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Mining.md)
