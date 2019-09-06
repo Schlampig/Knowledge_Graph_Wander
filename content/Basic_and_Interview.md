@@ -6,6 +6,12 @@
   * author: Alexander Bayandin
   * keywords: a curated list of awesome awesomeness
 
+### Awesome-Python
+  * link: https://github.com/vinta/awesome-python
+  * web: https://awesome-python.com/
+  * author: Vinta Chen
+  * keywords: a curated list of awesome Python frameworks, libraries, software and resources
+
 ### PYTORCH TUTORIALS (Official)
   * link: https://pytorch.org/tutorials/
   * keywords: tutorials for pytorch
