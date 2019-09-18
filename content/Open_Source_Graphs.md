@@ -53,3 +53,12 @@
   * link: http://conceptnet5.media.mit.edu/
   * extra: [ConceptNet5中文部分](http://openkg.cn/dataset/conceptnet5-chinese)
 
+### XLORE
+  * link: https://xlore.org/
+  * [paper](https://www.bibsonomy.org/bibtex/2c7ec921813cf9407487af25640b3b96f/dblp): XLore: A Large-scale English-Chinese Bilingual Knowledge Graph.
+  * data: http://openkg.cn/dataset/xlore
+  * extra: the paper of [XLORE2](http://www.data-intelligence-journal.org/static/publish/F3/91/60/B195E244F29F275C9E6D16DCC9/10.1162dint_a_00003_Hailong_Jin_Im59UJA.pdf)
+  
+### PKU-PIE
+  * data: http://openkg.cn/dataset/pku-pie
+  
