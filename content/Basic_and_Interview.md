@@ -66,3 +66,7 @@
   * author: Sebastian Raschka 
   * keywords: deep learning architectures, models, tips, collections
   
+### ML-NLP
+  * link: https://github.com/NLP-LOVE/ML-NLP
+  * author: NLP-LOVE
+  * keywords: collection tutorials, machine learning, deep learning, nlp
