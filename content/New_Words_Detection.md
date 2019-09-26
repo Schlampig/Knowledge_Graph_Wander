@@ -17,3 +17,8 @@
   * link: https://github.com/zhanzecheng/Chinese_segment_augment
   * author: zhanzecheng
   * note: new-word-detection approches in Chinese corpus
+
+### Word-discovery
+  * link: https://github.com/bojone/word-discovery
+  * author: bojone
+  * note: faster and better new-word-detection approche
