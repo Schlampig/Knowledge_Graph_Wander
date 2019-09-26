@@ -7,6 +7,7 @@
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
   * [dict_complete 各类生活字典](https://github.com/hee0624/dict_complete) by He Chen.
   * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
+  * [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) by brightmart.
 
 ### ELMo
   * [paper](http://export.arxiv.org/pdf/1812.10860): Samuel R. , Ellie P. , Edouard G. , Benjamin Van D. , Alex W. , Jan H. , Patrick X. , Raghavendra P. , R. T. M. , Roma P. , Najoung K. , Ian T. , Yinghui H. , Katherin Y. , Shuning J. , Berlin C. . (2018). *Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling*. 
@@ -50,3 +51,6 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://arxiv.org/pdf/1906.08237.pdf): Yang, Z. , Dai, Z. , Yang Y. , Carbonell, J. , Salakhutdinov R. , V. Le, Q. . (2019). *XLNet: Generalized Autoregressive Pretraining for Language Understanding* .
   * code: https://github.com/zihangdai/xlnet
 
+### Megatron-LM
+  * [paper](https://arxiv.org/pdf/1909.08053v2.pdf): Shoeybi, M. , Patwary, M. , Puri, R. , Legresley, P. , Casper, J. , & Catanzaro, B. . (2019). *Megatron-lm: training multi-billion parameter language models using model parallelism*.
+  * code: https://github.com/NVIDIA/Megatron-LM
