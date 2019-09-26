@@ -35,6 +35,13 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 ### BERT-WWM (Pre-Training with Whole Word Masking for BERT)
   * link: [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) by Yiming Cui.
 
+### RoBERTa
+  * [paper](https://arxiv.org/pdf/1907.11692.pdf): Liu, Y. , Ott, M. , Goyal, N. , Du, J. , Joshi, M. , Chen, D. , Levy, O. , Lewis, M. , Zettlemoyer L. , Stoyanov V. . (2019). *A Robustly Optimized BERT Pretraining Approach*
+  * code: [pytorch by facebook](https://github.com/pytorch/fairseq), [roberta_zh by brightmart](https://github.com/brightmart/roberta_zh), [Open Roberta project](https://github.com/OpenRoberta)
+
+### ALBERT
+  * [paper](https://openreview.net/pdf?id=H1eA7AEtvS): *ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS*
+
 ### GPT-2
   * [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf): Alec R. , Jeffrey W. , Rewon C. , David L. , Dario A. , Ilya S. . (2019). *Language Models are Unsupervised Multitask Learners*.
   * code: [tensorflow by OpenAI](https://github.com/openai/gpt-2)
