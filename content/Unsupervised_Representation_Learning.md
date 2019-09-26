@@ -37,7 +37,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 
 ### RoBERTa
   * [paper](https://arxiv.org/pdf/1907.11692.pdf): Liu, Y. , Ott, M. , Goyal, N. , Du, J. , Joshi, M. , Chen, D. , Levy, O. , Lewis, M. , Zettlemoyer L. , Stoyanov V. . (2019). *A Robustly Optimized BERT Pretraining Approach*
-  * code: [pytorch by facebook](https://github.com/pytorch/fairseq), [roberta_zh by brightmart](https://github.com/brightmart/roberta_zh), [Open Roberta project](https://github.com/OpenRoberta)
+  * code: [pytorch by facebook](https://github.com/pytorch/fairseq), [roberta_zh by brightmart](https://github.com/brightmart/roberta_zh)
 
 ### ALBERT
   * [paper](https://openreview.net/pdf?id=H1eA7AEtvS): *ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS*
