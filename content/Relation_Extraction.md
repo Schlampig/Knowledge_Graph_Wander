@@ -77,3 +77,9 @@
   * author: buppt
   * note: bilstm + attention to do the Chinese NRE by pytorch
   
+### DeepKE
+  * link：https://github.com/zjunlp/deepke
+  * author: zjunlp
+  * note: neural relation extraction using bert
+  * wiki: https://github.com/zjunlp/deepke/wiki
+ 
