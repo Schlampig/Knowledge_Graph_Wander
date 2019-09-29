@@ -41,6 +41,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 
 ### ALBERT
   * [paper](https://openreview.net/pdf?id=H1eA7AEtvS): *ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS*
+  * code: [albert_zh by brightmart](https://github.com/brightmart/albert_zh)
 
 ### GPT-2
   * [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf): Alec R. , Jeffrey W. , Rewon C. , David L. , Dario A. , Ilya S. . (2019). *Language Models are Unsupervised Multitask Learners*.
