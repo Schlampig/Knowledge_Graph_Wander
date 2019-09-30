@@ -26,6 +26,11 @@
   * author: HUA Yang
   * keywords: interview, python, nlp, source collections
 
+### AI-EDU
+  * link: https://github.com/microsoft/ai-edu
+  * author: Microsoft
+  * keywords: AI education materials, for Chinese students, teachers, IT professionals
+
 ### AI learning
  * link: https://github.com/apachecn/AiLearning
  * author: Apache CN
