@@ -33,3 +33,9 @@
   * link: https://github.com/zadam/trilium
   * author: zadam
   * note: a hierarchical note taking application with focus on building large personal knowledge bases.
+
+### Nebula
+  * link: https://github.com/vesoft-inc/nebula
+  * author: vesoft inc
+  * note: the only solution in the world capable of hosting graphs with dozens of billions of vertices (nodes) and trillions of edges, while still only having milliseconds of latency.
+  
