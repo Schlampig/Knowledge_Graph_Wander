@@ -83,3 +83,7 @@
   * note: neural relation extraction using bert
   * wiki: https://github.com/zjunlp/deepke/wiki
  
+### DISTRE
+  * link：https://github.com/DFKI-NLP/DISTRE
+  * author: DFKI-NLP
+  * [paper](https://www.aclweb.org/anthology/P19-1134): Alt, C. , Marc Hübner, & Hennig, L. . (2019). Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
