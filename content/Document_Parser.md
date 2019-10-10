@@ -17,6 +17,15 @@
   * author: Patrice Lopez
   * note: a machine learning software for extracting information from scholarly documents.
   
+### CERMINE
+  * link: https://github.com/CeON/CERMINE
+  * doc: http://cermine.ceon.pl/index.html
+  * author: Centre for Open Science
+  * note: short for Content ExtRactor and MINEr，a Java library and a web service (cermine.ceon.pl) for extracting metadata and content from PDF files containing academic publications. 
 
-
+### ParsCit
+  * link: https://github.com/knmnyn/parscit
+  * doc: https://parscit.comp.nus.edu.sg/
+  * author: Min-Yen Kan
+  * note: an open-source CRF Reference String Parsing Package. 
   
