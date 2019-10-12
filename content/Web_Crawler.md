@@ -6,5 +6,10 @@
 
 ### Literatures/Books
 
+### examples-of-web-crawlers
+  * link: https://github.com/shengqiangzhang/examples-of-web-crawlers
+  * author: Shengqiang Zhang
+  * note: some interesting examples of python crawlers that are friendly to beginners.
+
 
   
