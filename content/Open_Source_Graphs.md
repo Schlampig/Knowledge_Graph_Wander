@@ -62,3 +62,5 @@
 ### PKU-PIE
   * data: http://openkg.cn/dataset/pku-pie
   
+### KnowledgeGraphData
+  * data: https://github.com/ownthink/KnowledgeGraphData
