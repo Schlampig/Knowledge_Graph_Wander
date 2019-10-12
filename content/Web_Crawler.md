@@ -6,6 +6,11 @@
 
 ### Literatures/Books
 
+### Awesome-crawler
+  * link: https://github.com/BruceDone/awesome-crawler
+  * author: Bruce Tang
+  * note: a collection of awesome web crawler,spider in different languages
+
 ### examples-of-web-crawlers
   * link: https://github.com/shengqiangzhang/examples-of-web-crawlers
   * author: Shengqiang Zhang
