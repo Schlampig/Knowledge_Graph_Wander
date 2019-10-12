@@ -64,3 +64,8 @@
   
 ### KnowledgeGraphData
   * data: https://github.com/ownthink/KnowledgeGraphData
+
+### MusicBrainz
+  * data: https://musicbrainz.org/
+  * note: an open music encyclopedia that collects music metadata and makes it available to the public.
+  
