@@ -1,6 +1,11 @@
 ## **Automatic Ontology Building/ Automatic Knowledge Graph Construction**
 
 
+### awesome-taxonomy
+  * link: https://github.com/mickeystroller/awesome-taxonomy
+  * author: Jiaming Shen
+  * note: a curated resource for taxonomy research
+
 ### Mappings-Autogeneration
   * link: https://github.com/dbpedia/mappings-autogeneration
   * author: DBpedia
