@@ -5,11 +5,13 @@
   * [How powerful are Graph Convolutions? (review of Kipf & Welling, 2016)](https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/)(by inFERENCe)
 
 ### Papers
-  * [paper](https://arxiv.org/abs/1312.6203): Bruna, J. , Zaremba, W. , Szlam, A. , & Lecun, Y. . (2013). Spectral networks and locally connected networks on graphs.
+  * [paper](https://arxiv.org/abs/1312.6203): Bruna, J. , Zaremba, W. , Szlam, A. , & Lecun, Y. . (2013). Spectral networks and locally connected networks on graphs. arXiv.
+  * [paper](https://arxiv.org/abs/1812.04202): Zhang, Z. , Cui, P. , & Zhu, W. . (2018). Deep Learning on Graphs: A Survey. arXiv.
 
 ### PYGCN
   * link: https://github.com/tkipf/pygcn
   * author: Thomas Kipf 
   * [paper](https://arxiv.org/abs/1609.02907): Kipf, T. N. , & Welling, M. . (2016). Semi-supervised classification with graph convolutional networks.
   * note: a PyTorch implementation of Graph Convolutional Networks (GCNs) for semi-supervised classification
+  * extra: [the tensorflow version from the same author](https://github.com/tkipf/gcn).
 
