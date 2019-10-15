@@ -21,7 +21,7 @@
   * [Relation Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Relation_Extraction.md)
   * [Open Information Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Information_Extraction.md)
   * Event Extraction
-  * Event Evolutionary Extraction
+  * [Event Evolutionary Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Event_Evolutionary_Extraction.md)
   * [Automatic Terminology Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Automatic_Terminology_Extraction.md)
   * [New Words Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/New_Words_Detection.md)
 
