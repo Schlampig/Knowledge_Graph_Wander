@@ -1,4 +1,4 @@
-## **Event Extraction (Coming soon ...)**
+## **Event Extraction**
 
 
 ### Papers (Survey)
@@ -23,10 +23,16 @@
   * [paper](https://www.researchgate.net/publication/228384753_The_stages_of_event_extraction): Ahn, D. (2006). *The stages of event extraction*. Workshop on Annotating & Reasoning About Time & Events.
   
 ### Papers (in Chinese)
-  * [paper](http://cdmd.cnki.com.cn/Article/CDMD-10213-1012000844.htm): 丁效. (2018). 句子级中文事件抽取关键技术研究. (Doctoral dissertation, 哈尔滨工业大学).
   * [paper](http://www.cnki.com.cn/Article/CJFDTOTAL-JSYJ201710009.htm): 周建设, 吕学强, 董志安, & 李江龙. (2017). 一种金融领域的事件句抽取方法. 计算机应用研究.
   * [paper](http://www.cnki.com.cn/Article/CJFDTotal-RJXB201602007.htm): 李培峰, 周国栋, & 朱巧明. (2016). 基于语义的中文事件触发词抽取联合模型. 软件学报, 27(2), 280-294.
+  * [paper](http://cdmd.cnki.com.cn/Article/CDMD-10213-1012000844.htm): 丁效. (2011). 句子级中文事件抽取关键技术研究. (Doctoral dissertation, 哈尔滨工业大学).
   * [paper](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZGZR201108001073.htm): 孟雷, 丁效, 秦兵, & 刘挺. (2011). 基于依存句法和短语结构句法结合的金融领域事件元素抽取. 中国计算语言学研究前沿进展（2009-2011）.
+  * [paper](http://www.cnki.com.cn/Article/CJFDTotal-XIZH201001006.htm): 许红磊, 陈锦秀, 周昌乐, 林如琦, & 杨肖方. (2010). 自动识别事件类别的中文事件抽取技术研究. 心智与计算(1).
+  * [paper](http://cdmd.cnki.com.cn/Article/CDMD-10213-2009224109.htm): 谭红叶. (2008). 中文事件抽取关键技术研究. (Doctoral dissertation, 哈尔滨工业大学).
+  * [paper](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZGZR200711001013.htm): 赵妍妍, 秦兵, 车万翔, & 刘挺. (2007). 中文事件抽取技术研究. 第三届全国信息检索与内容安全学术会议论文集.
   * [paper](http://www.wanfangdata.com.cn/details/detail.do?_type=degree&id=Y757845): 相卫华. (2005). 中文信息抽取（IE）中事件模板建立的研究. (Doctoral dissertation).
   * [paper](http://cdmd.cnki.com.cn/Article/CDMD-80132-2006191336.htm): 姜吉发. (2004). 自由文本的信息抽取模式获取的研究. (Doctoral dissertation, 中国科学院研究生院（计算技术研究所）).
 
+
+
+  
