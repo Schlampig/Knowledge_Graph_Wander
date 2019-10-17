@@ -23,3 +23,9 @@
   * Location:  Room 214 in Student Center, Harbin Institute of Technology, Harbin, China
   * Organizer: HIT-SCIR
   * Homepage: http://ir.hit.edu.cn/3035.html
+
+### CausalCollocation
+  * link: https://github.com/liuhuanyong/CausalCollocation
+  * author: liuhuanyong
+  * note: the CausalKnowledgeBase, causal knowledge base including causal pairs extracted from web text using the methods like PMI, Collocation.
+  
