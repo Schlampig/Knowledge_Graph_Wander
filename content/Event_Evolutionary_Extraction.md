@@ -11,13 +11,12 @@
   * [paper](https://www.researchgate.net/publication/325529405_EventKG_A_Multilingual_Event-Centric_Temporal_Knowledge_Graph): Gottschalk, S. , & Demidova, E. . (2018). *EventKG: A Multilingual Event-Centric Temporal Knowledge Graph*. The Semantic Web. Springer, Cham.
   * [paper](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_4): Li, Z. , Zhao, S. , Ding, X. , & Liu, T. . (2017). EEG: Knowledge Base for Event Evolutionary Principles and Patterns. Chinese National Conference on Social Media Processing. Springer, Singapore.
 
-### Papers (In Chinese)
-  * [paper](): 
-  * [paper](): 
-  
-### Papers (Causality Reasoning)
-  * [paper](): 
-  * [paper](): 
+### Papers (in Chinese)
+  * [paper](http://www.cnki.com.cn/Article/CJFDTOTAL-JSJC201706031.htm): 丁硙, 周枫, 庙介璞, 余正涛, 周兰江, & 严馨. (2017). 基于跨事件理论的新闻事件时序关系识别方法. 计算机工程(6).
+  * [paper](http://www.cnki.com.cn/Article/CJFDTotal-XXDL201210040.htm): 李剑萍. (2012). 基于链接网络图探讨对互联网舆情话题的跟踪方法. 信息与电脑(理论版)(10), 63-65.
+  * [paper](http://www.cnki.com.cn/Article/CJFDTotal-WXAQ201706004.htm): 李英俊, 张宏莉, & 王星. (2017). 基于新闻事件片段的时序关系识别方法. 网络与信息安全学报(06), 37-45.
+  * [paper](http://www.cnki.com.cn/Article/CJFDTOTAL-QBZZ201707018.htm): 何绯娟, 杨宽, 缪相林, & 高建忠. (2017). 基于要素图的舆情事件线索化方法研究. 情报杂志(07), 105-108.
+  * [paper](http://www.cnki.com.cn/Article/CJFDTOTAL-QHXB201710006.htm): 李培峰, 黄一龙, & 朱巧明. (2017). 使用全局优化方法识别中文事件因果关系. 清华大学学报(自然科学版)(10), 37-42.
   
 ### 首届事理图谱研讨会
   * Date: 2019-07-20
