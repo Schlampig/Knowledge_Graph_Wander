@@ -19,4 +19,9 @@
 ### Bert-NER
   * link: https://github.com/kamalkraj/BERT-NER
   * author: Kamal Raj 
-  * note: a method to use google BERT doing CoNLL-2003 NER 
+  * note: a method to use google BERT doing CoNLL-2003 NER.
+
+### Information-Extraction-Chinese
+  * link: https://github.com/crownpku/Information-Extraction-Chinese
+  * author: Guan Wang
+  * note: Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT.
