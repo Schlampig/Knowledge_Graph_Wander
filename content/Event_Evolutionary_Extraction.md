@@ -54,6 +54,16 @@
   * author: Prateek Gupta 
   * note: Causal Relation Extraction and Identification using Conditional Random Fields.
   
+### eventPapers
+  * link: https://github.com/GraceGay/eventPapers
+  * author: GraceGay
+  * note: papers about event, sentence, short text, causality in representation, classification, reasoning.
+  
+### CausalDiscoveryToolbox
+  * link: https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox
+  * author: Diviyan Kalainathan
+  * note: package for causal inference in graphs and in the pairwise settings.
+  
 ### Causal_event
   * link: https://github.com/BigBigRadish/Causal_event
   * author: BigBigRadish
