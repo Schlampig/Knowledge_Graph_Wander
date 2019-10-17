@@ -24,8 +24,28 @@
   * Organizer: HIT-SCIR
   * Homepage: http://ir.hit.edu.cn/3035.html
 
+### ConstructingNEEG_IJCAI_2018
+  * link: https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018
+  * author: Zhongyang Li 
+  * note: The data and code for the IJCAI-ECAI 2018 Paper of the: *Constructing Narrative Event Evolutionary Graph for Script Event Prediction*.
+
+### EventEvolutionaryGraph
+  * link: https://github.com/Jeafi/EventEvolutionaryGraph
+  * author: Jeafi
+  * note: example of codes for constructing event evolutionary graph.
+
+### EventPredictBasedOnEG
+  * link: https://github.com/liuhuanyong/EventPredictBasedOnEG
+  * author: liuhuanyong
+  * note: future event predict demo based on causal event graph
+
 ### CausalCollocation
   * link: https://github.com/liuhuanyong/CausalCollocation
   * author: liuhuanyong
   * note: the CausalKnowledgeBase, causal knowledge base including causal pairs extracted from web text using the methods like PMI, Collocation.
   
+### Causal_event
+  * link: https://github.com/BigBigRadish/Causal_event
+  * author: BigBigRadish
+  * note: 金融文本中的原因事件.
+
