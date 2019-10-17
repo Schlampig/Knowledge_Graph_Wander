@@ -16,4 +16,9 @@
   * author: Laboratory of Artificial Intelligence and Decision Support (LIAAD)
   * note: a light-weight unsupervised automatic keyword extraction method which rests on text statistical features extracted from single documents to select the most important keywords of a text.
   * extra: [Datasets of Automatic Keyphrase Extraction](https://github.com/LIAAD/KeywordExtractor-Datasets)
+  
+### RAKE
+  * link: https://github.com/aneesha/RAKE
+  * author: aneesha
+  * note: a python implementation of the Rapid Automatic Keyword Extraction.
 
