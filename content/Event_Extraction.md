@@ -37,12 +37,12 @@
   * [paper](http://cdmd.cnki.com.cn/Article/CDMD-80132-2006191336.htm): 姜吉发. (2004). 自由文本的信息抽取模式获取的研究. (Doctoral dissertation, 中国科学院研究生院（计算技术研究所）).
 
 ### Approaches
-  * [EventKG](https://github.com/sgottsch/eventkg)(by Simon Gottschalk)
-  * [Automated-event-extraction](https://github.com/helloram52/automated-event-extraction)(by Ramkumar)
-  * [Event_extraction](https://github.com/yifange/event_extraction)(by Yifan Ge)
-  * [EventExtract](https://github.com/linkseed18612254945/EventExtract)(by linkseed18612254945)
-  * [Chinese-Event-Extraction](https://github.com/hendrydong/Chinese-Event-Extraction)(by Hanze Dong)
-  * [TEES](https://github.com/jbjorne/TEES)(by Jari Björne)
+  * [EventKG](https://github.com/sgottsch/eventkg) (by Simon Gottschalk)
+  * [Automated-event-extraction](https://github.com/helloram52/automated-event-extraction) (by Ramkumar)
+  * [Event_extraction](https://github.com/yifange/event_extraction) (by Yifan Ge)
+  * [EventExtract](https://github.com/linkseed18612254945/EventExtract) (by linkseed18612254945)
+  * [Chinese-Event-Extraction](https://github.com/hendrydong/Chinese-Event-Extraction) (by Hanze Dong)
+  * [TEES](https://github.com/jbjorne/TEES) (by Jari Björne)
 
 
   
