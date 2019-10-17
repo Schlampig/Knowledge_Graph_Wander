@@ -34,6 +34,11 @@
   * author: Jeafi
   * note: example of codes for constructing event evolutionary graph.
 
+### Awesome-Causality-Algorithms
+  * link: https://github.com/rguo12/awesome-causality-algorithms
+  * author: Ruocheng Guo 
+  * note: an index of algorithms for learning causality with data.
+
 ### EventPredictBasedOnEG
   * link: https://github.com/liuhuanyong/EventPredictBasedOnEG
   * author: liuhuanyong
@@ -43,6 +48,11 @@
   * link: https://github.com/liuhuanyong/CausalCollocation
   * author: liuhuanyong
   * note: the CausalKnowledgeBase, causal knowledge base including causal pairs extracted from web text using the methods like PMI, Collocation.
+  
+### Causal_Relation_Extraction
+  * link: https://github.com/prateekguptaiiitk/Causal_Relation_Extraction
+  * author: Prateek Gupta 
+  * note: Causal Relation Extraction and Identification using Conditional Random Fields.
   
 ### Causal_event
   * link: https://github.com/BigBigRadish/Causal_event
