@@ -21,6 +21,7 @@
   * [paper](https://arxiv.org/abs/1601.04012): Kalita, J. . (2016). *Detecting and extracting events from text documents*. Microbial Ecology, 58(3), 498-508.
   * [paper](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_23)/[backup](https://eprints.lancs.ac.uk/id/eprint/83783/1/160.pdf): Lin, C. Y. , Xue, N. , Zhao, D. , Huang, X. , & Feng, Y. . (2016). *A convolution bilstm neural network model for chinese event extraction*. 10.1007/978-3-319-50496-4(Chapter 23), 275-287.
   * [paper](https://link.springer.com/chapter/10.1007/978-1-4614-5311-6_3): Boschee, E , Natarajan, P , & Weischedel, R. . (2013). *Automatic Extraction of Events from Open Source Text for Predictive Forecasting*.
+  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S1570826811000199): Van Hage, W. R. , Malaisé, Véronique, Segers, R. H. , Hollink, L. , & Schreiber, G. . (2011). *Design and use of the simple event model (sem)*. Social Science Electronic Publishing, 9(2), 128-136.
   * [paper](https://core.ac.uk/display/21224277): Zheng, C., & Ji, H. (2009). *Can one language bootstrap the other: a case study on event extraction*.
   * [paper](https://www.researchgate.net/publication/228384753_The_stages_of_event_extraction): Ahn, D. (2006). *The stages of event extraction*. Workshop on Annotating & Reasoning About Time & Events.
   
