@@ -1,4 +1,4 @@
-## **Event Evolutionary Extraction (Coming soon ...)**
+## **Event Evolutionary Extraction**
 
 
 ### Papers (2017 - Now)
@@ -23,4 +23,3 @@
   * Location:  Room 214 in Student Center, Harbin Institute of Technology, Harbin, China
   * Organizer: HIT-SCIR
   * Homepage: http://ir.hit.edu.cn/3035.html
-  * Source: Cooming soon ...
