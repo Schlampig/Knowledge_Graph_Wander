@@ -9,10 +9,10 @@
 ### Paper (Link Prediction)
   * [paper](https://arxiv.org/abs/1910.04807): Gu, W. , Gao, F. , Lou, X. , & Zhang, J. . (2019). *Link Prediction via Deep Learning*.
   * [paper](https://arxiv.org/abs/1807.10494): Keikha, M. M., Rahgozar, M., & Asadpour, M. (2018). *Deeplink: a novel link prediction framework based on deep learning*.
-  * [paper](https://arxiv.org/abs/1010.0725): Lü, L., & Zhou, T. (2011). *Link prediction in complex networks: a survey*. Physica A Statistical Mechanics & Its Applications, 390(6), 1150-1170.
   * [paper](https://arxiv.org/abs/1802.09691): Zhang M. , Chen Y. . (2019). *Link Prediction Based on Graph Neural Networks*.
   * [paper](https://arxiv.org/abs/1910.05736v1): Jiao, Y. , Xiong, Y. , Zhang, J. , & Zhu Y. . (2019). *Collective Link Prediction Oriented Network Embedding with Hierarchical Graph Attention*.
   * [paper](http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/TKDE14-entitylinking.pdf): Shen, W. , Wang, J. , & Han, J. . (2015). *Entity linking with a knowledge base: issues, techniques, and solutions*. IEEE Transactions on Knowledge and Data Engineering, 27(2), 443-460.
+  * [paper](https://arxiv.org/abs/1010.0725): Lü, L., & Zhou, T. (2011). *Link prediction in complex networks: a survey*. Physica A Statistical Mechanics & Its Applications, 390(6), 1150-1170.
   
 ### Python Record Linkage Toolkit
   * type: entity resolution
