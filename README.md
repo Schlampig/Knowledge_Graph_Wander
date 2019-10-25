@@ -30,7 +30,7 @@
   * Graph Neural Networks (GNNs)
   * [Graph Convolutional Networks (GCNs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/GCN.md)
   * Graph Attention Networks (GATs)
-  * Dynamic Knowledge Graphs (DKGs)
+  * [Dynamic Knowledge Graphs (DKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/DKG.md)
 
 ### Text Operation
   * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md)
