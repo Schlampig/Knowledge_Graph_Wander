@@ -11,7 +11,11 @@
 ### DOC/DOCX
   * textract: [pypi](https://pypi.org/project/textract/)/[documentation](https://textract.readthedocs.io/en/stable/)
   * python-docx: [pypi](https://pypi.org/project/python-docx/)/[documentation](https://python-docx.readthedocs.io/en/latest/#)
-  
+
+### Markdown
+  * pypandoc: [pypi](https://pypi.org/project/pypandoc/#installing-pandoc-manually)/[code](https://github.com/bebraw/pypandoc)
+  * Read the Docs: [official homepage ](https://readthedocs.org/)
+
 ### GROBID
   * link: https://github.com/kermitt2/grobid/
   * doc: https://grobid.readthedocs.io/en/latest/
