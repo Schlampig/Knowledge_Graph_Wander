@@ -2,16 +2,17 @@
 
 
 ### Papers
-  * [paper](https://arxiv.org/pdf/1712.05191.pdf): Pawar, S. , Palshikar, G. K. , & Bhattacharyya, P. . (2017). Relation extraction : a survey.
-  * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). A survey of deep learning methods for relation extraction.
+  * [paper](https://arxiv.org/pdf/1712.05191.pdf): Pawar, S. , Palshikar, G. K. , & Bhattacharyya, P. . (2017). *Relation extraction : a survey*.
+  * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). *A survey of deep learning methods for relation extraction*.
 
 ### Papers about Open Relation Extraction(ORE)
-  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). ZORE: A Syntax-based System for Chinese Open Relation Extraction. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-  * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). Chinese open relation extraction for knowledge acquisition. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
+  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). *ZORE: A Syntax-based System for Chinese Open Relation Extraction*. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+  * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). *Chinese open relation extraction for knowledge acquisition*. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
   
 ### OpenNRE
   * link: https://github.com/thunlp/OpenNRE
   * author: thunlp
+  * [paper](https://arxiv.org/abs/1909.13078 ): Han, X. , Gao, T. , Yao, Y. , Ye, D. , Liu, Z. , & Sun, M. . (2019). *Opennre: an open and extensible toolkit for neural relation extraction*.
   * note: a tensorflow-based framework for neural relation extraction tasks (mainly for English corpus)
   * extra: various NRE-related works could be found under the lists of thunlp groups, such as [NRE](https://github.com/thunlp/NRE)(C++ approach), [JointNRE](https://github.com/thunlp/JointNRE)(Mutual Attention between graph and text), [PathNRE](https://github.com/thunlp/PathNRE)(C++ approach), [AMNRE](https://github.com/thunlp/AMNRE)(Adversarial Multi-lingual NRE), [MNRE](https://github.com/thunlp/MNRE)(Multi-Language NRE).
 
@@ -19,7 +20,7 @@
   * link: https://github.com/thunlp/Chinese_NRE
   * author: thunlp
   * note: Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge
-  * [paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_nre4chinese.pdf): Ziran, L. , Ning, D. , Zhiyuan, L. ,  Hai-Tao, Z. , & Ying, S. . (2019). Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge. The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).
+  * [paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_nre4chinese.pdf): Ziran, L. , Ning, D. , Zhiyuan, L. ,  Hai-Tao, Z. , & Ying, S. . (2019). *Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge*. The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).
 
 ### Information-Extraction-Chinese
   * link: https://github.com/crownpku/Information-Extraction-Chinese
@@ -34,7 +35,7 @@
 ### Tacred-Relation
   * link: https://github.com/yuhaozhang/tacred-relation
   * author: Yuhao Zhang
-  * [paper](https://nlp.stanford.edu/pubs/zhang2017tacred.pdf): Bilan, Ivan & Roth, Benjamin. (2018). Position-aware Self-attention with Relative Positional Encodings for Slot Filling. arXiv.
+  * [paper](https://nlp.stanford.edu/pubs/zhang2017tacred.pdf): Bilan, Ivan & Roth, Benjamin. (2018). *Position-aware Self-attention with Relative Positional Encodings for Slot Filling*.
 
 ### Awesome Relation Extraction
   * link: https://github.com/roomylee/awesome-relation-extraction
@@ -86,4 +87,4 @@
 ### DISTRE
   * link：https://github.com/DFKI-NLP/DISTRE
   * author: DFKI-NLP
-  * [paper](https://www.aclweb.org/anthology/P19-1134): Alt, C. , Marc Hübner, & Hennig, L. . (2019). Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
+  * [paper](https://www.aclweb.org/anthology/P19-1134): Alt, C. , Marc Hübner, & Hennig, L. . (2019). *Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction*. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
