@@ -43,6 +43,7 @@
   * [EventExtract](https://github.com/linkseed18612254945/EventExtract) (by linkseed18612254945)
   * [Chinese-Event-Extraction](https://github.com/hendrydong/Chinese-Event-Extraction) (by Hanze Dong)
   * [TEES](https://github.com/jbjorne/TEES) (by Jari Björne)
+  * [Doc2EDAG](https://github.com/dolphin-zs/Doc2EDAG)(by Shun Zheng)
 
 
   
