@@ -13,6 +13,7 @@
   * document: https://elasticsearch-py.readthedocs.io/en/master/
   * author: Elastic
   * note: official Python low-level client for [Elasticsearch](https://github.com/elastic/elasticsearch)([document](https://www.elastic.co/guide/index.html)).
+  * analyzer: [ik-analyzer](https://github.com/medcl/elasticsearch-analysis-ik), [jieba-analyzer](https://github.com/huaban/elasticsearch-analysis-jieba)
   
 ### Neo4j
   * homepage: https://neo4j.com/
