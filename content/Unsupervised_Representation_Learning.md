@@ -5,7 +5,8 @@
   * [PLMpapers](https://github.com/thunlp/PLMpapers): a list of the representative work on Pre-trained Languge Model.
   * [OpenCLaP](https://github.com/thunlp/OpenCLaP): Open Chinese Language Pre-trained Model Zoo.
   * [Kashgari](https://github.com/BrikerMan/Kashgari): a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
-  * [chineseGLUE](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
+  * [ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
+  * [CLUE](https://github.com/CLUEbenchmark/CLUE): Advanced version of ChineseGLUE.
 
 ### Word Dictionary / Word Vector Resource
   * [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) by Embedding.
