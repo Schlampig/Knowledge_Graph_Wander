@@ -23,3 +23,8 @@
   * author: Memect
   * wiki: https://github.com/memect/kg-beijing/wiki
   * note: a group learning project for knowledge graph.
+
+### KnowledgeGraphCourse
+  * link: https://github.com/npubird/KnowledgeGraphCourse
+  * author: Peng Wang
+  * note: a systematic course about knowledge graph for graduate students, interested researchers and engineers.
