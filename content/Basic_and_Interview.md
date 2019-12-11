@@ -75,3 +75,8 @@
   * link: https://github.com/NLP-LOVE/ML-NLP
   * author: NLP-LOVE
   * keywords: collection tutorials, machine learning, deep learning, nlp
+  
+### Production-Level-Deep-Learning
+  * link: https://github.com/alirezadir/Production-Level-Deep-Learning
+  * author: Alireza Dirafzoon
+  * keywords: repo, production-level deep learning, skills & tools stack
