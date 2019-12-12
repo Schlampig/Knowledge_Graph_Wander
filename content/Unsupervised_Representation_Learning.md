@@ -77,3 +77,6 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://arxiv.org/abs/1911.00720): Diao, S. , Bai, J. , Song, Y. , Zhang, T. , & Wang, Y. . (2019). Zen: pre-training chinese text encoder enhanced by n-gram representations.
   * code: https://github.com/sinovation/ZEN
   
+### HUAWEI-Pretrained Language Model
+  * code: https://github.com/huawei-noah/Pretrained-Language-Model
+  
