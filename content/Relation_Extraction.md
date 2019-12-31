@@ -97,3 +97,9 @@
   * author: Tsu-Jui Fu
   * [paper](https://tsujuifu.github.io/pubs/acl19_graph-rel.pdf): Fu, T. , Li, P. , & Ma, W. . (2019). *GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction*.
   * note: a PyTorch implementation of GraphRel
+  
+### Falcon 2.0
+  * link: https://github.com/SDM-TIB/Falcon2.0
+  * author: SDM-TIB
+  * [paper](https://arxiv.org/pdf/1912.11270v1.pdf)
+  * note: a joint entity and relation linking tool over Wikidata
