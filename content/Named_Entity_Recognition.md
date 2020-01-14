@@ -25,3 +25,8 @@
   * link: https://github.com/crownpku/Information-Extraction-Chinese
   * author: Guan Wang
   * note: Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT.
+
+### CLUENER2020
+  * link: https://github.com/CLUEbenchmark/CLUENER2020
+  * author: CLUEbenchmark
+  * note: Chinese fine-grained NER from CLUE
