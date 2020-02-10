@@ -9,7 +9,7 @@
 ### Papers (2017-Now)
   * [paper](https://arxiv.org/abs/1904.07535): Zheng, S. , Cao, W. , Xu, W. , & Bian, J. . (2019). *Doc2edag: an end-to-end document-level framework for chinese financial event extraction*.
   * [paper](https://arxiv.org/abs/1812.00195): Nguyen, T. M. , & Nguyen, T. H. . (2018). *One for all: neural joint modeling of entities and events*.
-  * [paper](https://arxiv.org/abs/1809.09078): ALiu, X., Luo, Z., & Huang, H. (2018). *Jointly multiple events extraction via attention-based graph information aggregation*.
+  * [paper](https://arxiv.org/abs/1809.09078)/[code](https://github.com/lx865712528/EMNLP2018-JMEE): Liu, X., Luo, Z., & Huang, H. (2018). *Jointly multiple events extraction via attention-based graph information aggregation*. EMNLP 2018.
   * [paper](https://arxiv.org/abs/1808.08622): Ferguson, J. , Lockard, C. , Weld, D. S. , & Hajishirzi, H. . (2018). *Semi-supervised event extraction with paraphrase clusters*.
   * [paper](https://www.aclweb.org/anthology/N18-2055/): Choubey, P. K. , Raju, K. , & Huang, R. . (2018). *Identifying the Most Dominant Event in a News Article by Mining Event Coreference Relations*.
   * [paper](https://arxiv.org/abs/1707.01066): Huang, L. , Ji, H. , Cho, K. , & Voss, C. R. . (2017). *Zero-shot transfer learning for event extraction*.
