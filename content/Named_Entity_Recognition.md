@@ -30,3 +30,8 @@
   * link: https://github.com/CLUEbenchmark/CLUENER2020
   * author: CLUEbenchmark
   * note: Chinese fine-grained NER from CLUE
+
+### BERT-NER-Pytorch
+  * link: https://github.com/lonePatient/BERT-NER-Pytorch
+  * author: lonePatinet
+  * Chinese NER(Named Entity Recognition) using BERT (Softmax, CRF, Span)
