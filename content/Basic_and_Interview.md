@@ -36,6 +36,11 @@
  * author: Apache CN
  * keywords: mahine learning lessons
 
+### PRML
+  * link: https://github.com/ctgk/PRML
+  * author: ctgk
+  * keywords: Pattern Recognition and Machine Learning (PRML) algorithms implemented in Python
+
 ### SCIR-Training-Day
   * link: https://github.com/HIT-SCIR/scir-training-day
   * author: HIT-SCIR
