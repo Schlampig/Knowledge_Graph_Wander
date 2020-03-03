@@ -85,3 +85,8 @@
   * link: https://github.com/alirezadir/Production-Level-Deep-Learning
   * author: Alireza Dirafzoon
   * keywords: repo, production-level deep learning, skills & tools stack
+
+### Shortest-LeetCode-Python-Solutions
+  * link: https://github.com/cy69855522/Shortest-LeetCode-Python-Solutions
+  * author: Knife丶
+  * keywords: leetcode, solutions
