@@ -5,7 +5,9 @@
   * author: Sun Junyi
 
 ### LTP
-  * homepage: https://www.ltp-cloud.com/
+  * homepage: http://www.ltp-cloud.com/intro
+  * author: HIT-SCIR
+  * navigation: [pyltp](https://pyltp.readthedocs.io/zh_CN/latest/), [intro](https://www.jianshu.com/p/f78453f5d1ca)
 
 ### HanLP
   * link: https://github.com/hankcs/HanLP/tree/1.x
