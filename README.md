@@ -41,7 +41,7 @@
   * Summarization/Text Simplification
   * Question Generation
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
-  * [Text Mining](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Mining.md)[(Parser Tools)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
+  * [Text Mining](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Mining.md) [(Parser Tools)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
 
 ### Graph Operation
   * [Distant Supervision](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Distant_Supervision.md)
