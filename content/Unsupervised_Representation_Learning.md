@@ -69,6 +69,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 ### XLNET
   * [paper](https://arxiv.org/pdf/1906.08237.pdf): Yang, Z. , Dai, Z. , Yang Y. , Carbonell, J. , Salakhutdinov R. , V. Le, Q. . (2019). *XLNet: Generalized Autoregressive Pretraining for Language Understanding* .
   * code: https://github.com/zihangdai/xlnet
+  * extra: [Chinese-XLNet by Yiming Cui](https://github.com/ymcui/Chinese-XLNet)
 
 ### Megatron-LM
   * [paper](https://arxiv.org/pdf/1909.08053v2.pdf): Shoeybi, M. , Patwary, M. , Puri, R. , Legresley, P. , Casper, J. , & Catanzaro, B. . (2019). *Megatron-lm: training multi-billion parameter language models using model parallelism*.
