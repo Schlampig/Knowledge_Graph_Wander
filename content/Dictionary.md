@@ -1,4 +1,4 @@
-## **Unsupervised Representation Learning**
+## **Dictionary / Corpus / Word Vectors**
 
 
 ### Word Vector Resource / Corpus
