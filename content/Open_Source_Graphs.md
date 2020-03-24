@@ -53,6 +53,15 @@
   * link: http://conceptnet5.media.mit.edu/
   * extra: [ConceptNet5中文部分](http://openkg.cn/dataset/conceptnet5-chinese)
 
+### Probase
+  * link: https://www.microsoft.com/en-us/research/project/probase/
+  * author: microsoft
+  * extra: [Microsoft Concept Graph](https://concept.research.microsoft.com/)
+  
+### CN-Probase
+  * link: http://kw.fudan.edu.cn/cnprobase/intro/
+  * note: "entity is-a concept" relation graph
+
 ### XLORE
   * link: https://xlore.org/
   * [paper](https://www.bibsonomy.org/bibtex/2c7ec921813cf9407487af25640b3b96f/dblp): XLore: A Large-scale English-Chinese Bilingual Knowledge Graph.
