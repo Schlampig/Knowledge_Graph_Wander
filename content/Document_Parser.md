@@ -13,6 +13,10 @@
   * textract: [pypi](https://pypi.org/project/textract/)/[documentation](https://textract.readthedocs.io/en/stable/)
   * python-docx: [pypi](https://pypi.org/project/python-docx/)/[documentation](https://python-docx.readthedocs.io/en/latest/#)
 
+### Excel
+  * [Python读写Excel文件第三方库汇总](https://blog.csdn.net/qq_34617032/article/details/80433939)
+  * xlwings: [pypi](https://pypi.org/project/xlwings/)/[documentation](https://docs.xlwings.org/en/stable/index.html)
+
 ### Markdown
   * pypandoc: [pypi](https://pypi.org/project/pypandoc/#installing-pandoc-manually)/[code](https://github.com/bebraw/pypandoc)
   * Read the Docs: [official homepage ](https://readthedocs.org/)
