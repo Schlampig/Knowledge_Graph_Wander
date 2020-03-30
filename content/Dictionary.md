@@ -9,6 +9,7 @@
 ### Commonsense Dictionary
   * [dict_complete 各类生活字典](https://github.com/hee0624/dict_complete) by He Chen.
   * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
+  * [FinancialDatasets](https://github.com/smoothnlp/FinancialDatasets)
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
