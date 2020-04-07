@@ -29,3 +29,8 @@
   * link: http://openie.allenai.org/
   * author: allennlp
   * extra: [OpenIE-5](https://github.com/dair-iitd/OpenIE-standalone)(the latest version)
+
+### Supervised-OIE
+  * link: https://github.com/gabrielStanovsky/supervised-oie
+  * author: Gabriel Stanovsky
+  * note: code for training a neural OpenIE model published in NAACL 2018.
