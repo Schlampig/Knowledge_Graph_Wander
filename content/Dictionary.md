@@ -21,5 +21,6 @@
   * [textfilter](https://github.com/observerss/textfilter) by Jingchao Hu.
   * [sensitive-stop-words](https://github.com/fwwdn/sensitive-stop-words) by Weiwei Fan.
   * [sensitivewd-filter](https://github.com/andyzty/sensitivewd-filter) by Andy.
+  * [stopwords](https://github.com/goto456/stopwords) by goto456.
   
 
