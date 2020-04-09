@@ -69,3 +69,9 @@
   * author: BigBigRadish
   * note: 金融文本中的原因事件.
 
+### EventKGNELL（学迹）
+  * link: https://github.com/liuhuanyong/EventKGNELL
+  * demo: https://xueji.zhiwenben.com/
+  * author: liuhuanyong
+  * note: 事理图谱版Magi，实时事理逻辑知识库终身学习和事件为核心的知识库搜索项目.
+  
