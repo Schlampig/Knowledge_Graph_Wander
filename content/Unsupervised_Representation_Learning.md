@@ -88,5 +88,9 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 ### UER-py
   * code: https://github.com/dbiir/UER-py
   * author: DBIIR @ RUC
-  * note: open source pre-training model framework in pytorch & pre-trained model zoo
+  * note: open source pre-training model framework in pytorch & pre-trained model zoo.
   
+### FARM
+  * code: https://github.com/deepset-ai/FARM
+  * author: deepset-ai
+  * note: tool makes Transfer Learning with BERT & Co simple, fast and enterprise-ready.
