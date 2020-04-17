@@ -11,6 +11,7 @@
   * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
   * [FinancialDatasets](https://github.com/smoothnlp/FinancialDatasets) by SmoothNLP.
   * [DomainWords](https://github.com/smoothnlp/DomainWords) by SmoothNLP.
+  * [THU Open Chinese Lexicon (THUOCL)](https://github.com/thunlp/THUOCL) by THUNLP
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
