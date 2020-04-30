@@ -8,6 +8,7 @@
   * pdfx: [pypi](https://pypi.org/project/pdfx/1.3.0/)/[documentation](https://www.metachris.com/pdfx/)
   * PDFlib:[official homepage (not free)](https://www.pdflib.com/)
   * Tika: [pypi](https://pypi.org/project/tika/1.8.8/)/[code](https://github.com/chrismattmann/tika-python)/[intro](https://www.cnblogs.com/baiboy/p/tika.html)
+  * pdf2image: [code](https://github.com/Belval/pdf2image)
   
 ### DOC/DOCX
   * textract: [pypi](https://pypi.org/project/textract/)/[documentation](https://textract.readthedocs.io/en/stable/)
