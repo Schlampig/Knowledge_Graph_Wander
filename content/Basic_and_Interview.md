@@ -78,14 +78,14 @@
   
 ### ML-NLP
   * link: https://github.com/NLP-LOVE/ML-NLP
-  * web: https://chinesenlp.xyz
   * author: NLP-LOVE
-  * keywords: Datasets, SOTA results of every fields of Chinese NLP
+  * keywords: collection tutorials, machine learning, deep learning, nlp
 
 ### ChineseNLP
   * link: https://github.com/didi/ChineseNLP
+  * web: https://chinesenlp.xyz
   * author: didi
-  * keywords: collection tutorials, machine learning, deep learning, nlp
+  * keywords: Datasets, SOTA results of every fields of Chinese NLP
 
 ### Production-Level-Deep-Learning
   * link: https://github.com/alirezadir/Production-Level-Deep-Learning
