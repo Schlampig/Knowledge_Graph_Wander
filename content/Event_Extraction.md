@@ -7,7 +7,9 @@
   * [video(part a)](http://www.kengso.com/file/2671e9e6eae1826ad1bd80d5ad5ed79f.html), [video(part b)](http://www.kengso.com/file/1eb5b365ad3859a78f301b7522072961.html): 刘康：开放域环境下文本事件抽取
 
 ### Papers (2017-Now)
+  * [paper](https://arxiv.org/abs/1909.02766)/[code](https://github.com/fhamborg/Giveme5W1H): Hamborg, F. , Breitinger, C. , Gipp, B. . (2019). *Giveme5W1H: A Universal System for Extracting Main Events from News Articles*.
   * [paper](https://arxiv.org/abs/1904.07535): Zheng, S. , Cao, W. , Xu, W. , & Bian, J. . (2019). *Doc2edag: an end-to-end document-level framework for chinese financial event extraction*.
+  * [paper](https://arxiv.org/pdf/1909.03546v2.pdf)/[code](https://github.com/dwadden/dygiepp): Wadden, D. , Wennberg, U. , Luan, Y. , Hajishirzi, H. . (2019). *Entity, Relation, and Event Extraction with Contextualized Span Representations*.
   * [paper](https://arxiv.org/abs/1812.00195): Nguyen, T. M. , & Nguyen, T. H. . (2018). *One for all: neural joint modeling of entities and events*.
   * [paper](https://arxiv.org/abs/1809.09078)/[code](https://github.com/lx865712528/EMNLP2018-JMEE): Liu, X., Luo, Z., & Huang, H. (2018). *Jointly multiple events extraction via attention-based graph information aggregation*. EMNLP 2018.
   * [paper](https://arxiv.org/abs/1808.08622): Ferguson, J. , Lockard, C. , Weld, D. S. , & Hajishirzi, H. . (2018). *Semi-supervised event extraction with paraphrase clusters*.
