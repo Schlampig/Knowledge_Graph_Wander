@@ -1,11 +1,16 @@
 ## **Relation Extraction**
 
 
-### Papers
+### Papers (Survey)
   * [paper](https://arxiv.org/pdf/1712.05191.pdf): Pawar, S. , Palshikar, G. K. , & Bhattacharyya, P. . (2017). *Relation extraction : a survey*.
   * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). *A survey of deep learning methods for relation extraction*.
+  
+### Papers (Various)
+  * [paper](https://arxiv.org/abs/1903.01306v1): Zhang, N. , Deng, S. , Sun, Z. , Wang, G. , Chen, X. , Zhang, W. , Chen, H. . (2019). *Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks*. NAACL 2019.
+  * [paper](https://www.aclweb.org/anthology/D18-1247/): Han, X. , Yu, P. , Liu, Z. , Sun, M. , Li P. . (2018). *Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention*. EMNLP 2018.
 
 ### Papers about Open Relation Extraction(ORE)
+  * [paper](https://arxiv.org/abs/1906.03158?context=cs.CL)/[code 1](https://github.com/zhpmatrix/BERTem)/[code 2](https://github.com/plkmo/BERT-Relation-Extraction): Soares, L. B. , FitzGerald, N. , Ling, J. , Kwiatkowski T. . (2019). *Matching the Blanks: Distributional Similarity for Relation Learning*. ACL 2019.
   * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). *ZORE: A Syntax-based System for Chinese Open Relation Extraction*. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
   * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). *Chinese open relation extraction for knowledge acquisition*. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
 
