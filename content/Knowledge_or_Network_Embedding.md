@@ -6,6 +6,11 @@
   * [paper](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216/12004)/[code](https://github.com/xrb92/DKRL)(DKRL): Ruobing Xie, Zhiyuan Liu, Jia Jia1, Huanbo Luan, Maosong Sun (2016). Representation Learning of Knowledge Graphs with Entity Descriptions, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16).
   * [paper](https://arxiv.org/pdf/1805.02408.pdf)/[code](https://github.com/iieir-km/ComplEx-NNE_AER): Ding, B. , Wang, Q. , Wang, B. , & Guo, L. . (2018). Improving knowledge graph embedding using simple constraints.
 
+### KRLPapers
+  * link: https://github.com/thunlp/KRLPapers
+  * author: thunlp
+  * note: a lists of must-read papers for knowledge representation learning/ knowledge embedding
+
 ### NRLPapers
   * link: https://github.com/thunlp/NRLPapers
   * author: thunlp
