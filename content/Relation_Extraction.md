@@ -108,3 +108,10 @@
   * author: SDM-TIB
   * [paper](https://arxiv.org/pdf/1912.11270v1.pdf)
   * note: a joint entity and relation linking tool over Wikidata
+
+### Lifelong Relation Detection
+  * link: https://github.com/hongwang600/Lifelong_Relation_Detection
+  * author: Hong Wang
+  * [paper](https://arxiv.org/abs/1903.02588)
+  * note: a lifelong learning strategy to handle the FewRel challenge
+  
