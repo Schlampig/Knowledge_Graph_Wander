@@ -34,7 +34,7 @@
 ### Papers:Curriculum Learning
   * [Disentangling Task Transfer Learning (2018)](http://taskonomy.stanford.edu/#abstract).
   
-### Continual Learning
+### Continual-Learning
   * link: https://github.com/GMvandeVen/continual-learning
   * author: GMvandeVen
   * note: pyTorch implementation of various methods for continual learning, such as XdG, EWC, online EWC, SI, LwF, DGR, DGR+distill, RtF, iCaRL.
