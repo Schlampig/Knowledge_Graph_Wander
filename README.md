@@ -60,7 +60,7 @@
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
   * One-Shot Learning
   * [Few-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Few_Shot_Learning.md)
-  * Lifelong Learning
+  * [Lifelong Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Lifelong_Learning.md)
 
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
