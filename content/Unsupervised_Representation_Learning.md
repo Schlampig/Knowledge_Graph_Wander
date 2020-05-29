@@ -55,6 +55,10 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * code: [tensorflow by OpenAI](https://github.com/openai/gpt-2), [GPT2-Chinese by Zeyao Du](https://github.com/Morizeyao/GPT2-Chinese), [GPT-2-pytorch by Tae-Hwan Jung](https://github.com/graykode/gpt-2-Pytorch).
   * extra: [another unofficial tensorflow version by ConnorJL](https://github.com/ConnorJL/GPT2) and the author's [blog](https://medium.com/@NPCollapse/gpt2-counting-consciousness-and-the-curious-hacker-323c6639a3a8).
 
+### GPT-3
+  * [paper](https://arxiv.org/abs/2005.14165): OpenAI . (2020). *Language Models are Few-Shot Learners*.
+  * code: [descriptions by OpenAI](https://github.com/openai/gpt-3).
+
 ### ELECTRA
   * [paper](https://openreview.net/pdf?id=r1xMH1BtvB): Kevin, C. , Minh-Thang L. , Quoc V.lE. , Christopher D. Manning. . (2020). *ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators*
   * code: [tensorflow by Google](https://github.com/google-research/electra), [Chinese-ELECTRA by Yiming Cui](https://github.com/ymcui/Chinese-ELECTRA)
