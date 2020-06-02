@@ -13,6 +13,7 @@
   * [paper](https://arxiv.org/abs/1906.03158?context=cs.CL)/[code 1](https://github.com/zhpmatrix/BERTem)/[code 2](https://github.com/plkmo/BERT-Relation-Extraction): Soares, L. B. , FitzGerald, N. , Ling, J. , Kwiatkowski T. . (2019). *Matching the Blanks: Distributional Similarity for Relation Learning*. ACL 2019.
   * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). *ZORE: A Syntax-based System for Chinese Open Relation Extraction*. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
   * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). *Chinese open relation extraction for knowledge acquisition*. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
+  * [spo_extract_platform](https://github.com/percent4/spo_extract_platform) and [knowledge_graph_demo](https://github.com/percent4/knowledge_graph_demo) by percent4.
 
 ### Datasets
   * [CORE](https://github.com/TJUNLP/COER): Chinese Open Entity-Relation Knowledge Base.
