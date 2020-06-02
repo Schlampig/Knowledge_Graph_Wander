@@ -5,6 +5,7 @@
   * [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) by brightmart.
   * [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) by Embedding.
   * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
+  * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) by Kyubyong Park.
 
 ### Commonsense Dictionary
   * [dict_complete 各类生活字典](https://github.com/hee0624/dict_complete) by He Chen.
