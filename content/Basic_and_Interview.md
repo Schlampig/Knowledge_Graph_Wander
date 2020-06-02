@@ -96,3 +96,8 @@
   * link: https://github.com/cy69855522/Shortest-LeetCode-Python-Solutions
   * author: Knife丶
   * keywords: leetcode, solutions
+
+### DeepLearning-500-questions
+  * link: https://github.com/princewen/DeepLearning-500-questions
+  * author: princewen
+  * keywords: deep learning knowledge collected in QA forms
