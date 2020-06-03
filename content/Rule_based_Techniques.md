@@ -9,6 +9,7 @@
   * link: https://github.com/facebook/duckling
   * author: facebook
   * note: a Haskell library that parses text into structured data.
+  * extra: [python-duckling by FraBle](https://github.com/FraBle/python-duckling).
 
 ### Snorkel
   * link: https://github.com/HazyResearch/snorkel
