@@ -22,3 +22,13 @@
   * author: aneesha
   * note: a python implementation of the Rapid Automatic Keyword Extraction.
 
+### OpenNMT-kpg-release
+  * link: https://github.com/memray/OpenNMT-kpg-release
+  * author: Rui Meng
+  * note: a method for keyphrase generation.
+  
+### BERT-KPE
+  * link: https://github.com/thunlp/BERT-KPE
+  * author: THUNLP
+  * note: joint keyphrase chunking and salience ranking with BERT.
+  
