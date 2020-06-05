@@ -34,3 +34,9 @@
   * link: https://github.com/gabrielStanovsky/supervised-oie
   * author: Gabriel Stanovsky
   * note: code for training a neural OpenIE model published in NAACL 2018.
+
+### IMOJIE
+  * link: https://github.com/dair-iitd/imojie
+  * author: Data Analytics and Intelligence Research (DAIR) Group, IIT Delhi
+  * note: neural generation model for open information extraction in ACL 2020.
+  
