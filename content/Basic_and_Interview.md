@@ -101,3 +101,9 @@
   * link: https://github.com/princewen/DeepLearning-500-questions
   * author: princewen
   * keywords: deep learning knowledge collected in QA forms
+
+### Coursera-ML-AndrewNg-Notes
+  * link: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+  * author: Huang Haiguang
+  * keywords: class notes (in Chinese) about Stanford Machine Learning Tutorial by Andrew Ng
+  
