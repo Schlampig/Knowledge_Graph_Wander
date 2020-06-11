@@ -67,9 +67,6 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://openreview.net/pdf?id=r1xMH1BtvB): Kevin, C. , Minh-Thang L. , Quoc V.lE. , Christopher D. Manning. . (2020). *ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators*
   * code: [tensorflow by Google](https://github.com/google-research/electra), [Chinese-ELECTRA by Yiming Cui](https://github.com/ymcui/Chinese-ELECTRA)
 
-### MASS
-  * [paper](https://arxiv.org/pdf/1905.02450.pdf): Kaitao S. , Xu T. , Tao Q. , Jianfeng L. , Tie-Y. L. . (2019). *MASS: Masked Sequence to Sequence Pre-training for Language Generation*.
-
 ### ERNIE
   * [paper](https://arxiv.org/pdf/1905.07129.pdf): Zhang, Z. , Han, X. , Liu, Z. , Jiang, X. , Sun, M. , & Liu, Q. . (2019). *Ernie: enhanced language representation with informative entities*.
   * code: [pytorch by thunlp](https://github.com/thunlp/ERNIE), [paddlepaddle by Bai Du](https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE)
@@ -83,13 +80,16 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://arxiv.org/pdf/1909.08053v2.pdf): Shoeybi, M. , Patwary, M. , Puri, R. , Legresley, P. , Casper, J. , & Catanzaro, B. . (2019). *Megatron-lm: training multi-billion parameter language models using model parallelism*.
   * code: https://github.com/NVIDIA/Megatron-LM
 
-### BART
-  * [paper](https://arxiv.org/pdf/1910.13461.pdf): Lewis, M. , Liu, Y. , Goyal, N. , Ghazvininejad M. , Mohamed A. , Levy O. , Stoyanov, V. , & Zettlemoyer, L. . (2019). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension*.
-
+### MASS
+  * [paper](https://arxiv.org/pdf/1905.02450.pdf): Kaitao S. , Xu T. , Tao Q. , Jianfeng L. , Tie-Y. L. . (2019). *MASS: Masked Sequence to Sequence Pre-training for Language Generation*.
+  
 ### UniLM
   * [paper](https://arxiv.org/abs/1905.03197): Dong, L. , Yang, N. , Wang, W. , Wei, F. , Liu, X. , & Wang, Y. , et al. (2019). *Unified language model pre-training for natural language understanding and generation*. NeurIPS 2019.
   * code: https://github.com/microsoft/unilm
   * note: including UniLM v1/v2, MiniLM, LayoutLM, and s2s-ft.
+  
+### BART
+  * [paper](https://arxiv.org/pdf/1910.13461.pdf): Lewis, M. , Liu, Y. , Goyal, N. , Ghazvininejad M. , Mohamed A. , Levy O. , Stoyanov, V. , & Zettlemoyer, L. . (2019). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension*.
 
 ### ZEN
   * [paper](https://arxiv.org/abs/1911.00720): Diao, S. , Bai, J. , Song, Y. , Zhang, T. , & Wang, Y. . (2019). Zen: pre-training chinese text encoder enhanced by n-gram representations.
