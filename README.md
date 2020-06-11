@@ -35,7 +35,7 @@
 ### Text Operation
   * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md)
   * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md)
-  * Sequence/Sentence Labeling
+  * [Sequence/Sentence Operation (Seq2Seq and more)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Seq_to_seq.md)
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
   * Machine Reading Comprehension
