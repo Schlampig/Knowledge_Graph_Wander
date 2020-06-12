@@ -37,3 +37,7 @@
   * author: zhaohu xing
   * note: a slight framework about unilm(bert)-based implementation with several examples by pytorch.
   
+### CLGE
+  * link: https://github.com/CLUEbenchmark/CLGE
+  * author: CLUE benchmark
+  * note: Chinese Language Generation Evaluation.
