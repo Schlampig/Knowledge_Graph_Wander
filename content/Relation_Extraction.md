@@ -110,6 +110,12 @@
   * [paper](https://arxiv.org/pdf/1912.11270v1.pdf)
   * note: a joint entity and relation linking tool over Wikidata
 
+### One-shot-Relational-Learning
+  * link: https://github.com/xwhan/One-shot-Relational-Learning
+  * author: Wenhan Xiong
+  * [paper](https://arxiv.org/abs/1808.09040)
+  * note: a pytorch approach that automatically infers new facts about a particular relation given only one training example
+
 ### Lifelong Relation Detection
   * link: https://github.com/hongwang600/Lifelong_Relation_Detection
   * author: Hong Wang
