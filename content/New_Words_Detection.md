@@ -22,3 +22,10 @@
   * link: https://github.com/bojone/word-discovery
   * author: bojone
   * note: faster and better new-word-detection approche
+
+### perturbed_masking
+  * link: https://github.com/bojone/perturbed_masking/blob/master/word_segment.py
+  * author: bojone
+  * note: strictly speaking, it is a word segmentation task, but it may be used to detected word while BERT pre-trained by new corpus
+  * extra: [the original approach](https://github.com/LividWo/Perturbed-Masking) and [paper](https://arxiv.org/abs/2004.14786)
+  
