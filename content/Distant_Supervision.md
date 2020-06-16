@@ -18,3 +18,9 @@
   * link: https://github.com/BiLiangLtd/WordSimilarity
   * author: BiLiangLtd
   * note: 基于哈工大同义词词林扩展版的单词相似度计算方法的python实现
+
+### Intra-Bag-and-Inter-Bag-Attentions
+  * link: https://github.com/ZhixiuYe/Intra-Bag-and-Inter-Bag-Attentions
+  * author: Zhixiu Ye
+  * note: code for NAACL 2019 paper: Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions
+  
