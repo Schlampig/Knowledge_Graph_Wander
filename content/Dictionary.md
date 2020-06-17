@@ -26,3 +26,5 @@
   * [stopwords](https://github.com/goto456/stopwords) by goto456.
   * [Chinese-StopWords](https://github.com/baipengyan/Chinese-StopWords) by baipengyan.
   
+### Other Data
+  * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
