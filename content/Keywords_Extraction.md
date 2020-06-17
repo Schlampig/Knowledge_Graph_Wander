@@ -31,4 +31,9 @@
   * link: https://github.com/thunlp/BERT-KPE
   * author: THUNLP
   * note: joint keyphrase chunking and salience ranking with BERT.
+
+### THUCKE
+  * link: https://github.com/thunlp/THUCKE
+  * author: THUNLP
+  * note: THU Chinese Keyphrase Extraction Toolkit.
   
