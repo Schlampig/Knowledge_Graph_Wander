@@ -18,6 +18,7 @@
 
 ### Information Extraction
   * [Rule-based Techniques](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Rule_based_Techniques.md)
+  * [Basic Semantic Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
   * [Relation Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Relation_Extraction.md)
   * [Open Information Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Information_Extraction.md)
   * [Event Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Event_Extraction.md)
