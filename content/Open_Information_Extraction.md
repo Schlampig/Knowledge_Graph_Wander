@@ -18,8 +18,8 @@
   * link: https://github.com/knowitall
   * web: http://projectsweb.cs.washington.edu/research/knowitall/
   * author: The University of Washington's Turing Center
-  * note: a project for open information extraction
-  * extra: [ReVerb](http://reverb.cs.washington.edu/), [OLLIE](http://knowitall.github.io/ollie/)
+  * note: a project for open information extraction.
+  * extra: [ReVerb](http://reverb.cs.washington.edu/), [OLLIE](http://knowitall.github.io/ollie/).
 
 ### CoreNLP(OpenIE)
   * link: https://stanfordnlp.github.io/CoreNLP/openie.html
@@ -28,7 +28,12 @@
 ### OpenIE-standalone
   * link: http://openie.allenai.org/
   * author: allennlp
-  * extra: [OpenIE-5](https://github.com/dair-iitd/OpenIE-standalone)(the latest version)
+  * extra: [OpenIE-5](https://github.com/dair-iitd/OpenIE-standalone)(the latest version).
+
+### Stanford-OpenIE-Python
+  * link: https://github.com/philipperemy/Stanford-OpenIE-Python
+  * author: Philippe Rémy
+  * note: a python wrapper for Stanford OpenIE system.
 
 ### Supervised-OIE
   * link: https://github.com/gabrielStanovsky/supervised-oie
