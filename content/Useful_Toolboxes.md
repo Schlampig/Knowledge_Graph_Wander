@@ -21,3 +21,13 @@
 
 ### Some funny and helpful python lib.
   * link: https://www.cnblogs.com/palace/p/9889235.html
+  
+### xxxNLP
+  * [LTP](http://www.ltp-cloud.com/intro)
+  * [Jieba](https://github.com/fxsjy/jieba)
+  * [HanLP](https://github.com/hankcs/HanLP)
+  * [JioNLP](https://github.com/dongrixinyu/jionlp)
+  * [THULAC](http://thulac.thunlp.org/)
+  * [SnowNLP](https://github.com/isnowfy/snownlp)
+  * [FudanNLP](https://github.com/FudanNLP/fnlp)
+  
