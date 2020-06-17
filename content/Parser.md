@@ -14,3 +14,9 @@
   * homepage: http://hanlp.com/
   * author: hankcs (Han He)
   * navigation: [pyhanlp](https://github.com/hankcs/pyhanlp), [install](https://github.com/hankcs/pyhanlp/wiki/%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE), [pos meaning](https://blog.csdn.net/zaishijizhidian/article/details/82828212), [add custom words](https://blog.csdn.net/baidu_24536755/article/details/103078820)
+
+### Others
+  * [JioNLP](https://github.com/dongrixinyu/jionlp)
+  * [THULAC](http://thulac.thunlp.org/)
+  * [SnowNLP](https://github.com/isnowfy/snownlp)
+  * [FudanNLP](https://github.com/FudanNLP/fnlp)
