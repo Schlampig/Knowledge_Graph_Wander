@@ -29,15 +29,20 @@
 ### CLUENER2020
   * link: https://github.com/CLUEbenchmark/CLUENER2020
   * author: CLUEbenchmark
-  * note: Chinese fine-grained NER from CLUE
+  * note: Chinese fine-grained NER from CLUE.
 
 ### BERT-NER-Pytorch
   * link: https://github.com/lonePatient/BERT-NER-Pytorch
   * author: lonePatinet
-  * Chinese NER(Named Entity Recognition) using BERT (Softmax, CRF, Span)
+  * Chinese NER(Named Entity Recognition) using BERT (Softmax, CRF, Span).
 
 ### CLUENER2020
   * link: https://github.com/CLUEbenchmark/CLUENER2020
   * author: CLUE benchmark
-  * note: Fine Grained Named Entity Recognition (from CLUE)
+  * note: Fine Grained Named Entity Recognition (from CLUE).
   
+### Graph4CNER
+  * link: https://github.com/DianboWork/Graph4CNER
+  * author: DianboWork
+  * note: source code for Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network in EMNLP 2019.
+
