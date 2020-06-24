@@ -107,3 +107,7 @@
   * author: Huang Haiguang
   * keywords: class notes (in Chinese) about Stanford Machine Learning Tutorial by Andrew Ng
   
+### nlp-journey
+  * link: https://github.com/msgi/nlp-journey
+  * author: msgi
+  * keywords: documents, papers and codes related to NLP
