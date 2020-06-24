@@ -20,3 +20,4 @@
   * [THULAC](http://thulac.thunlp.org/)
   * [SnowNLP](https://github.com/isnowfy/snownlp)
   * [FudanNLP](https://github.com/FudanNLP/fnlp)
+  * [LAC](https://github.com/baidu/lac)
