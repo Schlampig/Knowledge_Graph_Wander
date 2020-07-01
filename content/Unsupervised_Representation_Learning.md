@@ -31,6 +31,11 @@
 ### Longformer
   * [paper](https://arxiv.org/abs/2004.05150): Beltagy, I. , Peters, M.E. , Cohan, A. . (2020). *Longformer: The Long-Document Transformer*.
   * code: [longformer by allenai](https://github.com/allenai/longformer)
+  
+### Fast Transformers
+  * [paper](https://arxiv.org/abs/2006.16236): Katharopoulos, A. , Vyas, A. , Pappas, N. , Fleuret, F. . (2020). *Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention*.
+  * code: [fast-transformers by Idiap Research Institute](https://github.com/idiap/fast-transformers)
+  * website: https://linear-transformers.com/
 
 ### GPT
   * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
