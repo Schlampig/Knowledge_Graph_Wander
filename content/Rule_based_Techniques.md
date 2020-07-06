@@ -47,4 +47,7 @@
   * author: tengzhangchao
   * note: transform string to regexp automatically without models.
   
- 
+### ChineseNounPhraseExtraction
+  * link: https://github.com/yangyuji12/ChineseNounPhraseExtraction
+  * author: yangyuji12
+
