@@ -15,6 +15,7 @@
 ### PYTORCH TUTORIALS (Official)
   * link: https://pytorch.org/tutorials/
   * keywords: tutorials for pytorch
+  * book: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
 ### PyCodeComplete
   * link: https://github.com/jumper2014/PyCodeComplete
