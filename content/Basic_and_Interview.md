@@ -111,3 +111,8 @@
   * link: https://github.com/msgi/nlp-journey
   * author: msgi
   * keywords: documents, papers and codes related to NLP
+
+### NLP_ability
+  * link: https://github.com/DA-southampton/NLP_ability
+  * author: DA-southampton
+  * keywords: nlp interview, skills, collections, experiences
