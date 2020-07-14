@@ -5,6 +5,7 @@
   * [paper](http://ceur-ws.org/Vol-779/derive2011_submission_1.pdf): Hogenboom, F. , Frasincar F. , Kaymak, U. , & Jong F. . (2011). *An Overview of Event Extraction from Text*.
   * [blog(part a)](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/86215037), [blog(part b)](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/86486048): [知识工厂] 综述|事件抽取及推理 
   * [video(part a)](http://www.kengso.com/file/2671e9e6eae1826ad1bd80d5ad5ed79f.html), [video(part b)](http://www.kengso.com/file/1eb5b365ad3859a78f301b7522072961.html): 刘康：开放域环境下文本事件抽取
+  * [blog](https://mp.weixin.qq.com/s/LXZ6r-ERmH9_g3rg_1v7Tw): 赛尔笔记 | 事件表示学习简述 by 哈工大SCIR·廖阔
 
 ### Papers (2017-Now)
   * [paper](https://arxiv.org/abs/1909.05190)/[code](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019): Ding, X. , Liao, K. , Liu, T. , Li, Z. , Duan, J. . (2019). *Event Representation Learning Enhanced with External Commonsense Knowledge*. EMNLP.
