@@ -45,3 +45,8 @@
   * author: Data Analytics and Intelligence Research (DAIR) Group, IIT Delhi
   * note: neural generation model for open information extraction in ACL 2020.
   
+### AutoIE
+  * link: https://github.com/ZhuiyiTechnology/AutoIE
+  * author: Zhuiyi Technology
+  * note: a task to build IE system with noise and incomplete annotations.
+  
