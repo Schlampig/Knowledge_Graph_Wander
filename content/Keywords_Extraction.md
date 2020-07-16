@@ -13,7 +13,7 @@
   * [paper](https://arxiv.org/pdf/1910.07848.pdf): Yoo yeon Sung, Seoung Bum Kim. (2019). *Topical Keyphrase Extraction with Hierarchical Semantic Networks*。
   * [paper](https://arxiv.org/pdf/1905.07689.pdf): Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, Jian-Yun Nie. (2019). *DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases*.
   * [paper](https://arxiv.org/pdf/1803.08721.pdf)/[code](https://github.com/boudinfl/pke): Florian Boudin. (2018). *Unsupervised Keyphrase Extraction with Multipartite Graphs*.
-  
+  * [paper](https://arxiv.org/pdf/1801.04470v1.pdf)/[code](https://github.com/swisscom/ai-research-keyphrase-extraction): Kamil Bennani-Smires, Claudiu Musat, Martin Jaggi, Andreea Hossmann & Michael Baeriswyl. (2018). *EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings*.
 
 ### Flashtext
   * link: https://github.com/vi3k6i5/flashtext
