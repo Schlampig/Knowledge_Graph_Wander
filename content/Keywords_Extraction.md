@@ -1,5 +1,19 @@
-## **Keywords Extraction/Detection**
+## **Keywords/Keyphrase Extraction/Detection**
 
+### Papers (Survey)
+  * [paper](https://arxiv.org/pdf/1905.05044.pdf): Eirini Papagiannopoulou, Grigorios Tsoumakas. (2019). *A Review of Keyphrase Extraction*.
+  * [paper](https://link.springer.com/article/10.1007/s10844-019-00558-9): Zakariae Alami Merrouni, Bouchra Frikh & Brahim Ouhbi. (2014). *Automatic keyphrase extraction: a survey and trends*.
+  
+### Papers
+  * [paper](https://arxiv.org/pdf/1810.05241.pdf)/[code](https://github.com/memray/OpenNMT-kpg-release): Xingdi Yuan, Tong Wang, Rui Meng, Khushboo Thaker, Peter Brusilovsky, Daqing He & Adam Trischler†. (2020). *One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases*.
+  * [paper](https://arxiv.org/pdf/2003.04628v1.pdf): Ygor Gallina, Florian Boudin, BÃľatrice Daille. (2020). *Large-Scale Evaluation of Keyphrase Extraction Models*.
+  * [paper](https://arxiv.org/pdf/2002.05407.pdf): Funan Mu, Zhenting Yu, LiFeng Wang, Yequan Wang, Qingyu Yin, Yibo Sun, Liqun Liu, Teng Ma, Jing Tang, Xing Zhou. (2020). *Keyphrase Extraction with Span-based Feature Representations*.
+  * [paper](https://www.researchgate.net/publication/338492831_SIFRank_A_New_Baseline_for_Unsupervised_Keyphrase_Extraction_Based_on_Pre-trained_Language_Model):YI SUN, HANGPING QIU, YU ZHENG, ZHONGWEI WANG & CHAORAN ZHANG . (2019). *SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-Trained Language Model*.
+  * [paper](https://www.aclweb.org/anthology/D19-1521/): Lee Xiong, Chuan Hu, Chenyan Xiong, Daniel Campos & Arnold Overwijk. (2019). *Open Domain Web Keyphrase Extraction Beyond Language Modeling*.
+  * [paper](https://arxiv.org/pdf/1910.07848.pdf): Yoo yeon Sung, Seoung Bum Kim. (2019). *Topical Keyphrase Extraction with Hierarchical Semantic Networks*。
+  * [paper](https://arxiv.org/pdf/1905.07689.pdf): Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, Jian-Yun Nie. (2019). *DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases*.
+  * [paper](https://arxiv.org/pdf/1803.08721.pdf)/[code](https://github.com/boudinfl/pke): Florian Boudin. (2018). *Unsupervised Keyphrase Extraction with Multipartite Graphs*.
+  
 
 ### Flashtext
   * link: https://github.com/vi3k6i5/flashtext
