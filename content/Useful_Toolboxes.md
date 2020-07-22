@@ -16,6 +16,10 @@
   * link: https://paperswithcode.com/
   * note: ranked lists of researches with codes in various machine learning domains, according to github stars.
 
+### CONNECTED PAPERS
+  * link: https://www.connectedpapers.com/
+  * note: a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.
+
 ### Best Paper Awards in Computer Science (since 1996)
   * link: https://jeffhuang.com/best_paper_awards.html
 
