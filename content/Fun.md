@@ -12,6 +12,8 @@
 ### Literature
   * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
 ](https://github.com/THUNLP-MT)
+  * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
+](https://github.com/0voice)
 
 ### App
   * [豆坟](https://github.com/doufen-org/tofu)
