@@ -16,6 +16,7 @@
   * [paper](https://arxiv.org/pdf/1905.07689.pdf): Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, Jian-Yun Nie. (2019). *DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases*.
   * [paper](https://arxiv.org/pdf/1803.08721.pdf)/[code](https://github.com/boudinfl/pke): Florian Boudin. (2018). *Unsupervised Keyphrase Extraction with Multipartite Graphs*.
   * [paper](https://arxiv.org/pdf/1801.04470v1.pdf)/[code](https://github.com/swisscom/ai-research-keyphrase-extraction): Kamil Bennani-Smires, Claudiu Musat, Martin Jaggi, Andreea Hossmann & Michael Baeriswyl. (2018). *EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings*.
+  * [paper](https://arxiv.org/pdf/1704.06879.pdf)/[code](https://github.com/memray/seq2seq-keyphrase): Rui Meng, Sanqiang Zhao, Shuguang Han, Daqing He, Peter Brusilovsky, Yu Chi. (2017). *Deep Keyphrase Generation*.
   * [paper](https://www.aclweb.org/anthology/C16-2015.pdf)/[code](https://github.com/boudinfl/pke): Florian Boudin. (2016). *PKE: an open source python-based keyphrase extraction toolkit*.
 
 ### Flashtext
