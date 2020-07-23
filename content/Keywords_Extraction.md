@@ -41,6 +41,12 @@
   * link: https://github.com/memray/OpenNMT-kpg-release
   * author: Rui Meng
   * note: a method for keyphrase generation.
+
+### CopyRNN-Keyword-Extraction
+  * link: https://github.com/killa1218/CopyRNN-Keyword-Extraction
+  * author: Yiding Tian
+  * note: the classic and conventional neural-network-based KPE method.
+  * extra: [CopyRNN-Pytorch](https://github.com/SunSiShining/CopyRNN-Pytorch)
   
 ### BERT-KPE
   * link: https://github.com/thunlp/BERT-KPE
@@ -51,4 +57,3 @@
   * link: https://github.com/thunlp/THUCKE
   * author: THUNLP
   * note: THU Chinese Keyphrase Extraction Toolkit.
-  
