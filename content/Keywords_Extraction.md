@@ -5,6 +5,7 @@
   * [paper](https://link.springer.com/article/10.1007/s10844-019-00558-9): Zakariae Alami Merrouni, Bouchra Frikh & Brahim Ouhbi. (2014). *Automatic keyphrase extraction: a survey and trends*.
   
 ### Papers
+  * [paper](https://arxiv.org/pdf/2004.10462.pdf): Rui Liu, Zheng Lin, Weiping Wang. (2020). *Keyphrase Prediction With Pre-trained Language Model*.
   * [paper](https://arxiv.org/pdf/1810.05241.pdf)/[code](https://github.com/memray/OpenNMT-kpg-release): Xingdi Yuan, Tong Wang, Rui Meng, Khushboo Thaker, Peter Brusilovsky, Daqing He & Adam Trischler. (2020). *One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases*.
   * [paper](https://arxiv.org/pdf/2003.04628v1.pdf): Ygor Gallina, Florian Boudin, BÃľatrice Daille. (2020). *Large-Scale Evaluation of Keyphrase Extraction Models*.
   * [paper](https://arxiv.org/pdf/2002.05407.pdf): Funan Mu, Zhenting Yu, LiFeng Wang, Yequan Wang, Qingyu Yin, Yibo Sun, Liqun Liu, Teng Ma, Jing Tang, Xing Zhou. (2020). *Keyphrase Extraction with Span-based Feature Representations*.
