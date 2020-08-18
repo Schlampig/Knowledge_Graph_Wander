@@ -117,3 +117,13 @@
   * link: https://github.com/DA-southampton/NLP_ability
   * author: DA-southampton
   * keywords: nlp interview, skills, collections, experiences
+  
+### For-Data-Science-Beginners
+  * link: https://github.com/amrrs/For-Data-Science-Beginners
+  * author: amrrs
+  * keywords: for data science beginners, link collection
+  
+### pandas_exercises
+  * link: https://github.com/guipsamora/pandas_exercises
+  * author: Guilherme Samora
+  * keywords:  pandas exercise instructions, solutions without code / with code and comments
