@@ -77,4 +77,7 @@
 ### MusicBrainz
   * data: https://musicbrainz.org/
   * note: an open music encyclopedia that collects music metadata and makes it available to the public.
-  
+
+### ATOMIC
+  * link: https://homes.cs.washington.edu/~msap/atomic/
+  * note: an atlas of machine commonsense for if-then reasoning
