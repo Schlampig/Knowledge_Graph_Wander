@@ -27,6 +27,11 @@
   * author: HUA Yang
   * keywords: interview, python, nlp, source collections
 
+### Hello-Algorithm
+  * link: https://github.com/geekxh/hello-algorithm
+  * author: geekxh 
+  * keywords: interview, computer science, Chinese & English version
+
 ### AI-EDU
   * link: https://github.com/microsoft/ai-edu
   * author: Microsoft
