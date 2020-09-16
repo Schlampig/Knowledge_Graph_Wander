@@ -5,7 +5,7 @@
   * author: Sun Junyi
 
 ### LTP
-  * homepage: http://www.ltp-cloud.com/intro
+  * homepage: http://www.ltp-cloud.com/intro / http://ltp.ai/
   * author: HIT-SCIR
   * navigation: [pyltp](https://pyltp.readthedocs.io/zh_CN/latest/), [intro](https://www.jianshu.com/p/f78453f5d1ca)
 
