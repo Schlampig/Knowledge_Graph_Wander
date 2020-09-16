@@ -26,3 +26,6 @@
 ### Some funny and helpful python lib.
   * link: https://www.cnblogs.com/palace/p/9889235.html
   
+### 超神经 hyper.ai
+  * link: https://hyper.ai/ / open datasets: https://hyper.ai/datasets
+  
