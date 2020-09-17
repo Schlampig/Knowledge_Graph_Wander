@@ -28,3 +28,7 @@
   * link: https://github.com/npubird/KnowledgeGraphCourse
   * author: Peng Wang
   * note: a systematic course about knowledge graph for graduate students, interested researchers and engineers.
+
+### Academic Torrents
+  * link: https://academictorrents.com/browse.php
+  * author: https://reproducibilityinstitute.org/w/
