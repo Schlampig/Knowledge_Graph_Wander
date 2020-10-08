@@ -132,3 +132,9 @@
   * link: https://github.com/guipsamora/pandas_exercises
   * author: Guilherme Samora
   * keywords:  pandas exercise instructions, solutions without code / with code and comments
+
+### AI算法工程师手册
+  * link: http://www.huaxiaozhuan.com/
+  * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
+  * keywords: machine learning and deep learning lessons
+  
