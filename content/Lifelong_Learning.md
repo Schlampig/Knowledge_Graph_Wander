@@ -23,7 +23,7 @@
   * [Net2Net: Accelerating Learning via Knowledge Transfer (2016)](https://arxiv.org/abs/1511.05641).
 
 ### Papers:Model Expansion
-  * [Towards Training Recurrent Neural Networks for Lifelong Learning (2019)] (https://arxiv.org/pdf/1811.07017.pdf).
+  * [Towards Training Recurrent Neural Networks for Lifelong Learning (2019)](https://arxiv.org/pdf/1811.07017.pdf).
   * [Expert Gate: Lifelong Learning with a Network of Experts (2017)](https://arxiv.org/abs/1611.06194).
   * [Progressive Neural Networks (2016)](https://arxiv.org/abs/1606.04671).
  
