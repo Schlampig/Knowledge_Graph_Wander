@@ -32,3 +32,8 @@
 ### Academic Torrents
   * link: https://academictorrents.com/browse.php
   * author: https://reproducibilityinstitute.org/w/
+
+### IE-Survey
+  * link: https://github.com/BDBC-KG-NLP/IE-Survey
+  * author: BDBC KG&NLP
+  * note: information extraction survey (tasks, datasets, researches & applications) by BU NLP.
