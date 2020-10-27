@@ -8,6 +8,8 @@
   
 ### News
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
+  * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
+  * [ShameCom](https://github.com/ShameCom/ShameCom) by [ShameCom](https://github.com/ShameCom): 校招污点公司记录。
 
 ### Literature
   * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
