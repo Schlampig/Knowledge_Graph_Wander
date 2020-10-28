@@ -37,3 +37,9 @@
   * link: https://github.com/BDBC-KG-NLP/IE-Survey
   * author: BDBC KG&NLP
   * note: information extraction survey (tasks, datasets, researches & applications) by BU NLP.
+
+### ABigSurvey
+  * link: https://github.com/NiuTrans/ABigSurvey
+  * author: NiuTrans Open Source
+  * note: hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+  
