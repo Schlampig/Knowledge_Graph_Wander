@@ -6,12 +6,23 @@
   * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). *A survey of deep learning methods for relation extraction*.
   
 ### Papers (Various)
+  * [paper](https://arxiv.org/pdf/2010.12812.pdf): Zhong Z. , Chen D. . (2020). *A Frustratingly Easy Approach for Joint Entity and Relation Extraction*. arXiv
+  * [paper](https://www.researchgate.net/publication/333172475_GraphRel_Modeling_Text_as_Relational_Graphs_for_Joint_Entity_and_Relation_Extraction): Fu, T. J. , & Ma, W. Y. . (2019). *GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction*. ACL 2019.
   * [paper](https://arxiv.org/abs/1903.01306v1): Zhang, N. , Deng, S. , Sun, Z. , Wang, G. , Chen, X. , Zhang, W. , Chen, H. . (2019). *Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks*. NAACL 2019.
+  * [paper](https://arxiv.org/pdf/1909.04273.pdf): Yu, B. , Zhang, Z. , Shu, X. , Wang, Y. , Liu, T. , & Wang, B. , et al. (2019). *Joint extraction of entities and relations based on a novel decomposition strategy*. arXiv.
+  * [paper](https://arxiv.org/pdf/1804.03396.pdf): Qiu, L. , Zhou, H. , Qu, Y. , Zhang, W. , & Li, S. . (2018). *QA4IE: A Question Answering based Framework for Information Extraction*. ISWC 2018. Springer, Cham.
   * [paper](https://www.aclweb.org/anthology/D18-1247/): Han, X. , Yu, P. , Liu, Z. , Sun, M. , Li P. . (2018). *Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention*. EMNLP 2018.
+
+### Papers (Surface Forms)
+  * [paper](https://www.aclweb.org/anthology/N18-1081.pdf): Stanovsky, G. , Michael, J. , Zettlemoyer, L. , Dagan, I. . (2018). *Supervised Open Information Extraction*. NAACL 2018
 
 ### Papers about Open Relation Extraction(ORE)
   * [paper](https://arxiv.org/abs/1906.03158?context=cs.CL)/[code 1](https://github.com/zhpmatrix/BERTem)/[code 2](https://github.com/plkmo/BERT-Relation-Extraction): Soares, L. B. , FitzGerald, N. , Ling, J. , Kwiatkowski T. . (2019). *Matching the Blanks: Distributional Similarity for Relation Learning*. ACL 2019.
-  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). *ZORE: A Syntax-based System for Chinese Open Relation Extraction*. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+  * paper/[code](https://github.com/thunlp/RSN): Wu, R. , Yao, Y. , Han, X. , Xie, R. , & Sun, M. . (2019). *Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data*. EMNLP-IJCNLP 2019.
+  * [paper](https://www.researchgate.net/publication/323198509_Chinese_Open_Relation_Extraction_and_Knowledge_Base_Establishment): Jia, S. , Shijia, E. ,. , Li, M. , & Xiang, Y. . (2018). *Chinese open relation extraction and knowledge base establishment*. ACM Transactions on Asian & Low Resource Language Information Processing, 17(3), 1-22.
+  * [paper](https://arxiv.org/pdf/1803.01707.pdf): Roth, B. , Conforti, C. , Poerner, N. , Karn, S. , & Schütze, Hinrich. (2018). *Neural architectures for open-type relation argument extraction*. Natural Language Engineering.
+  * [paper](http://www.springer.com/cda/content/document/cda_downloaddocument/9783319704067-t1.pdf?SGWID=0-0-45-1624729-p181234217): Elsahar, H. , Demidova, E. , Gottschalk, S. , Gravier, C. , & Laforest, F. . (2017). *Unsupervised open relation extraction*. arXiv.
+  * [paper](https://www.researchgate.net/publication/301405129_ZORE_A_Syntax-based_System_for_Chinese_Open_Relation_Extraction): Qiu, L. , & Zhang, Y. . (2014). *ZORE: A Syntax-based System for Chinese Open Relation Extraction*. EMNLP 2014.
   * [paper](https://aclweb.org/anthology/E14-4003): Yuen-Hsien Tseng, Lung-Hao Lee, Shu-Yen Lin, Bo-Shun Liao, Mei-Jun Liu, Hsin-Hsi Chen, Oren Etzioni, Anthony Fader (2014). *Chinese open relation extraction for knowledge acquisition*. Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, Volume 2: Short Papers. 12-16.
   * [spo_extract_platform](https://github.com/percent4/spo_extract_platform) and [knowledge_graph_demo](https://github.com/percent4/knowledge_graph_demo) by percent4.
 
