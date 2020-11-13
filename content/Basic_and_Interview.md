@@ -97,6 +97,7 @@
   * link: https://github.com/NiuTrans/ABigSurvey
   * author: NiuTrans Open Source
   * keywords: survey hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+  * extra: [机器翻译：统计建模与深度学习方法](https://github.com/NiuTrans/MTBook) by the same author
 
 ### Production-Level-Deep-Learning
   * link: https://github.com/alirezadir/Production-Level-Deep-Learning
