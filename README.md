@@ -51,7 +51,7 @@
   * [Entity Linking/Resolution/Deduplication](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Operation.md)
   * [Ontology Building/Automatic Graph Construction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Ontology_Building.md)
   * [Hypernym Discovery](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Hypernym_Discovery.md)
-  * Graph Completion / Fusion
+  * Graph Completion/Fusion
 
 ### Network Operation
   * [Network Operation Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Network_operation_tools.md)
