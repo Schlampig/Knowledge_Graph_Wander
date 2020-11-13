@@ -93,6 +93,11 @@
   * author: didi
   * keywords: Datasets, SOTA results of every fields of Chinese NLP
 
+### ABigSurvey
+  * link: https://github.com/NiuTrans/ABigSurvey
+  * author: NiuTrans Open Source
+  * keywords: survey hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+
 ### Production-Level-Deep-Learning
   * link: https://github.com/alirezadir/Production-Level-Deep-Learning
   * author: Alireza Dirafzoon
