@@ -23,6 +23,9 @@
 ### Transformer
   * [paper](https://arxiv.org/pdf/1706.03762.pdf): Vaswani, A. , Shazeer, N. , Parmar, N. , Uszkoreit, J. , Jones, L. , & Gomez, A. N. , et al. (2017). *Attention is all you need*.
   * code: [pytorch by Yu-Hsiang Huang](https://github.com/jadore801120/attention-is-all-you-need-pytorch), [tensorflow by Kyubyong](https://github.com/Kyubyong/transformer), [another pytorch version by leviswind](https://github.com/leviswind/pytorch-transformer)
+  * survey: 
+    - [Long Range Arena: A Benchmark for Efficient Transformers (2020-11)](https://arxiv.org/pdf/2011.04006.pdf)
+    - [Efficient Transformers: A Survey (2020-09)](https://arxiv.org/pdf/2009.06732.pdf)
 
 ### Transformer-XL
   * [paper](https://arxiv.org/pdf/1901.02860.pdf): Dai, Z. , Yang, Z. , Yang, Y. , Carbonell, J. , Le, Q. V. , & Salakhutdinov, R. . (2019). *Transformer-xl: attentive language models beyond a fixed-length context*.
@@ -36,6 +39,10 @@
   * [paper](https://arxiv.org/abs/2006.16236): Katharopoulos, A. , Vyas, A. , Pappas, N. , Fleuret, F. . (2020). *Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention*.
   * code: [fast-transformers by Idiap Research Institute](https://github.com/idiap/fast-transformers)
   * website: https://linear-transformers.com/
+
+### REFORMER
+  * [paper](https://arxiv.org/pdf/2001.04451.pdf): Kitaev, N. , Kaiser, U. , & Levskaya, A. . (2020). *Reformer: the efficient Transformer*.
+  * code: [reformer-pytorch by Phil Wang](https://github.com/lucidrains/reformer-pytorch)
 
 ### GPT
   * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
