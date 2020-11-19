@@ -47,6 +47,7 @@
 Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by Zhao HG](https://github.com/CyberZHG/keras-bert), [keras bert examples by bojone](https://github.com/bojone/bert_in_keras) and his [blog](https://spaces.ac.cn/archives/6736), [bert-as-service by Han Xiao](https://github.com/hanxiao/bert-as-service), [bert4keras by bojone](https://github.com/bojone/bert4keras), [bert_cn_finetune by ewrfcas](https://github.com/ewrfcas/bert_cn_finetune)
   * list: [awesome-bert by Jiakui Wang](https://github.com/Jiakui/awesome-bert)
   * pre-trained models: [OpenCLaP](https://github.com/thunlp/OpenCLaP)
+  * extra: [GuwenBERT](https://github.com/Ethan-yt/guwenbert)
 
 ### BERT-WWM (Pre-Training with Whole Word Masking for BERT)
   * link: [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) by Yiming Cui.
