@@ -44,10 +44,6 @@
   * [paper](https://arxiv.org/pdf/2001.04451.pdf): Kitaev, N. , Kaiser, U. , & Levskaya, A. . (2020). *Reformer: the efficient Transformer*.
   * code: [reformer-pytorch by Phil Wang](https://github.com/lucidrains/reformer-pytorch)
 
-### GPT
-  * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
-  * code: [tensorflow by OpenAI](https://github.com/openai/finetune-transformer-lm)
-
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
   * code: [tensorflow by google-research](https://github.com/google-research/bert), [pytorch by Hugging Face
@@ -67,6 +63,10 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://openreview.net/pdf?id=H1eA7AEtvS): *ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS*
   * code: [albert by google-research](https://github.com/google-research/google-research/tree/master/albert), [albert_zh by brightmart](https://github.com/brightmart/albert_zh), [albert_pytorch by lonePatient](https://github.com/lonePatient/albert_pytorch)
 
+### GPT
+  * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
+  * code: [tensorflow by OpenAI](https://github.com/openai/finetune-transformer-lm)
+  
 ### GPT-2
   * [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf): Alec R. , Jeffrey W. , Rewon C. , David L. , Dario A. , Ilya S. . (2019). *Language Models are Unsupervised Multitask Learners*.
   * code: [tensorflow by OpenAI](https://github.com/openai/gpt-2), [GPT2-Chinese by Zeyao Du](https://github.com/Morizeyao/GPT2-Chinese), [GPT-2-pytorch by Tae-Hwan Jung](https://github.com/graykode/gpt-2-Pytorch), [gpt2-ml by Caspar ZHANG](https://github.com/imcaspar/gpt2-ml).
@@ -78,6 +78,12 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 
 ### minGPT
   * code: https://github.com/karpathy/minGPT
+
+### CPM-Generate
+  * code: https://github.com/TsinghuaAI/CPM-Generate
+  * author: Tsinghua AI & BAAI
+  * homepage: https://cpm.baai.ac.cn/
+  * [paper](https://arxiv.org/pdf/1911.06136.pdf): Wang, X. , Gao, T. , Zhu, Z. , Liu, Z. , Li, J. , & Tang, J. . (2019). *Kepler: a unified model for knowledge embedding and pre-trained language representation*.
 
 ### ELECTRA
   * [paper](https://openreview.net/pdf?id=r1xMH1BtvB): Kevin, C. , Minh-Thang L. , Quoc V.lE. , Christopher D. Manning. . (2020). *ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators*
