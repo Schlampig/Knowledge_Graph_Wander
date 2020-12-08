@@ -25,7 +25,7 @@
 ### HowNet
   * web: http://www.keenage.com/
   * link: https://github.com/thunlp/OpenHowNet-API
-  * extra: [OpenHowNet by thunlp](https://openhownet.thunlp.org/)
+  * extra: [OpenHowNet by thunlp](https://openhownet.thunlp.org/)/ [WantWords by thunlp](https://wantwords.thunlp.org/home/)
 
 ### BabelNet
   * link: https://babelnet.org/
