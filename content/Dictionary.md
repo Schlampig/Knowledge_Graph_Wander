@@ -25,6 +25,9 @@
   * [sensitivewd-filter](https://github.com/andyzty/sensitivewd-filter) by Andy.
   * [stopwords](https://github.com/goto456/stopwords) by goto456.
   * [Chinese-StopWords](https://github.com/baipengyan/Chinese-StopWords) by baipengyan.
-  
+
+### Synonyms
+  * [Synonyms](https://github.com/chatopera/Synonyms) by Chatopera
+
 ### Other Data
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
