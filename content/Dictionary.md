@@ -26,9 +26,11 @@
   * [stopwords](https://github.com/goto456/stopwords) by goto456.
   * [Chinese-StopWords](https://github.com/baipengyan/Chinese-StopWords) by baipengyan.
 
-### Synonyms
+### Synonyms & Antonym
   * [Synonyms](https://github.com/chatopera/Synonyms) by Chatopera.
   * [Final_word_Similarity](https://github.com/yaleimeng/Final_word_Similarity) by Yalei Meng.
+  * [ChineseSemanticKB](https://github.com/liuhuanyong/ChineseSemanticKB) by liuhuanyong.
+  * [funNLP 同/反义词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
 
 ### Other Data
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
