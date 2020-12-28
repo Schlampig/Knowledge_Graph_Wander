@@ -51,3 +51,6 @@
   * link: https://github.com/yangyuji12/ChineseNounPhraseExtraction
   * author: yangyuji12
 
+### flashtext
+  * link: https://github.com/vi3k6i5/flashtext
+  * author: Vikash Singh
