@@ -143,4 +143,8 @@
   * link: http://www.huaxiaozhuan.com/
   * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
   * keywords: machine learning and deep learning lessons
-  
+
+### labuladong 的算法小抄
+  * link: https://github.com/labuladong/fucking-algorithm
+  * author: labuladong
+  * keywords: Crack LeetCode, not only how, but also why.
