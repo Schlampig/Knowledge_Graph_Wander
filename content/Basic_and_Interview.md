@@ -16,6 +16,11 @@
   * link: https://pytorch.org/tutorials/
   * keywords: tutorials for pytorch
   * book: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+  
+### pytorch-handbook
+  * link: https://github.com/zergtant/pytorch-handbook
+  * author: hengtao tantai
+  * keywords: open source pytorch tutorials
 
 ### PyCodeComplete
   * link: https://github.com/jumper2014/PyCodeComplete
