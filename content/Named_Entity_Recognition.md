@@ -46,3 +46,7 @@
   * author: DianboWork
   * note: source code for Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network in EMNLP 2019.
 
+### Macropodus
+  * link: https://github.com/yongzhuo/Macropodus
+  * author: yongzhuo
+  * note: NLP tools based on Albert + BiLSTM + CRF
