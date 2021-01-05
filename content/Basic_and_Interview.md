@@ -134,6 +134,11 @@
   * author: DA-southampton
   * keywords: nlp interview, skills, collections, experiences
   
+### NLP-Knowledge-Graph
+  * link: https://github.com/lihanghang/NLP-Knowledge-Graph
+  * author: Hang Hang Li
+  * keywords: nlp and knowledge graph collection
+  
 ### For-Data-Science-Beginners
   * link: https://github.com/amrrs/For-Data-Science-Beginners
   * author: amrrs
