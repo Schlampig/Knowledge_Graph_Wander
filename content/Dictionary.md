@@ -34,3 +34,4 @@
 
 ### Other Data
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
+  * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
