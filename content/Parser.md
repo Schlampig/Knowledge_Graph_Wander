@@ -20,6 +20,11 @@
   * author: Stanford NLP
   * note: a python nlp library for 60+ human languages.
 
+### Jiayan
+  * link: https://github.com/jiaeyan/Jiayan
+  * author: Jiajie Ya
+  * note: NLP tools for ancient Chinese.
+
 ### Others
   * [JioNLP](https://github.com/dongrixinyu/jionlp)
   * [THULAC](http://thulac.thunlp.org/)
