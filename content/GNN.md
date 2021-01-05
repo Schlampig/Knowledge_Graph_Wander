@@ -15,5 +15,7 @@
 
 ### Tools & Libraries
   * [Deep Graph Library(DGL, MXNet, by Distributed (Deep) Machine Learning Community)](https://github.com/dmlc/dgl)
-  * [PyTorch Geometric(PyG, PyTorch, by Matthias Fey)](https://github.com/rusty1s/pytorch_geometric)
+  * [PyTorch Geometric(PyG, PyTorch, by Matthias Fey)](https://github.com/rusty1s/pytorch_geometric) and [its document](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
+### Other Tools
+  * [AttentionPathExplainer(APE, by qjf42)](https://github.com/qjf42/AttentionPathExplainer) and [its blog](https://zhuanlan.zhihu.com/p/150869105)
