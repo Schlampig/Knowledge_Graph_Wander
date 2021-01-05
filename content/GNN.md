@@ -5,7 +5,7 @@
   * [GNN教程：图神经网络“开山之作”！(Datawhale-20201112)](https://mp.weixin.qq.com/s/LrAjuJyzrXWAGvvTLTNd8Q)
   * [长文详解图神经网络(深度学习自然语言处理-20200817)](https://mp.weixin.qq.com/s/C1eikX6VJ_hQfySghobA1w)
   * [【长文综述】基于图神经网络的知识图谱研究进展(北邮GAMMA LAB-20200823)](https://mp.weixin.qq.com/s/Or0GXzQyjAcDcWZJ0s317Q)
-  * [ISOLABS】最新《图神经网络实用指南》2020论文，28页pdf（专知-20201017）](https://mp.weixin.qq.com/s/NMqiFHcR1A7a4uTnxiCVWw)
+  * [【ISOLABS】最新《图神经网络实用指南》2020论文，28页pdf（专知-20201017）](https://mp.weixin.qq.com/s/NMqiFHcR1A7a4uTnxiCVWw)
 
 ### Surveys
   * [AlphaTree-graphic-deep-neural-network(by gingo)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)
