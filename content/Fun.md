@@ -16,6 +16,7 @@
 ](https://github.com/THUNLP-MT)
   * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
 ](https://github.com/0voice)
+  * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
 
 ### App
   * [豆坟](https://github.com/doufen-org/tofu)
