@@ -50,3 +50,8 @@
   * author: Zhuiyi Technology
   * note: a task to build IE system with noise and incomplete annotations.
   
+### OpenHowNet
+  * link: https://github.com/thunlp/OpenHowNet
+  * author: THUNLP
+  * web: https://openhownet.thunlp.org/
+  * note: a project contains core data of HowNet and OpenHowNet API developed by THUNLP, which provides a convenient way to search information in HowNet, display sememe trees, calculate word similarity via sememes, etc. 
