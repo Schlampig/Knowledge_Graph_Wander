@@ -25,6 +25,12 @@
   * author: Jiajie Ya
   * note: NLP tools for ancient Chinese.
 
+### TextBlob
+  * link: https://github.com/sloria/TextBlob
+  * web: https://textblob.readthedocs.io/en/dev/
+  * author: Steven Loria
+  * note: a Python (2 and 3) library for processing textual data.
+
 ### Others
   * [JioNLP](https://github.com/dongrixinyu/jionlp)
   * [THULAC](http://thulac.thunlp.org/)
