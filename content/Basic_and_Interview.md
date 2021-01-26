@@ -1,6 +1,9 @@
 ## **Basic Skills and Interview Experiences**
 
 
+---
+## Awesome & Learn Python & Other Basic Skills
+
 ### Awesome-Awesomeness
   * link: https://github.com/bayandin/awesome-awesomeness
   * author: Alexander Bayandin
@@ -12,21 +15,29 @@
   * author: Vinta Chen
   * keywords: a curated list of awesome Python frameworks, libraries, software and resources
 
-### PYTORCH TUTORIALS (Official)
-  * link: https://pytorch.org/tutorials/
-  * keywords: tutorials for pytorch
-  * book: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
-  
-### pytorch-handbook
-  * link: https://github.com/zergtant/pytorch-handbook
-  * author: hengtao tantai
-  * keywords: open source pytorch tutorials
-
 ### PyCodeComplete
   * link: https://github.com/jumper2014/PyCodeComplete
   * author: jumper2014
   * keywords: learn python, collections, from Zhihu
   
+### The Art of Command Line
+  * link: https://github.com/jlevy/the-art-of-command-line
+  * author: Joshua Levy
+  * keywords: terminal operation skills
+  
+### Developer-Zero-To-Mastery
+  * link: https://github.com/wx-chevalier/Developer-Zero-To-Mastery
+  * author: wx-chevalier
+  * keywords: career plan and technique blue print for computer-science developers 
+
+---
+## Learn Algorithm
+
+### labuladong 的算法小抄
+  * link: https://github.com/labuladong/fucking-algorithm
+  * author: labuladong
+  * keywords: Crack LeetCode, not only how, but also why.
+
 ### Algorithm_Interview_Notes-Chinese
   * link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
   * author: HUA Yang
@@ -37,55 +48,92 @@
   * author: geekxh 
   * keywords: interview, computer science, Chinese & English version
 
-### AI-EDU
-  * link: https://github.com/microsoft/ai-edu
-  * author: Microsoft
-  * keywords: AI education materials, for Chinese students, teachers, IT professionals
+### Shortest-LeetCode-Python-Solutions
+  * link: https://github.com/cy69855522/Shortest-LeetCode-Python-Solutions
+  * author: Knife丶
+  * keywords: leetcode, solutions
 
-### AI learning
- * link: https://github.com/apachecn/AiLearning
- * author: Apache CN
- * keywords: mahine learning lessons
+---
+## Learn Pytorch
+
+### PYTORCH TUTORIALS (Official)
+  * link: https://pytorch.org/tutorials/
+  * keywords: tutorials for pytorch
+  * book: [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+  
+### pytorch-handbook
+  * link: https://github.com/zergtant/pytorch-handbook
+  * author: hengtao tantai
+  * keywords: open source pytorch tutorials
+  
+### Awesome-pytorch-list
+  * link: https://github.com/bharathgs/Awesome-pytorch-list
+  * author: bharathgs
+  * keywords: pytorch learning, deep learning, source collections
+
+### HyperDL-Tutorial
+  * link: https://github.com/zeusees/HyperDL-Tutorial
+  * author: ZEUSEE
+  * keywords: deep learning, source collections
+
+---
+## Learn Machine Learning & Deep Learning
+
+### AI算法工程师手册
+  * link: http://www.huaxiaozhuan.com/
+  * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
+  * keywords: machine learning and deep learning lessons
 
 ### PRML
   * link: https://github.com/ctgk/PRML
   * author: ctgk
   * keywords: Pattern Recognition and Machine Learning (PRML) algorithms implemented in Python
 
+### AI learning
+ * link: https://github.com/apachecn/AiLearning
+ * author: Apache CN
+ * keywords: mahine learning lessons
+ 
+### Coursera-ML-AndrewNg-Notes
+  * link: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+  * author: Huang Haiguang
+  * keywords: class notes (in Chinese) about Stanford Machine Learning Tutorial by Andrew Ng
+ 
+### AI-EDU
+  * link: https://github.com/microsoft/ai-edu
+  * author: Microsoft
+  * keywords: AI education materials, for Chinese students, teachers, IT professionals
+
 ### SCIR-Training-Day
   * link: https://github.com/HIT-SCIR/scir-training-day
   * author: HIT-SCIR
   * keywords: training program for new crews of HIT-SCIR
-  
-### Data-Competition-TopSolution
-  * link: https://github.com/Smilexuhc/Data-Competition-TopSolution
-  * author: Smilexuhc
-  * keywords: competition winner sharing, source collections, machine learning
-  
-### Developer-Zero-To-Mastery
-  * link: https://github.com/wx-chevalier/Developer-Zero-To-Mastery
-  * author: wx-chevalier
-  * keywords: career plan and technique blue print for computer-science developers 
 
-### Awesome-pytorch-list
-  * link: https://github.com/bharathgs/Awesome-pytorch-list
-  * author: bharathgs
-  * keywords: pytorch learning, deep learning, source collections
-  
-### HyperDL-Tutorial
-  * link: https://github.com/zeusees/HyperDL-Tutorial
-  * author: ZEUSEE
-  * keywords: deep learning, source collections
-
-### The Art of Command Line
-  * link: https://github.com/jlevy/the-art-of-command-line
-  * author: Joshua Levy
-  * keywords: terminal operation skills
-  
+### ABigSurvey
+  * link: https://github.com/NiuTrans/ABigSurvey
+  * author: NiuTrans Open Source
+  * keywords: survey hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+  * extra: [机器翻译：统计建模与深度学习方法](https://github.com/NiuTrans/MTBook) by the same author
+ 
 ### Deeplearning-models
   * link: https://github.com/rasbt/deeplearning-models
   * author: Sebastian Raschka 
   * keywords: deep learning architectures, models, tips, collections
+  
+### Production-Level-Deep-Learning
+  * link: https://github.com/alirezadir/Production-Level-Deep-Learning
+  * author: Alireza Dirafzoon
+  * keywords: repo, production-level deep learning, skills & tools stack
+
+### DeepLearning-500-questions
+  * link: https://github.com/princewen/DeepLearning-500-questions
+  * author: princewen
+  * keywords: deep learning knowledge collected in QA forms
+
+### Data-Competition-TopSolution
+  * link: https://github.com/Smilexuhc/Data-Competition-TopSolution
+  * author: Smilexuhc
+  * keywords: competition winner sharing, source collections, machine learning
   
 ### ML-NLP
   * link: https://github.com/NLP-LOVE/ML-NLP
@@ -97,33 +145,7 @@
   * web: https://chinesenlp.xyz
   * author: didi
   * keywords: Datasets, SOTA results of every fields of Chinese NLP
-
-### ABigSurvey
-  * link: https://github.com/NiuTrans/ABigSurvey
-  * author: NiuTrans Open Source
-  * keywords: survey hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
-  * extra: [机器翻译：统计建模与深度学习方法](https://github.com/NiuTrans/MTBook) by the same author
-
-### Production-Level-Deep-Learning
-  * link: https://github.com/alirezadir/Production-Level-Deep-Learning
-  * author: Alireza Dirafzoon
-  * keywords: repo, production-level deep learning, skills & tools stack
-
-### Shortest-LeetCode-Python-Solutions
-  * link: https://github.com/cy69855522/Shortest-LeetCode-Python-Solutions
-  * author: Knife丶
-  * keywords: leetcode, solutions
-
-### DeepLearning-500-questions
-  * link: https://github.com/princewen/DeepLearning-500-questions
-  * author: princewen
-  * keywords: deep learning knowledge collected in QA forms
-
-### Coursera-ML-AndrewNg-Notes
-  * link: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
-  * author: Huang Haiguang
-  * keywords: class notes (in Chinese) about Stanford Machine Learning Tutorial by Andrew Ng
-  
+ 
 ### nlp-journey
   * link: https://github.com/msgi/nlp-journey
   * author: msgi
@@ -138,7 +160,10 @@
   * link: https://github.com/lihanghang/NLP-Knowledge-Graph
   * author: Hang Hang Li
   * keywords: nlp and knowledge graph collection
-  
+
+---
+## Learn Data Science
+
 ### For-Data-Science-Beginners
   * link: https://github.com/amrrs/For-Data-Science-Beginners
   * author: amrrs
@@ -147,14 +172,10 @@
 ### pandas_exercises
   * link: https://github.com/guipsamora/pandas_exercises
   * author: Guilherme Samora
-  * keywords:  pandas exercise instructions, solutions without code / with code and comments
+  * keywords: pandas exercise instructions, solutions without code / with code and comments
 
-### AI算法工程师手册
-  * link: http://www.huaxiaozhuan.com/
-  * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
-  * keywords: machine learning and deep learning lessons
+### numpy-100
+  * link: https://github.com/rougier/numpy-100
+  * author: Nicolas P. Rougier
+  * keywords: numpy exercise instructions, solutions without code / with code and comments
 
-### labuladong 的算法小抄
-  * link: https://github.com/labuladong/fucking-algorithm
-  * author: labuladong
-  * keywords: Crack LeetCode, not only how, but also why.
