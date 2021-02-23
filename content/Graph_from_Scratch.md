@@ -10,3 +10,8 @@
 ### ShenMa from Ali
   * [remark](https://blog.csdn.net/yunqiinsight/article/details/79563396): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？<br>
   * [remark](https://mp.weixin.qq.com/s/qw9i24goTsVgdk1qW6ie9A): 知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？(阿里技术公众号)<br>
+
+### 无机器学习基于知识图谱构建问答程序
+  * link: [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)
+  * author: liuhuanyong
+  * main lib: urllib, lxml, xpath, pymongo, neo4j, py2neo, ahocorasick
