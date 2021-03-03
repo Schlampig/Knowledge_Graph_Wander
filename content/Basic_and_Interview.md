@@ -98,7 +98,13 @@
   * link: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
   * author: Huang Haiguang
   * keywords: class notes (in Chinese) about Stanford Machine Learning Tutorial by Andrew Ng
- 
+
+### AI SUMMER
+  * link: https://github.com/The-AI-Summer
+  * website: https://theaisummer.com/
+  * example: [Transformer](https://theaisummer.com/transformer/#the-core-building-block-multi-head-attention-and-parallel-implementation), [Attention](https://theaisummer.com/attention/), [Transformer from Scratch](https://theaisummer.com/einsum-attention/)
+  * keywords: blog to introduce Transformer in Pytorch, easy to understand
+
 ### AI-EDU
   * link: https://github.com/microsoft/ai-edu
   * author: Microsoft
