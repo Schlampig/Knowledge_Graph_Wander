@@ -15,3 +15,8 @@
   * link: [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)
   * author: liuhuanyong
   * main lib: urllib, lxml, xpath, pymongo, neo4j, py2neo, ahocorasick
+
+### stock-knowledge-graph
+  * link: https://github.com/lemonhu/stock-knowledge-graph
+  * author: lemonhu
+  * note: a small knowledge graph (knowledge base) construction using data published on the web.
