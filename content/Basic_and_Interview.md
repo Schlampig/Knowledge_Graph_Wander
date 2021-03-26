@@ -15,6 +15,12 @@
   * author: Vinta Chen
   * keywords: a curated list of awesome Python frameworks, libraries, software and resources
 
+### 100-plus-Python-programming-exercises-extended
+  * link: https://github.com/darkprinx/100-plus-Python-programming-exercises-extended
+  * author: Abdullah Al Masud Tushar
+  * keywords: python programming exercises
+  * extra: [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) by Jeffrey Hu
+
 ### PyCodeComplete
   * link: https://github.com/jumper2014/PyCodeComplete
   * author: jumper2014
