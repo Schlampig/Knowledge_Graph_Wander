@@ -20,3 +20,8 @@
   * link: https://github.com/lemonhu/stock-knowledge-graph
   * author: lemonhu
   * note: a small knowledge graph (knowledge base) construction using data published on the web.
+
+### DouBan-KGQA
+  * link: https://github.com/weizhixiaoyi/DouBan-KGQA
+  * author: 王振海Eric
+  * note: kbqa based on Douban Moive & Book.
