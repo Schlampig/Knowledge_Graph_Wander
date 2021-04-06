@@ -13,6 +13,7 @@
   * [FinancialDatasets](https://github.com/smoothnlp/FinancialDatasets) by SmoothNLP.
   * [DomainWords](https://github.com/smoothnlp/DomainWords) by SmoothNLP.
   * [THU Open Chinese Lexicon (THUOCL)](https://github.com/thunlp/THUOCL) by THUNLP
+  * [《现代汉语词典》（第7版）](https://github.com/CNMan/XDHYCD7th) by CNMan
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
