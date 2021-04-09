@@ -69,3 +69,8 @@
 
 ### Graph Embedding中文总结博客
   * link: http://www.jintiankansha.me/t/3gSTXhbNvB
+
+### TransE-PyTorch
+  * link: https://github.com/mklimasz/TransE-PyTorch
+  * author: Mateusz Klimaszewski
+  * note: implementation of TransE model in pytorch.
