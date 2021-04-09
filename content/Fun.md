@@ -25,12 +25,11 @@
 ](https://github.com/0voice)
   * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
 
-### Art
+### Art & Design
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [free-font](https://github.com/wordshub/free-font)
-
-### GitHub Style
   * [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
+  * [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/)
 
 ### App
   * [豆坟](https://github.com/doufen-org/tofu)
