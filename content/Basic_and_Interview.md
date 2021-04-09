@@ -173,6 +173,11 @@
   * author: Hang Hang Li
   * keywords: nlp and knowledge graph collection
 
+### nlp-beginner-finish
+  * link: https://github.com/Alic-yuan/nlp-beginner-finish
+  * author: Alic-yuan
+  * keywords: for nlp new-bee
+
 ---
 ## Learn Data Science
 
