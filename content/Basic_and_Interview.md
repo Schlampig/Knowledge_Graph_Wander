@@ -60,7 +60,7 @@
   * keywords: leetcode, solutions
 
 ---
-## Learn Pytorch
+## Learn Pytorch/TF/Keras ...
 
 ### PYTORCH TUTORIALS (Official)
   * link: https://pytorch.org/tutorials/
@@ -82,6 +82,11 @@
   * author: ZEUSEE
   * keywords: deep learning, source collections
 
+### eat_tensorflow2_in_30_days
+  * link: https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+  * author: lyhue1991
+  * keywords: tf2 learning
+
 ---
 ## Learn Machine Learning & Deep Learning
 
@@ -99,6 +104,11 @@
  * link: https://github.com/apachecn/AiLearning
  * author: Apache CN
  * keywords: mahine learning lessons
+
+### AI Study
+  * link: https://github.com/leerumor/ai-study
+  * author: leerumor
+  * keywords: artificial intelligence lessons
  
 ### Coursera-ML-AndrewNg-Notes
   * link: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
