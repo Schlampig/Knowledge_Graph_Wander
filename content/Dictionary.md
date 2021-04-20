@@ -36,3 +36,5 @@
 ### Other Data
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
+  * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
+  * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
