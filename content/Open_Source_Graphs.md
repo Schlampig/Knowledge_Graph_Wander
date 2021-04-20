@@ -22,6 +22,9 @@
 ### WordNet
   * link: https://wordnet.princeton.edu/download
 
+### Chinese WordNet
+  * link: [中文詞彙網路(CWN 1.0)](http://lope.linguistics.ntu.edu.tw/cwn/#)([其他源](http://openkg.cn/dataset/chinese-wordnet))，[汉语开放词网(COW)](http://compling.hss.ntu.edu.sg/cow/)（[其他源](http://openkg.cn/dataset/wordnet)）
+
 ### HowNet
   * web: http://www.keenage.com/
   * link: https://github.com/thunlp/OpenHowNet-API
