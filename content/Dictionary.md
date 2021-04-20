@@ -33,6 +33,10 @@
   * [ChineseSemanticKB](https://github.com/liuhuanyong/ChineseSemanticKB) by liuhuanyong.
   * [funNLP 同/反义词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
 
+### Similar Character
+  * [SimilarCharacter](https://github.com/contr4l/SimilarCharacter) by XiaoFang.
+  * [CharMap](https://github.com/guo-yong-zhi/CharMap) by guo-yong-zhi.
+
 ### Other Data
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
