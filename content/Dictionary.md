@@ -37,6 +37,11 @@
   * [SimilarCharacter](https://github.com/contr4l/SimilarCharacter) by XiaoFang.
   * [CharMap](https://github.com/guo-yong-zhi/CharMap) by guo-yong-zhi.
 
+### Pronunciation
+  * [pinyin-data](https://github.com/mozillazg/pinyin-data) by Huang Huang.
+  * [phrase-pinyin-data](https://github.com/mozillazg/phrase-pinyin-data) by Huang Huang.
+  * [语言文字规范标准](http://www.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzgfbz/) from 国家语言文字信息管理司.
+
 ### Other Data
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
