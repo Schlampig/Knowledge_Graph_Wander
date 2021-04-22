@@ -70,6 +70,7 @@
   * link: http://lic2019.ccf.org.cn/kg
   * code: [kg-2019-baseline](https://github.com/bojone/kg-2019-baseline) and [kg-2019-final](https://github.com/bojone/kg-2019)(author: 苏剑林(Jianlin Su))
   * code: [IE-Bert-CNN](https://github.com/Wangpeiyi9979/IE-Bert-CNN)(author: Peiyi Wang)
+  * code: [Entity-Relation-Extraction](https://github.com/yuanxiaosc/Entity-Relation-Extraction)(author: 袁宵)
   
 ### JointRE
   * link: https://github.com/datquocnguyen/jointRE
