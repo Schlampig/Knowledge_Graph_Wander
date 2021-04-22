@@ -132,4 +132,10 @@
   * author: Hong Wang
   * [paper](https://arxiv.org/abs/1903.02588)
   * note: a lifelong learning strategy to handle the FewRel challenge
+ 
+### JointRE
+  * linke: https://github.com/yubowen-ph/JointER
+  * author: yubowen-ph
+  * [paper](https://yubowen-ph.github.io/files/2020_ECAI_ETL/ETL.pdf)
+  * note: using novel decomposed subtasks to solve the problem
   
