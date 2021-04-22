@@ -1,4 +1,4 @@
-## **Data Augumentation**
+## **Data Augmentation**
 
 
 ### NLPCDA
@@ -13,6 +13,11 @@
   * chinese eda: [EDA_NLP_for_Chinese](https://github.com/zhanlaoban/EDA_NLP_for_Chinese)
   * pypi: [edalize](https://github.com/olofk/edalize)
   * note: easy data augmentation techniques for boosting performance on text classification tasks.
+
+### LaserTagger
+  * link: https://github.com/tongchangD/text_data_enhancement_with_LaserTagger
+  * author: tongchangD
+  * note: a method to retell Chinese text on modified LaserTagger Model.
 
 ### python-pinyin
   * link: https://github.com/mozillazg/python-pinyin
