@@ -48,3 +48,4 @@
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
+  * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
