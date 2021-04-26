@@ -11,6 +11,11 @@
   * note: a Haskell library that parses text into structured data.
   * extra: [python-duckling by FraBle](https://github.com/FraBle/python-duckling).
 
+### Recognizers-Text
+  * link: https://github.com/microsoft/Recognizers-Text
+  * author: Microsoft
+  * note: a tool providing robust recognition and resolution of entities like numbers, units, and date/time; expressed in multiple languages.
+
 ### Snorkel
   * link: https://github.com/HazyResearch/snorkel
   * author: HazyResearch (Stanford)
