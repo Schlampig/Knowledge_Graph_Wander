@@ -35,6 +35,11 @@
   * author: Philippe Rémy
   * note: a python wrapper for Stanford OpenIE system.
 
+### DeepIE
+  * link: https://github.com/loujie0822/DeepIE
+  * author: loujie0822
+  * note: information extraction based on deep learning.
+
 ### Supervised-OIE
   * link: https://github.com/gabrielStanovsky/supervised-oie
   * author: Gabriel Stanovsky
