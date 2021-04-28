@@ -38,7 +38,7 @@
 ### DeepIE
   * link: https://github.com/loujie0822/DeepIE
   * author: loujie0822
-  * note: information extraction based on deep learning.
+  * note: information extraction based on deep learning, including papers and articles.
 
 ### Supervised-OIE
   * link: https://github.com/gabrielStanovsky/supervised-oie
