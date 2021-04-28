@@ -49,3 +49,9 @@
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
+
+### 千言(Language Understanding and Generation Evaluation Benchmarks, LUGE)
+  * homepage: https://www.luge.ai/
+  * link: https://github.com/luge-ai/luge-ai / https://gitee.com/luge-ai/luge-ai
+  * author: luge-ai (luge_ai@126.com)
+  * note: 百度联合中国计算机学会自然语言处理专委会、中国中文信息学会评测工作委员会共同发起的，由来自国内多家高校和企业的数据资源研发者共同建设的中文开源数据集及评测项目。
