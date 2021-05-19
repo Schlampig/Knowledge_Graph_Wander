@@ -37,3 +37,4 @@
   * [SnowNLP](https://github.com/isnowfy/snownlp)
   * [FudanNLP](https://github.com/FudanNLP/fnlp)
   * [LAC](https://github.com/baidu/lac)
+  * [SmoothNLP](https://github.com/smoothnlp/SmoothNLP)
