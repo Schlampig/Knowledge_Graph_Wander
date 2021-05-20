@@ -13,7 +13,7 @@
   * [Database](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Database.md)
  
 ### Graph Overview
-  * [Open Source Graphs](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Source_Graphs.md)
+  * [Open Source Graphs](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Source_Graphs.md):fire:
   * [Graph from Scratch](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Graph_from_Scratch.md)
 
 ### Information Extraction
