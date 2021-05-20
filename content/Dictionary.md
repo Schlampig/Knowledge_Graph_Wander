@@ -53,6 +53,7 @@
   * [china-divisions](https://github.com/wi1dcard/china-divisions) by wi1dcard: 中国行政区划地址库 SDK + 爬虫 + 数据.
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday: 中国快递地址解析.
   * [district](https://github.com/redraiment/district) by redraiment: 面向中国大陆地区的 手机号码、电话号码、IP地址 归属地查询库.
+  * [中国·国家地名信息库](http://dmfw.mca.gov.cn/index.html).
 
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
