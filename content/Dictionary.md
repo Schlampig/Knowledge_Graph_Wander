@@ -43,11 +43,24 @@
   * [语言文字规范标准](http://www.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzgfbz/) from 国家语言文字信息管理司.
   * [pypinyin](https://pypi.org/project/pypinyin/) by Huang Huang.
 
-### Other Data
+### Address
+  * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
+  * [address_cut](https://github.com/LiuNingGit/address_cut) by LiuNingGit: 基于HMM方法的中文地址切分.
+  * [chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) by moonrailgun: 中国地址生成器，生成三级地址、四级地址、随机生成完整地址.
+  * [The-Location-Data-of-Schools-in-China](https://github.com/pg7go/The-Location-Data-of-Schools-in-China) by pg7go: 中国所有学校地理位置Json数据库.
+  * [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) by modood: 中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级.
+  * [data_location](https://github.com/mumuy/data_location) by mumuy: 中国行政区划信息.
+  * [china-divisions](https://github.com/wi1dcard/china-divisions) by wi1dcard: 中国行政区划地址库 SDK + 爬虫 + 数据.
+  * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday: 中国快递地址解析.
+  * [district](https://github.com/redraiment/district) by redraiment: 面向中国大陆地区的 手机号码、电话号码、IP地址 归属地查询库.
+
+### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
+  * [mirana-datas](https://github.com/yiifaa/mirana-datas) by 大头蚁: 中文姓名大全+中国主要省市经纬度信息.
+
+### Others
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
-  * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
 
 ### 千言(Language Understanding and Generation Evaluation Benchmarks, LUGE)
