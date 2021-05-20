@@ -31,6 +31,7 @@
   * [free-font](https://github.com/wordshub/free-font)
   * [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
   * [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/)
+  * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
 
 ### Others
   * [豆坟](https://github.com/doufen-org/tofu)
