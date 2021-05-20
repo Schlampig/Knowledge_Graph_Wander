@@ -35,8 +35,8 @@
   * [Commonsense Knowledge Graphs (CKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/CKG.md)
 
 ### Text Operation
-  * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md)
-  * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md)
+  * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md):fire:
+  * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md):fire:
   * [Data Augmentation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Data_Augment.md)
   * [Sequence/Sentence Operation (Seq2Seq and more)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Seq_to_seq.md)
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
@@ -65,7 +65,7 @@
   * [Lifelong Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Lifelong_Learning.md)
 
 ### Miscellaneous
-  * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md)
+  * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md):fire:
   * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md)
 
 <br>
