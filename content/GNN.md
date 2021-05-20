@@ -19,4 +19,4 @@
 
 ### Other Tools
   * [AttentionPathExplainer(APE, by qjf42)](https://github.com/qjf42/AttentionPathExplainer) and [its blog](https://zhuanlan.zhihu.com/p/150869105)
-  * [GNN-algorithms](https://github.com/wangyouze/GNN-algorithms)
+  * [GNN-algorithms: 图神经网络相关算法详述及实现教程。](https://github.com/wangyouze/GNN-algorithms)
