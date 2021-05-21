@@ -206,3 +206,27 @@
   * author: Nicolas P. Rougier
   * keywords: numpy exercise instructions, solutions without code / with code and comments
 
+---
+## Learn Python Engineering
+
+### RoadPython
+  * link: https://github.com/zhangziliang04/RoadPython
+  * author: 张子良
+  * keywords: 图说Python菜鸟版配套源码
+
+### Road-to-Python-for-NE
+  * link: https://github.com/parrywangyin/Road-to-Python-for-NE
+  * author: parrywangyin
+  * keywords: 《网络工程师的Python之路》视频教学及代码
+
+### Python_full-stack
+  * link: https://github.com/kokohui/Python_full-stack
+  * author: kokohui
+  * keywords: Python全栈知识点及代码
+
+### uplooking_python_full_stack
+  * link: https://github.com/xsren/uplooking_python_full_stack
+  * author: xsren
+  * keywords: 尚观Python全栈工程师周末班课件及代码
+
+
