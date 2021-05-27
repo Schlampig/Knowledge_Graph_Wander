@@ -20,11 +20,13 @@
   * [ShameCom](https://github.com/ShameCom/ShameCom) by [ShameCom](https://github.com/ShameCom): 校招污点公司记录。
 
 ### Literature
+  * [豆坟](https://github.com/doufen-org/tofu)
   * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
 ](https://github.com/THUNLP-MT)
   * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
 ](https://github.com/0voice)
   * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
+  * [喵语言](https://github.com/miao-lang/miao-lang)
 
 ### Art & Design
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
@@ -33,6 +35,8 @@
   * [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/)
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
 
-### Others
-  * [豆坟](https://github.com/doufen-org/tofu)
-  * [喵语言](https://github.com/miao-lang/miao-lang)
+### Medical
+  * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
+
+  
+
