@@ -38,7 +38,7 @@
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
 
 ### City Life
-  * [新一线知城数据平台](www.datayicai.com)
+  * [新一线知城数据平台](https://www.datayicai.com/home#/)
 
 ### Medical
   * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
