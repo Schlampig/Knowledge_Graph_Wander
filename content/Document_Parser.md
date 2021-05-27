@@ -1,22 +1,23 @@
 ## **Document Parser**
 
 ### PDF
-  * PyPDF2: [pypi](https://pypi.org/project/PyPDF2/)/[documentation](http://mstamy2.github.io/PyPDF2/)
+  * PyPDF2: [pypi](https://pypi.org/project/PyPDF2/)/[doc](http://mstamy2.github.io/PyPDF2/)
   * pdftotext: [pypi](https://pypi.org/project/pdftotext/)/[code](https://github.com/jalan/pdftotext)
-  * pdfminer: [pypi](https://pypi.org/project/pdfminer/)/[documentation](https://euske.github.io/pdfminer/index.html)
+  * pdfminer: [pypi](https://pypi.org/project/pdfminer/)/[doc](https://euske.github.io/pdfminer/index.html)
   * tabula-py: [code](https://github.com/chezou/tabula-py)
-  * pdfx: [pypi](https://pypi.org/project/pdfx/1.3.0/)/[documentation](https://www.metachris.com/pdfx/)
+  * pdfx: [pypi](https://pypi.org/project/pdfx/1.3.0/)/[doc](https://www.metachris.com/pdfx/)
   * PDFlib:[official homepage (not free)](https://www.pdflib.com/)
   * Tika: [pypi](https://pypi.org/project/tika/1.8.8/)/[code](https://github.com/chrismattmann/tika-python)/[intro](https://www.cnblogs.com/baiboy/p/tika.html)
   * pdf2image: [code](https://github.com/Belval/pdf2image)
   
 ### DOC/DOCX
-  * textract: [pypi](https://pypi.org/project/textract/)/[documentation](https://textract.readthedocs.io/en/stable/)
-  * python-docx: [pypi](https://pypi.org/project/python-docx/)/[documentation](https://python-docx.readthedocs.io/en/latest/#)
+  * textract: [pypi](https://pypi.org/project/textract/)/[doc](https://textract.readthedocs.io/en/stable/)
+  * python-docx: [pypi](https://pypi.org/project/python-docx/)/[doc](https://python-docx.readthedocs.io/en/latest/#)
 
 ### Excel
   * [Python读写Excel文件第三方库汇总](https://blog.csdn.net/qq_34617032/article/details/80433939)
-  * xlwings: [pypi](https://pypi.org/project/xlwings/)/[homepage](https://www.xlwings.org/)/[documentation](https://docs.xlwings.org/en/stable/index.html)
+  * xlwings: [pypi](https://pypi.org/project/xlwings/)/[homepage](https://www.xlwings.org/)/[doc](https://docs.xlwings.org/en/stable/index.html)
+  * openpyxl: [pypi](https://pypi.org/project/openpyxl/)/[homepage](https://openpyxl.readthedocs.io/en/stable/index.html)/[doc](https://openpyxl.readthedocs.io/en/stable/)
 
 ### Markdown
   * pypandoc: [pypi](https://pypi.org/project/pypandoc/#installing-pandoc-manually)/[code](https://github.com/bebraw/pypandoc)
@@ -41,7 +42,7 @@
   * note: an open-source CRF Reference String Parsing Package. 
 
 ### Simplified Chinese - Traditional Chinese
-  * OpenCC: [git](https://github.com/BYVoid/OpenCC)/[pypi](https://pypi.org/project/opencc-python/)/[documentation](https://bitbucket.org/victorlin/opencc_python)
+  * OpenCC: [git](https://github.com/BYVoid/OpenCC)/[pypi](https://pypi.org/project/opencc-python/)/[doc](https://bitbucket.org/victorlin/opencc_python)
 
 ### LibreOffice
  * link: https://github.com/unoconv/unoconv
