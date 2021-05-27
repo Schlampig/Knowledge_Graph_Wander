@@ -37,6 +37,9 @@
   * [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/)
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
 
+### City Life
+  * [新一线知城数据平台](www.datayicai.com)
+
 ### Medical
   * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
 
