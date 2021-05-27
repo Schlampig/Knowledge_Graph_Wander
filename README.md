@@ -8,7 +8,7 @@
 ### Basic Skill
   * [Useful Toolboxes](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Useful_Toolboxes.md)
   * [Literatures Searching Tools](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Literatures_Searching_Tools.md)
-  * [Document Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Document_Parser.md)
+  * [Document Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Document_Parser.md):fire:
   * [Web Crawler](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Web_Crawler.md) 
   * [Database](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Database.md)
  
@@ -18,7 +18,7 @@
 
 ### Information Extraction
   * [Rule-based Techniques](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Rule_based_Techniques.md)
-  * [Basic Semantic Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
+  * [Basic Semantic Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md):fire:
   * [Relation Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Relation_Extraction.md)
   * [Open Information Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Information_Extraction.md)
   * [Event Extraction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Event_Extraction.md)
