@@ -14,10 +14,12 @@
   * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
   * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
   
-### News
+### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
   * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
   * [ShameCom](https://github.com/ShameCom/ShameCom) by [ShameCom](https://github.com/ShameCom): 校招污点公司记录。
+  * [955.WLB](https://github.com/formulahendry/955.WLB) by [Jun Han](https://github.com/formulahendry): “955”公司白名单。
+  * [Natasha](https://github.com/996-icu-avengers/Natasha) by [996-icu-avengers](https://github.com/996-icu-avengers): 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
 
 ### Literature
   * [豆坟](https://github.com/doufen-org/tofu)
