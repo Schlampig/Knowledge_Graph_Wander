@@ -54,6 +54,8 @@
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday: 中国快递地址解析.
   * [district](https://github.com/redraiment/district) by redraiment: 面向中国大陆地区的 手机号码、电话号码、IP地址 归属地查询库.
   * [中国·国家地名信息库](http://dmfw.mca.gov.cn/index.html).
+  * [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) by [soaringsoul](https://github.com/soaringsoul): 百度地图数据采集GUI工具.
+  * [Python-POI-Spider](https://github.com/JasonXuDeveloper/Python-POI-Spider) by [JasonXuDeveloper](https://github.com/JasonXuDeveloper).
 
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
