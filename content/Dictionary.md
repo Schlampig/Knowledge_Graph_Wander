@@ -49,13 +49,14 @@
   * [chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) by moonrailgun: 中国地址生成器，生成三级地址、四级地址、随机生成完整地址.
   * [The-Location-Data-of-Schools-in-China](https://github.com/pg7go/The-Location-Data-of-Schools-in-China) by pg7go: 中国所有学校地理位置Json数据库.
   * [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) by modood: 中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级.
+  * [province-city-china](https://github.com/uiwjs/province-city-china) by uiw: 中华人民共和国行政区划（五级）：省级、地级、县级、乡级和村级。来自中华人民共和国民政部，用于查询中国省，市和区数据的网站。
   * [data_location](https://github.com/mumuy/data_location) by mumuy: 中国行政区划信息.
   * [china-divisions](https://github.com/wi1dcard/china-divisions) by wi1dcard: 中国行政区划地址库 SDK + 爬虫 + 数据.
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday: 中国快递地址解析.
   * [district](https://github.com/redraiment/district) by redraiment: 面向中国大陆地区的 手机号码、电话号码、IP地址 归属地查询库.
   * [中国·国家地名信息库](http://dmfw.mca.gov.cn/index.html).
-  * [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) by [soaringsoul](https://github.com/soaringsoul): 百度地图数据采集GUI工具.
-  * [Python-POI-Spider](https://github.com/JasonXuDeveloper/Python-POI-Spider) by [JasonXuDeveloper](https://github.com/JasonXuDeveloper).
+  * [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) by soaringsoul: 百度地图数据采集GUI工具.
+  * [Python-POI-Spider](https://github.com/JasonXuDeveloper/Python-POI-Spider) by JasonXuDeveloper.
 
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
