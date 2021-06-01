@@ -44,11 +44,6 @@
   * author: labuladong
   * keywords: Crack LeetCode, not only how, but also why.
 
-### Algorithm_Interview_Notes-Chinese
-  * link: https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
-  * author: HUA Yang
-  * keywords: interview, python, nlp, source collections
-
 ### Hello-Algorithm
   * link: https://github.com/geekxh/hello-algorithm
   * author: geekxh 
