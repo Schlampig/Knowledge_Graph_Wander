@@ -182,6 +182,7 @@
   * link: https://github.com/Alic-yuan/nlp-beginner-finish
   * author: Alic-yuan
   * keywords: for nlp new-bee
+  * extra: [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)
 
 ---
 ## Learn Data Science
