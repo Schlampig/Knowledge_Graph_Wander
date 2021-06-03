@@ -184,6 +184,12 @@
   * keywords: for nlp new-bee
   * extra: [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)
 
+### nlp100_Python
+  * link: https://github.com/reo11/nlp100_Python
+  * author: reo11
+  * keywords: 言語処理100本ノック 2015をPythonで挑戦した時のコードです.
+  * extra: [TMU-NLP](https://github.com/tmu-nlp)
+
 ---
 ## Learn Data Science
 
