@@ -69,7 +69,7 @@
 
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md):fire:
-  * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md)
+  * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md):fire:
 
 <br>
 
