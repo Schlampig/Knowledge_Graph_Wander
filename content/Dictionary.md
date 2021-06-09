@@ -12,8 +12,9 @@
   * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
   * [FinancialDatasets](https://github.com/smoothnlp/FinancialDatasets) by SmoothNLP.
   * [DomainWords](https://github.com/smoothnlp/DomainWords) by SmoothNLP.
-  * [THU Open Chinese Lexicon (THUOCL)](https://github.com/thunlp/THUOCL) by THUNLP
-  * [《现代汉语词典》（第7版）](https://github.com/CNMan/XDHYCD7th) by CNMan
+  * [THU Open Chinese Lexicon (THUOCL)](https://github.com/thunlp/THUOCL) by THUNLP.
+  * [《现代汉语词典》（第7版）](https://github.com/CNMan/XDHYCD7th) by CNMan.
+  * [the-most-complete-dictionary-ever](https://github.com/i3ef0xh4ck/the-most-complete-dictionary-ever) by i3ef0xh4ck.
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
