@@ -4,6 +4,11 @@
 ---
 ## Awesome & Learn Python & Other Basic Skills
 
+### Repositories Ranking
+  * link: https://gitstar-ranking.com/repositories
+  * author: GitHub
+  * keywords: repositories ranking list according to stars
+
 ### Awesome-Awesomeness
   * link: https://github.com/bayandin/awesome-awesomeness
   * author: Alexander Bayandin
