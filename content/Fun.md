@@ -8,6 +8,7 @@
   * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
   * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
   * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+  * [github: easy-rl](https://github.com/datawhalechina/easy-rl)
 
 ### Language Learning
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
