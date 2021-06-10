@@ -8,7 +8,11 @@
   * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
   * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
   * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-  * [github: easy-rl](https://github.com/datawhalechina/easy-rl)
+  * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
+
+### Recommender system
+  * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
+  * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
 
 ### Language Learning
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
