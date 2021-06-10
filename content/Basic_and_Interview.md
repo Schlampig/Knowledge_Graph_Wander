@@ -213,6 +213,11 @@
   * author: Nicolas P. Rougier
   * keywords: numpy exercise instructions, solutions without code / with code and comments
 
+### Datawhale
+  * link: https://github.com/datawhalechina
+  * author: Datawhale
+  * homepage: http://datawhale.club
+
 ---
 ## Learn Python Engineering
 
