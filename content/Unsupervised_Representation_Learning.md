@@ -9,6 +9,7 @@
   * [CLUE](https://github.com/CLUEbenchmark/CLUE): Advanced version of ChineseGLUE ([homepage](https://www.cluebenchmarks.com/)).
 
 ### Word Dictionary / Word Vector Resource
+  * [OSCAR](https://oscar-corpus.com/): Open Super-large Crawled Aggregated coRpus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
   * [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) by Embedding.
   * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
