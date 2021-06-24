@@ -13,6 +13,7 @@
 ### Recommender system
   * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
   * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
+  * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
 
 ### Language Learning
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
