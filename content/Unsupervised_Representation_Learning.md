@@ -130,3 +130,10 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * code: https://github.com/deepset-ai/FARM
   * author: deepset-ai
   * note: tool makes Transfer Learning with BERT & Co simple, fast and enterprise-ready.
+
+### AliceMind
+  * code: https://github.com/alibaba/AliceMind/
+  * author: alibaba-luofuli
+  * note: ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
+  * news: [官宣！达摩院开源秘藏深度语言模型体系AliceMind，NLP正在走向大工业时代](https://mp.weixin.qq.com/s/hjnDl3sxDvN2VjtC85DZQw)
+  
