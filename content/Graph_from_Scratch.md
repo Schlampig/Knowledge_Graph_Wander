@@ -1,6 +1,7 @@
 ## **Graph from Scratch**
 
 ### Paper
+  * [paper](https://arxiv.org/abs/2106.01686): Zhang, N., Jia, Q., Deng, S., Chen, X., Ye, H., Chen, H., ... & Chen, H. (2021). AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba. KDD 2021.
   * [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-11964-9_19): Wang, H., Wu, T., Qi, G., & Tong, R. (2014). On Publishing Chinese Linked Open Schema. International Semantic Web Conference.
   * [paper](https://www.researchgate.net/publication/312561715_An_automatic_approach_for_constructing_a_knowledge_base_of_symptoms_in_Chinese): Ruan, T. , Wang, M. , Sun, J. , Wang, T. , & Gao, J. . (2016). An automatic approach for constructing a knowledge base of symptoms in Chinese. 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
   * [paper](https://arxiv.org/abs/1703.05028): Wu, S. , Hsiao, L. , Cheng, X. , Hancock, B. , Rekatsinas, T. , & Levis, P. , et al. (2017). Fonduer: knowledge base construction from richly formatted data. arXiv.
