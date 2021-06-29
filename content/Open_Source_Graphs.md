@@ -89,3 +89,5 @@
   * link: https://github.com/BangLiu/ConcepT
   * [paper](https://www.researchgate.net/publication/333259949_A_User-Centered_Concept_Mining_System_for_Query_and_Document_Understanding_at_Tencent): Bang Liu, Weidong Guo, Di Niu, Chaoyue Wang, Shunnan Xu, Jinghong Lin, Kunfeng Lai, and Yu Xu. 2019. A User-Centered Concept Mining System for Query and Document Understanding at Tencent. KDD. 1831–1841.
   * note: datasets from ConcepT system, including User-Centered Concept MCining (UCCM) dataset and corresponding patterns and concepts.
+  * [remark](https://cloud.tencent.com/developer/article/1452974): KDD 2019 | 用户视角看世界：腾讯提出ConcepT概念挖掘系统，助力推荐搜索.
+
