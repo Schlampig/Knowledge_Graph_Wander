@@ -59,3 +59,10 @@
 ### flashtext
   * link: https://github.com/vi3k6i5/flashtext
   * author: Vikash Singh
+
+
+### AutoPhrase
+  * link: https://github.com/shangjingbo1226/AutoPhrase
+  * author: Jingbo Shang
+  * note: a tool for automated phrase mining from massive text corpora
+  * extra: [AutoPhraseX](https://github.com/luozhouyang/AutoPhraseX) by luozhouyang.
