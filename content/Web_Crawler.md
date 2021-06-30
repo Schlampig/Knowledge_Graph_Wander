@@ -7,6 +7,7 @@
 ### Tools
   * [Scrapy](https://github.com/scrapy/scrapy)
   * [Pyspider](https://github.com/binux/pyspider)
+  * [InfoSpider](https://github.com/kangvcar/InfoSpider)
 
 ### Literatures/Books
 
