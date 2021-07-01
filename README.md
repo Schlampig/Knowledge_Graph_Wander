@@ -41,13 +41,13 @@
   * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md):fire:
   * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md):fire:
   * [Data Augmentation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Data_Augment.md)
+  * [Sentence Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Sentence_Matching.md)
   * [Sequence/Sentence Operation (Seq2Seq and more)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Seq_to_seq.md)
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
-  * [Sentence Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Sentence_Matching.md)
   * Machine Reading Comprehension
-  * Summarization/Text Simplification
   * Question Generation
+  * Summarization/Text Simplification
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
   * [Text Mining](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Mining.md) [(Parser Tools)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
 
