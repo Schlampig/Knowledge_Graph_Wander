@@ -7,6 +7,7 @@
   * [Kashgari](https://github.com/BrikerMan/Kashgari): a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
   * [ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
   * [CLUE](https://github.com/CLUEbenchmark/CLUE): Advanced version of ChineseGLUE ([homepage](https://www.cluebenchmarks.com/)).
+  * [ChineseBLUE](https://github.com/alibaba-research/ChineseBLUE): Chinese Biomedical Language Understanding Evaluation benchmark.
 
 ### Word Dictionary / Word Vector Resource
   * [OSCAR](https://oscar-corpus.com/): **O**pen **S**uper-large **C**rawled **A**ggregated co**R**pus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
