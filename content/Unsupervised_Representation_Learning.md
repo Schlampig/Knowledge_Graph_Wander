@@ -151,6 +151,6 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   
 ### Why so many useless fxxking huge language models?
   * 智源 2.0
-  * 盘古
+  * 盘古（PanGu）: [code](https://git.openi.org.cn/PCL-Platform.Intelligence/PanGu-Alpha), [news](https://zhuanlan.zhihu.com/p/368261642).
   * PLUG
   * ERNIE 3.0
