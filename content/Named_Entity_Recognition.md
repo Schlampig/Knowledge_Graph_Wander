@@ -36,6 +36,12 @@
   * author: lonePatinet
   * Chinese NER(Named Entity Recognition) using BERT (Softmax, CRF, Span).
 
+### LexiconAugmentedNER
+  * link: https://github.com/v-mipeng/LexiconAugmentedNER 
+  * paper: [Simplify the Usage of Lexicon in Chinese NER](https://arxiv.org/pdf/1908.05969.pdf)
+  * author: Minlong Peng
+  * note: reject complicated operations for incorporating lexicon for Chinese NER.
+
 ### CLUENER2020
   * link: https://github.com/CLUEbenchmark/CLUENER2020
   * author: CLUE benchmark
