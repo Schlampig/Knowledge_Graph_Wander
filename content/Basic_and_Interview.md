@@ -195,6 +195,11 @@
   * keywords: 言語処理100本ノック 2015をPythonで挑戦した時のコードです.
   * extra: [TMU-NLP](https://github.com/tmu-nlp)
 
+### 一本开源的NLP入门书籍
+  * link: https://github.com/duoergun0729/nlp
+  * author: duoergun0729
+  * keywords: NLP入门
+
 ---
 ## Learn Data Science
 
