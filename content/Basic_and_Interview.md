@@ -25,6 +25,7 @@
   * author: Abdullah Al Masud Tushar
   * keywords: python programming exercises
   * extra: [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) by Jeffrey Hu
+  * extra: [Python​零基础100题，一起开启Python之旅吧！](https://mp.weixin.qq.com/s/cpAEa8vY2sZ8ATST5mn7lQ) by 和鲸
 
 ### PyCodeComplete
   * link: https://github.com/jumper2014/PyCodeComplete
