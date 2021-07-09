@@ -1,5 +1,12 @@
 ## **Document Parser**
 
+### OCR
+  * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  * [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+  * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
+  * [chinese_ocr](https://github.com/YCG09/chinese_ocr)/[chineseocr](https://github.com/chineseocr/chineseocr)/[CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
+  * [PandaOCR](https://github.com/miaomiaosoft/PandaOCR)
+
 ### PDF
   * PyPDF2: [pypi](https://pypi.org/project/PyPDF2/)/[doc](http://mstamy2.github.io/PyPDF2/)
   * pdftotext: [pypi](https://pypi.org/project/pdftotext/)/[code](https://github.com/jalan/pdftotext)
