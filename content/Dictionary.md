@@ -53,7 +53,6 @@
     - [Pinyin2ChineseChars](https://github.com/iseesaw/Pinyin2ChineseChars) by iseesaw.
   * Hanzi-to-AncientPinyin
     - [Ancient-Chinese-Pinyin-transform-Tool](https://github.com/yaojialyu/Ancient-Chinese-Pinyin-transform-Tool) by yaojialyu.
-    - [python-gupinyin](https://github.com/enzeas/python-gupinyin) by enzeas.
   
 ### Address
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
