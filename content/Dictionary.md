@@ -39,11 +39,22 @@
   * [CharMap](https://github.com/guo-yong-zhi/CharMap) by guo-yong-zhi.
 
 ### Pronunciation
-  * [pinyin-data](https://github.com/mozillazg/pinyin-data) by Huang Huang.
-  * [phrase-pinyin-data](https://github.com/mozillazg/phrase-pinyin-data) by Huang Huang.
-  * [语言文字规范标准](http://www.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzgfbz/) from 国家语言文字信息管理司.
-  * [pypinyin](https://pypi.org/project/pypinyin/) by Huang Huang.
-
+  * Hanzi-to-Pinyin
+    - [pinyin-data](https://github.com/mozillazg/pinyin-data) by Huang Huang.
+    - [phrase-pinyin-data](https://github.com/mozillazg/phrase-pinyin-data) by Huang Huang.
+    - [语言文字规范标准](http://www.moe.gov.cn/s78/A19/A19_ztzl/ztzl_yywzgfbz/) from 国家语言文字信息管理司.
+    - [pypinyin](https://pypi.org/project/pypinyin/) by Huang Huang.
+  * Pinyin-to-Hanzi
+    - [Pinyin2Hanzi](https://github.com/letiantian/Pinyin2Hanzi) by 乐天.
+    - [pinyin2hanzi](https://github.com/ranchlai/pinyin2hanzi) by ranchlai.
+    - [SimpleChinese2](https://github.com/chenmingxiang110/SimpleChinese2) by chenmingxiang110.
+    - [pinyin2hanzi_python](https://github.com/Capino512/pinyin2hanzi_python) by Capino512.
+    - [pinyin2hanzi](https://github.com/lishouguang/pinyin2hanzi) by lishouguang.
+    - [Pinyin2ChineseChars](https://github.com/iseesaw/Pinyin2ChineseChars) by iseesaw.
+  * Hanzi-to-AncientPinyin
+    - [Ancient-Chinese-Pinyin-transform-Tool](https://github.com/yaojialyu/Ancient-Chinese-Pinyin-transform-Tool) by yaojialyu.
+    - [python-gupinyin](https://github.com/enzeas/python-gupinyin) by enzeas.
+  
 ### Address
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
   * [address_cut](https://github.com/LiuNingGit/address_cut) by LiuNingGit: 基于HMM方法的中文地址切分.
