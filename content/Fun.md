@@ -46,6 +46,7 @@
   * [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
   * [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/)
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
+  * [Github.io](https://pages.github.com/): [简介]（https://www.jianshu.com/p/22b413e3da53）、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
