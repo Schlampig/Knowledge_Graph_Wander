@@ -74,6 +74,10 @@
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
   * [mirana-datas](https://github.com/yiifaa/mirana-datas) by 大头蚁: 中文姓名大全+中国主要省市经纬度信息.
 
+### Finance & Commerce & Economy
+  * [CNEconDict](https://github.com/sijichun/CNEconDict) by Jichun Si: 适用于中文分词的经济金融词典.
+  * [accounting_financial_sentiment_dict_exp](https://github.com/nanabunny/accounting_financial_sentiment_dict_exp) by Xinyu Lu: 简体中文会计和金融情感词典扩充.
+
 ### Others
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
