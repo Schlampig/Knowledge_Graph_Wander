@@ -21,5 +21,9 @@
   * author: Shengqiang Zhang
   * note: some interesting examples of python crawlers that are friendly to beginners.
 
-
+### Crack-JS
+  * link: https://github.com/xianyucoder/Crack-JS
+  * blog: http://xianyucoder.cn/
+  * author: huangjin
+  * note: Python3爬虫项目进阶实战
   
