@@ -38,7 +38,7 @@
   * [Commonsense Knowledge Graphs (CKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/CKG.md)
 
 ### Text Operation
-  * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md):fire:
+  * [Unsupervised Representation Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Unsupervised_Representation_Learning.md):fire::fire:
   * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md):fire:
   * [Data Augmentation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Data_Augment.md)
   * [Sentence Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Sentence_Matching.md)
