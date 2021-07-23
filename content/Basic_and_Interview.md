@@ -152,11 +152,6 @@
   * link: https://github.com/princewen/DeepLearning-500-questions
   * author: princewen
   * keywords: deep learning knowledge collected in QA forms
-
-### Data-Competition-TopSolution
-  * link: https://github.com/Smilexuhc/Data-Competition-TopSolution
-  * author: Smilexuhc
-  * keywords: competition winner sharing, source collections, machine learning
   
 ### ML-NLP
   * link: https://github.com/NLP-LOVE/ML-NLP
@@ -200,6 +195,19 @@
   * link: https://github.com/duoergun0729/nlp
   * author: duoergun0729
   * keywords: NLP入门
+
+---
+## Competition
+
+### Data-Competition-TopSolution
+  * link: https://github.com/Smilexuhc/Data-Competition-TopSolution
+  * author: Smilexuhc
+  * keywords: competition winner sharing, source collections, machine learning
+
+### NLPer-Arsenal
+  * link: https://github.com/TingFree/NLPer-Arsenal
+  * author: Jay Ting
+  * keywords: competition solutions in nlp
 
 ---
 ## Learn Data Science
