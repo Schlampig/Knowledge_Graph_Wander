@@ -64,7 +64,6 @@
 ### Auxiliary Methods
   * [Active Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Active_Learning.md)
   * [Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Zero_Shot_Learning.md)
-  * One-Shot Learning
   * [Few-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Few_Shot_Learning.md)
   * [Lifelong Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Lifelong_Learning.md)
 
