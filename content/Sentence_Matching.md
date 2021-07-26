@@ -2,6 +2,7 @@
 
 ### Libraries
   * simhash
+    - [pypi](https://pypi.org/project/simhash/)
     - [homepage](https://leons.im/posts/a-python-implementation-of-simhash-algorithm/)
     - [code](https://github.com/1e0ng/simhash)
 
