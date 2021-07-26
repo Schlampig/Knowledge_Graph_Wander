@@ -38,6 +38,7 @@
   * [FudanNLP](https://github.com/FudanNLP/fnlp)
   * [LAC](https://github.com/baidu/lac)
   * [SmoothNLP](https://github.com/smoothnlp/SmoothNLP)
+  * [PyTextRank](https://github.com/DerwenAI/pytextrank)
 
 ### Neural Combinatory Constituency Parsers
   * link: https://github.com/tmu-nlp/nccp
