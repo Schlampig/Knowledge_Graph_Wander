@@ -20,6 +20,12 @@
   * author: Vinta Chen
   * keywords: a curated list of awesome Python frameworks, libraries, software and resources
 
+### learn-python3
+  * link: https://github.com/michaelliao/learn-python3
+  * web: https://www.liaoxuefeng.com/wiki/1016959663602400
+  * author: Michael Liao (廖雪峰)
+  * note: Python3教程
+
 ### 100-plus-Python-programming-exercises-extended
   * link: https://github.com/darkprinx/100-plus-Python-programming-exercises-extended
   * author: Abdullah Al Masud Tushar
