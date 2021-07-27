@@ -13,3 +13,19 @@
   * note: a library for efficient learning of word representations and sentence classification.
   * extra: [fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) by Babylon Health.
 
+### text_classification
+  * link: https://github.com/brightmart/text_classification
+  * author: brightmart
+  * note: repository for all kinds of baseline models for text classification.
+
+### Text_Classification
+  * link: https://github.com/kk7nc/Text_Classification
+  * [paper](https://arxiv.org/abs/1904.08067): Kowsari, Meimandi, J. , Heidarysafa, Mendu, Barnes, & Brown. (2019). Text classification algorithms: a survey. Information, 10(4).
+  * author: Kamran Kowsari
+  * note: a survey for text classification algorithms (till 2019)
+
+### Chinese-Text-Classification-Pytorch
+  * link: https://github.com/649453932/Chinese-Text-Classification-Pytorch
+  * author: huwenxing
+  * note: 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch，开箱即用.
+
