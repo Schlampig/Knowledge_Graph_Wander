@@ -16,6 +16,7 @@
   * PDFlib:[official homepage (not free)](https://www.pdflib.com/)
   * Tika: [pypi](https://pypi.org/project/tika/1.8.8/)/[code](https://github.com/chrismattmann/tika-python)/[intro](https://www.cnblogs.com/baiboy/p/tika.html)
   * pdf2image: [code](https://github.com/Belval/pdf2image)
+  * PdfPasswordRemover: [code](https://github.com/SeppPenner/PdfPasswordRemover)
   
 ### DOC/DOCX
   * textract: [pypi](https://pypi.org/project/textract/)/[doc](https://textract.readthedocs.io/en/stable/)
