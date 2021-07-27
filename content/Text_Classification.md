@@ -29,3 +29,17 @@
   * author: huwenxing
   * note: 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch，开箱即用.
 
+### NeuralNLP-NeuralClassifier
+  * link: https://github.com/Tencent/NeuralNLP-NeuralClassifier
+  * author: Tencent
+  * note: an open-source neural hierarchical multi-label text classification toolkit.
+ 
+### Multi-Label-Text-Classification
+  * link: https://github.com/RandolphVI/Multi-Label-Text-Classification
+  * author: RandolphVI
+  * note: about muti-label text classification based on neural network.
+
+### Bert-Multi-Label-Text-Classification
+  * link: https://github.com/lonePatient/Bert-Multi-Label-Text-Classification
+  * author: Weitang Liu
+  * note: a pytorch implementation of a pretrained BERT model for multi-label text classification.
