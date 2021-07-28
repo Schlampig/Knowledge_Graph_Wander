@@ -55,6 +55,7 @@
     - [Ancient-Chinese-Pinyin-transform-Tool](https://github.com/yaojialyu/Ancient-Chinese-Pinyin-transform-Tool) by yaojialyu.
   
 ### Address
+  * [chinese_province_city_area_(cpca) mapper](https://github.com/DQinYuan/chinese_province_city_area_mapper) by DQYuan: 用于提取简体中文字符串中省、市、区并能进行映射、检验和简单绘图的python库.
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
   * [address_cut](https://github.com/LiuNingGit/address_cut) by LiuNingGit: 基于HMM方法的中文地址切分.
   * [chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) by moonrailgun: 中国地址生成器，生成三级地址、四级地址、随机生成完整地址.
