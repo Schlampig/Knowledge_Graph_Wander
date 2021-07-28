@@ -25,6 +25,11 @@
   * author: fastnlp group
   * note: fastHan是基于fastNLP与pytorch实现的中文自然语言处理工具，像spacy一样调用方便.
 
+### pkuseg-python
+  * link: https://github.com/lancopku/pkuseg-python
+  * author: LancoPKU
+  * note: a toolkit for multi-domain Chinese word segmentation.
+
 ### Jiayan
   * link: https://github.com/jiaeyan/Jiayan
   * author: Jiajie Ya
