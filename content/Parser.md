@@ -42,13 +42,16 @@
   * note: a Python (2 and 3) library for processing textual data.
 
 ### Others
-  * [JioNLP](https://github.com/dongrixinyu/jionlp)
-  * [THULAC](http://thulac.thunlp.org/)
-  * [SnowNLP](https://github.com/isnowfy/snownlp)
+  * [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK)
   * [FudanNLP](https://github.com/FudanNLP/fnlp)
+  * [JiaGu](https://github.com/ownthink/Jiagu)
+  * [JioNLP](https://github.com/dongrixinyu/jionlp)
   * [LAC](https://github.com/baidu/lac)
-  * [SmoothNLP](https://github.com/smoothnlp/SmoothNLP)
+  * [PyNLPIR](https://github.com/tsroten/pynlpir)
   * [PyTextRank](https://github.com/DerwenAI/pytextrank)
+  * [SmoothNLP](https://github.com/smoothnlp/SmoothNLP)
+  * [SnowNLP](https://github.com/isnowfy/snownlp)
+  * [THULAC](http://thulac.thunlp.org/)
 
 ### Neural Combinatory Constituency Parsers
   * link: https://github.com/tmu-nlp/nccp
