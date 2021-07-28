@@ -20,6 +20,11 @@
   * author: Stanford NLP
   * note: a python nlp library for 60+ human languages.
 
+### fastHan
+  * link: https://github.com/fastnlp/fastHan
+  * author: fastnlp group
+  * note: fastHan是基于fastNLP与pytorch实现的中文自然语言处理工具，像spacy一样调用方便.
+
 ### Jiayan
   * link: https://github.com/jiaeyan/Jiayan
   * author: Jiajie Ya
