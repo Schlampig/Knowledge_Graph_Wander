@@ -145,6 +145,14 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * author: deepset-ai
   * note: tool makes Transfer Learning with BERT & Co simple, fast and enterprise-ready.
 
+### fastNLP
+  * code: https://github.com/fastnlp/fastNLP
+  * document: https://fastnlp.readthedocs.io/zh/latest/
+  * author: fastnlp group ([FengZiYjun](https://fengziyjun.github.io/), fudan)
+  * note: a modularized and extensible nlp framework, currently still in incubation.
+  * extra: [fastHan: 基于BERT的中文NLP集成工具](https://zhuanlan.zhihu.com/p/147665538)([fastHan](https://github.com/fastnlp/fastHan))
+  * news: [邱锡鹏：用fastNLP快速搭建自然语言处理模型（时间10.17）](http://kyc.henu.edu.cn/info/1077/10612.htm)
+
 ### AliceMind
   * code: https://github.com/alibaba/AliceMind/
   * author: alibaba-luofuli
