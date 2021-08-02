@@ -36,6 +36,7 @@
 ](https://github.com/THUNLP-MT)
   * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
 ](https://github.com/0voice)
+  * [poetry](https://github.com/sheepzh/poetry) by [ZHY](https://github.com/sheepzh)
   * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
   * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib))
   * [Internet Archive](https://archive.org/): a non-profit library of millions of free books, movies, software, music, websites, and more.
