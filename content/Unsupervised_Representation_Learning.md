@@ -124,7 +124,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://arxiv.org/abs/1905.03197): Dong, L. , Yang, N. , Wang, W. , Wei, F. , Liu, X. , & Wang, Y. , et al. (2019). *Unified language model pre-training for natural language understanding and generation*. NeurIPS 2019.
   * code: https://github.com/microsoft/unilm
   * note: including UniLM v1/v2, MiniLM, LayoutLM, and s2s-ft.
-  * extra: [Unilm(Chinese) by YuwenTechnology](https://github.com/YunwenTechnology/Unilm), [pretrained-unilm-Chinese by zhongerqiandan](https://github.com/zhongerqiandan/pretrained-unilm-Chinese)
+  * extra: [Unilm(Chinese) by YuwenTechnology](https://github.com/YunwenTechnology/Unilm), [Pretrained-Unilm-Chinese by zhongerqiandan](https://github.com/zhongerqiandan/pretrained-unilm-Chinese)
 
 ### BART
   * [paper](https://arxiv.org/pdf/1910.13461.pdf): Lewis, M. , Liu, Y. , Goyal, N. , Ghazvininejad M. , Mohamed A. , Levy O. , Stoyanov, V. , & Zettlemoyer, L. . (2019). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension*.
