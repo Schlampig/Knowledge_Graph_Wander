@@ -70,7 +70,7 @@
   * [Lifelong Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Lifelong_Learning.md)
 
 ### Miscellaneous
-  * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md):fire:
+  * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md):fire::fire:
   * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md):fire:
 
 <br>
