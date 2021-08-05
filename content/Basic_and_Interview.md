@@ -20,6 +20,13 @@
   * author: Vinta Chen
   * keywords: a curated list of awesome Python frameworks, libraries, software and resources
 
+### The Algorithms
+  * link: https://github.com/TheAlgorithms
+  * author: the algorithms group
+  * contact: https://twitter.com/the_algorithms
+  * homepage: https://the-algorithms.com/
+  * keywords: open source resource for learning data structures & algorithms and their implementation in any programming language
+
 ### learn-python3
   * link: https://github.com/michaelliao/learn-python3
   * web: https://www.liaoxuefeng.com/wiki/1016959663602400
