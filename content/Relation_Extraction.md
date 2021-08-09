@@ -143,10 +143,6 @@
 ### BERT-Relation-Extraction
   * linke: https://github.com/plkmo/BERT-Relation-Extraction
   * author: Soh Wee Tee
-  * [paper](https://yubowen-ph.github.io/files/2020_ECAI_ETL/ETL.pdf)
-  * note: pytorch implementation for "Matching the Blanks: Distributional Similarity for Relation Learning".
-  * linke: https://github.com/yubowen-ph/JointER
-  * author: yubowen-ph
   * [paper](https://arxiv.org/abs/1906.03158v1)
+  * note: pytorch implementation for "Matching the Blanks: Distributional Similarity for Relation Learning".
   * [blog](https://zhuanlan.zhihu.com/p/110202712)
-  * note: using novel decomposed subtasks to solve the problem
