@@ -55,4 +55,9 @@
   * link: https://github.com/xiaoqian19940510/Event-Extraction
   * author: xiaoqian19940510
   * note: survey for event extraction
-  
+
+### Event Extraction papers
+  * link: https://github.com/BaptisteBlouin/EventExtractionPapers
+  * author: Baptiste Blouin
+  * note: resources for nlp with a focus on the task of event extraction.
+
