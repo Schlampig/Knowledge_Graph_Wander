@@ -11,3 +11,9 @@
   * author: shibing624
   * note: a toolkit for text error correction.
   * extra: [PyCorrector文本纠错工具实践和代码详解](https://zhuanlan.zhihu.com/p/138981644).
+
+### PLOME
+  * link: https://github.com/liushulinle/PLOME
+  * author: liushulinle
+  * [paper](https://aclanthology.org/2021.acl-long.233.pdf)
+  * note: a code and data of the work in ACL2021: PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction
