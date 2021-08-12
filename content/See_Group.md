@@ -35,8 +35,11 @@
     - [**乐言科技**](https://www.leyantech.com/)
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
-  * RPA
+  * 机器人流程自动化(RPA)
     - [**艺赛旗**](https://www.i-search.com.cn/)
+    - [**云扩科技**](https://www.encoo.com/)
+    - [**壹沓科技**](https://www.1data.info/)
+    - [**弘玑Cyclone**](https://www.cyclone-robotics.com/)
     - [**来也**](https://laiye.com/)
   * 监测
     - [**WISERS慧科**](https://zh.wisers.com/)
