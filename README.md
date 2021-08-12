@@ -13,7 +13,7 @@
   * [Document Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Document_Parser.md):fire:
   * [Web Crawler](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Web_Crawler.md) 
   * [Database](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Database.md)
-  * [Related Groups & Companys](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/See_Group.md)
+  * [Related Groups & Companys](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/See_Group.md):telescope:
  
 ### Graph Overview
   * [Open Source Graphs](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Source_Graphs.md):fire:
