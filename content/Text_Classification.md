@@ -48,3 +48,8 @@
   * link: https://github.com/dongrixinyu/JioTC
   * author: dongrixinyu
   * note: a text classification tool based on pytorch.
+
+### Bert-TextClassification
+  * link: https://github.com/songyingxin/Bert-TextClassification
+  * author: songyingxin
+  * note: bert text-classification liburary
