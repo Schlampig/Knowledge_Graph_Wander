@@ -43,3 +43,8 @@
   * link: https://github.com/lonePatient/Bert-Multi-Label-Text-Classification
   * author: Weitang Liu
   * note: a pytorch implementation of a pretrained BERT model for multi-label text classification.
+
+### JioTC
+  * link: https://github.com/dongrixinyu/JioTC
+  * author: dongrixinyu
+  * note: a text classification tool based on pytorch.
