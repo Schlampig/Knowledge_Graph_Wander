@@ -1,9 +1,9 @@
 ## **Link of Research Groups**
 
 ### Academic Group
-  * [**THUNLP**](https://github.com/thunlp): [清华自然语言处理实验室]()
-  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈工大社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
-  * [**AILab-PKU**](https://github.com/ailab-pku): [北大人工智能实验室](http://ai.pku.edu.cn/)
+  * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/)
+  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
+  * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
 
 ### Company & Organization
   * [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)
