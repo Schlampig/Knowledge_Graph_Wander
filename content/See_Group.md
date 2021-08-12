@@ -8,7 +8,7 @@
 <br/>
 
 ### Company & Organization
-  * [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)
+  * [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
   * [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
   * [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
   * [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
