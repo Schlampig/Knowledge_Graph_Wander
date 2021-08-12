@@ -8,7 +8,14 @@
 <br/>
 
 ### Company & Organization
-  * 通用NLP
+  * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
+  * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
+  * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
+  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)
+<br/>
+
+### 中国企业
+  * 通用自然语言处理
     - [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
     - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
@@ -49,13 +56,6 @@
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
-
-<br/>
-
-  * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
-  * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
-  * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
-  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)
 <br/>
 
 ### Person & Blog
