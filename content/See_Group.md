@@ -12,7 +12,7 @@
   * [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
   * [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
   * [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
-
+<br/>
   * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
