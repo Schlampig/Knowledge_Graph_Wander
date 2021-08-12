@@ -1,9 +1,9 @@
 ## **Link of Research Groups**
 
 ### Academic Group
-  * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/)
-  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
-  * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx)
+  * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/):thumbsup:
+  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/):thumbsup:
+  * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
   * **BAAI**: [北京智源人工智能研究院](https://www.baai.ac.cn/)
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
 <br/>
@@ -12,7 +12,7 @@
   * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
-  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)
+  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/):smile::open_hands:
 <br/>
 
 ### 中国企业
@@ -64,7 +64,7 @@
 <br/>
 
 ### Person & Blog
-  * [**科学空间**](https://spaces.ac.cn/)
+  * [**科学空间**](https://spaces.ac.cn/):thumbsup:
   * [**莫烦Python**](https://mofanpy.com/)
   * [**小浩算法**](https://www.geekxh.com/)
   * [**AI算法工程师手册**](http://www.huaxiaozhuan.com/)
