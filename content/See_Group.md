@@ -11,4 +11,7 @@
   * [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
   * [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
 
+  * [**Facebook Research**](https://github.com/facebookresearch): [Facebook Open Source Community](https://opensource.fb.com/)
+  * [**Hugging Face**](https://github.com/huggingface): [The AI community building the future.](https://huggingface.co/)
+
 ### Person & Blog
