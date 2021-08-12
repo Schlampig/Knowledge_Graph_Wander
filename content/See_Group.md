@@ -4,6 +4,7 @@
   * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/)
   * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
   * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx)
+  * **BAAI**: [北京智源人工智能研究院](https://www.baai.ac.cn/)
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
 <br/>
 
