@@ -8,12 +8,45 @@
 <br/>
 
 ### Company & Organization
-  * [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
-  * [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
-  * [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
-  * [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
-  * [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
-  * [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
+  * 通用NLP
+    - [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
+    - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
+    - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
+    - [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
+    - [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
+    - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
+  * 信息抽取
+    - [**达观科技**](http://www.datagrand.com/)
+    - [**数库(ChinaScope)**](http://finance.chinascope.com/www/)
+    - [**庖丁科技**](https://www.paodingai.com/)
+    - [**阿博茨科技(ABC Technology)**](https://www.abcfintech.com/)
+    - [**竹间智能**](https://www.emotibot.com/)
+    - [**艾克斯智能**](http://otm.cn/)
+    - [**达观科技**](http://www.datagrand.com/)
+  * 知识图谱
+    - [**明略科技**](https://www.mininglamp.com/)
+    - [**狗尾草科技**](https://www.gowild.cn/)
+    - [**文因互联**](https://memect.cn/)
+    - [**深擎科技**](https://www.shenqingtech.com/#/)
+    - [**数据地平线**](https://www.datahorizon.cn/)
+    - [**达观科技**](http://www.datagrand.com/)
+    - [**虎博科技**](https://www.tigerobo.com/)
+  * 对话
+    - [**乐言科技**](https://www.leyantech.com/)
+    - [**爱因互动**](https://www.einplus.cn/)
+    - [**奇点机智**](https://www.naturali.io/)
+  * RPA
+    - [**艺赛旗**](https://www.i-search.com.cn/)
+    - [**来也**](https://laiye.com/)
+  * 监测
+    - [**WISERS慧科**](https://zh.wisers.com/)
+  * 标注
+    - [**龙猫数据**](https://www.longmaosoft.com/home)
+    - [**整数科技**](https://www.molardata.com/)
+  * 其他综合
+    - [**数美科技**](https://www.ishumei.com/)
+    - [**深信科创**](https://www.guardstrike.com/)
+
 <br/>
 
   * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
