@@ -20,15 +20,14 @@
     - [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
     - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
-    - [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
-    - [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
-    - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
   * 信息抽取
     - [**达观科技**](http://www.datagrand.com/)
+    - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
     - [**数库(ChinaScope)**](http://finance.chinascope.com/www/)
     - [**庖丁科技**](https://www.paodingai.com/)
     - [**阿博茨科技(ABC Technology)**](https://www.abcfintech.com/)
     - [**竹间智能**](https://www.emotibot.com/)
+    - [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
     - [**艾克斯智能**](http://otm.cn/)
     - [**达观科技**](http://www.datagrand.com/)
   * 知识图谱
@@ -39,10 +38,15 @@
     - [**数据地平线**](https://www.datahorizon.cn/)
     - [**达观科技**](http://www.datagrand.com/)
     - [**虎博科技**](https://www.tigerobo.com/)
-  * 对话
+  * 对话机器人
+    - [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
     - [**乐言科技**](https://www.leyantech.com/)
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
+  * 语音
+    - [**科大讯飞**](https://www.iflytek.com/index.html)
+    - [**云知声**](http://www.unisound.com/)
+    - [**标贝科技**](https://www.data-baker.com/)
   * 机器人流程自动化(RPA)
     - [**艺赛旗**](https://www.i-search.com.cn/)
     - [**云扩科技**](https://www.encoo.com/)
