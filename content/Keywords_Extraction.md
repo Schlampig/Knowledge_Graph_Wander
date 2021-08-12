@@ -61,3 +61,8 @@
   * link: https://github.com/thunlp/THUCKE
   * author: THUNLP
   * note: THU Chinese Keyphrase Extraction Toolkit.
+
+### CKPE（chinese_keyphrase_extractor）
+  * link: https://github.com/dongrixinyu/chinese_keyphrase_extractor
+  * author: dongrixinyu
+  * note: a tool for automatic keyphrase extraction from Chinese text.
