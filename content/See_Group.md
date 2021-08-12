@@ -6,6 +6,7 @@
   * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
   * **BAAI**: [北京智源人工智能研究院](https://www.baai.ac.cn/)
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
+  * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
 <br/>
 
 ### Company & Organization
@@ -13,6 +14,10 @@
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/):smile::open_hands:
+  * [**AllenAI(AI2)**](https://github.com/allenai): [community](http://www.allenai.org)
+  * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
+  * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
+  
 <br/>
 
 ### 中国企业
