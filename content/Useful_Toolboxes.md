@@ -38,11 +38,6 @@
   * author: rsanshierli
   * note: bert-based nlp implementation in pytorch
 
-### Bert-TextClassification
-  * link: https://github.com/songyingxin/Bert-TextClassification
-  * author: songyingxin
-  * note: bert text-classification liburary
-
 ---
 ## Search NLP and KG
 
