@@ -22,3 +22,7 @@
 <br/>
 
 ### Person & Blog
+  * [**科学空间**](https://spaces.ac.cn/)
+  * [**莫烦Python**](https://mofanpy.com/)
+  * [**小浩算法**](https://www.geekxh.com/)
+  * [**AI算法工程师手册**](http://www.huaxiaozhuan.com/)
