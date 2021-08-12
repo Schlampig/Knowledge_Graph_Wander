@@ -2,6 +2,7 @@
 
 ### Academic Group
   * [**THUNLP**](https://github.com/thunlp): Natural Language Processing Lab at Tsinghua University
+  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈工大社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
 
 ### Company & Organization
   * [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)
