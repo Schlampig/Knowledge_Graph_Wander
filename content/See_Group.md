@@ -50,7 +50,7 @@
     - [**奇点机智**](https://www.naturali.io/)
   * 语音
     - [**iFlyTek**](https://www.iflytek.com/index.html): [科大讯飞](https://github.com/iflytek)
-    - [**UniSound**](http://www.unisound.com/): 云知声
+    - [**UniSound**](http://www.unisound.com/): [云知声](https://github.com/Unisound)
     - [**AISpeech**](http://www.aispeech.com/): 思必驰
     - [**标贝科技**](https://www.data-baker.com/)
   * 机器人流程自动化(RPA)
