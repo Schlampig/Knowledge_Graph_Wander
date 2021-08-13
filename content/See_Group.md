@@ -49,7 +49,7 @@
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
   * 语音
-    - [**科大讯飞**](https://www.iflytek.com/index.html)
+    - [**iFlyTek**](https://www.iflytek.com/index.html): [科大讯飞](https://github.com/iflytek)
     - [**云知声**](http://www.unisound.com/)
     - [**标贝科技**](https://www.data-baker.com/)
   * 机器人流程自动化(RPA)
