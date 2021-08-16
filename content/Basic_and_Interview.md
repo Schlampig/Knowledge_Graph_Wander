@@ -268,4 +268,10 @@
   * author: xsren
   * keywords: 尚观Python全栈工程师周末班课件及代码
 
+---
+## Interview
 
+### reverse-interview-zh
+  * link: https://github.com/yifeikong/reverse-interview-zh
+  * author: Yifei Kong
+  * keywords: 技术面试最后反问面试官的话:)
