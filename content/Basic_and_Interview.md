@@ -96,6 +96,11 @@
   * author: ZEUSEE
   * keywords: deep learning, source collections
 
+### NLP_pytorch_project
+  * link: https://github.com/shawroad/NLP_pytorch_project
+  * author: shawroad (肖路)
+  * keywords: pytorch approaches for typical models in different nlp tasks
+
 ### eat_tensorflow2_in_30_days
   * link: https://github.com/lyhue1991/eat_tensorflow2_in_30_days
   * author: lyhue1991
