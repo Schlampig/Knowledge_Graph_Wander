@@ -17,6 +17,7 @@
   * [**AllenAI(AI2)**](https://github.com/allenai): [community](http://www.allenai.org)
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
+  * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
   
 <br/>
 
