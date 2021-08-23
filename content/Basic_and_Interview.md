@@ -14,6 +14,11 @@
   * author: Alexander Bayandin
   * keywords: a curated list of awesome awesomeness
 
+### Awesome Productivity (绝妙的个人生产力)
+  * link: https://github.com/eastlakeside/awesome-productivity-cn
+  * author: eastlakeside (东滨社)
+  * keywords: knowledge, methods, ways, tools, apps to improve self productivity :)
+
 ### Awesome-Python
   * link: https://github.com/vinta/awesome-python
   * web: https://awesome-python.com/
