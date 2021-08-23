@@ -17,7 +17,7 @@
   * note: a tool providing robust recognition and resolution of entities like numbers, units, and date/time; expressed in multiple languages.
 
 ### Snorkel
-  * link: https://github.com/HazyResearch/snorkel
+  * link: https://github.com/snorkel-team/snorkel
   * author: HazyResearch (Stanford)
   * note: a tool using weak-supervised (which means it needs a small golden set for training process) method to extact assigned triple from context.
   * extra: the same team also supplies a various frameworks for information/relation extraction ([DeepDive](https://github.com/HazyResearch/deepdive)) and knowledge base construction([Fonduer](https://github.com/HazyResearch/fonduer)).
