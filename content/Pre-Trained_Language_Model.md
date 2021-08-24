@@ -1,4 +1,4 @@
-## **Unsupervised Representation Learning**
+## **Pre-Trained Language Model (Unsupervised Representation Learning)**
 
 
 ### References
@@ -37,6 +37,7 @@
     - [2021年：详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
     - [2021年：3W字长文带你轻松入门视觉transformer](https://zhuanlan.zhihu.com/p/308301901)
     - [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/) by [AI SUMMER](https://theaisummer.com/)
+    - [2018年：The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 ### Transformer-XL
   * [paper](https://arxiv.org/pdf/1901.02860.pdf): Dai, Z. , Yang, Z. , Yang, Y. , Carbonell, J. , Le, Q. V. , & Salakhutdinov, R. . (2019). *Transformer-xl: attentive language models beyond a fixed-length context*.
