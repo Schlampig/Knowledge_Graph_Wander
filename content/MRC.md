@@ -4,20 +4,18 @@
   - [RCPapers](https://github.com/thunlp/RCPapers): Must-read papers on Machine Reading Comprehension, by THUNLP.
 
 ### Classic Model
-  - MRC
-    - R-NET 2017: [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)|[code](https://github.com/localminimum/R-net)
-    - DrQA 2017: [paper](https://arxiv.org/pdf/1704.00051.pdf)|[code](https://github.com/facebookresearch/DrQA)
-    - BiDAF 2018: [paper](https://arxiv.org/pdf/1611.01603.pdf)|[code](https://github.com/allenai/bi-att-flow)|[homepage](https://allenai.github.io/bi-att-flow/)
-    - QANet 2018: [paper](https://arxiv.org/pdf/1804.09541.pdf)|[code](https://github.com/localminimum/QANet)
-    - BERT-MRC(base) 2018: [paper](https://arxiv.org/pdf/1810.04805.pdf)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/multiple-choice)(multi-choices)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering)(question-answering)
-    - NumNet: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
-  - Multi-hop MRC
-    - 
+  - R-NET 2017: [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)|[code](https://github.com/localminimum/R-net)
+  - DrQA 2017: [paper](https://arxiv.org/pdf/1704.00051.pdf)|[code](https://github.com/facebookresearch/DrQA)
+  - BiDAF 2018: [paper](https://arxiv.org/pdf/1611.01603.pdf)|[code](https://github.com/allenai/bi-att-flow)|[homepage](https://allenai.github.io/bi-att-flow/)
+  - QANet 2018: [paper](https://arxiv.org/pdf/1804.09541.pdf)|[code](https://github.com/localminimum/QANet)
+  - BERT-MRC(base) 2018: [paper](https://arxiv.org/pdf/1810.04805.pdf)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/multiple-choice)(multi-choices)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering)(question-answering)
+  - NumNet: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
 
 ### Datasets & Competitions
   - [CLUE阅读理解排行榜](https://www.cluebenchmarks.com/rc.html)
   - [C³](https://dataset.org/c3/): Multiple-**C**hoice **C**hinese Machine Reading **C**omprehension Dataset.
   - [ChID](https://aclanthology.org/P19-1075.pdf): A Large-scale **Ch**inese **ID**iom Dataset for Cloze Test.
+  - [CLICR](https://github.com/clips/clicr): Machine reading comprehension on **CLI**nical **C**ase **R**eports.
   - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge.
