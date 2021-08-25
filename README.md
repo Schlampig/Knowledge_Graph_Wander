@@ -13,7 +13,7 @@
   * [Document Parser](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Document_Parser.md):fire:
   * [Web Crawler](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Web_Crawler.md) 
   * [Database](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Database.md)
-  * [Related Groups & Companys](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/See_Group.md):telescope:
+  * [Related Groups & Companys](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/See_Group.md):fire::telescope:
  
 ### Graph Overview
   * [Open Source Graphs](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Open_Source_Graphs.md):fire:
@@ -71,7 +71,7 @@
 
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md):fire::fire:
-  * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md):fire:
+  * [Fun](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Fun.md):fire::sunglasses:
 
 <br>
 
