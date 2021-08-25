@@ -4,7 +4,11 @@
 
 ### Classic Model
   - Span-based MRC
-    - 
+    - DocQA
+    - BiDAF
+    - RNet
+    - QANet
+    - BERT-MRC(base)
   - Multi-choices MRC
   - Multi-hop MRC
 
