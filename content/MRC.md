@@ -5,6 +5,7 @@
   - [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers): Survey on Machine Reading Comprehension, by Xanh Ho.
   - [MRC_book](https://github.com/zcgzcgzcg1/MRC_book): 《机器阅读理解：算法与实践》代码, by Chenguang Zhu.
   - [Multi-hopRC](https://github.com/krystalan/Multi-hopRC): 多跳阅读理解相关论文, by Jiaan Wang.
+  - [Sewon Min (민세원) personal homepage](https://shmsw25.github.io/)
 
 ### Classic Model
   - R-NET 2017: [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)|[code](https://github.com/localminimum/R-net)
