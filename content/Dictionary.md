@@ -15,6 +15,7 @@
   * [THU Open Chinese Lexicon (THUOCL)](https://github.com/thunlp/THUOCL) by THUNLP.
   * [《现代汉语词典》（第7版）](https://github.com/CNMan/XDHYCD7th) by CNMan.
   * [the-most-complete-dictionary-ever](https://github.com/i3ef0xh4ck/the-most-complete-dictionary-ever) by i3ef0xh4ck.
+  * [《成语大全》](http://www.guoxue.com/chengyu/CYML.htm) by [国学网](www.guoxue.com).
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
