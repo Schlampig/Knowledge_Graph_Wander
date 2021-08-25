@@ -21,10 +21,12 @@
   - PathNet 2018: [paper](https://arxiv.org/pdf/1811.01127.pdf)|[code](https://github.com/allenai/PathNet)
 
 ### Datasets & Competitions
-  - [CLUE阅读理解排行榜](https://www.cluebenchmarks.com/rc.html)
+  - [CAIL](https://github.com/china-ai-law-challenge): **C**hina **AI** **L**aw Challenge(中国法研杯司法人工智能挑战赛(含阅读理解赛道)).
+  - [CAIL 2020](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/%E9%98%85%E8%AF%BB%E7%90%86%E8%A7%A3): **C**hina **AI** **L**aw Challenge 2019(2019年中国法研杯司法人工智能挑战赛阅读理解赛道).
   - [C³](https://dataset.org/c3/): Multiple-**C**hoice **C**hinese Machine Reading **C**omprehension Dataset.
   - [ChID](https://aclanthology.org/P19-1075.pdf): A Large-scale **Ch**inese **ID**iom Dataset for Cloze Test.
   - [CLICR](https://github.com/clips/clicr): Machine reading comprehension on **CLI**nical **C**ase **R**eports.
+  - [CLUE阅读理解排行榜](https://www.cluebenchmarks.com/rc.html)
   - [CMRC 2017](https://hfl-rc.com/cmrc2017/): The 1st Evaluation Workshop on **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
