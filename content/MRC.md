@@ -16,6 +16,7 @@
   - [C³](https://dataset.org/c3/): Multiple-**C**hoice **C**hinese Machine Reading **C**omprehension Dataset.
   - [ChID](https://aclanthology.org/P19-1075.pdf): A Large-scale **Ch**inese **ID**iom Dataset for Cloze Test.
   - [CLICR](https://github.com/clips/clicr): Machine reading comprehension on **CLI**nical **C**ase **R**eports.
+  - [CMRC 2017](https://hfl-rc.com/cmrc2017/): The 1st Evaluation Workshop on **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge.
