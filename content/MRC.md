@@ -14,9 +14,11 @@
   - Multi-hop MRC
 
 ### Datasets & Competitions
+  - [ChID](https://aclanthology.org/P19-1075.pdf): A Large-scale **Ch**inese **ID**iom Dataset for Cloze Test.
   - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge.
+  - [DRCD](https://github.com/DRCKnowledgeTeam/DRCD): **D**elta **R**eading **C**omprehension **D**ataset.
   - [DROP](https://allennlp.org/drop): A Reading Comprehension Benchmark Requiring **D**iscrete **R**easoning **O**ver **P**aragraphs.
   - [DuReader](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) from [千言（LUGE）](https://www.luge.ai/): a Chinese Machine Reading Comprehension Dataset from Real-world Applications.
   - [Hotpot](https://hotpotqa.github.io/): A Dataset for Diverse, Explainable Multi-hop Question Answering.
