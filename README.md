@@ -46,7 +46,7 @@
   * [Grammatical Error Correction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/GEC.md)
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
-  * Machine Reading Comprehension
+  * [Machine Reading Comprehension](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/MRC.md)
   * Question Generation
   * Summarization/Text Simplification
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
