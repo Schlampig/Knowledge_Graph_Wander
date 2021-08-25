@@ -14,6 +14,7 @@
   - Multi-hop MRC
 
 ### Datasets & Competitions
+  - [C³](https://dataset.org/c3/): Multiple-**C**hoice **C**hinese Machine Reading **C**omprehension Dataset.
   - [ChID](https://aclanthology.org/P19-1075.pdf): A Large-scale **Ch**inese **ID**iom Dataset for Cloze Test.
   - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
