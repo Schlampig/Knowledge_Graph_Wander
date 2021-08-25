@@ -12,13 +12,13 @@
   - BiDAF 2018: [paper](https://arxiv.org/pdf/1611.01603.pdf)|[code](https://github.com/allenai/bi-att-flow)|[homepage](https://allenai.github.io/bi-att-flow/)
   - QANet 2018: [paper](https://arxiv.org/pdf/1804.09541.pdf)|[code](https://github.com/localminimum/QANet)
   - BERT-MRC(base) 2018: [paper](https://arxiv.org/pdf/1810.04805.pdf)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/multiple-choice)(multi-choices)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering)(question-answering)
-  - NumNet: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
+  - NumNet 2019: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
 
 ### Multi-Hop MRC
-  - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
+  - PathNet 2018: [paper](https://arxiv.org/pdf/1811.01127.pdf)|[code](https://github.com/allenai/PathNet)
   - CogQA 2019: [homepage](https://sites.google.com/view/cognitivegraph/)|[paper](https://arxiv.org/pdf/1905.05460.pdf)|[code](https://github.com/THUDM/CogQA)
   - DecompRC 2019: [paper](https://arxiv.org/pdf/1906.02916.pdf)|[code](https://github.com/shmsw25/DecompRC)|[demo](http://allgood.cs.washington.edu:2019/)
-  - PathNet 2018: [paper](https://arxiv.org/pdf/1811.01127.pdf)|[code](https://github.com/allenai/PathNet)
+  - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
 
 ### Datasets & Competitions
   - [CAIL](https://github.com/china-ai-law-challenge): **C**hina **AI** **L**aw Challenge(中国法研杯司法人工智能挑战赛(含阅读理解赛道)).
