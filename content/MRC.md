@@ -4,14 +4,15 @@
   - [RCPapers](https://github.com/thunlp/RCPapers): Must-read papers on Machine Reading Comprehension, by THUNLP.
 
 ### Classic Model
-  - Span-based MRC
-    - DocQA
-    - BiDAF
-    - RNet
-    - QANet
-    - BERT-MRC(base)
-  - Multi-choices MRC
+  - MRC
+    - R-NET 2017: [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)|[code](https://github.com/localminimum/R-net)
+    - DrQA 2017: [paper](https://arxiv.org/pdf/1704.00051.pdf)|[code](https://github.com/facebookresearch/DrQA)
+    - BiDAF 2018: [paper](https://arxiv.org/pdf/1611.01603.pdf)|[code](https://github.com/allenai/bi-att-flow)|[homepage](https://allenai.github.io/bi-att-flow/)
+    - QANet 2018: [paper](https://arxiv.org/pdf/1804.09541.pdf)|[code](https://github.com/localminimum/QANet)
+    - BERT-MRC(base) 2018: [paper](https://arxiv.org/pdf/1810.04805.pdf)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/multiple-choice)(multi-choices)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering)(question-answering)
+    - NumNet: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
   - Multi-hop MRC
+    - 
 
 ### Datasets & Competitions
   - [CLUE阅读理解排行榜](https://www.cluebenchmarks.com/rc.html)
@@ -29,6 +30,7 @@
   - [MS MARCO](https://microsoft.github.io/msmarco/): A Human Generated **MA**chine **R**eading **CO**mprehension Dataset.
   - [NarrativeQA](https://aclanthology.org/Q18-1023.pdf): The NarrativeQA Reading Comprehension Challenge.
   - [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/): A Machine Comprehension Dataset.
+  - [NumNet+](https://leaderboard.allenai.org/drop/submission/bm60vq8f7g2p7t2ld0j0) & [NumNet+ v2](https://leaderboard.allenai.org/drop/submission/bmfuq9e0v32fq8pskug0): Machine Reading Comprehension with Numerical Reasoning.
   - [SearchQA](https://arxiv.org/pdf/1704.05179.pdf): A New Q&A Dataset Augmented with Context from a Search Engine.
   - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The **S**tanford **Qu**estion **A**nswering **D**ataset (v1.1 & v2.0).
   - [TriviaQA](https://nlp.cs.washington.edu/triviaqa/): A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.
