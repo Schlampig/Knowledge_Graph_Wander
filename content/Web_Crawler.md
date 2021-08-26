@@ -25,5 +25,9 @@
   * link: https://github.com/xianyucoder/Crack-JS
   * blog: http://xianyucoder.cn/
   * author: huangjin
-  * note: Python3爬虫项目进阶实战
+  * note: Python3爬虫项目进阶实战.
   
+### wechat-spider
+  * link: https://github.com/striver-ing/wechat-spider
+  * author: striver-ing
+  * note: 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。
