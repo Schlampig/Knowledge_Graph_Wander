@@ -37,7 +37,9 @@
     - [**依图科技**](https://www.yitutech.com/cn/about-us)
     - [**云从科技**](https://www.cloudwalk.com/)
     - [**思谋科技**](https://www.smartmore.com/)
+    - [**格灵深瞳(DeepGlint)**](https://github.com/deepglint)
     - [**大疆**](https://www.dji.com/cn)
+    - [**海康威视**](https://www.hikvision.com/cn/)
   * 信息抽取
     - [**达观科技**](http://www.datagrand.com/)
     - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
