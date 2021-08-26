@@ -9,6 +9,7 @@
   * [**THUDM**](https://github.com/THUDM): [清华大学数据挖掘研究室-唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
   * [**ICTKC**](https://github.com/ICTKC): [中国科学院计算技术研究所-知识计算组](http://www.ict.ac.cn/)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
+  * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
 <br/>
 
 ### Company & Organization
