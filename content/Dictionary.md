@@ -1,5 +1,10 @@
-## **Dictionary / Corpus / Word Vectors**
+## **Corpus / Dictionary / Word Vectors / Annotations**
 
+
+### awesome-data-labeling
+  * link: https://github.com/heartexlabs/awesome-data-labeling
+  * author: Heartex
+  * note: a curated list of awesome data labeling tools.
 
 ### Word Vector Resource / Corpus
   * [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) by brightmart.
