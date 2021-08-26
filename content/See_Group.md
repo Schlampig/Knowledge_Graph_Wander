@@ -36,6 +36,8 @@
     - [**旷世科技**](https://www.megvii.com/)|[Face++](https://www.faceplusplus.com.cn/): [MEGVII Research](https://github.com/megvii-research)/[FacePlusPlus](https://github.com/FacePlusPlus)
     - [**依图科技**](https://www.yitutech.com/cn/about-us)
     - [**云从科技**](https://www.cloudwalk.com/)
+    - [**思谋科技**](https://www.smartmore.com/)
+    - [**大疆**](https://www.dji.com/cn)
   * 信息抽取
     - [**达观科技**](http://www.datagrand.com/)
     - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
