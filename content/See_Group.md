@@ -10,6 +10,7 @@
   * [**ICTKC**](https://github.com/ICTKC): [中国科学院计算技术研究所-知识计算组](http://www.ict.ac.cn/)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
   * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
+  * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
 <br/>
 
 ### Company & Organization
