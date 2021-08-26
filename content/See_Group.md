@@ -80,6 +80,12 @@
   * 标注
     - [**龙猫数据**](https://www.longmaosoft.com/home)
     - [**整数科技**](https://www.molardata.com/)
+  * 金融科技(FinTech)
+    - [**平安科技**](https://tech.pingan.com/)
+    - [**金融壹账通(ONECONNECT)**](https://www.ocft.com/)
+    - [**招银网络科技**](https://cmbnt.cmbchina.com/)
+    - [**兴业数金**](http://www.cibfintech.com/opencms/export/index.html)
+    - [**万德(WinD)**](https://www.wind.com.cn/)
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
