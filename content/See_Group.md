@@ -80,7 +80,9 @@
     - [**长亭科技**](https://www.chaitin.cn/zh/): [Chaitin Tech](https://github.com/chaitin)
   * 标注
     - [**龙猫数据**](https://www.longmaosoft.com/home)
+    - [**爱数智慧**](https://www.magicdatatech.cn/about)
     - [**整数科技**](https://www.molardata.com/)
+    - [**山西数据交易平台**](http://data.zgsfqxcx.cn/)
   * 金融科技(FinTech)
     - [**平安科技**](https://tech.pingan.com/)
     - [**金融壹账通(ONECONNECT)**](https://www.ocft.com/)
