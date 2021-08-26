@@ -74,8 +74,9 @@
     - [**壹沓科技**](https://www.1data.info/)
     - [**弘玑Cyclone**](https://www.cyclone-robotics.com/)
     - [**来也**](https://laiye.com/)
-  * 监测
+  * 监测&反欺骗
     - [**WISERS慧科**](https://zh.wisers.com/)
+    - [**长亭科技**](https://www.chaitin.cn/zh/): [Chaitin Tech](https://github.com/chaitin)
   * 标注
     - [**龙猫数据**](https://www.longmaosoft.com/home)
     - [**整数科技**](https://www.molardata.com/)
