@@ -31,6 +31,11 @@
     - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
     - [**JD-AI-Research-Silicon-Valley**](https://github.com/JD-AI-Research-Silicon-Valley)
+  * 计算机视觉
+    - [**商汤科技**](https://www.sensetime.com/cn): [SenseTime Video Intelligence Research Team(STVIR)](https://github.com/STVIR)
+    - [**旷世科技**](https://www.megvii.com/)|[Face++](https://www.faceplusplus.com.cn/): [MEGVII Research](https://github.com/megvii-research)/[FacePlusPlus](https://github.com/FacePlusPlus)
+    - [**依图科技**](https://www.yitutech.com/cn/about-us)
+    - [**云从科技**](https://www.cloudwalk.com/)
   * 信息抽取
     - [**达观科技**](http://www.datagrand.com/)
     - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
