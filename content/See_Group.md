@@ -97,3 +97,4 @@
   * [**小浩算法**](https://www.geekxh.com/)
   * [**AI算法工程师手册**](http://www.huaxiaozhuan.com/)
   * [**廖雪峰博客**](https://www.liaoxuefeng.com/)
+  * [SophonPlus](https://github.com/SophonPlus)
