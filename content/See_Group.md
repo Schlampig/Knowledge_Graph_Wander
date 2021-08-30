@@ -30,6 +30,7 @@
     - [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
     - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
+    - [**Bytedance Inc.**](https://github.com/bytedance): [字节跳动](https://www.bytedance.com/)
     - [**京东云**](https://www.jdcloud.com/): [JD-AI-Research-Silicon-Valley](https://github.com/JD-AI-Research-Silicon-Valley)
     - [**搜狗实验室**](http://www.sogou.com/labs/): [Sogou Open Source](https://github.com/sogou)/[搜狗语音](https://github.com/sogouspeech)
   * 计算机视觉
