@@ -14,6 +14,11 @@
   * pypi: [edalize](https://github.com/olofk/edalize)
   * note: easy data augmentation techniques for boosting performance on text classification tasks.
 
+### TextAttack
+  * link: https://github.com/QData/TextAttack
+  * author: QData
+  * note: a python framework for adversarial attacks, data augmentation, and model training in nlp.
+
 ### LaserTagger
   * link: https://github.com/tongchangD/text_data_enhancement_with_LaserTagger
   * author: tongchangD
