@@ -41,3 +41,8 @@
   * link: https://github.com/CLUEbenchmark/CLGE
   * author: CLUE benchmark
   * note: Chinese Language Generation Evaluation.
+
+### LightSeq
+  * link: https://github.com/bytedance/lightseq
+  * author: Bytedance Inc.
+  * note: a high performance library for sequence processing and generation.
