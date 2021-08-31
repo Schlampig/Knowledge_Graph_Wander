@@ -282,6 +282,12 @@
   * author: xsren
   * keywords: 尚观Python全栈工程师周末班课件及代码
 
+### 500 Lines or Less
+  * link: https://github.com/HT524/500LineorLess_CN
+  * author: HT524
+  * keywords: 18 python-based projects each approached less than 500 lines
+  * original version: https://github.com/aosabook/500lines
+
 ---
 ## Interview
 
