@@ -6,6 +6,7 @@
   * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
   * **BAAI**: [北京智源人工智能研究院](https://www.baai.ac.cn/)
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
+  * [**THU-KEG**](https://github.com/THU-KEG): [清华大学知识工程实验室](http://keg.cs.tsinghua.edu.cn/)
   * [**THUDM**](https://github.com/THUDM): [清华大学数据挖掘研究室-唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
   * [**ICTKC**](https://github.com/ICTKC): [中国科学院计算技术研究所-知识计算组](http://www.ict.ac.cn/)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
