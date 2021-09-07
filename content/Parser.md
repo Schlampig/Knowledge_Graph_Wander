@@ -52,6 +52,7 @@
   * [SmoothNLP](https://github.com/smoothnlp/SmoothNLP)
   * [SnowNLP](https://github.com/isnowfy/snownlp)
   * [THULAC](http://thulac.thunlp.org/)
+  * [knlp](https://github.com/DukeEnglish/knlp)
 
 ### Neural Combinatory Constituency Parsers
   * link: https://github.com/tmu-nlp/nccp
