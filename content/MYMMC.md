@@ -17,7 +17,7 @@
   * Bosselut, A., Rashkin, H., Sap, M., Malaviya, C., Celikyilmaz, A., & Choi, Y. (2019). [Comet: Commonsense transformers for automatic knowledge graph construction](https://arxiv.org/abs/1906.05317). arXiv preprint arXiv:1906.05317.
   * Wang, C., & Jiang, H. (2018). [Explicit utilization of general knowledge in machine reading comprehension](https://arxiv.org/abs/1809.03449). arXiv preprint arXiv:1809.03449.
   * Sap, M., Le Bras, R., Allaway, E., Bhagavatula, C., Lourie, N., Rashkin, H., ... & Choi, Y. (2019, July). [Atomic: An atlas of machine commonsense for if-then reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/4160). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 3027-3035).
-
+</br>
 
 ---
 ## Prompt for language model
@@ -32,3 +32,5 @@
   * blog:
     - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw)
     - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w)
+
+</br>
