@@ -39,6 +39,7 @@
 
 ### Text Operation
   * [Pre-Trained Language Model](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Pre-Trained_Language_Model.md):fire::fire:
+  * [Knowledge, Prompt, Commonsense, Make Your Model Clever](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/MYMMC.md)
   * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md):fire:
   * [Data Augmentation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Data_Augment.md)
   * [Sentence Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Sentence_Matching.md)
