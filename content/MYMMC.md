@@ -28,6 +28,7 @@
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
     - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw)
+    - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ)
 
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
