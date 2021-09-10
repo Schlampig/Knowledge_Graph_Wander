@@ -30,7 +30,7 @@
     - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw)
 
 ### Instruction Tuning
-  * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS.
+  * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
   * blog:
     - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw)
     - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w)
