@@ -50,9 +50,15 @@
 ### Graph4CNER
   * link: https://github.com/DianboWork/Graph4CNER
   * author: DianboWork
-  * note: source code for Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network in EMNLP 2019.
+  * note: source code for [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://aclanthology.org/D19-1396.pdf) in EMNLP 2019.
 
 ### Macropodus
   * link: https://github.com/yongzhuo/Macropodus
   * author: yongzhuo
   * note: NLP tools based on Albert + BiLSTM + CRF
+
+### SODNER
+  * link: https://github.com/foxlf823/sodner
+  * author: foxlf823
+  * note: source code for [A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition](https://arxiv.org/pdf/2106.14373.pdf)
+  * blog: [ACL2021 | 一种巧妙解决NER覆盖和不连续问题的方法](https://mp.weixin.qq.com/s/SundMXWB_2l-MXh0bu9g1w)
