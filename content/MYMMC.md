@@ -20,12 +20,14 @@
 </br>
 
 ---
-## Prompt for language model
+## Prompt-Tuning
 
 ### PromptPapers
   * link: https://github.com/thunlp/PromptPapers
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
+  * blog:
+    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw)
 
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS.
