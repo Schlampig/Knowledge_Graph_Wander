@@ -21,6 +21,9 @@
   - DecompRC 2019: [paper](https://arxiv.org/pdf/1906.02916.pdf)|[code](https://github.com/shmsw25/DecompRC)|[demo](http://allgood.cs.washington.edu:2019/)
   - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
 
+### Dialogue MRC
+  - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
+
 ### Datasets & Competitions
   - [CAIL](https://github.com/china-ai-law-challenge): **C**hina **AI** **L**aw Challenge(中国法研杯司法人工智能挑战赛(含阅读理解赛道)).
   - [C³](https://dataset.org/c3/): Multiple-**C**hoice **C**hinese Machine Reading **C**omprehension Dataset.
