@@ -35,6 +35,7 @@
   - [DRCD](https://github.com/DRCKnowledgeTeam/DRCD): **D**elta **R**eading **C**omprehension **D**ataset.
   - [DROP](https://allennlp.org/drop): A Reading Comprehension Benchmark Requiring **D**iscrete **R**easoning **O**ver **P**aragraphs.
   - [DuReader](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) from [千言（LUGE）](https://www.luge.ai/): a Chinese Machine Reading Comprehension Dataset from Real-world Applications.
+  - [FriendsQA](https://github.com/emorynlp/FriendsQA): Open-Domain Question Answering on TV Show Transcripts.
   - [Hotpot](https://hotpotqa.github.io/): A Dataset for Diverse, Explainable Multi-hop Question Answering.
   - [MCScript](https://arxiv.org/pdf/1803.05223.pdf): A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge.
   - [MCTest](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/): A Challenge Dataset for the Open-Domain Machine Comprehension of Text.
@@ -42,6 +43,7 @@
   - [NarrativeQA](https://aclanthology.org/Q18-1023.pdf): The NarrativeQA Reading Comprehension Challenge.
   - [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/): A Machine Comprehension Dataset.
   - [NumNet+](https://leaderboard.allenai.org/drop/submission/bm60vq8f7g2p7t2ld0j0) & [NumNet+ v2](https://leaderboard.allenai.org/drop/submission/bmfuq9e0v32fq8pskug0): Machine Reading Comprehension with Numerical Reasoning.
+  - [QAConv](https://github.com/salesforce/QAConv): **Q**uestion **A**nswering on Informative **Conv**ersations.
   - [SearchQA](https://arxiv.org/pdf/1704.05179.pdf): A New Q&A Dataset Augmented with Context from a Search Engine.
   - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The **S**tanford **Qu**estion **A**nswering **D**ataset (v1.1 & v2.0).
   - [TriviaQA](https://nlp.cs.washington.edu/triviaqa/): A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.
