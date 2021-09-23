@@ -15,6 +15,7 @@
   * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
   * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
   * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
+  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
 ### Language Learning
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
