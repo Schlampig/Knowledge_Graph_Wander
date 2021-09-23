@@ -26,3 +26,9 @@
   * link: https://github.com/weizhixiaoyi/DouBan-KGQA
   * author: 王振海Eric
   * note: kbqa based on Douban Moive & Book.
+
+### WEB_KG
+  * link: https://github.com/lixiang0/WEB_KG
+  * author: Ruben
+  * note: 爬取百度百科中文页面，抽取三元组信息，构建中文知识图谱
+
