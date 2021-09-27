@@ -27,8 +27,13 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
-    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw)
+    - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s/lSFrdC64nDNh0Qah0zLKnA)
+    - [一个「PPT」框架，让超大模型调参变简单：清华刘知远、黄民烈团队力作](https://mp.weixin.qq.com/s/nJpBULGGnB0Ifit8bb6SAw)
     - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ)
+    - [清华大学刘知远组：文本分类任务中，将知识融入Prompt-tuning过程](https://mp.weixin.qq.com/s/AcdShY8-m5tRXgypQjmPhQ)
+    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw)
+    - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw)
+    - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w)
 
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
