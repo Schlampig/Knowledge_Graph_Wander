@@ -27,18 +27,18 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
-    - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s/lSFrdC64nDNh0Qah0zLKnA)
-    - [一个「PPT」框架，让超大模型调参变简单：清华刘知远、黄民烈团队力作](https://mp.weixin.qq.com/s/nJpBULGGnB0Ifit8bb6SAw)
-    - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ)
-    - [清华大学刘知远组：文本分类任务中，将知识融入Prompt-tuning过程](https://mp.weixin.qq.com/s/AcdShY8-m5tRXgypQjmPhQ)
-    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw)
-    - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw)
-    - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w)
+    - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s/lSFrdC64nDNh0Qah0zLKnA) | Severus 夕小瑶的卖萌屋 9月20日
+    - [一个「PPT」框架，让超大模型调参变简单：清华刘知远、黄民烈团队力作](https://mp.weixin.qq.com/s/nJpBULGGnB0Ifit8bb6SAw) | 机器之心编辑部 机器之心 9月11日
+    - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ) | zenRRan 深度学习自然语言处理 9月9日
+    - [清华大学刘知远组：文本分类任务中，将知识融入Prompt-tuning过程](https://mp.weixin.qq.com/s/AcdShY8-m5tRXgypQjmPhQ) | 苏剑林 PaperWeekly 8月13日
+    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw) | 机器之心编辑部 机器之心 8月3日
+    - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw) | rumor 李rumor 8月5日
+    - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 6月14日
 
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
   * blog:
-    - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw)
-    - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w)
+    - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw) | rumor 李rumor 9月9日
+    - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w) | Yimin_饭煲 夕小瑶的卖萌屋 9月7日
 
 </br>
