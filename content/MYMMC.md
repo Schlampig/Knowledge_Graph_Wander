@@ -4,6 +4,7 @@
 ## Knowledge into language model
 
 ### Papers
+  * Schick, T. , & H Schütze. (2020). [Exploiting cloze questions for few shot text classification and natural language inference](https://arxiv.org/abs/2001.07676v3). EACL 2021.
   * Dai, D., Dong, L., Hao, Y., Sui, Z., & Wei, F. (2021). [Knowledge neurons in pretrained transformers](https://arxiv.org/abs/2104.08696). arXiv preprint arXiv:2104.08696.
   * Li, L., Xu, C., Wu, W., Zhao, Y., Zhao, X., & Tao, C. (2020). [Zero-resource knowledge-grounded dialogue generation](https://arxiv.org/abs/2008.12918). arXiv preprint arXiv:2008.12918.
   * Zhou, W., Lee, D. H., Selvam, R. K., Lee, S., Lin, B. Y., & Ren, X. (2020). [Pre-training text-to-text transformers for concept-centric common sense](https://arxiv.org/abs/2011.07956). arXiv preprint arXiv:2011.07956. 
