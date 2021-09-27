@@ -15,6 +15,8 @@
   * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
   * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
   * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
+  * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
+  * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
 ### Language Learning
