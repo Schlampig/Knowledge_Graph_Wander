@@ -34,6 +34,7 @@
     - [清华大学刘知远组：文本分类任务中，将知识融入Prompt-tuning过程](https://mp.weixin.qq.com/s/AcdShY8-m5tRXgypQjmPhQ) | 苏剑林 PaperWeekly 8月13日
     - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw) | 机器之心编辑部 机器之心 8月3日
     - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw) | rumor 李rumor 8月5日
+    - [近代自然语言处理技术发展的“第四范式”](https://zhuanlan.zhihu.com/p/395115779) | 刘鹏飞 知乎专栏 8月1日
     - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 6月14日
     - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 4月3日
 
