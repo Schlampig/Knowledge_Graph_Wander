@@ -29,3 +29,8 @@
   * author: Huang Huang
   * documentation: https://pypinyin.readthedocs.io/zh_CN/master/
   * pypi: https://pypi.org/project/pypinyin/
+
+### TextFlint
+  * link: https://github.com/textflint/textflint
+  * author: Fudan University NLP Group
+  * note: a multilingual robustness evaluation platform for natural language processing, which unifies text transformation, sub-population, adversarial attack, and their combinations to provide a comprehensive robustness analysis.
