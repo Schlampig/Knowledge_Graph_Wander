@@ -223,6 +223,11 @@
   * author: duoergun0729
   * keywords: NLP入门
 
+### plm-nlp-code
+  * link: https://github.com/HIT-SCIR/plm-nlp-code
+  * author: HIT-SCIR
+  * keywords: 本仓库用于存放《自然语言处理：基于预训练模型的方法》（作者：车万翔、郭江、崔一鸣）一书各章节的示例代码。
+
 ---
 ## Competition
 
