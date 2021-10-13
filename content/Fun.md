@@ -54,6 +54,7 @@
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
   * [Github.io](https://pages.github.com/): [简介](https://www.jianshu.com/p/22b413e3da53)、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
   * [Artbreeder](https://www.artbreeder.com/): [爷青回！AI把《灌篮高手》角色真人化，最帅的居然不是流川枫？](https://mp.weixin.qq.com/s/1yTLck34mdoE2xh4dSaUmQ)
+  * [Metrics](https://github.com/lowlighter/metrics): An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
