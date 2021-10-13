@@ -33,6 +33,7 @@
   * [955.WLB](https://github.com/formulahendry/955.WLB) by [Jun Han](https://github.com/formulahendry): “955”公司白名单。
   * [Natasha](https://github.com/996-icu-avengers/Natasha) by [996-icu-avengers](https://github.com/996-icu-avengers): 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
   * [Job-Recommend](https://github.com/CyC2018/Job-Recommend) by [CyC2018](https://github.com/CyC2018): 互联网内推信息（社招、校招、实习）。
+  * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
 
 ### Literature
   * [豆坟](https://github.com/doufen-org/tofu)
