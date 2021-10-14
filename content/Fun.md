@@ -57,7 +57,7 @@
   * [Artbreeder](https://www.artbreeder.com/): [爷青回！AI把《灌篮高手》角色真人化，最帅的居然不是流川枫？](https://mp.weixin.qq.com/s/1yTLck34mdoE2xh4dSaUmQ)
   * [Metrics](https://github.com/lowlighter/metrics): An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
-  * [Moe-counter](https://github.com/journey-ad/Moe-counter): 多种风格可选的萌萌计数器，[网址](https://count.getloli.com/).
+  * [Moe-counter](https://github.com/journey-ad/Moe-counter): 多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
