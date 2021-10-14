@@ -53,3 +53,8 @@
   * link: https://github.com/songyingxin/Bert-TextClassification
   * author: songyingxin
   * note: bert text-classification liburary
+
+### Transformers_for_Text_Classification
+  * link: https://github.com/zhanlaoban/Transformers_for_Text_Classification
+  * author: zhanlaoban
+  * note: transformer-based text classification
