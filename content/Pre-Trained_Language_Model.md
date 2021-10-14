@@ -171,6 +171,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * 2021年10月12日（5300亿参数） **Megatron-Turing** by 微软&英伟达: [news](https://mp.weixin.qq.com/s/F3f1Q15fyEd4L5jV41INDw)
   * 2021年09月28日（2457亿参数） **源1.0** by 浪潮人工智能研究院: [news](https://mp.weixin.qq.com/s/d6wVEM6dUalkITKo8Sly6A).
   * 2021年07月08日（?亿参数） **ERNIE3.0** by 百度: [paper](https://arxiv.org/pdf/2107.02137.pdf), [demo](https://wenxin.baidu.com/wenxin/ernie), [news](https://mp.weixin.qq.com/s/78rU2mC9MUXEkEI5p9bCug).
+  * 2021年06月01日（17500亿参数） **悟道2.0** by 北京智源人工智能研究院: [news](https://baijiahao.baidu.com/s?id=1701360796163699362&wfr=spider&for=pc)
   * 2021年04月26日（2000亿参数） **盘古（PanGu）** by 华为: [code](https://git.openi.org.cn/PCL-Platform.Intelligence/PanGu-Alpha), [news](https://zhuanlan.zhihu.com/p/368261642).
   * 2021年04月19日（270亿参数） **PLUG** by 阿里巴巴达摩院: [demo](https://nlp.aliyun.com/portal#/BigText_chinese), [news](https://www.thepaper.cn/newsDetail_forward_12274410).
   * 2021年03月20日（?亿参数） **悟道1.0** by 北京智源人工智能研究院: [homepage](https://wudaoai.cn/home), [corpora](https://resource.wudaoai.cn/home), [news](https://zhuanlan.zhihu.com/p/358876576).
