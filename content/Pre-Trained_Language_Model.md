@@ -9,6 +9,7 @@
   * [CLUE](https://github.com/CLUEbenchmark/CLUE): Advanced version of ChineseGLUE ([homepage](https://www.cluebenchmarks.com/)/[paper](https://arxiv.org/abs/2004.05986)).
   * [FewCLUE](https://github.com/CLUEbenchmark/FewCLUE): [paper](https://arxiv.org/abs/2107.07498)
   * [ChineseBLUE](https://github.com/alibaba-research/ChineseBLUE): Chinese Biomedical Language Understanding Evaluation benchmark.
+  * [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): 高质量中文预训练模型集合.
 
 ### Word Dictionary / Word Vector Resource
   * [OSCAR](https://oscar-corpus.com/): **O**pen **S**uper-large **C**rawled **A**ggregated co**R**pus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
