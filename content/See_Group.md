@@ -58,6 +58,7 @@
     - [**明略科技**](https://www.mininglamp.com/)
     - [**狗尾草科技**](https://www.gowild.cn/)
     - [**文因互联**](https://memect.cn/)
+    - [**Langboat**](https://github.com/Langboat): [澜舟科技](https://www.langboat.com/)
     - [**深擎科技**](https://www.shenqingtech.com/#/)
     - [**数据地平线**](https://www.datahorizon.cn/)
     - [**达观科技**](http://www.datagrand.com/)
