@@ -5,6 +5,7 @@
 
 ### Papers
   * Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207). arXiv preprint arXiv:2110.08207.
+  * Wei, J., Bosma, M., Zhao, V. Y., Guu, K., Yu, A. W., Lester, B., ... & Le, Q. V. (2021). [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652). arXiv preprint arXiv:2109.01652.
   * Schick, T. , & H Schütze. (2020). [Exploiting cloze questions for few shot text classification and natural language inference](https://arxiv.org/abs/2001.07676v3). EACL 2021.
   * Dai, D., Dong, L., Hao, Y., Sui, Z., & Wei, F. (2021). [Knowledge neurons in pretrained transformers](https://arxiv.org/abs/2104.08696). arXiv preprint arXiv:2104.08696.
   * Li, L., Xu, C., Wu, W., Zhao, Y., Zhao, X., & Tao, C. (2020). [Zero-resource knowledge-grounded dialogue generation](https://arxiv.org/abs/2008.12918). arXiv preprint arXiv:2008.12918.
