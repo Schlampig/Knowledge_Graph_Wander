@@ -4,6 +4,7 @@
 ## Knowledge into language model
 
 ### Papers
+  * Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207). arXiv preprint arXiv:2110.08207.
   * Schick, T. , & H Schütze. (2020). [Exploiting cloze questions for few shot text classification and natural language inference](https://arxiv.org/abs/2001.07676v3). EACL 2021.
   * Dai, D., Dong, L., Hao, Y., Sui, Z., & Wei, F. (2021). [Knowledge neurons in pretrained transformers](https://arxiv.org/abs/2104.08696). arXiv preprint arXiv:2104.08696.
   * Li, L., Xu, C., Wu, W., Zhao, Y., Zhao, X., & Tao, C. (2020). [Zero-resource knowledge-grounded dialogue generation](https://arxiv.org/abs/2008.12918). arXiv preprint arXiv:2008.12918.
@@ -28,6 +29,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [Hugging Face牵头，42位作者发文，1939个prompt，大幅提升Zero-Shot性能！](https://mp.weixin.qq.com/s/CZTyZVooG1jtsnicA8SYHw) | AINLP 10月20日 转载
     - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s/lSFrdC64nDNh0Qah0zLKnA) | Severus 夕小瑶的卖萌屋 9月20日
     - [一个「PPT」框架，让超大模型调参变简单：清华刘知远、黄民烈团队力作](https://mp.weixin.qq.com/s/nJpBULGGnB0Ifit8bb6SAw) | 机器之心编辑部 机器之心 9月11日
     - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ) | zenRRan 深度学习自然语言处理 9月9日
