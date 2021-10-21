@@ -139,6 +139,11 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 ### ZEN
   * [paper](https://arxiv.org/abs/1911.00720): Diao, S. , Bai, J. , Song, Y. , Zhang, T. , & Wang, Y. . (2019). Zen: pre-training chinese text encoder enhanced by n-gram representations.
   * code: https://github.com/sinovation/ZEN
+
+### Mengzi
+  * [paper](https://arxiv.org/abs/2110.06696): Zhang, Z., Zhang, H., Chen, K., Guo, Y., Hua, J., Wang, Y., & Zhou, M. (2021). *Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese*. arXiv preprint arXiv:2110.06696.
+  * code: https://github.com/Langboat/Mengzi
+  * author: Langboat
   
 ### HUAWEI-Pretrained Language Model
   * code: https://github.com/huawei-noah/Pretrained-Language-Model
@@ -169,6 +174,7 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   
 ### :dizzy_face: Why so many huge language models?
   * 2021年10月12日（5300亿参数） **Megatron-Turing** by 微软&英伟达: [news](https://mp.weixin.qq.com/s/F3f1Q15fyEd4L5jV41INDw)
+  * 2021年09月30日（?亿参数） **神舟1.0** by QQ浏览器: [news](https://mp.weixin.qq.com/s/PODShmOo0tg9cmchNhzvtw)
   * 2021年09月28日（2457亿参数） **源1.0** by 浪潮人工智能研究院: [news](https://mp.weixin.qq.com/s/d6wVEM6dUalkITKo8Sly6A).
   * 2021年07月08日（?亿参数） **ERNIE3.0** by 百度: [paper](https://arxiv.org/pdf/2107.02137.pdf), [demo](https://wenxin.baidu.com/wenxin/ernie), [news](https://mp.weixin.qq.com/s/78rU2mC9MUXEkEI5p9bCug).
   * 2021年06月01日（17500亿参数） **悟道2.0** by 北京智源人工智能研究院: [news](https://baijiahao.baidu.com/s?id=1701360796163699362&wfr=spider&for=pc)
