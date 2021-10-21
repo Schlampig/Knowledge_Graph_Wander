@@ -1,6 +1,9 @@
 ## **Named Entity Recognition**
 
 
+### Blog
+  * 2020年07月 [美团搜索中NER技术的探索与实践](https://mp.weixin.qq.com/s/632T-bwnKU2Ui4Uidpoylw)
+
 ### NCRF++
   * link: https://github.com/jiesutd/NCRFpp
   * author: Jie Yang 
