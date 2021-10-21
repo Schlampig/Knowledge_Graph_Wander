@@ -14,6 +14,18 @@
   * pypi: [edalize](https://github.com/olofk/edalize)
   * note: easy data augmentation techniques for boosting performance on text classification tasks.
 
+### UDA
+  * link: https://github.com/google-research/uda
+  * author: Google Research
+  * [paper](https://arxiv.org/abs/1904.12848): Xie, Q. , Dai, Z. , Hovy, E. , Luong, M. T. , & Le, Q. V. . (2019). *Unsupervised data augmentation for consistency training*.
+  * note: unsupervised aata augmentation code.
+
+### NLPAUG
+  * link: https://github.com/makcedward/nlpaug
+  * author: Edward Ma
+  * tutorial: https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28 
+  * note: a python library helps people with augmenting nlp for your machine learning projects, for English text. 
+
 ### TextAttack
   * link: https://github.com/QData/TextAttack
   * author: QData
