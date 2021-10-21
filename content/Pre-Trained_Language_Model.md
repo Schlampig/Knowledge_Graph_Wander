@@ -63,6 +63,11 @@
   * [paper](https://arxiv.org/abs/2109.00301): Martins, P. H., Marinho, Z., & Martins, A. F. (2021). *$\infty $-former: Infinite Memory Transformer*. arXiv preprint arXiv:2109.00301.
   * [blog](https://mp.weixin.qq.com/s/xlIy5Zsy9UWIO8SqBVT5CA): Transformer又出新变体∞-former：无限长期记忆，任意长度上下文.
 
+### xFormers
+  * code: https://github.com/facebookresearch/xformers
+  * author: Facebook Research
+  * note: hackable and optimized Transformers building blocks, supporting a composable construction.
+
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
   * code: [tensorflow by google-research](https://github.com/google-research/bert), [pytorch by Hugging Face
