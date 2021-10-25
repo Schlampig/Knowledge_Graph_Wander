@@ -13,6 +13,7 @@
   * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
   * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
   * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
+  * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
 <br/>
 
 ### Company & Organization
