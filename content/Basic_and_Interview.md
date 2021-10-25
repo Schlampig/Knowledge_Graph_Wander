@@ -78,6 +78,11 @@
   * author: Knife丶
   * keywords: leetcode, solutions
 
+### Algorithm-Stone
+  * link: https://github.com/acm-clan/algorithm-stone
+  * author: acm-clan
+  * keywords: 公众号《ACM算法日常》整理的算法学习路线图
+
 ---
 ## Learn Pytorch & TF & Keras ...
 
