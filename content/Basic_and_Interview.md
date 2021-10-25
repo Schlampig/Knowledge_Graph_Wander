@@ -95,7 +95,13 @@
   * link: https://github.com/zergtant/pytorch-handbook
   * author: hengtao tantai
   * keywords: open source pytorch tutorials
-  
+
+### PyTorch Lightning
+  * link: https://github.com/PyTorchLightning/pytorch-lightning
+  * website: https://www.pytorchlightning.ai/#grid-section
+  * author: Pytorch Lightning Team
+  * keywords: the lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+
 ### Awesome-pytorch-list
   * link: https://github.com/bharathgs/Awesome-pytorch-list
   * author: bharathgs
