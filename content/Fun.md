@@ -58,6 +58,7 @@
   * [Metrics](https://github.com/lowlighter/metrics): An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [Moe-counter](https://github.com/journey-ad/Moe-counter): 多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
+  * [DANGO](https://dango.ai/): 团子AI-人工智能提取伴奏人声.
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
