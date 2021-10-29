@@ -178,7 +178,12 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * author: alibaba-luofuli
   * note: ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
   * news: [官宣！达摩院开源秘藏深度语言模型体系AliceMind，NLP正在走向大工业时代](https://mp.weixin.qq.com/s/hjnDl3sxDvN2VjtC85DZQw)
-  
+
+### WuDao
+  * github page: https://github.com/BAAI-WuDao
+  * author: BAAI
+  * note: 智源·悟道大规模预训练语言模型 
+
 ### :dizzy_face: Why so many huge language models?
   * 2021年10月12日（5300亿参数） **Megatron-Turing** by 微软&英伟达: [news](https://mp.weixin.qq.com/s/F3f1Q15fyEd4L5jV41INDw)
   * 2021年09月30日（?亿参数） **神舟1.0** by QQ浏览器: [news](https://mp.weixin.qq.com/s/PODShmOo0tg9cmchNhzvtw)
