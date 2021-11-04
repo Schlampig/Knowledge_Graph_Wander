@@ -48,6 +48,7 @@
   * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器，发人深省.
 
 ### Art & Design
+  * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [free-font](https://github.com/wordshub/free-font)
   * [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
