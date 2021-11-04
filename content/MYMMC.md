@@ -43,6 +43,11 @@
     - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 6月14日
     - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 4月3日
 
+### OpenPrompt
+  * link: https://github.com/thunlp/OpenPrompt
+  * author: THUNLP
+  * note: an open-source toolkit for prompt-learning.
+
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
   * blog:
