@@ -34,6 +34,7 @@
   * [sensitivewd-filter](https://github.com/andyzty/sensitivewd-filter) by Andy.
   * [stopwords](https://github.com/goto456/stopwords) by goto456.
   * [Chinese-StopWords](https://github.com/baipengyan/Chinese-StopWords) by baipengyan.
+  * [NouBan-js](https://github.com/drrouen/NouBan-js) by Daniel V.: 收集豆瓣敏感词的项目.
 
 ### Synonyms & Antonym
   * [Synonyms](https://github.com/chatopera/Synonyms) by Chatopera.
