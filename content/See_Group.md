@@ -35,6 +35,7 @@
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
     - [**Bytedance Inc.**](https://github.com/bytedance): [字节跳动](https://www.bytedance.com/)
     - [**京东云**](https://www.jdcloud.com/): [JD-AI-Research-Silicon-Valley](https://github.com/JD-AI-Research-Silicon-Valley)
+    - [**XiaoMi**](https://github.com/XiaoMi): [小米开放平台](https://dev.mi.com/console/cloud/)/[MiNLP](https://github.com/XiaoMi/MiNLP)
     - [**搜狗实验室**](http://www.sogou.com/labs/): [Sogou Open Source](https://github.com/sogou)/[搜狗语音](https://github.com/sogouspeech)
   * 计算机视觉
     - [**商汤科技**](https://www.sensetime.com/cn): [SenseTime Video Intelligence Research Team(STVIR)](https://github.com/STVIR)
