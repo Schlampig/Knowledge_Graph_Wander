@@ -34,6 +34,7 @@
     - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
     - [**Bytedance Inc.**](https://github.com/bytedance): [字节跳动](https://www.bytedance.com/)
+    - [**HuaWei-Noah**](https://github.com/huawei-noah): [华为诺亚](https://github.com/huawei-noah)
     - [**京东云**](https://www.jdcloud.com/): [JD-AI-Research-Silicon-Valley](https://github.com/JD-AI-Research-Silicon-Valley)
     - [**XiaoMi**](https://github.com/XiaoMi): [小米开放平台](https://dev.mi.com/console/cloud/)/[MiNLP](https://github.com/XiaoMi/MiNLP)
     - [**搜狗实验室**](http://www.sogou.com/labs/): [Sogou Open Source](https://github.com/sogou)/[搜狗语音](https://github.com/sogouspeech)
