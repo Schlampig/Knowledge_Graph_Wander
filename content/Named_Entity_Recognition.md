@@ -65,3 +65,10 @@
   * author: foxlf823
   * note: source code for [A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition](https://arxiv.org/pdf/2106.14373.pdf)
   * blog: [ACL2021 | 一种巧妙解决NER覆盖和不连续问题的方法](https://mp.weixin.qq.com/s/SundMXWB_2l-MXh0bu9g1w)
+
+### FLAT
+  * [paper](https://arxiv.org/abs/2004.11795): Li, X. , Yan, H. , Qiu, X. , & Huang, X. . (2020). Flat: chinese ner using flat-lattice transformer.
+  * link: https://github.com/LeeSureman/Flat-Lattice-Transformer
+  * author: LeeSureman
+  * blog: [FLAT：中文NER屠榜之作！复旦大学邱锡鹏团队出品](https://baijiahao.baidu.com/s?id=1677517325999475430&wfr=spider&for=pc)
+
