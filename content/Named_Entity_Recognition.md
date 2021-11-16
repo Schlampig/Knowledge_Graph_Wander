@@ -70,5 +70,5 @@
   * [paper](https://arxiv.org/abs/2004.11795): Li, X. , Yan, H. , Qiu, X. , & Huang, X. . (2020). Flat: chinese ner using flat-lattice transformer.
   * link: https://github.com/LeeSureman/Flat-Lattice-Transformer
   * author: LeeSureman
-  * blog: [FLAT：中文NER屠榜之作！复旦大学邱锡鹏团队出品](https://baijiahao.baidu.com/s?id=1677517325999475430&wfr=spider&for=pc)
+  * blog: [FLAT：中文NER屠榜之作！复旦大学邱锡鹏团队出品](https://baijiahao.baidu.com/s?id=1677517325999475430&wfr=spider&for=pc)，[FLAT--起飞的NER模型](https://zhuanlan.zhihu.com/p/362349210)
 
