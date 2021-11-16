@@ -71,4 +71,4 @@
   * link: https://github.com/LeeSureman/Flat-Lattice-Transformer
   * author: LeeSureman
   * blog: [FLAT：中文NER屠榜之作！复旦大学邱锡鹏团队出品](https://baijiahao.baidu.com/s?id=1677517325999475430&wfr=spider&for=pc)，[FLAT--起飞的NER模型](https://zhuanlan.zhihu.com/p/362349210)
-
+  * extra: [**Lex-BERT**](https://arxiv.org/abs/2101.00396): [Lex-BERT：超越FLAT的中文NER模型？](https://zhuanlan.zhihu.com/p/343231764).
