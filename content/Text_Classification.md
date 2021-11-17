@@ -57,4 +57,10 @@
 ### Transformers_for_Text_Classification
   * link: https://github.com/zhanlaoban/Transformers_for_Text_Classification
   * author: zhanlaoban
-  * note: transformer-based text classification
+  * note: transformer-based text classification.
+
+### Text-Classification
+  * link: https://github.com/QimingPeng/Text-Classification
+  * author: QimingPeng
+  * website: https://www.cnblogs.com/sandwichnlp/p/11698996.html#textrcnn
+  * note: TextRNN, TextCNN, TextRCNN, Highway, Attention for sentimental classification.
