@@ -62,7 +62,6 @@
     - [**Langboat**](https://github.com/Langboat): [澜舟科技](https://www.langboat.com/)
     - [**深擎科技**](https://www.shenqingtech.com/#/)
     - [**数据地平线**](https://www.datahorizon.cn/)
-    - [**达观科技**](http://www.datagrand.com/)
     - [**虎博科技**](https://www.tigerobo.com/)
   * 对话机器人
     - [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
