@@ -55,7 +55,6 @@
     - [**阿博茨科技(ABC Technology)**](https://www.abcfintech.com/)
     - [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
     - [**艾克斯智能**](http://otm.cn/)
-    - [**达观科技**](http://www.datagrand.com/)
   * 知识图谱
     - [**明略科技**](https://www.mininglamp.com/)
     - [**狗尾草科技**](https://www.gowild.cn/)
