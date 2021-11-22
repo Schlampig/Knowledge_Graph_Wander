@@ -53,7 +53,6 @@
     - [**数库(ChinaScope)**](http://finance.chinascope.com/www/)
     - [**庖丁科技**](https://www.paodingai.com/)
     - [**阿博茨科技(ABC Technology)**](https://www.abcfintech.com/)
-    - [**竹间智能**](https://www.emotibot.com/)
     - [**4Paradigm**](https://github.com/4paradigm): [第四范式](https://www.4paradigm.com/)
     - [**艾克斯智能**](http://otm.cn/)
     - [**达观科技**](http://www.datagrand.com/)
@@ -69,6 +68,7 @@
   * 对话机器人
     - [**ZhuiyiTechnology**](https://github.com/ZhuiyiTechnology): [追一科技](https://zhuiyi.ai/)
     - [**乐言科技**](https://www.leyantech.com/)
+    - [**竹间智能**](https://www.emotibot.com/)
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
   * 语音
