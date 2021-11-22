@@ -49,7 +49,7 @@
     - [**海康威视**](https://www.hikvision.com/cn/)
   * 信息抽取
     - [**达观科技**](http://www.datagrand.com/)
-    - [**ShannonAI**](https://github.com/ShannonAI): [香浓科技](https://www.shannonai.com/)
+    - [**ShannonAI**](https://github.com/ShannonAI): [香侬科技](https://www.shannonai.com/)
     - [**数库(ChinaScope)**](http://finance.chinascope.com/www/)
     - [**庖丁科技**](https://www.paodingai.com/)
     - [**阿博茨科技(ABC Technology)**](https://www.abcfintech.com/)
