@@ -62,6 +62,7 @@
     - [blog](https://spaces.ac.cn/archives/7427)
     - [code](https://github.com/ZhuiyiTechnology/simbert)
   * ERNIE-Gram
+    - [news](https://baijiahao.baidu.com/s?id=1700728264640462603&wfr=spider&for=pc)
     - [paper](https://arxiv.org/abs/2010.12148): ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding
 
 ### Others
