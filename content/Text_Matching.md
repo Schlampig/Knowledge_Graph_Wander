@@ -40,7 +40,7 @@
     - [paper](https://arxiv.org/pdf/1702.03814.pdf): Bilateral Multi-Perspective Matching for Natural Language Sentences
   * ESIM
     - [paper](https://arxiv.org/abs/1609.06038): Enhanced LSTM for Natural Language Inference
-    - code: [tensorflow ver.](https://github.com/enningxie/ESIM), [keras ver.](https://github.com/EternalFeather/ESIM), [keras ver.2](https://github.com/Deep1994/ESIM-keras), [pytorch ver.](https://github.com/MrXJC/ESIM)
+    - code: [tensorflow ver.](https://github.com/enningxie/ESIM), [keras ver.](https://github.com/EternalFeather/ESIM), [keras ver.2](https://github.com/Deep1994/ESIM-keras), [pytorch ver.](https://github.com/MrXJC/ESIM), [Theano ver.](https://github.com/lukecq1231/nli)
   * DIIN
     - [paper](https://arxiv.org/abs/1709.04348): NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE
     - [code](https://github.com/YichenGong/Densely-Interactive-Inference-Network): official
