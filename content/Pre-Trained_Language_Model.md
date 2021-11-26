@@ -151,7 +151,11 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * [paper](https://arxiv.org/abs/2110.06696): Zhang, Z., Zhang, H., Chen, K., Guo, Y., Hua, J., Wang, Y., & Zhou, M. (2021). *Mengzi: Towards Lightweight yet Ingenious Pre-trained Models for Chinese*. arXiv preprint arXiv:2110.06696.
   * code: https://github.com/Langboat/Mengzi
   * author: Langboat
-  
+
+### NeZha_Chinese_PyTorch
+  * code: https://github.com/lonePatient/NeZha_Chinese_PyTorch
+  * author: lonePatient
+
 ### HUAWEI-Pretrained Language Model
   * code: https://github.com/huawei-noah/Pretrained-Language-Model
   
