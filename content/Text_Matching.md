@@ -26,12 +26,13 @@
     - code: [tensorflow ver.](https://github.com/pl8787/MatchPyramid-TensorFlow), [keras ver.](https://github.com/wyu-du/MatchPyramid-for-semantic-matching), [pytorch ver.](https://github.com/pl8787/DeepRank_PyTorch), unofficial
   * MV-LSTM
     - [paper](http://www.bigdatalab.ac.cn/~lanyanyan/papers/2016/AAAI2016_wan.pdf): A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations
-    - code: [tensorflow ver.](https://github.com/coderbyr/MV-LSTM)
+    - code: [tensorflow ver.](https://github.com/coderbyr/MV-LSTM), unofficial
   * aNMM
     - [paper](https://arxiv.org/abs/1801.01641): aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model
+    - [code](https://github.com/yangliuy/aNMM-CIKM16): official
   * ABCNN
     - [paper](https://arxiv.org/abs/1512.05193): ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs
-    - [code](https://github.com/yinwenpeng/Answer_Selection)
+    - [code](https://github.com/yinwenpeng/Answer_Selection): official
   * HCRN
     - [paper](https://www.ijcai.org/proceedings/2018/0615.pdf): Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains
   * BiMPM
@@ -40,8 +41,8 @@
     - [paper]()
     - [code]()
   * DIIN
-    - [paper](https://arxiv.org/pdf/1709.04348.pdf): NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE
-    - [code](https://github.com/YichenGong/Densely-Interactive-Inference-Network)
+    - [paper](https://arxiv.org/abs/1709.04348): NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE
+    - [code](https://github.com/YichenGong/Densely-Interactive-Inference-Network): official
 
 ### Contrastive Methods
   * SimCSE
