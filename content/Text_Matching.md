@@ -1,0 +1,66 @@
+## **Text Similarity Learning**
+
+### Libraries
+  * simhash
+    - [pypi](https://pypi.org/project/simhash/)
+    - [homepage](https://leons.im/posts/a-python-implementation-of-simhash-algorithm/)
+    - [code](https://github.com/1e0ng/simhash)
+
+### Matching Models in Searching
+  * Blogs
+    - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
+    - [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
+  * DSSM
+    - [paper]()
+    - [code]()
+  * ARC-I & ARC-II
+    - [paper](https://arxiv.org/pdf/1503.03244.pdf): Convolutional Neural Network Architectures for Matching Natural Language Sentences
+    - [code]()
+  * MatchPyramid
+    - [paper](https://arxiv.org/abs/1602.06359): Text Matching as Image Recognition
+    - [code]()
+  * MV-LSTM
+    - [paper](http://www.bigdatalab.ac.cn/~lanyanyan/papers/2016/AAAI2016_wan.pdf): A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations
+    - [code]()
+  * aNMM
+    - [paper](https://arxiv.org/abs/1801.01641): aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model
+  * ABCNN
+    - [paper](https://arxiv.org/abs/1512.05193): ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs
+    - [code](https://github.com/yinwenpeng/Answer_Selection)
+  * HCRN
+    - [paper](https://www.ijcai.org/proceedings/2018/0615.pdf): Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains
+  * BiMPM
+    - [paper](https://arxiv.org/pdf/1702.03814.pdf): Bilateral Multi-Perspective Matching for Natural Language Sentences
+  * ESIM
+    - [paper]()
+    - [code]()
+  * DIIN
+    - [paper](https://arxiv.org/pdf/1709.04348.pdf): NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE
+    - [code](https://github.com/YichenGong/Densely-Interactive-Inference-Network)
+
+### Contrastive Methods
+  * SimCSE
+    - [paper](https://arxiv.org/abs/2104.08821)
+    - [code](https://github.com/princeton-nlp/SimCSE)
+    - [demo](https://gradio.app/g/AK391/SimCSE)
+    - [introduction blog](https://zhuanlan.zhihu.com/p/368353121)
+    - [further reading](https://mp.weixin.qq.com/s/2a6xKL61u0M6mD1UMJjV3Q): 一文掌握《对比学习（Contrastive Learning）》要旨，详述MoCo和SimCLR算法
+    - [R-Drop](https://github.com/dropreg/R-Drop): [又是Dropout两次！这次它做到了有监督任务的SOTA](https://spaces.ac.cn/archives/8496)
+  * Chinese SimCSE
+    - [blog](https://kexue.fm/archives/8348)
+    - [code](https://github.com/bojone/SimCSE)
+
+### Matching Models through Pre-trained Models
+  * SimBERT
+    - [blog](https://spaces.ac.cn/archives/7427)
+    - [code](https://github.com/ZhuiyiTechnology/simbert)
+  * ERNIE-Gram
+
+### Others
+  * BERT-whitening
+    - [idea(blog)](https://kexue.fm/archives/8069)
+    - [experiments(blog)](https://kexue.fm/archives/8321)
+    - [paper](https://arxiv.org/abs/2103.15316)
+  * Perfect Match
+    - [code](https://github.com/d909b/perfect_match)
+    - [paper](https://arxiv.org/abs/1810.00656)
