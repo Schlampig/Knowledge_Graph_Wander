@@ -10,18 +10,23 @@
   * Blogs
     - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
     - [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
+  * Model Collections
+    - [deep-text-matching](https://github.com/wangle1218/deep_text_matching): implementation several deep text match (text similarly) models for keras . cdssm, arc-ii,match_pyramid, mvlstm ,esim, drcn ,bimpm, bert, albert, raberta
+    - [text_matching](https://github.com/pengming617/text_matching): Models such as DSSM, ESIM, ABCNN, BiMPM.
+    - [tensorflow-DSMM](https://github.com/ChenglongChen/tensorflow-DSMM): Tensorflow implementations of various Deep Semantic Matching Models (DSMM).
+    - [semantic-matching](https://github.com/jastfkjg/semantic-matching): semantic matching/text matching models including MatchPyramid, MV-LSTM, ABCNN
   * DSSM
-    - [paper]()
-    - [code]()
+    - [paper](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf): Learning Deep Structured Semantic Models for Web Search using Clickthrough Data 
+    - [code](https://github.com/baharefatemi/DSSM): unofficial
   * ARC-I & ARC-II
     - [paper](https://arxiv.org/pdf/1503.03244.pdf): Convolutional Neural Network Architectures for Matching Natural Language Sentences
-    - [code]()
+    - [code](https://github.com/wyu-du/ARCII-for-Matching-Natural-Language-Sentences): A simple Keras implementation of ARC-II, unofficial
   * MatchPyramid
     - [paper](https://arxiv.org/abs/1602.06359): Text Matching as Image Recognition
-    - [code]()
+    - code: [tensorflow ver.](https://github.com/pl8787/MatchPyramid-TensorFlow), [keras ver.](https://github.com/wyu-du/MatchPyramid-for-semantic-matching), [pytorch ver.](https://github.com/pl8787/DeepRank_PyTorch), unofficial
   * MV-LSTM
     - [paper](http://www.bigdatalab.ac.cn/~lanyanyan/papers/2016/AAAI2016_wan.pdf): A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations
-    - [code]()
+    - code: [tensorflow ver.](https://github.com/coderbyr/MV-LSTM)
   * aNMM
     - [paper](https://arxiv.org/abs/1801.01641): aNMM: Ranking Short Answer Texts with Attention-Based Neural Matching Model
   * ABCNN
