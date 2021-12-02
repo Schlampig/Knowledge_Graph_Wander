@@ -38,6 +38,7 @@
     - [**京东云**](https://www.jdcloud.com/): [JD-AI-Research-Silicon-Valley](https://github.com/JD-AI-Research-Silicon-Valley)
     - [**XiaoMi**](https://github.com/XiaoMi): [小米开放平台](https://dev.mi.com/console/cloud/)/[MiNLP](https://github.com/XiaoMi/MiNLP)
     - [**搜狗实验室**](http://www.sogou.com/labs/): [Sogou Open Source](https://github.com/sogou)/[搜狗语音](https://github.com/sogouspeech)
+    - [**SinoVation**](https://github.com/sinovation): [创新工场](https://ai.chuangxin.com/)
   * 计算机视觉
     - [**商汤科技**](https://www.sensetime.com/cn): [SenseTime Video Intelligence Research Team(STVIR)](https://github.com/STVIR)
     - [**旷世科技**](https://www.megvii.com/)|[Face++](https://www.faceplusplus.com.cn/): [MEGVII Research](https://github.com/megvii-research)/[FacePlusPlus](https://github.com/FacePlusPlus)
