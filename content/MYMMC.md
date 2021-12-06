@@ -49,7 +49,10 @@
   * note: an open-source toolkit for prompt-learning.
 
 ### SimCSE
-
+  * link: https://github.com/princeton-nlp/SimCSE
+  * [paper](https://arxiv.org/pdf/2104.08821.pdf): SimCSE: Simple Contrastive Learning of Sentence Embeddings
+  * blog:
+    - [中文任务还是SOTA吗？我们给SimCSE补充了一些实验](https://kexue.fm/archives/8348)
 
 ### ConSERT
   * link: https://github.com/yym6472/ConSERT
