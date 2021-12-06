@@ -54,7 +54,7 @@
     - [further reading](https://mp.weixin.qq.com/s/2a6xKL61u0M6mD1UMJjV3Q): 一文掌握《对比学习（Contrastive Learning）》要旨，详述MoCo和SimCLR算法
     - [R-Drop](https://github.com/dropreg/R-Drop): [又是Dropout两次！这次它做到了有监督任务的SOTA](https://spaces.ac.cn/archives/8496)
   * Chinese SimCSE
-    - [blog](https://kexue.fm/archives/8348)
+    - [blog](https://kexue.fm/archives/8348): 中文任务还是SOTA吗？我们给SimCSE补充了一些实验
     - [code](https://github.com/bojone/SimCSE)
   * ConSERT
     - [paper](https://arxiv.org/abs/2105.11741): ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer
@@ -66,13 +66,13 @@
     - [blog](https://spaces.ac.cn/archives/7427)
     - [code](https://github.com/ZhuiyiTechnology/simbert)
   * ERNIE-Gram
-    - [news](https://baijiahao.baidu.com/s?id=1700728264640462603&wfr=spider&for=pc)
+    - [news](https://baijiahao.baidu.com/s?id=1700728264640462603&wfr=spider&for=pc): 「四大模型」革新NLP技术应用，百度文心ERNIE最新开源预训练模型
     - [paper](https://arxiv.org/abs/2010.12148): ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding
 
 ### Others
   * BERT-whitening
-    - [idea(blog)](https://kexue.fm/archives/8069)
-    - [experiments(blog)](https://kexue.fm/archives/8321)
+    - [idea(blog)](https://kexue.fm/archives/8069): 你可能不需要BERT-flow：一个线性变换媲美BERT-flow
+    - [experiments(blog)](https://kexue.fm/archives/8321): 无监督语义相似度哪家强？我们做了个比较全面的评测
     - [paper](https://arxiv.org/abs/2103.15316)
   * Perfect Match
     - [code](https://github.com/d909b/perfect_match)
