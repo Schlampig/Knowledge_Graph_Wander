@@ -48,6 +48,11 @@
   * author: THUNLP
   * note: an open-source toolkit for prompt-learning.
 
+### NSP-BERT
+  * [paper](https://arxiv.org/pdf/2109.03564.pdf): NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction
+  * blog:
+    - [曾被嫌弃的预训练任务NSP，做出了优秀的Zero Shot效果](https://spaces.ac.cn/archives/8671)
+
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
   * blog:
