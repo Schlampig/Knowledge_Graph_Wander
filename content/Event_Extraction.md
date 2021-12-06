@@ -61,3 +61,7 @@
   * author: Baptiste Blouin
   * note: resources for nlp with a focus on the task of event extraction.
 
+### DL_EventExtractionPapers
+  * link: https://github.com/carrie0307/DL_EventExtractionPapers
+  * author: carrie0307
+  * note: a collection of deep-learning based event extraction papers from 2015 till now
