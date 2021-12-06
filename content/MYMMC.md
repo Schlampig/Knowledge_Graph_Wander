@@ -48,18 +48,6 @@
   * author: THUNLP
   * note: an open-source toolkit for prompt-learning.
 
-### SimCSE
-  * link: https://github.com/princeton-nlp/SimCSE
-  * [paper](https://arxiv.org/pdf/2104.08821.pdf): SimCSE: Simple Contrastive Learning of Sentence Embeddings
-  * blog:
-    - [中文任务还是SOTA吗？我们给SimCSE补充了一些实验](https://kexue.fm/archives/8348)
-
-### ConSERT
-  * link: https://github.com/yym6472/ConSERT
-  * [paper](https://arxiv.org/abs/2105.11741): ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer
-  * blog:
-    - [ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw)
-
 ### NSP-BERT
   * [paper](https://arxiv.org/pdf/2109.03564.pdf): NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction
   * blog:
