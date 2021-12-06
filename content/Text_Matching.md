@@ -47,7 +47,7 @@
 
 ### Contrastive Methods
   * SimCSE
-    - [paper](https://arxiv.org/abs/2104.08821)
+    - [paper](https://arxiv.org/abs/2104.08821): SimCSE: Simple Contrastive Learning of Sentence Embeddings
     - [code](https://github.com/princeton-nlp/SimCSE)
     - [demo](https://gradio.app/g/AK391/SimCSE)
     - [introduction blog](https://zhuanlan.zhihu.com/p/368353121)
@@ -56,6 +56,10 @@
   * Chinese SimCSE
     - [blog](https://kexue.fm/archives/8348)
     - [code](https://github.com/bojone/SimCSE)
+  * ConSERT
+    - [paper](https://arxiv.org/abs/2105.11741): ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer
+    - [code](https://github.com/yym6472/ConSERT)
+    - [further reading](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw): ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%
 
 ### Matching Models through Pre-trained Models
   * SimBERT
