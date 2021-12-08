@@ -61,7 +61,7 @@
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [Moe-counter](https://github.com/journey-ad/Moe-counter): 多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
-  * [iconfont+](www.iconfont.cn)(注册): 幻灯片制作矢量图素材库.
+  * [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
 
 ### City Life
