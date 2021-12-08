@@ -102,6 +102,12 @@
   * author: Pytorch Lightning Team
   * keywords: the lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 
+### minitorch
+  * link: https://github.com/minitorch/minitorch
+  * website: https://minitorch.github.io/
+  * author: minitorch
+  * keywords: a pure Python re-implementation of the Torch API designed to be simple, easy-to-read, tested, and incremental.
+
 ### Awesome-pytorch-list
   * link: https://github.com/bharathgs/Awesome-pytorch-list
   * author: bharathgs
