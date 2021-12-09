@@ -19,7 +19,7 @@
   * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
-### Language Learning
+### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
   * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
   * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
@@ -44,9 +44,14 @@
   * [poetry](https://github.com/sheepzh/poetry) by [ZHY](https://github.com/sheepzh)
   * [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen) by [caoxingyu](https://github.com/caoxingyu)
   * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
-  * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib))
   * [Internet Archive](https://archive.org/): a non-profit library of millions of free books, movies, software, music, websites, and more.
   * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器，发人深省.
+  * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib))
+
+### Culture & History
+  * [全历史](https://www.allhistory.com/): 以知识图谱为核心引擎的历史知识网站.
+  * [小鸡词典](https://jikipedia.com/): 网络流行语速查百科.
+  * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
 
 ### Art & Design
   * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
