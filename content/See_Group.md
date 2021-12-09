@@ -99,7 +99,8 @@
     - [**100TAL**](http://www.100tal.com/): 好未来
     - [**GoldWood**](http://www.gaomuxuexi.com/): 高木学习
   * 光学字符识别(OCR)
-    - [**INTSIG**](https://ai.intsig.com/): 合合AI开放平台([TextIn——一站式OCR服务平台](https://www.textin.com/))    
+    - [**INTSIG**](https://ai.intsig.com/): 合合AI开放平台([TextIn——一站式OCR服务平台](https://www.textin.com/))
+    - [**Wintone**](https://www.wintone.com.cn/): 文通科技
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
