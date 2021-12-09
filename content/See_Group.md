@@ -99,7 +99,7 @@
   * 教育
     - [**100TAL**](http://www.100tal.com/): 好未来
     - [**GoldWood**](http://www.gaomuxuexi.com/): 高木学习
-  * OCR
+  * 光学字符识别(OCR)
     -[**INTSIG**](https://ai.intsig.com/): 合合AI开放平台
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
