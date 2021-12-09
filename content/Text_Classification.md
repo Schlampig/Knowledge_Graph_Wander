@@ -64,3 +64,8 @@
   * author: QimingPeng
   * website: https://www.cnblogs.com/sandwichnlp/p/11698996.html#textrcnn
   * note: TextRNN, TextCNN, TextRCNN, Highway, Attention for sentimental classification.
+
+### chinese-sentiment-classification
+  * link: https://github.com/xalanq/chinese-sentiment-classification
+  * author: Alan Clarke
+  * note: MLP, CNN, RNN in PyTorch.
