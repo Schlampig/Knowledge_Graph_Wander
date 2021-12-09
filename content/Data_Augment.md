@@ -1,4 +1,4 @@
-## **Data Augmentation & Active Learning**
+## **Data Augmentation / Active Learning**
 
 
 ### Blog
