@@ -50,8 +50,8 @@
   * author: Fudan University NLP Group
   * note: a multilingual robustness evaluation platform for natural language processing, which unifies text transformation, sub-population, adversarial attack, and their combinations to provide a comprehensive robustness analysis.
 
-\line
-\line
+****
+****
 
 ### deep-active-learning
   * link: https://github.com/ej0cl6/deep-active-learning
