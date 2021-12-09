@@ -1,4 +1,4 @@
-## **Data Augmentation**
+## **Data Augmentation & Active Learning**
 
 
 ### Blog
@@ -49,3 +49,11 @@
   * link: https://github.com/textflint/textflint
   * author: Fudan University NLP Group
   * note: a multilingual robustness evaluation platform for natural language processing, which unifies text transformation, sub-population, adversarial attack, and their combinations to provide a comprehensive robustness analysis.
+
+\line
+\line
+
+### deep-active-learning
+  * link: https://github.com/ej0cl6/deep-active-learning
+  * author: Kuan-Hao Huang 
+  * note: Python implementations of the following algorithms: Random Sampling, Least Confidence, Margin Sampling, Entropy Sampling, Uncertainty Sampling with Dropout Estimation, Bayesian Active Learning Disagreement, Core-Set Selection, Adversarial margin.
