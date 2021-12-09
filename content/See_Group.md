@@ -25,7 +25,6 @@
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
-  * [**GEM-benchmark**](https://github.com/GEM-benchmark)
   
 <br/>
 
@@ -100,7 +99,7 @@
     - [**100TAL**](http://www.100tal.com/): 好未来
     - [**GoldWood**](http://www.gaomuxuexi.com/): 高木学习
   * 光学字符识别(OCR)
-    -[**INTSIG**](https://ai.intsig.com/): 合合AI开放平台
+    -[**INTSIG**](https://ai.intsig.com/): 合合AI开放平台([TextIn——一站式OCR服务平台](https://www.textin.com/))
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
@@ -113,4 +112,5 @@
   * [**AI算法工程师手册**](http://www.huaxiaozhuan.com/)
   * [**廖雪峰博客**](https://www.liaoxuefeng.com/)
   * [**Datawhale**](https://github.com/datawhalechina):thumbsup:
-  * [SophonPlus](https://github.com/SophonPlus)
+  * [**SophonPlus**](https://github.com/SophonPlus)
+  * [**GEM-benchmark**](https://github.com/GEM-benchmark)
