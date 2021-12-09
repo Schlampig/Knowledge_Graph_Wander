@@ -36,12 +36,12 @@
 ### Macadam
   * link: https://github.com/yongzhuo/Macadam
   * author: yongzhuo
-  * note: a NLP liburary based on Tensorflow(Keras) and bert4keras for sequence-labeling, text-classification, relation-extraction
+  * note: a NLP liburary based on Tensorflow(Keras) and bert4keras for sequence-labeling, text-classification, relation-extraction.
 
 ### EasyBert
   * link: https://github.com/rsanshierli/EasyBert
   * author: rsanshierli
-  * note: bert-based nlp implementation in pytorch
+  * note: bert-based nlp implementation in pytorch.
 
 ---
 ## Search NLP and KG
@@ -87,7 +87,12 @@
 ### ABigSurvey
   * link: https://github.com/NiuTrans/ABigSurvey
   * author: NiuTrans Open Source
-  * note: hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML)
+  * note: hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML).
+
+### NL-Augmenter
+  * link: https://github.com/GEM-benchmark/NL-Augmenter
+  * author: GEM-benchmark
+  * note: a collaborative effort intended to add transformations of datasets dealing with natural language.
 
 ---
 ## Search Others
