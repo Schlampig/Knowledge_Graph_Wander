@@ -17,3 +17,7 @@
   * author: NTUCSIE CLLab
   * note: a pool-based active learning in python
 
+### deep-active-learning
+  * link: https://github.com/ej0cl6/deep-active-learning
+  * author: Kuan-Hao Huang 
+  * note: Python implementations of the following algorithms: Random Sampling, Least Confidence, Margin Sampling, Entropy Sampling, Uncertainty Sampling with Dropout Estimation, Bayesian Active Learning Disagreement, Core-Set Selection, Adversarial margin.
