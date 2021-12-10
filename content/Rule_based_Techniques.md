@@ -1,6 +1,8 @@
 ## **Rule-based/ Symbolic Techniques**
 
 ### Paper
+  * [paper](https://arxiv.org/abs/2112.04324): Deep Learning and Mathematical Intuition: A Review of (Davies et al. 2021), arXiv.
+  * [paper](https://arxiv.org/pdf/2112.03324.pdf): Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks, arXiv.
   * [paper](https://arxiv.org/pdf/1905.10307.pdf)(PrediNet): Shanahan, M. , Nikiforou, K. , Creswell, A. , Kaplanis, C. , Barrett, D. , & Garnelo, M. . (2019). An explicitly relational neural network architecture.
   * [paper](https://arxiv.org/pdf/1801.09856.pdf): Wang, H. . (2018). Renn: rule-embedded neural networks.
   * [paper](https://arxiv.org/pdf/1805.05588.pdf): Luo, B. , Feng, Y. , Wang, Z. , Huang, S. , Yan, R. , & Zhao, D. . (2018). Marrying up regular expressions with neural networks: a case study for spoken language understanding.
