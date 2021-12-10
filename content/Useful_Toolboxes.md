@@ -22,6 +22,11 @@
   * website: https://labml.ai/
   * note: Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), reinforcement learning (ppo, dqn), capsnet, distillation, ...
 
+### papers-search
+  * link: https://github.com/fissoreg/papers-search
+  * author: Giancarlo Fissore 
+  * note: neural search engine for AI papers.
+
 ---
 ## Search Codes
 
