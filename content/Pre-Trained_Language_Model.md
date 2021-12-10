@@ -189,7 +189,8 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * note: 智源·悟道大规模预训练语言模型 
 
 ### :dizzy_face: Why so many huge language models?
-  * 2021年12月08日（2600亿参数） **文心（ERNIE3.0 Titan）** by 百度: [news](http://ai.baidu.com/support/news?action=detail&id=2683)
+  * 2021年12月09日（2800亿参数） **地鼠（Gopher）** by DeepMind: [news](https://mp.weixin.qq.com/s/z6fhsX8idpTjWNUwdeJT7A)
+  * 2021年12月08日（2600亿参数） **文心（ERNIE3.0 Titan）** by 百度: [news](http://ai.baidu.com/support/news?action=detail&id=2683), [news](https://mp.weixin.qq.com/s/3hJtO_iWNcMd9PDV0pJb_A)
   * 2021年10月12日（5300亿参数） **Megatron-Turing** by 微软&英伟达: [news](https://mp.weixin.qq.com/s/F3f1Q15fyEd4L5jV41INDw)
   * 2021年09月30日（?亿参数） **神舟1.0** by QQ浏览器: [news](https://mp.weixin.qq.com/s/PODShmOo0tg9cmchNhzvtw)
   * 2021年09月28日（2457亿参数） **源1.0** by 浪潮人工智能研究院: [news](https://mp.weixin.qq.com/s/d6wVEM6dUalkITKo8Sly6A).
