@@ -50,6 +50,7 @@
   * [Doc2EDAG](https://github.com/dolphin-zs/Doc2EDAG)(by Shun Zheng)
   * [SEBERTNets](https://github.com/hecongqing/CCKS2019EventEntityExtraction_Rank5)(by hecongqing)
   * [bert-event-extraction](https://github.com/nlpcl-lab/bert-event-extraction)(by NLP-CL Laboratory)
+  * [Financial-Causality-Extraction](https://github.com/guillaume-be/Financial-Causality-Extraction)(by guillaume-be)
 
 ### Event-Extraction
   * link: https://github.com/xiaoqian19940510/Event-Extraction
