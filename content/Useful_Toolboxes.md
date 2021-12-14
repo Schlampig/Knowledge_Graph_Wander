@@ -55,6 +55,12 @@
   * link: https://aclanthology.info/
   * note: infomation for ACL
 
+### NLP-progress
+  * link: https://github.com/sebastianruder/NLP-progress
+  * website: https://nlpprogress.com/
+  * author: Sebastian Ruder
+  * note: repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+
 ### Awesome Chinese NLP
   * link: https://github.com/crownpku/awesome-chinese-nlp
   * note: a curated list of resources for NLP (Natural Language Processing) for Chinese.
