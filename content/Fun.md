@@ -54,6 +54,7 @@
   * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
 
 ### Art & Design
+  * [deepdream](https://github.com/google/deepdream) and its various approaches/tutorials: [pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream), [neural-dream](https://github.com/ProGamerGov/neural-dream).
   * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [free-font](https://github.com/wordshub/free-font)
