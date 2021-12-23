@@ -79,6 +79,7 @@
   * [中国·国家地名信息库](http://dmfw.mca.gov.cn/index.html).
   * [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) by soaringsoul: 百度地图数据采集GUI工具.
   * [Python-POI-Spider](https://github.com/JasonXuDeveloper/Python-POI-Spider) by JasonXuDeveloper.
+  * [Geocoding](https://github.com/casuallyName/Geocoding) by casuallyName.
 
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
