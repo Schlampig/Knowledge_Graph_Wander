@@ -74,3 +74,9 @@
   * link: https://github.com/mklimasz/TransE-PyTorch
   * author: Mateusz Klimaszewski
   * note: implementation of TransE model in pytorch.
+
+### KnowledgeGraphEmbedding
+  * link: https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding
+  * author: MilaGraph
+  * note: a PyTorch implementation of the RotatE model for Knowledge Graph Embedding (KGE).
+  * extra: [PairRE](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE).
