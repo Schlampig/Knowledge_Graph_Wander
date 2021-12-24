@@ -31,7 +31,7 @@
 ### 中国企业
   * 通用自然语言处理
     - [**Tencent**](https://github.com/Tencent): [腾讯](https://opensource.tencent.com/)/[AI LAB](https://ai.tencent.com/ailab/)/[腾讯AI开放平台](https://ai.qq.com/)
-    - [**Alibaba**](https://github.com/alibaba): [阿里巴巴](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
+    - [**Alibaba**](https://github.com/alibaba): [蚂蚁集团](https://www.antgroup.com)/[Alipay](https://github.com/alipay)/[阿里云](https://ai.aliyun.com/)/[达摩院](https://damo.alibaba.com/)
     - [**PaddlePaddle**](https://github.com/PaddlePaddle): [百度飞桨](https://www.paddlepaddle.org.cn/)/[百度AI](http://ai.baidu.com/)
     - [**Bytedance Inc.**](https://github.com/bytedance): [字节跳动](https://www.bytedance.com/)
     - [**HuaWei-Noah**](https://github.com/huawei-noah): [华为诺亚](https://github.com/huawei-noah)
