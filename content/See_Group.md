@@ -16,6 +16,7 @@
   * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
   * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
   * AIRS: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
+  * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
 <br/>
 
 ### Company & Organization
@@ -27,7 +28,6 @@
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
-  
 <br/>
 
 ### 中国企业
