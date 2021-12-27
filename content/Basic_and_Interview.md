@@ -94,7 +94,12 @@
 ### pytorch-handbook
   * link: https://github.com/zergtant/pytorch-handbook
   * author: hengtao tantai
-  * keywords: open source pytorch tutorials
+  * keywords: open source pytorch tutorials.
+
+### PyTorch Step By Step
+  * link: https://github.com/dvgodoy/PyTorchStepByStep
+  * author: Daniel Voigt Godoy
+  * keywords: official repository of the book: "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide".
 
 ### PyTorch Lightning
   * link: https://github.com/PyTorchLightning/pytorch-lightning
