@@ -188,6 +188,11 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * author: BAAI
   * note: 智源·悟道大规模预训练语言模型 
 
+### Fengshenbang-LM
+  * github page: https://github.com/IDEA-CCNL/Fengshenbang-LM
+  * author: IDEA CCNL
+  * note: 封神榜大模型是IDEA研究院认知计算与自然语言研究中心主导的大模型开源计划，包括二郎神（中文BERT）、周文王（与追一共同研发，中文LM&MLM）、余元（中文医疗LM）、闻仲（中文GPT）、燃灯（中文All2Gen）
+
 ### :dizzy_face: Why so many huge language models?
   * 2021年12月09日（2800亿参数） **地鼠（Gopher）** by DeepMind: [news](https://mp.weixin.qq.com/s/z6fhsX8idpTjWNUwdeJT7A)
   * 2021年12月08日（2600亿参数） **文心（ERNIE3.0 Titan）** by 百度: [news](http://ai.baidu.com/support/news?action=detail&id=2683), [news](https://mp.weixin.qq.com/s/3hJtO_iWNcMd9PDV0pJb_A)
