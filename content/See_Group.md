@@ -14,6 +14,8 @@
   * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
   * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
   * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
+  * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
+  * AIRS: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
 <br/>
 
 ### Company & Organization
