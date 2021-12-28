@@ -1,6 +1,7 @@
 ## **Link of Research Groups**
 
 > Warning: This is not a white/black list!
+<br>
 
 ### Academic Group & Researcher
   * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/):thumbsup:
@@ -19,7 +20,7 @@
   * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
   * AIRS: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
   * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
-<br/>
+<br>
 
 ### Company & Organization
   * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
@@ -30,7 +31,7 @@
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
-<br/>
+<br>
 
 ### 中国企业
   * 通用自然语言处理
@@ -109,7 +110,7 @@
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
-<br/>
+<br>
 
 ### Person & Blog
   * [**科学空间**](https://spaces.ac.cn/):thumbsup:
