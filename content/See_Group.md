@@ -72,6 +72,7 @@
     - [**竹间智能**](https://www.emotibot.com/)
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
+    - [**DeeplyCurious.AI/**](http://deeplycurious.ai/#/): 深度好奇
   * 语音
     - [**iFlyTek**](https://www.iflytek.com/index.html): [科大讯飞](https://github.com/iflytek)
     - [**UniSound**](http://www.unisound.com/): [云知声](https://github.com/Unisound)
