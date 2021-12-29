@@ -25,6 +25,7 @@
   * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
   * [Grammarly](https://www.grammarly.com/): 语法检查App.
   * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
+  * [Effective Language Learning](https://effectivelanguagelearning.com/)
   
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
