@@ -16,6 +16,7 @@
     - [tensorflow-DSMM](https://github.com/ChenglongChen/tensorflow-DSMM): Tensorflow implementations of various Deep Semantic Matching Models (DSMM).
     - [semantic-matching](https://github.com/jastfkjg/semantic-matching): semantic matching/text matching models including MatchPyramid, MV-LSTM, ABCNN.
     - [Text-Similarity](https://github.com/pengshuang/Text-Similarity): Text-Similarity Method in Pytorch for ESIM, SiaGRU, ABCNN, BiMPM.
+    - [TextSimilar](https://github.com/phychaos/TextSimilar): MatchPyramid, Siamese RNN.
   * DSSM
     - [paper](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf): Learning Deep Structured Semantic Models for Web Search using Clickthrough Data 
     - [code](https://github.com/baharefatemi/DSSM): unofficial
