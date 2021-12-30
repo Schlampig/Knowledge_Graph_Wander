@@ -75,7 +75,7 @@
     - [**竹间智能**](https://www.emotibot.com/)
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
-    - [**DeeplyCurious.AI/**](http://deeplycurious.ai/#/): 深度好奇
+    - [**深度好奇(DeeplyCurious.AI/)**](http://deeplycurious.ai/#/)
   * 语音
     - [**iFlyTek**](https://www.iflytek.com/index.html): [科大讯飞](https://github.com/iflytek)
     - [**UniSound**](http://www.unisound.com/): [云知声](https://github.com/Unisound)
@@ -105,11 +105,11 @@
     - [**擎盾数据(Aegis)**](https://www.aegis-info.com/)
     - [**幂律智能**](https://www.powerlaw.ai/)
   * 教育
-    - [**100TAL**](http://www.100tal.com/): 好未来
-    - [**GoldWood**](http://www.gaomuxuexi.com/): 高木学习
+    - [**好未来(100TAL)**](http://www.100tal.com/)
+    - [**高木学习(GoldWood)**](http://www.gaomuxuexi.com/)
   * 光学字符识别(OCR)
-    - [**INTSIG**](https://ai.intsig.com/): 合合AI开放平台([TextIn——一站式OCR服务平台](https://www.textin.com/))
-    - [**Wintone**](https://www.wintone.com.cn/): 文通科技
+    - [**合合AI开放平台(INTSIG)**](https://ai.intsig.com/): [TextIn——一站式OCR服务平台](https://www.textin.com/)
+    - [**文通科技(Wintone)**](https://www.wintone.com.cn/)
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
