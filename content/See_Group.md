@@ -101,6 +101,9 @@
     - [**招银网络科技**](https://cmbnt.cmbchina.com/)
     - [**兴业数金**](http://www.cibfintech.com/opencms/export/index.html)
     - [**万德(WinD)**](https://www.wind.com.cn/)
+  * 法律
+    - [**擎盾数据(Aegis)**](https://www.aegis-info.com/)
+    - [**幂律智能**](https://www.powerlaw.ai/)
   * 教育
     - [**100TAL**](http://www.100tal.com/): 好未来
     - [**GoldWood**](http://www.gaomuxuexi.com/): 高木学习
