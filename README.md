@@ -33,7 +33,6 @@
   * [Knowledge or Network Embedding](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Knowledge_or_Network_Embedding.md)
   * [Graph Neural Networks (GNNs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/GNN.md)
   * [Graph Convolutional Networks (GCNs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/GCN.md)
-  * Graph Attention Networks (GATs)
   * [Dynamic Knowledge Graphs (DKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/DKG.md)
   * [Commonsense Knowledge Graphs (CKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/CKG.md)
 
