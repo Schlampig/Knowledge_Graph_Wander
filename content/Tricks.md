@@ -2,15 +2,17 @@
 
 
 ### Adversarial Training
-  * FGM
-  * PGD
-  * FreeLB
+  * blog
+    - [一文搞懂NLP中的对抗训练FGSM/FGM/PGD/FreeAT/YOPO/FreeLB/SMART](https://zhuanlan.zhihu.com/p/103593948)
+  * FGM(Fast Gradient Method)
+  * PGD(Projected Gradient Descent)
+  * FreeLB (Free Large-Batch)
 
 ### BlockShuffle
 
 ### Cross-Validation
-  * k-Fold Cross-Validation
-  * Leave-One-Out Validation
+  * kFCV(k-Fold Cross-Validation)
+  * LOO(Leave-One-Out Cross-Validation)
 
 ### Data Augmentation
   * SDE
@@ -34,4 +36,4 @@
 ### Pre-Finetune
 
 ### Warm-up
-  * linear warm-up
+  * Linear Warm-up
