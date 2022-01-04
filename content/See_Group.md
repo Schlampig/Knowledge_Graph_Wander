@@ -114,7 +114,10 @@
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
+    - [**美林数据**](http://www.meritdata.com.cn/)
+    - [**探智立方**](https://iqubic.net/features.html)
     - [**九章云极**](https://www.datacanvas.com/)
+    - [**星环科技**](https://www.transwarp.cn/)
 <br>
 
 ### Person & Blog
