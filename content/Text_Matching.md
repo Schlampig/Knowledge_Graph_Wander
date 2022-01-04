@@ -52,15 +52,19 @@
     - [code](https://github.com/princeton-nlp/SimCSE)
     - [demo](https://gradio.app/g/AK391/SimCSE)
     - [introduction blog](https://zhuanlan.zhihu.com/p/368353121)
-    - [further reading](https://mp.weixin.qq.com/s/2a6xKL61u0M6mD1UMJjV3Q): 一文掌握《对比学习（Contrastive Learning）》要旨，详述MoCo和SimCLR算法
+    - further reading
+      - [一文掌握《对比学习（Contrastive Learning）》要旨，详述MoCo和SimCLR算法](https://mp.weixin.qq.com/s/2a6xKL61u0M6mD1UMJjV3Q)
+      - [SimCSE论文精读](https://mp.weixin.qq.com/s/DAu9jJ36s4-cs6olH9iwIQ)
     - [R-Drop](https://github.com/dropreg/R-Drop): [又是Dropout两次！这次它做到了有监督任务的SOTA](https://spaces.ac.cn/archives/8496)
   * Chinese SimCSE
-    - [blog](https://kexue.fm/archives/8348): 中文任务还是SOTA吗？我们给SimCSE补充了一些实验
     - [code](https://github.com/bojone/SimCSE)
+    - further reading
+      - [中文任务还是SOTA吗？我们给SimCSE补充了一些实验](https://kexue.fm/archives/8348)
   * ConSERT
     - [paper](https://arxiv.org/abs/2105.11741): ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer
     - [code](https://github.com/yym6472/ConSERT)
-    - [further reading](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw): ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%
+    - further reading
+      - [ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw)
 
 ### Matching Models through Pre-trained Models
   * SimBERT
