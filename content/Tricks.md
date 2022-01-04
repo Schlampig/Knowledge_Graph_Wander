@@ -21,6 +21,7 @@
 ### Label-Focused
   * Mix-up
   * Label Smoothing
+  * CAN
 
 ### Lookahead
 
