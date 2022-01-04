@@ -5,12 +5,16 @@
   * [PLMpapers](https://github.com/thunlp/PLMpapers): a list of the representative work on Pre-trained Languge Model.
   * [OpenCLaP](https://github.com/thunlp/OpenCLaP): Open Chinese Language Pre-trained Model Zoo.
   * [Kashgari](https://github.com/BrikerMan/Kashgari): a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
+  * [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): 高质量中文预训练模型集合.
+  * [Chinese-Minority-PLM](https://github.com/ymcui/Chinese-Minority-PLM): 少数民族语言预训练模型.
+
+### Benchmark
   * [ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
   * [CLUE](https://github.com/CLUEbenchmark/CLUE): Advanced version of ChineseGLUE ([homepage](https://www.cluebenchmarks.com/)/[paper](https://arxiv.org/abs/2004.05986)).
   * [FewCLUE](https://github.com/CLUEbenchmark/FewCLUE): [paper](https://arxiv.org/abs/2107.07498)
   * [ChineseBLUE](https://github.com/alibaba-research/ChineseBLUE): Chinese Biomedical Language Understanding Evaluation benchmark.
-  * [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): 高质量中文预训练模型集合.
-  * [Chinese-Minority-PLM](https://github.com/ymcui/Chinese-Minority-PLM): 少数民族语言预训练模型.
+  * CUGE(Chinese LanguageUnderstanding and Generation Evaluation): [report](arxiv.org/pdf/2112.13610.pdf)/[homepage](cuge.baai.ac.cn)
+
 
 ### Word Dictionary / Word Vector Resource
   * [OSCAR](https://oscar-corpus.com/): **O**pen **S**uper-large **C**rawled **A**ggregated co**R**pus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
@@ -36,6 +40,7 @@
     - [Long Range Arena: A Benchmark for Efficient Transformers (2020-11)](https://arxiv.org/pdf/2011.04006.pdf)
     - [Efficient Transformers: A Survey (2020-09)](https://arxiv.org/pdf/2009.06732.pdf)
   * introduction/tutorial:
+    - [2022年：矩阵视角下的Transformer详解（附代码）](https://mp.weixin.qq.com/s/ZllvtpGfkLrcUBKZDtdoTA)
     - [2021年：HuggingFace BERT源码详解：基本模型组件实现](https://mp.weixin.qq.com/s/I4KSerhkFJdnIIpaZuf08A)
     - [2021年：Huggingface BERT源码详解：应用模型与训练优化](https://mp.weixin.qq.com/s/gR2i8HvyRBUxofovQarLNw)
     - [2021年：详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
