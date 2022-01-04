@@ -27,6 +27,10 @@
   * author: Giancarlo Fissore 
   * note: neural search engine for AI papers.
 
+### SimBiber
+  * link: https://github.com/MLNLP-World/SimBiber
+  * author: MLNLP-World
+  * note: a tool to simplify the official citation infomation to a shorter version.
 ---
 ## Search Codes
 
