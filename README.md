@@ -67,6 +67,7 @@
   * [Active Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Active_Learning.md)
   * [Few-Shot/Zero-Shot Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Few_Shot_Learning.md)
   * [Lifelong Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Lifelong_Learning.md)
+  * [Tricks to Sharpen your Models](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Tricks.md)
 
 ### Miscellaneous
   * [Basic Skills and Interview Experiences](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Basic_and_Interview.md):fire::fire:
