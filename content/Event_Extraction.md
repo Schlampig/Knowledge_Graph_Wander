@@ -66,3 +66,9 @@
   * link: https://github.com/carrie0307/DL_EventExtractionPapers
   * author: carrie0307
   * note: a collection of deep-learning based event extraction papers from 2015 till now
+
+### pathlm_schema
+  * link: https://github.com/limanling/pathlm_schema
+  * author: Manling Li 
+  * note: code for the paper "Cross-media Structured Common Space for Multimedia Event Extraction"
+  * extra: [OneIE](http://blender.cs.illinois.edu/software/oneie/)
