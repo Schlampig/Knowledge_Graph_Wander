@@ -15,6 +15,7 @@
   * Blogs
     - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
     - [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
+    - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A)
   * Model Collections
     - [deep-text-matching](https://github.com/wangle1218/deep_text_matching): implementation several deep text match (text similarly) models for keras . cdssm, arc-ii,match_pyramid, mvlstm ,esim, drcn ,bimpm, bert, albert, raberta.
     - [text_matching](https://github.com/pengming617/text_matching): Models such as DSSM, ESIM, ABCNN, BiMPM.
