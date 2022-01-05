@@ -6,6 +6,11 @@
     - [homepage](https://leons.im/posts/a-python-implementation-of-simhash-algorithm/)
     - [code](https://github.com/1e0ng/simhash)
 
+### Datasets
+  * [CSTS](https://github.com/zejunwang1/CSTS): 中文自然语言推理与语义相似度数据集
+  * [CLUE](https://www.cluebenchmarks.com/introduce.html)文本相似度任务
+  * [千言](http://www.luge.ai/)文本相似度任务
+
 ### Matching Models in Searching
   * Blogs
     - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
@@ -74,7 +79,7 @@
     - [news](https://baijiahao.baidu.com/s?id=1700728264640462603&wfr=spider&for=pc): 「四大模型」革新NLP技术应用，百度文心ERNIE最新开源预训练模型
     - [paper](https://arxiv.org/abs/2010.12148): ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding
 
-### Others
+### Other Methods
   * BERT-whitening
     - [idea(blog)](https://kexue.fm/archives/8069): 你可能不需要BERT-flow：一个线性变换媲美BERT-flow
     - [experiments(blog)](https://kexue.fm/archives/8321): 无监督语义相似度哪家强？我们做了个比较全面的评测
