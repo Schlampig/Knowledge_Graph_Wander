@@ -33,13 +33,14 @@
   * [paper](https://arxiv.org/pdf/1706.03762.pdf): Vaswani, A. , Shazeer, N. , Parmar, N. , Uszkoreit, J. , Jones, L. , & Gomez, A. N. , et al. (2017). *Attention is all you need*.
   * code: [pytorch by Yu-Hsiang Huang](https://github.com/jadore801120/attention-is-all-you-need-pytorch), [tensorflow by Kyubyong](https://github.com/Kyubyong/transformer), [another pytorch version by leviswind](https://github.com/leviswind/pytorch-transformer), [Simple Transformers by Thilina Rajapakse](https://github.com/ThilinaRajapakse/simpletransformers)
   * survey: 
-    - [自然语言处理：基于预训练模型的方法](https://github.com/HIT-SCIR/plm-nlp-code)(哈工大SCIR 车万翔、郭江、崔一鸣著)
-    - [国内数十位NLP大佬合作，综述预训练模型的过去、现在与未来](https://mp.weixin.qq.com/s/3hlSFny6RjwwxZODlEgSlA)
+    - [2021年：自然语言处理：基于预训练模型的方法](https://github.com/HIT-SCIR/plm-nlp-code)(哈工大SCIR 车万翔、郭江、崔一鸣著)
+    - [2021年：国内数十位NLP大佬合作，综述预训练模型的过去、现在与未来](https://mp.weixin.qq.com/s/3hlSFny6RjwwxZODlEgSlA)
     - [2021年：复旦大学邱锡鹏教授团队：Transformer最新综述](https://mp.weixin.qq.com/s/0DYOljpR9ePbutMvn8fMzQ)
     - [2021年：视觉Transformer最新综述](https://mp.weixin.qq.com/s/-4jLuBOTh9oM46r45T3efA)
     - [Long Range Arena: A Benchmark for Efficient Transformers (2020-11)](https://arxiv.org/pdf/2011.04006.pdf)
     - [Efficient Transformers: A Survey (2020-09)](https://arxiv.org/pdf/2009.06732.pdf)
   * introduction/tutorial:
+    - [2022年：Bert系列之模型参数计算](https://mp.weixin.qq.com/s/D7T0Pdqr01viicJfAWdIMQ)
     - [2022年：矩阵视角下的Transformer详解（附代码）](https://mp.weixin.qq.com/s/ZllvtpGfkLrcUBKZDtdoTA)
     - [2021年：HuggingFace BERT源码详解：基本模型组件实现](https://mp.weixin.qq.com/s/I4KSerhkFJdnIIpaZuf08A)
     - [2021年：Huggingface BERT源码详解：应用模型与训练优化](https://mp.weixin.qq.com/s/gR2i8HvyRBUxofovQarLNw)
