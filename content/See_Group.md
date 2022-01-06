@@ -20,6 +20,7 @@
   * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
   * AIRS: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
   * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
+  * [**MIT Media Lab**](https://github.com/mitmedialab): [麻省理工多媒体实验室](https://www.media.mit.edu/)
 <br>
 
 ### Company & Organization
