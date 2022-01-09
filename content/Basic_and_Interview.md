@@ -161,6 +161,11 @@
   * author: Huang Haiguang
   * keywords: class notes (in Chinese) about Stanford Machine Learning Tutorial by Andrew Ng
 
+### MIT Deep Learning Book
+  * link: https://github.com/janishar/mit-deep-learning-book-pdf
+  * author: Janishar Ali 
+  * keywords: MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
 ### AI SUMMER
   * link: https://github.com/The-AI-Summer
   * website: https://theaisummer.com/
