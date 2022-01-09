@@ -19,6 +19,8 @@
   * LOO(Leave-One-Out Cross-Validation)
 
 ### Data Augmentation
+  * blog
+    - [一篇就够！数据增强方法综述](https://mp.weixin.qq.com/s/HPItY9xXJcOZWisBGOrkSw)
   * SDE
   * EDA
 
