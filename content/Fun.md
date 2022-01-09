@@ -64,7 +64,7 @@
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
   * [Github.io](https://pages.github.com/): [简介](https://www.jianshu.com/p/22b413e3da53)、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
   * [Artbreeder](https://www.artbreeder.com/): [爷青回！AI把《灌篮高手》角色真人化，最帅的居然不是流川枫？](https://mp.weixin.qq.com/s/1yTLck34mdoE2xh4dSaUmQ)
-  * [万物皆可JOJO：这个GAN直接让马斯克不做人啦 | Demo可玩](https://mp.weixin.qq.com/s/vlq33by6TJXp3R-WSQb8EQ)
+  * [JoJoGAN](https://github.com/mchong6/JoJoGAN): [万物皆可JOJO：这个GAN直接让马斯克不做人啦 | Demo可玩](https://mp.weixin.qq.com/s/vlq33by6TJXp3R-WSQb8EQ)
   * [Metrics](https://github.com/lowlighter/metrics): An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [Moe-counter](https://github.com/journey-ad/Moe-counter): 多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
