@@ -74,11 +74,14 @@
 
 ### Matching Models through Pre-trained Models
   * SimBERT
-    - [blog](https://spaces.ac.cn/archives/7427)
+    - blog: [鱼与熊掌兼得：融合检索和生成的SimBERT模型](https://spaces.ac.cn/archives/7427)
     - [code](https://github.com/ZhuiyiTechnology/simbert)
   * ERNIE-Gram
     - [news](https://baijiahao.baidu.com/s?id=1700728264640462603&wfr=spider&for=pc): 「四大模型」革新NLP技术应用，百度文心ERNIE最新开源预训练模型
     - [paper](https://arxiv.org/abs/2010.12148): ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding
+  * CoSENT
+    - blog: [CoSENT：比Sentence-BERT更有效的句向量方案](https://kexue.fm/archives/8847)
+    - [code](https://github.com/bojone/CoSENT)
 
 ### Other Methods
   * BERT-whitening
