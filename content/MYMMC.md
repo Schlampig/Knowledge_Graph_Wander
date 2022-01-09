@@ -22,6 +22,9 @@
   * Sap, M., Le Bras, R., Allaway, E., Bhagavatula, C., Lourie, N., Rashkin, H., ... & Choi, Y. (2019, July). [Atomic: An atlas of machine commonsense for if-then reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/4160). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 3027-3035).
 </br>
 
+### Blogs
+  * [技术总结：KG融合预训练语言模型中的常见知识类型及代表工作浅析](https://mp.weixin.qq.com/s/XQqjqDK1fH15c3OzH3YOdg) | AINLP 2021年12月22日 转载
+
 ---
 ## Prompt-Tuning
 
@@ -30,18 +33,19 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
-    - [Hugging Face牵头，42位作者发文，1939个prompt，大幅提升Zero-Shot性能！](https://mp.weixin.qq.com/s/CZTyZVooG1jtsnicA8SYHw) | AINLP 10月20日 转载
-    - [Prompt超过finetune了？Emm...](https://mp.weixin.qq.com/s/GEHRKr05LsjROTyhj9Tv_w) | rumor 李rumor 10月19日
-    - [清华CPT：基于预训练视觉-语言模型的跨模态Prompt-Tuning](https://mp.weixin.qq.com/s/-DHL73OfNnhB75dXSONytQ) | 李rumor 10月15日 转载
-    - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s/lSFrdC64nDNh0Qah0zLKnA) | Severus 夕小瑶的卖萌屋 9月20日
-    - [一个「PPT」框架，让超大模型调参变简单：清华刘知远、黄民烈团队力作](https://mp.weixin.qq.com/s/nJpBULGGnB0Ifit8bb6SAw) | 机器之心编辑部 机器之心 9月11日
-    - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ) | zenRRan 深度学习自然语言处理 9月9日
-    - [清华大学刘知远组：文本分类任务中，将知识融入Prompt-tuning过程](https://mp.weixin.qq.com/s/AcdShY8-m5tRXgypQjmPhQ) | 苏剑林 PaperWeekly 8月13日
-    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw) | 机器之心编辑部 机器之心 8月3日
-    - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw) | rumor 李rumor 8月5日
-    - [近代自然语言处理技术发展的“第四范式”](https://zhuanlan.zhihu.com/p/395115779) | 刘鹏飞 知乎专栏 8月1日
-    - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 6月14日
-    - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 4月3日
+    - [统一对比学习框架？没错它来了。](https://mp.weixin.qq.com/s/vhWfd9Y-K9-ToZ77AtAx2Q) | rumor 李rumor 2021年12月27日
+    - [Hugging Face牵头，42位作者发文，1939个prompt，大幅提升Zero-Shot性能！](https://mp.weixin.qq.com/s/CZTyZVooG1jtsnicA8SYHw) | AINLP 2021年10月20日 转载
+    - [Prompt超过finetune了？Emm...](https://mp.weixin.qq.com/s/GEHRKr05LsjROTyhj9Tv_w) | rumor 李rumor 2021年10月19日
+    - [清华CPT：基于预训练视觉-语言模型的跨模态Prompt-Tuning](https://mp.weixin.qq.com/s/-DHL73OfNnhB75dXSONytQ) | 李rumor 2021年10月15日 转载
+    - [格局打开，带你解锁 prompt 的花式用法](https://mp.weixin.qq.com/s/lSFrdC64nDNh0Qah0zLKnA) | Severus 夕小瑶的卖萌屋 2021年9月20日
+    - [一个「PPT」框架，让超大模型调参变简单：清华刘知远、黄民烈团队力作](https://mp.weixin.qq.com/s/nJpBULGGnB0Ifit8bb6SAw) | 机器之心编辑部 机器之心 2021年9月11日
+    - [清华提出：用于细粒度实体分类的Prompt-Learning，并提出可训练Prompt模板](https://mp.weixin.qq.com/s/Dnqxi2sPifNCGmV8lqqkVQ) | zenRRan 深度学习自然语言处理 2021年9月9日
+    - [清华大学刘知远组：文本分类任务中，将知识融入Prompt-tuning过程](https://mp.weixin.qq.com/s/AcdShY8-m5tRXgypQjmPhQ) | 苏剑林 PaperWeekly 2021年8月13日
+    - [Fine-tune之后的NLP新范式：Prompt越来越火，CMU华人博士后出了篇综述文章](https://mp.weixin.qq.com/s/2eA4PBd-wr9tVyyuzJ66Bw) | 机器之心编辑部 机器之心 2021年8月3日
+    - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw) | rumor 李rumor 2021年8月5日
+    - [近代自然语言处理技术发展的“第四范式”](https://zhuanlan.zhihu.com/p/395115779) | 刘鹏飞 知乎专栏 2021年8月1日
+    - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 2021年6月14日
+    - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 2021年4月3日
 
 ### OpenPrompt
   * link: https://github.com/thunlp/OpenPrompt
