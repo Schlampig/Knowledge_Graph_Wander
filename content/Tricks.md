@@ -8,6 +8,10 @@
   * PGD(Projected Gradient Descent)
   * FreeLB (Free Large-Batch)
 
+### Attention
+  * blog
+    - [DIN+DIEN，机器学习唯一指定涨点技Attention](https://mp.weixin.qq.com/s/oRoy82I_8S7uvMToMouIeQ)
+
 ### BlockShuffle
 
 ### Cross-Validation
