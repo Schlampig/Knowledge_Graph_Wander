@@ -71,6 +71,9 @@
     - [code](https://github.com/yym6472/ConSERT)
     - further reading
       - [ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw)
+  * PyGCL
+      - [code](https://github.com/GraphCL/PyGCL)
+      - note: an open-source Graph Contrastive Learning (GCL) library for PyTorch
 
 ### Matching Models through Pre-trained Models
   * SimBERT
