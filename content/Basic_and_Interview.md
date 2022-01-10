@@ -327,3 +327,9 @@
   * link: https://github.com/yifeikong/reverse-interview-zh
   * author: Yifei Kong
   * keywords: 技术面试最后反问面试官的话:)
+
+### machine-learning-interview
+  * link: https://github.com/khangich/machine-learning-interview
+  * author: Khang Pham
+  * blog: mlengineer.io
+  * keywords: machine learning interviews from FAANG, Snapchat, LinkedIn, Coupang, Stitchfix etc.
