@@ -51,6 +51,9 @@
   * DIIN
     - [paper](https://arxiv.org/abs/1709.04348): NATURAL LANGUAGE INFERENCE OVER INTERACTION SPACE
     - [code](https://github.com/YichenGong/Densely-Interactive-Inference-Network): official
+  * RE2
+    - [paper](https://arxiv.org/abs/1908.00300): Simple and Effective Text Matching with Richer Alignment Features
+    - [code](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch): official
 
 ### Contrastive Methods
   * SimCSE
