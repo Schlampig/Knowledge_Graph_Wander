@@ -66,3 +66,9 @@
   * link: https://github.com/dongrixinyu/chinese_keyphrase_extractor
   * author: dongrixinyu
   * note: a tool for automatic keyphrase extraction from Chinese text.
+
+### SIFRank_zh
+  * link: https://github.com/sunyilgdx/SIFRank_zh
+  * author: Sun Yi
+  * paper: [SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-trained Language Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8954611)
+  * note: keyphrases extraction approach for Chinese text, while the English version (SIFRank) could be found [here](https://github.com/sunyilgdx/SIFRank).
