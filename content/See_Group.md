@@ -131,3 +131,4 @@
   * [**SophonPlus**](https://github.com/SophonPlus)
   * [**GEM-benchmark**](https://github.com/GEM-benchmark)
   * [**MLNLP-World**](https://github.com/MLNLP-World)
+  * [**刘焕勇NLP项目主页**](https://liuhuanyong.github.io/)
