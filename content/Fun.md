@@ -19,6 +19,11 @@
   * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
+### Generative Adversarial Network (GAN)
+  * [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
+  * [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
+  * [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
+
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
   * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
