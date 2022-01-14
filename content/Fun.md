@@ -27,14 +27,16 @@
     - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
     - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
     - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+    - [GANotebooks](https://github.com/tjwei/GANotebooks)
   * Github Lib
     - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
     - [Mimicry](https://github.com/kwotsin/mimicry)
     - [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)/[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): 一对一有监督图像风格迁移
     - [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)/[DualGAN](https://github.com/togheppi/DualGAN): 一对一无监督图像风格迁移
     - [stargan](https://github.com/yunjey/StarGAN): 一对多有监督图像风格迁移
-    - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
+    - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch): 高质量图像风格转换
     - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
+    - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
     - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
   * Application (for fun or horror?)
     - [This Person Does not Exist](https://thispersondoesnotexist.com/)
