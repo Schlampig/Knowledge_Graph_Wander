@@ -20,12 +20,19 @@
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
 ### Generative Adversarial Network (GAN)
-  * Review: [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
-  * Review: [Generative Adversarial Networks- History and Overview](https://towardsdatascience.com/generative-adversarial-networks-history-and-overview-7effbb713545)
-  * Github List: [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
-  * Github List: [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
-  * Github Lib: [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
-  * Github Lib: [Mimicry](https://github.com/kwotsin/mimicry)
+  * Review
+    - [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
+    - [Generative Adversarial Networks- History and Overview](https://towardsdatascience.com/generative-adversarial-networks-history-and-overview-7effbb713545)
+  * Github List
+    - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
+    - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
+    - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+  * Github Lib
+    - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+    - [Mimicry](https://github.com/kwotsin/mimicry)
+  * Application (for fun or horror?)
+    - [This Person Does not Exist](https://thispersondoesnotexist.com/)
+    - [AnimeGAN](https://animegan.js.org/)
 
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
