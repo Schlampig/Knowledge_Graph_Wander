@@ -4,34 +4,35 @@
 <br>
 
 ### Academic Group & Researcher
-  * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/):thumbsup:
-  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/):thumbsup:
-  * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
-  * [**BAAI**](https://github.com/BAAI-WuDao): [北京智源人工智能研究院](https://www.baai.ac.cn/)
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
-  * [**THU-KEG**](https://github.com/THU-KEG): [清华大学知识工程实验室](http://keg.cs.tsinghua.edu.cn/)
-  * [**THUDM**](https://github.com/THUDM): [清华大学数据挖掘研究室-唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
-  * [**ICTKC**](https://github.com/ICTKC): [中国科学院计算技术研究所-知识计算组](http://www.ict.ac.cn/)
-  * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
-  * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
-  * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
-  * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
-  * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
-  * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
   * AIRS: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
-  * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
+  * [**BAAI**](https://github.com/BAAI-WuDao): [北京智源人工智能研究院](https://www.baai.ac.cn/)
+  * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
+  * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
+  * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/):thumbsup:
+  * [**ICTKC**](https://github.com/ICTKC): [中国科学院计算技术研究所-知识计算组](http://www.ict.ac.cn/)
+  * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
+  * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
   * [**MIT Media Lab**](https://github.com/mitmedialab): [麻省理工多媒体实验室](https://www.media.mit.edu/)
+  * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
+  * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
+  * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
+  * [**Stanford Computer Vision Lab**](http://vision.stanford.edu/index.html)
+  * [**THUDM**](https://github.com/THUDM): [清华大学数据挖掘研究室-唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
+  * [**THU-KEG**](https://github.com/THU-KEG): [清华大学知识工程实验室](http://keg.cs.tsinghua.edu.cn/)
+  * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/):thumbsup:
+  * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
 <br>
 
 ### Company & Organization
-  * [**Google Research**](https://github.com/google-research): [community](https://research.google) 
-  * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
-  * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
-  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/):smile::open_hands:
   * [**AllenAI(AI2)**](https://github.com/allenai): [community](http://www.allenai.org)
+  * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
+  * [**Google Research**](https://github.com/google-research): [community](https://research.google)
+  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/):smile::open_hands:
+  * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
-  * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
+  * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**Works Applications**](https://github.com/WorksApplications)
 <br>
 
