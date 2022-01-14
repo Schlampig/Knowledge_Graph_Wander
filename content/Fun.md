@@ -30,6 +30,10 @@
   * Github Lib
     - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
     - [Mimicry](https://github.com/kwotsin/mimicry)
+    - [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)/[DualGAN](https://github.com/togheppi/DualGAN):图像风格迁移
+    - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
+    - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
+    - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
   * Application (for fun or horror?)
     - [This Person Does not Exist](https://thispersondoesnotexist.com/)
     - [AnimeGAN](https://animegan.js.org/)
