@@ -30,7 +30,9 @@
   * Github Lib
     - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
     - [Mimicry](https://github.com/kwotsin/mimicry)
-    - [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)/[DualGAN](https://github.com/togheppi/DualGAN):图像风格迁移
+    - [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)/[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): 一对一有监督图像风格迁移
+    - [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)/[DualGAN](https://github.com/togheppi/DualGAN): 一对一无监督图像风格迁移
+    - [stargan](https://github.com/yunjey/StarGAN): 一对多有监督图像风格迁移
     - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
     - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
     - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
