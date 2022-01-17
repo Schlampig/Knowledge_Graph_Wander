@@ -33,6 +33,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [nlp中的prompt learning 有哪些可能的天生的缺陷？目前有什么样的方法来解决这样的缺陷？](https://www.zhihu.com/question/508658141) | 知乎问题
     - [统一对比学习框架？没错它来了。](https://mp.weixin.qq.com/s/vhWfd9Y-K9-ToZ77AtAx2Q) | rumor 李rumor 2021年12月27日
     - [Hugging Face牵头，42位作者发文，1939个prompt，大幅提升Zero-Shot性能！](https://mp.weixin.qq.com/s/CZTyZVooG1jtsnicA8SYHw) | AINLP 2021年10月20日 转载
     - [Prompt超过finetune了？Emm...](https://mp.weixin.qq.com/s/GEHRKr05LsjROTyhj9Tv_w) | rumor 李rumor 2021年10月19日
