@@ -53,6 +53,11 @@
   * author: THUNLP
   * note: an open-source toolkit for prompt-learning.
 
+### Prompt Source
+  * link: https://github.com/bigscience-workshop/promptsource
+  * author: BigScience Workshop
+  * note: toolkit for collecting and applying prompts.
+
 ### NSP-BERT
   * [paper](https://arxiv.org/pdf/2109.03564.pdf): NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction
   * blog:
