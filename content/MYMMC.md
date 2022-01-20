@@ -63,6 +63,11 @@
   * blog:
     - [曾被嫌弃的预训练任务NSP，做出了优秀的Zero Shot效果](https://spaces.ac.cn/archives/8671)
 
+### CPT
+  * blog:
+    - [CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt Tuning](https://mp.weixin.qq.com/s/Q1z-1-UWHUtvfSRUfjzDsg) | 小马 我爱计算机视觉 2022年01月18日
+    - [CPT模型：一种中文兼顾NLU和NLG的非平衡预训练语言模型](https://mp.weixin.qq.com/s/e7kDPRw_wfdWrKI4b8FbtA) | 刘聪工作站 NLP工作站 2022年01月12日
+
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
   * blog:
