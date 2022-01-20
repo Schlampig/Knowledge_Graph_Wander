@@ -7,6 +7,7 @@
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
   * **AIRS**: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
   * [**BAAI**](https://github.com/BAAI-WuDao): [北京智源人工智能研究院](https://www.baai.ac.cn/)
+  * [**BigScience Workshop**](https://github.com/bigscience-workshop): [bigscience.io](https://bigscience.huggingface.co/)
   * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
   * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/):thumbsup:
