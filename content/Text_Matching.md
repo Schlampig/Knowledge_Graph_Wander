@@ -73,6 +73,7 @@
     - [paper](https://arxiv.org/abs/2105.11741): ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer
     - [code](https://github.com/yym6472/ConSERT)
     - further reading
+      - [句子表示学习前沿技术分享](https://mp.weixin.qq.com/s/BnFbf6R6hGe-OSf0JIIOcw)
       - [ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw)
   * PyGCL
       - [code](https://github.com/GraphCL/PyGCL)
