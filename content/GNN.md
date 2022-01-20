@@ -18,6 +18,12 @@
   * [Deep Graph Library(DGL, MXNet, by Distributed (Deep) Machine Learning Community)](https://github.com/dmlc/dgl)
   * [PyTorch Geometric(PyG, PyTorch, by Matthias Fey)](https://github.com/rusty1s/pytorch_geometric) and [its document](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
 
+### awesome-self-supervised-gnn
+  * link: https://github.com/ChandlerBang/awesome-self-supervised-gnn
+
+### awesome-graph-self-supervised-learning
+  * link: https://github.com/LirongWu/awesome-graph-self-supervised-learning
+
 ### Other Tools
   * [AttentionPathExplainer(APE, by qjf42)](https://github.com/qjf42/AttentionPathExplainer) and [its blog](https://zhuanlan.zhihu.com/p/150869105)
   * [GNN-algorithms: 图神经网络相关算法详述及实现教程。](https://github.com/wangyouze/GNN-algorithms)
