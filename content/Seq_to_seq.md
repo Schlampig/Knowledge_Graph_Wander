@@ -12,6 +12,12 @@
 ### BART
   * [paper](https://arxiv.org/pdf/1910.13461.pdf): Lewis, M. , Liu, Y. , Goyal, N. , Ghazvininejad M. , Mohamed A. , Levy O. , Stoyanov, V. , & Zettlemoyer, L. . (2019). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension*.
 
+### T5
+  * [paper](https://arxiv.org/pdf/1910.10683.pdf): Raffel, C. , Shazeer, N. , Roberts, A. , Lee, K. , Narang, S. , & Matena, M. , et al. (2019). *Exploring the limits of transfer learning with a unified text-to-text transformer*.
+  * code: https://github.com/google-research/text-to-text-transfer-transformer
+  * blog:
+    - [18家机构批量刷新SOTA！T5 is all you need！](https://mp.weixin.qq.com/s/CmVW2aQR53_rJ_OeNJ845Q) |  rumor 李rumor 2022年01月19日
+
 ### seq2seq
   * link: https://github.com/google/seq2seq
   * author: google
