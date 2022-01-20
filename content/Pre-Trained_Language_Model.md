@@ -4,6 +4,7 @@
 ### References
   * [PLMpapers](https://github.com/thunlp/PLMpapers): a list of the representative work on Pre-trained Languge Model.
   * [OpenCLaP](https://github.com/thunlp/OpenCLaP): Open Chinese Language Pre-trained Model Zoo.
+  * [OpenVINO](https://github.com/openvinotoolkit/openvino): a toolkit allowing developers to deploy pre-trained deep learning models through a high-level C++ Inference Engine API integrated with application logic.
   * [Kashgari](https://github.com/BrikerMan/Kashgari): a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
   * [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models): 高质量中文预训练模型集合.
   * [Chinese-Minority-PLM](https://github.com/ymcui/Chinese-Minority-PLM): 少数民族语言预训练模型.
