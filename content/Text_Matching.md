@@ -55,6 +55,15 @@
     - [paper](https://arxiv.org/abs/1908.00300): Simple and Effective Text Matching with Richer Alignment Features
     - [code](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch): official
 
+### Searching Algorithm Liburary
+  * [faiss](https://faiss.ai/)
+  * [milvus](https://milvus.io/)
+  * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
+  * blog:
+    - [2021年11月 笔记︱几款多模态向量检索引擎：Faiss 、milvus、Proxima、vearch、Jina等](https://zhuanlan.zhihu.com/p/364923722)
+    - [2021年11月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/357414033)
+    - [2020年02月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/107241260)
+
 ### Contrastive Methods
   * SimCSE
     - [paper](https://arxiv.org/abs/2104.08821): SimCSE: Simple Contrastive Learning of Sentence Embeddings
