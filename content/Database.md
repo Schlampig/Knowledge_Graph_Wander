@@ -44,4 +44,15 @@
   * link: https://github.com/Tencent/wwsearch
   * author: Tencent
   * note: a full-text search engine supporting massive users, real-time updating, fast fuzzy matching and flexible table splitting.
-  
+
+### faiss
+  * link: https://github.com/facebookresearch/faiss
+  * website: https://faiss.ai/
+  * author: facebookresearch
+  * note: a library for efficient similarity search and clustering of dense vectors.
+
+### milvus
+  * link: https://github.com/milvus-io/milvus
+  * website: https://milvus.io/
+  * author: Xiangyu Wang 
+  * note: an open-source vector database for embedding similarity search and AI applications.
