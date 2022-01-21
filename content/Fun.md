@@ -36,6 +36,7 @@
     - [stargan](https://github.com/yunjey/StarGAN): 一对多有监督图像风格迁移
     - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch): 高质量图像风格转换
     - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
+    - [JoJoGAN](https://github.com/mchong6/JoJoGAN): One-Shot人脸风格迁移
     - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
     - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
   * Application (for fun or horror?)
