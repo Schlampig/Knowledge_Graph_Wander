@@ -51,6 +51,11 @@
   * author: facebookresearch
   * note: a library for efficient similarity search and clustering of dense vectors.
 
+### SPTAG
+  * link: https://github.com/microsoft/SPTAG
+  * author: microsoft
+  * note: a distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
+
 ### milvus
   * link: https://github.com/milvus-io/milvus
   * website: https://milvus.io/
