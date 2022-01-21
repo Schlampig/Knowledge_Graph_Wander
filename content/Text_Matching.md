@@ -56,9 +56,11 @@
     - [code](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch): official
 
 ### Searching Algorithm Liburary
+  * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
   * [faiss](https://faiss.ai/)
   * [milvus](https://milvus.io/)
-  * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
+  * [vearch](https://github.com/vearch)
+  * [jina](https://jina.ai/)
   * blog:
     - [2021年11月 笔记︱几款多模态向量检索引擎：Faiss 、milvus、Proxima、vearch、Jina等](https://zhuanlan.zhihu.com/p/364923722)
     - [2021年11月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/357414033)
