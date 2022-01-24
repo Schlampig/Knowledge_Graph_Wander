@@ -58,6 +58,8 @@
 ### Searching Algorithm Liburary
   * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
   * [faiss](https://faiss.ai/)
+    - [autofaiss](https://github.com/criteo/autofaiss)
+    - [RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch)
   * [SPTAG](https://github.com/microsoft/SPTAG)
   * [milvus](https://milvus.io/)
   * [vearch](https://github.com/vearch)
