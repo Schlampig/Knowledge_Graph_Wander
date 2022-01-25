@@ -55,3 +55,7 @@
   * author: Google Research
   * note: code to deduplicate language model datasets as descrbed in the paper "[Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499)" 
 
+### AugLy
+  * link: https://github.com/facebookresearch/AugLy
+  * author: facebookresearch
+  * note: a data augmentations library for audio, image, text, and video.
