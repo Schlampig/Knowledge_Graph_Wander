@@ -81,6 +81,7 @@
   * [baidu_poi_search](https://github.com/soaringsoul/baidu_poi_search) by soaringsoul: 百度地图数据采集GUI工具.
   * [Python-POI-Spider](https://github.com/JasonXuDeveloper/Python-POI-Spider) by JasonXuDeveloper.
   * [Geocoding](https://github.com/casuallyName/Geocoding) by casuallyName.
+  * [chinese-address-segment](https://github.com/yihenglu/chinese-address-segment) by yihenglu: 中文地址分词（地址元素识别与抽取），通过序列标注进行NER.
 
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
