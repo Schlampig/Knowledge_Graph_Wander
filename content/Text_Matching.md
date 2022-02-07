@@ -16,6 +16,7 @@
     - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
     - [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
     - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A)
+    - [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
   * Model Collections
     - [deep-text-matching](https://github.com/wangle1218/deep_text_matching): implementation several deep text match (text similarly) models for keras . cdssm, arc-ii,match_pyramid, mvlstm ,esim, drcn ,bimpm, bert, albert, raberta.
     - [text_matching](https://github.com/pengming617/text_matching): Models such as DSSM, ESIM, ABCNN, BiMPM.
@@ -92,6 +93,16 @@
   * PyGCL
       - [code](https://github.com/GraphCL/PyGCL)
       - note: an open-source Graph Contrastive Learning (GCL) library for PyTorch
+  * PairSCL
+      - [paper](https://arxiv.org/pdf/2201.10927.pdf): Pair-Level Supervised Contrastive Learning for Natural Language Inference
+      - [code](https://github.com/THU-BPM/PairSCL)
+      - further reading
+        - [PairSCL：句子对级别的有监督对比学习方法](https://mp.weixin.qq.com/s/6rMxHrxlTlNBX8H6Z6wUAA)
+  * SNCSE
+      - [paper](https://arxiv.org/pdf/2201.05979.pdf): SNCSE: Contrastive Learning for Unsupervised Sentence Embedding with Soft Negative Samples
+      - further reading
+        - [SNCSE：一种基于软负例的无监督句向量对比学习方法](https://mp.weixin.qq.com/s/73Qoth8U9MSN6RI3_CEyaQ)
+
 
 ### Matching Models through Pre-trained Models
   * SimBERT
