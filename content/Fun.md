@@ -42,6 +42,8 @@
   * Application (for fun or horror?)
     - [This Person Does not Exist](https://thispersondoesnotexist.com/)
     - [AnimeGAN](https://animegan.js.org/)
+  * GAN Model
+    - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
