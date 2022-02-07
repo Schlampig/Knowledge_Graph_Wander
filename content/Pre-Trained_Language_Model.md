@@ -108,6 +108,8 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 ### GPT-3
   * [paper](https://arxiv.org/abs/2005.14165): OpenAI . (2020). *Language Models are Few-Shot Learners*.
   * code: [descriptions by OpenAI](https://github.com/openai/gpt-3).
+  * blog:
+    - [2022年：GPT-3回答问题不靠谱？OpenAI找来人类“调教师”，终于给教明白了](https://mp.weixin.qq.com/s/vIYDGAeDx6fi6t4xaD4GIA)
 
 ### minGPT
   * code: https://github.com/karpathy/minGPT
@@ -202,6 +204,8 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * note: 封神榜大模型是IDEA研究院认知计算与自然语言研究中心主导的大模型开源计划，包括二郎神（中文BERT）、周文王（与追一共同研发，中文LM&MLM）、余元（中文医疗LM）、闻仲（中文GPT）、燃灯（中文All2Gen）
 
 ### :dizzy_face: Why so many huge language models?
+  * 2022年02月04日（200亿参数） **GPT-NeoX** by EleutherAI: [news](https://mp.weixin.qq.com/s/yVF7nzh9HBsjUoncsvpooA)
+  * 2022年01月23日（1370亿参数） **LaMDA** by 谷歌: [news](https://mp.weixin.qq.com/s/hw7CWvbm4zUY93ev7SLIgw), [news](https://mp.weixin.qq.com/s/f9JMqZ8U0f8EYTxMzyf-4Q)
   * 2021年12月09日（2800亿参数） **地鼠（Gopher）** by DeepMind: [news](https://mp.weixin.qq.com/s/z6fhsX8idpTjWNUwdeJT7A)
   * 2021年12月08日（2600亿参数） **文心（ERNIE3.0 Titan）** by 百度: [news](http://ai.baidu.com/support/news?action=detail&id=2683), [news](https://mp.weixin.qq.com/s/3hJtO_iWNcMd9PDV0pJb_A)
   * 2021年10月12日（5300亿参数） **Megatron-Turing** by 微软&英伟达: [news](https://mp.weixin.qq.com/s/F3f1Q15fyEd4L5jV41INDw)
@@ -213,4 +217,5 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   * 2021年04月19日（270亿参数） **PLUG** by 阿里巴巴达摩院: [demo](https://nlp.aliyun.com/portal#/BigText_chinese), [news](https://www.thepaper.cn/newsDetail_forward_12274410).
   * 2021年03月20日（?亿参数） **悟道1.0** by 北京智源人工智能研究院: [homepage](https://wudaoai.cn/home), [corpora](https://resource.wudaoai.cn/home), [news](https://zhuanlan.zhihu.com/p/358876576).
   * 2021年03月11日（26/217亿参数） **CPM-LM/CPM-KM** by 北京智源人工智能研究院: [code](https://github.com/lsq357/cpm-generate), [homepage](https://cpm.baai.ac.cn/), [paper](https://arxiv.org/abs/2012.00413).
- 
+  * further reading:
+    - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
