@@ -73,3 +73,8 @@
   * author: LeeSureman
   * blog: [FLAT：中文NER屠榜之作！复旦大学邱锡鹏团队出品](https://baijiahao.baidu.com/s?id=1677517325999475430&wfr=spider&for=pc)，[FLAT--起飞的NER模型](https://zhuanlan.zhihu.com/p/362349210)
   * extra: [**Lex-BERT**](https://arxiv.org/abs/2101.00396): [Lex-BERT：超越FLAT的中文NER模型？](https://zhuanlan.zhihu.com/p/343231764).
+
+### LexiconAugmentedNER
+  * [paper](https://arxiv.org/pdf/1908.05969.pdf): Peng, M. , Ma, R. , Zhang, Q. , & Huang, X. . (2019). Simplify the usage of lexicon in chinese ner.
+  * link: https://github.com/v-mipeng/LexiconAugmentedNER
+  * author: Minlong Peng 
