@@ -36,6 +36,7 @@
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**Works Applications**](https://github.com/WorksApplications)
+  * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
 <br>
 
 ### 中国企业
