@@ -28,15 +28,17 @@
 
 ### Company & Organization
   * [**AllenAI(AI2)**](https://github.com/allenai): [community](http://www.allenai.org)
+  * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Google Research**](https://github.com/google-research): [community](https://research.google)
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/):smile::open_hands:
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
+  * [**Salesforce**](https://github.com/salesforce): [Einstein Research Lab](https://www.salesforceairesearch.com/research/natural-language-processing)/[Open Source](https://opensource.salesforce.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
   * [**Works Applications**](https://github.com/WorksApplications)
-  * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
+  
 <br>
 
 ### 中国企业
