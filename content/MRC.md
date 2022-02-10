@@ -1,6 +1,7 @@
 ## Machine Reading Comprehension
 
 ### Literature
+  - [English Machine Reading Comprehension Datasets: A Survey](https://aclanthology.org/2021.emnlp-main.693.pdf)
   - [RCPapers](https://github.com/thunlp/RCPapers): Must-read papers on Machine Reading Comprehension, by THUNLP.
   - [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers): Survey on Machine Reading Comprehension, by Xanh Ho.
   - [MRC_book](https://github.com/zcgzcgzcg1/MRC_book): 《机器阅读理解：算法与实践》代码, by Chenguang Zhu.
