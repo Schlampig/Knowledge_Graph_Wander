@@ -79,3 +79,9 @@
   * [paper](https://arxiv.org/pdf/1908.05969.pdf): Peng, M. , Ma, R. , Zhang, Q. , & Huang, X. . (2019). Simplify the usage of lexicon in chinese ner.
   * link: https://github.com/v-mipeng/LexiconAugmentedNER
   * author: Minlong Peng 
+
+### GlobalPointer
+  * blog: 
+    - [GPLinker：基于GlobalPointer的实体关系联合抽取](https://spaces.ac.cn/archives/8888)
+    - [Efficient GlobalPointer：少点参数，多点效果](https://spaces.ac.cn/archives/8877)
+    - [GlobalPointer：用统一的方式处理嵌套和非嵌套NER](https://spaces.ac.cn/archives/8373)
