@@ -103,6 +103,10 @@
       - [paper](https://arxiv.org/pdf/2201.05979.pdf): SNCSE: Contrastive Learning for Unsupervised Sentence Embedding with Soft Negative Samples
       - further reading
         - [SNCSE：一种基于软负例的无监督句向量对比学习方法](https://mp.weixin.qq.com/s/73Qoth8U9MSN6RI3_CEyaQ)
+  * DualCL
+      - [paper](https://arxiv.org/pdf/2201.08702.pdf): Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation
+      - further reading
+        - [文本分类还停留在BERT？对偶比学习框架也太强了](https://mp.weixin.qq.com/s/rcQw3sNU2-wDDANkCK4C6w) 
 
 
 ### Matching Models through Pre-trained Models
