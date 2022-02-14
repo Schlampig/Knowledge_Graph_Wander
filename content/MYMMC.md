@@ -33,6 +33,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [后Prompt时代｜NLP统一范式：预训练+大规模多任务学习](https://mp.weixin.qq.com/s/EOJGIXSo7bj7oi0nqbbMlw) | AINLP 2022年02月09日 转载
     - [一文速览！多模态预训练中的 Prompt 范式](https://mp.weixin.qq.com/s/FSu5YzR3pRYEgmZdonH15Q) | 深度学习自然语言处理 2022年01月27日 转载
     - [ZeroPrompt：首个中文多任务Prompt统一模型，zeroshot性能可比微调！](https://mp.weixin.qq.com/s/Kn8KbhaWUyajjee7-klBwg) | AINLP 2022年01月24日 转载
     - [WWW2022 | OntoPrompt & KnowPrompt：知识提示的预训练微调](https://mp.weixin.qq.com/s/3ds2qiy_OmKSj40zYMUbgA) | 张宁豫叶宏彬陈想 浙大KG 2022年01月24日
