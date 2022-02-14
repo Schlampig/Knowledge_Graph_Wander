@@ -81,3 +81,8 @@
   * author: MilaGraph
   * note: a PyTorch implementation of the RotatE model for Knowledge Graph Embedding (KGE).
   * extra: [PairRE](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE).
+
+### InterHT
+  * link: https://github.com/destwang/InterHT
+  * author: Baoxin Wang 
+  * news: [哈工大讯飞联合实验室荣登国际知识图谱挑战赛Open Graph Benchmark榜首](https://mp.weixin.qq.com/s/Jf2lQ1KPMhGNwHkBfXoGPg)(2022年02月13日)
