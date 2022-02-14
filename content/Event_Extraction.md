@@ -40,6 +40,10 @@
   * [paper](http://www.wanfangdata.com.cn/details/detail.do?_type=degree&id=Y757845): 相卫华. (2005). 中文信息抽取（IE）中事件模板建立的研究. (Doctoral dissertation).
   * [paper](http://cdmd.cnki.com.cn/Article/CDMD-80132-2006191336.htm): 姜吉发. (2004). 自由文本的信息抽取模式获取的研究. (Doctoral dissertation, 中国科学院研究生院（计算技术研究所）).
 
+### Blogs
+  * [事件图谱技术：事件推理经典范式与推理评测任务总结](https://mp.weixin.qq.com/s/G_RfZBCL-m16lA8OZTKVnA) | 刘焕勇 老刘说NLP 2022年02月08日
+  * [事件图谱技术：Knowlywood事件框架自动生成项目浅析](https://mp.weixin.qq.com/s/_ebGXj-M5PTvEl7Eg7aRNw) | 刘焕勇 老刘说NLP 2022年02月07日
+
 ### Approaches
   * [EventKG](https://github.com/sgottsch/eventkg) (by Simon Gottschalk)
   * [Automated-event-extraction](https://github.com/helloram52/automated-event-extraction) (by Ramkumar)
