@@ -10,6 +10,7 @@
   * [CSTS](https://github.com/zejunwang1/CSTS): 中文自然语言推理与语义相似度数据集
   * [CLUE](https://www.cluebenchmarks.com/introduce.html)文本相似度任务: [SimCLUE](https://github.com/CLUEbenchmark/SimCLUE)
   * [千言](http://www.luge.ai/)文本相似度任务
+  * [CNSD:中文自然语言推理数据集](https://github.com/pluto-junzeng/CNSD)
 
 ### Matching Models in Searching / Recommending
   * Blogs
