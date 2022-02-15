@@ -59,6 +59,9 @@
   * [paper](https://www.researchgate.net/publication/221467123_Zhishime_-_Weaving_Chinese_Linking_Open_Data): Zhishi.me - Weaving Chinese Linking Open Data
   * data: http://openkg.cn/dataset/zhishi-me
 
+### 7LORE
+  * data: http://www.openkg.cn/dataset/7lore
+
 ### XLORE
   * link: https://xlore.org/
   * [paper](https://www.bibsonomy.org/bibtex/2c7ec921813cf9407487af25640b3b96f/dblp): XLore: A Large-scale English-Chinese Bilingual Knowledge Graph.
