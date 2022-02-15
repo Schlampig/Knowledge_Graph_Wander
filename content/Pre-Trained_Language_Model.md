@@ -32,7 +32,12 @@
 
 ### Transformer
   * [paper](https://arxiv.org/pdf/1706.03762.pdf): Vaswani, A. , Shazeer, N. , Parmar, N. , Uszkoreit, J. , Jones, L. , & Gomez, A. N. , et al. (2017). *Attention is all you need*.
-  * code: [pytorch by Yu-Hsiang Huang](https://github.com/jadore801120/attention-is-all-you-need-pytorch), [tensorflow by Kyubyong](https://github.com/Kyubyong/transformer), [another pytorch version by leviswind](https://github.com/leviswind/pytorch-transformer), [Simple Transformers by Thilina Rajapakse](https://github.com/ThilinaRajapakse/simpletransformers)
+  * code: 
+    - [pytorch by Yu-Hsiang Huang](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+    - [tensorflow by Kyubyong](https://github.com/Kyubyong/transformer)
+    - [another pytorch version by leviswind](https://github.com/leviswind/pytorch-transformer)
+    - [Simple Transformers by Thilina Rajapakse](https://github.com/ThilinaRajapakse/simpletransformers)
+    - [Transformers-Recipe](https://github.com/dair-ai/Transformers-Recipe)
   * survey: 
     - [2022年：从SwinTransformer到GFlowNets，我们从2021年2万份SOTA工作中选了256个最值得关注的（附完整名录）](https://mp.weixin.qq.com/s/41kaiZm7PR5bRb8GpAJcTw)
     - [2021年：自然语言处理：基于预训练模型的方法](https://github.com/HIT-SCIR/plm-nlp-code)(哈工大SCIR 车万翔、郭江、崔一鸣著)
@@ -79,8 +84,15 @@
 
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
-  * code: [tensorflow by google-research](https://github.com/google-research/bert), [pytorch by Hugging Face
-Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by Zhao HG](https://github.com/CyberZHG/keras-bert), [keras bert examples by bojone](https://github.com/bojone/bert_in_keras) and his [blog](https://spaces.ac.cn/archives/6736), [bert-as-service by Han Xiao](https://github.com/hanxiao/bert-as-service), [bert4keras by bojone](https://github.com/bojone/bert4keras), [bert_cn_finetune by ewrfcas](https://github.com/ewrfcas/bert_cn_finetune), [pretrained-models by ZhuiyiTechnology](https://github.com/ZhuiyiTechnology/pretrained-models)
+  * code: 
+    - [tensorflow by google-research](https://github.com/google-research/bert)
+    - [pytorch by Hugging Face Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT)
+    - [keras by Zhao HG](https://github.com/CyberZHG/keras-bert)
+    - [keras bert examples by bojone](https://github.com/bojone/bert_in_keras) and his [blog](https://spaces.ac.cn/archives/6736)
+    - [bert-as-service by Han Xiao](https://github.com/hanxiao/bert-as-service)
+    - [bert4keras by bojone](https://github.com/bojone/bert4keras)
+    - [bert_cn_finetune by ewrfcas](https://github.com/ewrfcas/bert_cn_finetune)
+    - [pretrained-models by ZhuiyiTechnology](https://github.com/ZhuiyiTechnology/pretrained-models)
   * list: [awesome-bert by Jiakui Wang](https://github.com/Jiakui/awesome-bert)
   * pre-trained models: [OpenCLaP](https://github.com/thunlp/OpenCLaP)
   * extra: [GuwenBERT](https://github.com/Ethan-yt/guwenbert)
@@ -90,11 +102,16 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
 
 ### RoBERTa
   * [paper](https://arxiv.org/pdf/1907.11692.pdf): Liu, Y. , Ott, M. , Goyal, N. , Du, J. , Joshi, M. , Chen, D. , Levy, O. , Lewis, M. , Zettlemoyer L. , Stoyanov V. . (2019). *A Robustly Optimized BERT Pretraining Approach*
-  * code: [pytorch by facebook](https://github.com/pytorch/fairseq), [roberta_zh by brightmart](https://github.com/brightmart/roberta_zh)
+  * code: 
+    - [pytorch by facebook](https://github.com/pytorch/fairseq)
+    - [roberta_zh by brightmart](https://github.com/brightmart/roberta_zh)
 
 ### ALBERT
   * [paper](https://openreview.net/pdf?id=H1eA7AEtvS): *ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS*
-  * code: [albert by google-research](https://github.com/google-research/google-research/tree/master/albert), [albert_zh by brightmart](https://github.com/brightmart/albert_zh), [albert_pytorch by lonePatient](https://github.com/lonePatient/albert_pytorch)
+  * code: 
+    - [albert by google-research](https://github.com/google-research/google-research/tree/master/albert)
+    - [albert_zh by brightmart](https://github.com/brightmart/albert_zh)
+    - [albert_pytorch by lonePatient](https://github.com/lonePatient/albert_pytorch)
 
 ### GPT
   * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
@@ -102,7 +119,11 @@ Report abuse](https://github.com/huggingface/pytorch-pretrained-BERT), [keras by
   
 ### GPT-2
   * [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf): Alec R. , Jeffrey W. , Rewon C. , David L. , Dario A. , Ilya S. . (2019). *Language Models are Unsupervised Multitask Learners*.
-  * code: [tensorflow by OpenAI](https://github.com/openai/gpt-2), [GPT2-Chinese by Zeyao Du](https://github.com/Morizeyao/GPT2-Chinese), [GPT-2-pytorch by Tae-Hwan Jung](https://github.com/graykode/gpt-2-Pytorch), [gpt2-ml by Caspar ZHANG](https://github.com/imcaspar/gpt2-ml).
+  * code: 
+    - [tensorflow by OpenAI](https://github.com/openai/gpt-2)
+    - [GPT2-Chinese by Zeyao Du](https://github.com/Morizeyao/GPT2-Chinese)
+    - [GPT-2-pytorch by Tae-Hwan Jung](https://github.com/graykode/gpt-2-Pytorch)
+    - [gpt2-ml by Caspar ZHANG](https://github.com/imcaspar/gpt2-ml).
   * extra: [another unofficial tensorflow version by ConnorJL](https://github.com/ConnorJL/GPT2) and the author's [blog](https://medium.com/@NPCollapse/gpt2-counting-consciousness-and-the-curious-hacker-323c6639a3a8).
 
 ### GPT-3
