@@ -48,6 +48,13 @@
 ### VerbNet
   * link: https://verbs.colorado.edu/verbnet/
 
+### Unified Verb Index
+  * link: http://verbs.colorado.edu/verb-index/
+  * note: a system which merges links and web pages from four different projects: [VerbNet](https://verbs.colorado.edu/verbnet/), [PropBank](http://propbank.github.io/), [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/), and [OntoNotes](http://verbs.colorado.edu/VSAP/).
+
+### FrameNet
+  * link: https://framenet.icsi.berkeley.edu/fndrupal/
+
 ### HowNet
   * web: http://www.keenage.com/
   * link: https://github.com/thunlp/OpenHowNet-API
