@@ -43,6 +43,7 @@
 ### Blogs
   * [事件图谱技术：事件推理经典范式与推理评测任务总结](https://mp.weixin.qq.com/s/G_RfZBCL-m16lA8OZTKVnA) | 刘焕勇 老刘说NLP 2022年02月08日
   * [事件图谱技术：Knowlywood事件框架自动生成项目浅析](https://mp.weixin.qq.com/s/_ebGXj-M5PTvEl7Eg7aRNw) | 刘焕勇 老刘说NLP 2022年02月07日
+  * [事件模式挖掘：再议KAIROS项目的构成、实现技术与价值场景](https://mp.weixin.qq.com/s/X2-dyTA5q3YxEG6EY710TQ) | 刘焕勇 老刘说NLP 2022年01月12日
 
 ### Approaches
   * [EventKG](https://github.com/sgottsch/eventkg) (by Simon Gottschalk)
