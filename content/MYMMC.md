@@ -57,6 +57,11 @@
   * author: THUNLP
   * note: an open-source toolkit for prompt-learning.
 
+### OpenDelta
+  * link: https://github.com/thunlp/OpenDelta
+  * author: THUNLP
+  * note: a plug-and-play library for parameter-efficient-tuning (Delta-tuning).
+
 ### Prompt Source
   * link: https://github.com/bigscience-workshop/promptsource
   * author: BigScience Workshop
