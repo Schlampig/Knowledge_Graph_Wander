@@ -30,10 +30,11 @@
   * [**AllenAI(AI2)**](https://github.com/allenai): [community](http://www.allenai.org)
   * [**The Apache Software Foundation**](https://github.com/apache): [homepage](https://www.apache.org/)
   * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
+  * [**AutoNLP**](https://autonlp.ai/about)
   * [**DeepL**](https://github.com/DeepLcom): [homepage](https://www.deepl.com/zh/translator)
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Google Research**](https://github.com/google-research): [community](https://research.google)
-  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/):smile::open_hands:
+  * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)/[autonlp project](https://huggingface.co/autonlp):smile::open_hands:
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
