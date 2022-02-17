@@ -6,6 +6,11 @@
   * 2021年01月 [工业界如何解决NER问题？12个trick，与你分享～](https://zhuanlan.zhihu.com/p/152463745)
   * 2020年07月 [美团搜索中NER技术的探索与实践](https://mp.weixin.qq.com/s/632T-bwnKU2Ui4Uidpoylw)
 
+### Annotation Tools
+  * BRAT
+    - [homepage](http://brat.nlplab.org/index.html)
+    - [introduction](https://wetest.qq.com/lab/view/31.html)
+
 ### NCRF++
   * link: https://github.com/jiesutd/NCRFpp
   * author: Jie Yang 
