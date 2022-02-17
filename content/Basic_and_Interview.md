@@ -181,6 +181,12 @@
   * author: Microsoft
   * keywords: AI education materials, for Chinese students, teachers, IT professionals
 
+### A Journey into Math of ML
+  * link: https://github.com/aespresso/a_journey_into_math_of_ml
+  * video: https://space.bilibili.com/255296093
+  * author: aespresso
+  * keywords: introduction about the math of machine learning through video
+
 ### SCIR-Training-Day
   * link: https://github.com/HIT-SCIR/scir-training-day
   * author: HIT-SCIR
