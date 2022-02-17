@@ -31,6 +31,8 @@
   * [**The Apache Software Foundation**](https://github.com/apache): [homepage](https://www.apache.org/)
   * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
   * [**AutoNLP**](https://autonlp.ai/about)
+  * [**DeepAI**](https://deepai.org/)
+  * [**DeepAI Tech**](https://deep-aitech.com/)
   * [**DeepL**](https://github.com/DeepLcom): [homepage](https://www.deepl.com/zh/translator)
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Google Research**](https://github.com/google-research): [community](https://research.google)
