@@ -2,6 +2,7 @@
 
 
 ### Papers  
+  * [paper](https://arxiv.org/pdf/2106.01686.pdf)、[code](https://github.com/alibaba-research/ConceptGraph): Zhang, N. , Jia, Q. , Deng, S. , Chen, X. , & Chen, H. . (2021). *Alicg: fine-grained and evolvable conceptual graph construction for semantic search at alibaba*. KDD 2021.
   * [paper](https://arxiv.org/pdf/2008.05925.pdf): Wang, C. , Wu, J. , Liu, L. , & Zhang, Y. . (2020). *Commonsense Knowledge Graph Reasoning by Selection or Generation? Why?*. arXiv.
   * [paper](https://arxiv.org/pdf/1906.05317.pdf)/[code](https://github.com/atcbosselut/comet-commonsense)/[demo](https://mosaickg.apps.allenai.org/): Bosselut, A. , Rashkin, H. , Sap, M. , Malaviya, C. , Celikyilmaz, A. , & Choi, Y. . (2019). *COMET: commonsense transformers for automatic knowledge graph construction*. ACL 2019.
   * [paper](https://arxiv.org/pdf/1811.00146.pdf)/[data](https://homes.cs.washington.edu/~msap/atomic/): Sap, M. , Lebras, R. , Allaway, E. , Bhagavatula, C. , Lourie, N. , & Rashkin, H. , et al. (2018). *ATOMIC: an atlas of machine commonsense for if-then reasoning*. AAAI.
