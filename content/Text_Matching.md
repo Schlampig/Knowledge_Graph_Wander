@@ -12,7 +12,7 @@
   * [千言](http://www.luge.ai/)文本相似度任务
   * [CNSD:中文自然语言推理数据集](https://github.com/pluto-junzeng/CNSD)
 
-### Matching Models in Searching / Recommending
+### Searching / Recommending Matching Methods
   * Blogs
     - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
     - [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
@@ -60,7 +60,7 @@
     - [paper](https://arxiv.org/abs/1908.00300): Simple and Effective Text Matching with Richer Alignment Features
     - [code](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch): official
 
-### Searching Algorithm Liburary
+### Searching Liburaries
   * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
   * [faiss](https://faiss.ai/)
     - [autofaiss](https://github.com/criteo/autofaiss)
@@ -73,6 +73,9 @@
     - [2021年11月 笔记︱几款多模态向量检索引擎：Faiss 、milvus、Proxima、vearch、Jina等](https://zhuanlan.zhihu.com/p/364923722)
     - [2021年11月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/357414033)
     - [2020年02月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/107241260)
+
+### Re-Ranking Methods
+  * [LibRerank](https://github.com/LibRerank-Community/LibRerank): a toolkit for re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
 
 ### Contrastive Methods
   * SimCSE
@@ -111,8 +114,7 @@
       - further reading
         - [文本分类还停留在BERT？对偶比学习框架也太强了](https://mp.weixin.qq.com/s/rcQw3sNU2-wDDANkCK4C6w) 
 
-
-### Matching Models through Pre-trained Models
+### Pre-Trained-Model-based Matching Methods
   * SimBERT
     - blog: [鱼与熊掌兼得：融合检索和生成的SimBERT模型](https://spaces.ac.cn/archives/7427)
     - [code](https://github.com/ZhuiyiTechnology/simbert)
