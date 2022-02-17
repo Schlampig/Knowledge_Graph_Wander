@@ -104,10 +104,10 @@
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
+  * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
 
 ### Medical
   * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
 
 ### Math & Computer
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
-
