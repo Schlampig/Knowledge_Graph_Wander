@@ -19,6 +19,7 @@
     - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A)
     - [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
     - [图谱实战 | 阿里周晓欢：如何将实体抽取从生成问题变成匹配问题？](https://mp.weixin.qq.com/s/xSl2uRE2MWm6Z0YPNEZh2g)
+    - [丁香园：聊聊电商搜索的语义理解问题](https://mp.weixin.qq.com/s/I82U9NAD3KD2js04c3a0CQ)
     - [都是推荐系统，广告算法和推荐算法有啥区别？](https://mp.weixin.qq.com/s/AeAD97nDwZ8s3I2quI-Riw)
     - [初来乍到：帮助新用户冷启的算法技巧](https://mp.weixin.qq.com/s/LvRx8hYYMwd71atojOEEiA)
   * Model Collections
