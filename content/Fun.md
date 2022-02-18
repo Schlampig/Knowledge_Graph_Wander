@@ -58,6 +58,7 @@
       - [ru-dolph](https://github.com/sberbank-ai/ru-dolph)
       - [dalle-playground](https://github.com/saharmor/dalle-playground)
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
+    - [GLIDE](https://github.com/openai/glide-text2im): [缩小规模，OpenAI文本生成图像新模型GLIDE用35亿参数媲美DALL-E](https://mp.weixin.qq.com/s/IxBVbsR3IXDKAtVG3uwKPw)([paper](https://arxiv.org/pdf/2112.10741.pdf))
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
   * NeRF
