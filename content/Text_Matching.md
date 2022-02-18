@@ -140,3 +140,8 @@
   * Perfect Match
     - [code](https://github.com/d909b/perfect_match)
     - [paper](https://arxiv.org/abs/1810.00656)
+  * PT-HCL
+    - [code](https://github.com/HITSZ-HLT/PT-HCL)
+    - [paper](http://www.hitsz-hlt.com/paper/Zero-Shot-Stance-Detection-via-Contrastive-Learning-WWW2022.pdf): Zero-Shot Stance Detection via Contrastive Learning.
+    - further reading
+      - [无关于目标or特定于目标：简单且有效的零样本立场检测对比学习方法](https://mp.weixin.qq.com/s/cT0K7txwNWiON4XsYGOrSA)
