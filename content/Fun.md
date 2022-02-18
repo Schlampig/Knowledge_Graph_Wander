@@ -51,6 +51,8 @@
     - GAN Model
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
   * Text-to-Image
+    - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+    - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
     - [Dream Fields](https://ajayj.com/dreamfields) and its [official repository](https://github.com/google-research/google-research/tree/master/dreamfields)
     - [DALL-E](https://github.com/openai/DALL-E)
       - [dalle-mini](https://github.com/borisdayma/dalle-mini)
@@ -59,8 +61,6 @@
       - [dalle-playground](https://github.com/saharmor/dalle-playground)
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
     - [GLIDE](https://github.com/openai/glide-text2im): [缩小规模，OpenAI文本生成图像新模型GLIDE用35亿参数媲美DALL-E](https://mp.weixin.qq.com/s/IxBVbsR3IXDKAtVG3uwKPw)([paper](https://arxiv.org/pdf/2112.10741.pdf))
-    - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-    - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
   * NeRF
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
 
