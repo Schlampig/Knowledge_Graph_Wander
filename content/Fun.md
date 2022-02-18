@@ -51,6 +51,7 @@
     - GAN Model
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
   * Text-to-Image
+    - [Text2Art](https://text2art.com/): Generate art from text with AI.
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
     - [DallEval](https://github.com/j-min/DallEval)
