@@ -47,6 +47,7 @@
     - [Long Range Arena: A Benchmark for Efficient Transformers (2020-11)](https://arxiv.org/pdf/2011.04006.pdf)
     - [Efficient Transformers: A Survey (2020-09)](https://arxiv.org/pdf/2009.06732.pdf)
   * introduction/tutorial:
+    - [2022年：技术解读：BERT语言模型的预训练源码浅析与总结](https://mp.weixin.qq.com/s/9NXDZDDTFV5xmm3ONjyiKw)
     - [2022年：Bert系列之模型参数计算](https://mp.weixin.qq.com/s/D7T0Pdqr01viicJfAWdIMQ)
     - [2022年：矩阵视角下的Transformer详解（附代码）](https://mp.weixin.qq.com/s/ZllvtpGfkLrcUBKZDtdoTA)
     - [2021年：HuggingFace BERT源码详解：基本模型组件实现](https://mp.weixin.qq.com/s/I4KSerhkFJdnIIpaZuf08A)
