@@ -113,7 +113,13 @@
   * DualCL
       - [paper](https://arxiv.org/pdf/2201.08702.pdf): Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation
       - further reading
-        - [文本分类还停留在BERT？对偶比学习框架也太强了](https://mp.weixin.qq.com/s/rcQw3sNU2-wDDANkCK4C6w) 
+        - [文本分类还停留在BERT？对偶比学习框架也太强了](https://mp.weixin.qq.com/s/rcQw3sNU2-wDDANkCK4C6w)
+  * PICO
+      - [paper](https://arxiv.org/pdf/2201.08984v2.pdf): PiCO: Contrastive Label Disambiguation for Partial Label Learning
+      - [code](https://github.com/hbzju/pico)
+      - further reading
+        - [ICLR Oral｜PiCO：基于对比消歧的偏标签学习](https://zhuanlan.zhihu.com/p/463255610)(作者知乎)
+        - [对比学习引领弱标签学习新SOTA，浙大新研究入选ICLR Oral](https://mp.weixin.qq.com/s/ls3Kaj7tozcMx6RkaFkrfg)
 
 ### Pre-Trained-Model-based Matching Methods
   * SimBERT
