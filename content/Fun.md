@@ -52,6 +52,12 @@
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
   * Text-to-Image
     - [Dream Fields](https://ajayj.com/dreamfields) and its [official repository](https://github.com/google-research/google-research/tree/master/dreamfields)
+    - [DALL-E](https://github.com/openai/DALL-E)
+      - [dalle-mini](https://github.com/borisdayma/dalle-mini)
+      - [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
+      - [ru-dolph](https://github.com/sberbank-ai/ru-dolph)
+      - [dalle-playground](https://github.com/saharmor/dalle-playground)
+    - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
   * NeRF
