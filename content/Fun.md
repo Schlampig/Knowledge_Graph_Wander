@@ -20,6 +20,10 @@
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
 ### Computer Vision
+  * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
+  * Neural Style Transfer
+    - [AI-Art](https://github.com/Adi-iitd/AI-Art): about PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream.
+    - [deepdream](https://github.com/google/deepdream) and its various approaches/tutorials: [pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream), [neural-dream](https://github.com/ProGamerGov/neural-dream), [deep-dream-pytorch](https://github.com/wmn7/ML_Practice/blob/master/2019_05_27/deep-dream-pytorch.ipynb).
   * Generative Adversarial Network (GAN)
     - Review
       - [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
@@ -37,12 +41,13 @@
       - [stargan](https://github.com/yunjey/StarGAN): 一对多有监督图像风格迁移
       - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch): 高质量图像风格转换
       - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
-      - [JoJoGAN](https://github.com/mchong6/JoJoGAN): One-Shot人脸风格迁移
       - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
       - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
     - Application (for fun or horror?)
       - [This Person Does not Exist](https://thispersondoesnotexist.com/)
       - [AnimeGAN](https://animegan.js.org/)
+      - [Artbreeder](https://www.artbreeder.com/): [爷青回！AI把《灌篮高手》角色真人化，最帅的居然不是流川枫？](https://mp.weixin.qq.com/s/1yTLck34mdoE2xh4dSaUmQ)
+      - [JoJoGAN](https://github.com/mchong6/JoJoGAN): [万物皆可JOJO：这个GAN直接让马斯克不做人啦 | Demo可玩](https://mp.weixin.qq.com/s/vlq33by6TJXp3R-WSQb8EQ)
     - GAN Model
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
   * Text-to-Image
@@ -50,7 +55,7 @@
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
   * NeRF
-    - [Neural Radiance Fields (NeRF)介绍](https://zhuanlan.zhihu.com/p/380015071)
+    - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
 
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
@@ -90,18 +95,13 @@
   * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
 
 ### Art & Design
-  * [AI-Art](https://github.com/Adi-iitd/AI-Art): about PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream.
-  * [deepdream](https://github.com/google/deepdream) and its various approaches/tutorials: [pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream), [neural-dream](https://github.com/ProGamerGov/neural-dream), [deep-dream-pytorch](https://github.com/wmn7/ML_Practice/blob/master/2019_05_27/deep-dream-pytorch.ipynb).
-  * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
+  * [Github.io](https://pages.github.com/): [简介](https://www.jianshu.com/p/22b413e3da53)、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [WikiArt](https://www.wikiart.org/)
   * [free-font](https://github.com/wordshub/free-font)
   * [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
   * [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/)
   * [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly)
-  * [Github.io](https://pages.github.com/): [简介](https://www.jianshu.com/p/22b413e3da53)、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
-  * [Artbreeder](https://www.artbreeder.com/): [爷青回！AI把《灌篮高手》角色真人化，最帅的居然不是流川枫？](https://mp.weixin.qq.com/s/1yTLck34mdoE2xh4dSaUmQ)
-  * [JoJoGAN](https://github.com/mchong6/JoJoGAN): [万物皆可JOJO：这个GAN直接让马斯克不做人啦 | Demo可玩](https://mp.weixin.qq.com/s/vlq33by6TJXp3R-WSQb8EQ)
   * [Metrics](https://github.com/lowlighter/metrics): An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [Moe-counter](https://github.com/journey-ad/Moe-counter): 多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
