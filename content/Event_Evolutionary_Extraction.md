@@ -78,3 +78,6 @@
 ### ASER-EEG
   * link: https://github.com/HKUST-KnowComp/ASER-EEG
   * author: HKUST-KnowComp
+
+### ExCAR
+  * [link](https://aclanthology.org/2021.acl-long.183.pdf): ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning.
