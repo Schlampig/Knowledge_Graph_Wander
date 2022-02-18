@@ -1,24 +1,6 @@
 ## **Fun**
 
 
-### Reinforcement Learning
-  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-  * [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
-  * [reinforcement-learning-an-introduction-chinese](https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese)
-  * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-  * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
-  * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-  * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
-
-### Recommender system
-  * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
-  * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
-  * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
-  * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
-  * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
-  * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
-  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
-
 ### Computer Vision
   * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
   * Neural Style Transfer
@@ -50,6 +32,12 @@
       - [JoJoGAN](https://github.com/mchong6/JoJoGAN): [万物皆可JOJO：这个GAN直接让马斯克不做人啦 | Demo可玩](https://mp.weixin.qq.com/s/vlq33by6TJXp3R-WSQb8EQ)
     - GAN Model
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+  * Image Caption
+    - [2021年7月：让机器学会看图说话：Image Caption任务最新综述](https://mp.weixin.qq.com/s/F5QyUaVsAmC8MvvDRzDGWA)
+    - [awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning)
+    - [Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning)
+    - [Awesome-Captioning](https://github.com/terry-r123/Awesome-Captioning)
+    - [ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
   * Text-to-Image
     - [Text2Art](https://text2art.com/): Generate art from text with AI.
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
@@ -66,6 +54,24 @@
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
   * NeRF
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
+
+### Reinforcement Learning
+  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+  * [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
+  * [reinforcement-learning-an-introduction-chinese](https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese)
+  * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+  * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
+  * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+  * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
+
+### Recommender system
+  * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
+  * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
+  * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
+  * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
+  * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
+  * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
+  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
