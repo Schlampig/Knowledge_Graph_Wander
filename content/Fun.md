@@ -19,35 +19,38 @@
   * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
 
-### Generative Adversarial Network (GAN)
-  * Review
-    - [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
-    - [Generative Adversarial Networks- History and Overview](https://towardsdatascience.com/generative-adversarial-networks-history-and-overview-7effbb713545)
-  * Github List
-    - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
-    - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
-    - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
-    - [GANotebooks](https://github.com/tjwei/GANotebooks)
-  * Github Lib
-    - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
-    - [Mimicry](https://github.com/kwotsin/mimicry)
-    - [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)/[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): 一对一有监督图像风格迁移
-    - [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)/[DualGAN](https://github.com/togheppi/DualGAN): 一对一无监督图像风格迁移
-    - [stargan](https://github.com/yunjey/StarGAN): 一对多有监督图像风格迁移
-    - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch): 高质量图像风格转换
-    - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
-    - [JoJoGAN](https://github.com/mchong6/JoJoGAN): One-Shot人脸风格迁移
-    - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
-    - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
-  * Application (for fun or horror?)
-    - [This Person Does not Exist](https://thispersondoesnotexist.com/)
-    - [AnimeGAN](https://animegan.js.org/)
-  * GAN Model
-    - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
-
-### Text-to-Image
-  * [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-  * [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
+### Computer Vision
+  * Generative Adversarial Network (GAN)
+    - Review
+      - [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
+      - [Generative Adversarial Networks- History and Overview](https://towardsdatascience.com/generative-adversarial-networks-history-and-overview-7effbb713545)
+    - Github List
+      - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
+      - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
+      - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+      - [GANotebooks](https://github.com/tjwei/GANotebooks)
+    - Github Lib
+      - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+      - [Mimicry](https://github.com/kwotsin/mimicry)
+      - [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch)/[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): 一对一有监督图像风格迁移
+      - [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)/[DualGAN](https://github.com/togheppi/DualGAN): 一对一无监督图像风格迁移
+      - [stargan](https://github.com/yunjey/StarGAN): 一对多有监督图像风格迁移
+      - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch): 高质量图像风格转换
+      - [animeGAN](https://github.com/jayleicn/animeGAN): 动漫风格迁移
+      - [JoJoGAN](https://github.com/mchong6/JoJoGAN): One-Shot人脸风格迁移
+      - [StackGAN-Pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch): 根据文字生成图片
+      - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
+    - Application (for fun or horror?)
+      - [This Person Does not Exist](https://thispersondoesnotexist.com/)
+      - [AnimeGAN](https://animegan.js.org/)
+    - GAN Model
+      - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+  * Text-to-Image
+    - [Dream Fields](https://ajayj.com/dreamfields) and its [official repository](https://github.com/google-research/google-research/tree/master/dreamfields)
+    - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+    - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
+  * NeRF
+    - [Neural Radiance Fields (NeRF)介绍](https://zhuanlan.zhihu.com/p/380015071)
 
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
