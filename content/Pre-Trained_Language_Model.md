@@ -241,3 +241,4 @@
   * 2021年03月11日（26/217亿参数） **CPM-LM/CPM-KM** by 北京智源人工智能研究院: [code](https://github.com/lsq357/cpm-generate), [homepage](https://cpm.baai.ac.cn/), [paper](https://arxiv.org/abs/2012.00413).
   * further reading:
     - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
+    - [2022年02月15日：关于大模型的发展趋势，我突然有个细思极恐的脑洞](https://mp.weixin.qq.com/s/dlFJYyCsip5fGlY88Bd7DA):sweat_smile:
