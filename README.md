@@ -38,10 +38,10 @@
 
 ### Text Operation
   * [Pre-Trained Language Model](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Pre-Trained_Language_Model.md):fire::fire:
-  * [Knowledge, Commonsense, Prompt, Make Your Model Clever](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/MYMMC.md)
+  * [Knowledge, Commonsense, Prompt, Make Your Model Clever](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/MYMMC.md):arrow_double_up:
   * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md):fire:
   * [Data Augmentation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Data_Augment.md)
-  * [Text Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Matching.md)
+  * [Text Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Matching.md):fire:
   * [Sequence/Sentence Operation (Seq2Seq and more)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Seq_to_seq.md)
   * [Grammatical Error Correction](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/GEC.md)
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
