@@ -33,7 +33,7 @@
     - GAN Model
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
   * Image Caption
-    - [2021年7月：让机器学会看图说话：Image Caption任务最新综述](https://mp.weixin.qq.com/s/F5QyUaVsAmC8MvvDRzDGWA)
+    - [2021年7月：让机器学会看图说话：Image Caption任务最新综述](https://mp.weixin.qq.com/s/F5QyUaVsAmC8MvvDRzDGWA)([From Show to Tell: A Survey on Image Captioning](https://arxiv.org/abs/2107.06912))
     - [awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning)
     - [Awesome-Captioning](https://github.com/terry-r123/Awesome-Captioning)
