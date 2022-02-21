@@ -114,6 +114,8 @@
 
 ### Art & Design
   * [Github.io](https://pages.github.com/): [简介](https://www.jianshu.com/p/22b413e3da53)、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
+  * [Streamlit](https://streamlit.io/): [算法不会前端，也可以做出好看的界面-Streamlit工具](https://mp.weixin.qq.com/s/cSrxA8-9ZMNnIqGjtfnQMw)
+  * [Gradio](https://github.com/gradio-app/gradio): [Gradio: 让机器学习算法秒变小程序](https://zhuanlan.zhihu.com/p/265553909)
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [WikiArt](https://www.wikiart.org/)
   * [free-font](https://github.com/wordshub/free-font)
@@ -126,7 +128,7 @@
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
-  * [Streamlit](https://streamlit.io/): [算法不会前端，也可以做出好看的界面-Streamlit工具](https://mp.weixin.qq.com/s/cSrxA8-9ZMNnIqGjtfnQMw)
+
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
