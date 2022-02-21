@@ -124,6 +124,7 @@
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
+  * [Streamlit](https://streamlit.io/): [算法不会前端，也可以做出好看的界面-Streamlit工具](https://mp.weixin.qq.com/s/cSrxA8-9ZMNnIqGjtfnQMw)
 
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
