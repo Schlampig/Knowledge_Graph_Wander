@@ -60,6 +60,10 @@
   * RE2
     - [paper](https://arxiv.org/abs/1908.00300): Simple and Effective Text Matching with Richer Alignment Features
     - [code](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch): official
+  * DSI
+    - [paper](https://arxiv.org/abs/2202.06991): Transformer Memory as a Differentiable Search Index (DSI, 可微搜索索引)
+    - further reading
+      - [别再双塔了！谷歌提出DSI索引，检索效果吊打双塔，零样本超BM25！](https://mp.weixin.qq.com/s/l1kVnr_GMxoWgZOaCgCbXQ)
 
 ### Searching Liburaries
   * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
