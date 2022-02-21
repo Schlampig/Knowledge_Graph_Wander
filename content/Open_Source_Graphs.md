@@ -39,6 +39,9 @@
   * link: http://kw.fudan.edu.cn/cnprobase/intro/
   * note: "entity is-a concept" relation graph
 
+### AliKG (阿里藏经阁)
+  * link: http://ali.openkg.org/
+
 ### WordNet
   * link: https://wordnet.princeton.edu/download
 
