@@ -42,6 +42,8 @@
     - [Text2Art](https://text2art.com/): Generate art from text with AI ([VQGAN+CLIP](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)).
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
+    - [VQ-VAE](https://kexue.fm/archives/6760): [超越BigGAN，DeepMind提出「史上最强非GAN生成器」VQ-VAE-2](https://baijiahao.baidu.com/s?id=1635480481517977737&wfr=spider&for=pc)
+    - VQ-GAN([code](https://github.com/CompVis/taming-transformers), [paper](https://arxiv.org/abs/2012.09841))
     - [DallEval](https://github.com/j-min/DallEval)
     - [Dream Fields](https://ajayj.com/dreamfields) and its [official repository](https://github.com/google-research/google-research/tree/master/dreamfields)
     - [FuseDream](https://github.com/gnobitab/FuseDream)
