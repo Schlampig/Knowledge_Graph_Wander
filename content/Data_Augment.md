@@ -16,6 +16,7 @@
   * chinese eda: [EDA_NLP_for_Chinese](https://github.com/zhanlaoban/EDA_NLP_for_Chinese)
   * pypi: [edalize](https://github.com/olofk/edalize)
   * note: easy data augmentation techniques for boosting performance on text classification tasks.
+  * extra: AEDA([paper](https://arxiv.org/pdf/2108.13230.pdf), [code](https://github.com/akkarimi/aeda_nlp))
 
 ### UDA
   * link: https://github.com/google-research/uda
