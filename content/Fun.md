@@ -39,7 +39,7 @@
     - [Awesome-Captioning](https://github.com/terry-r123/Awesome-Captioning)
     - [ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
   * Text-to-Image
-    - [Text2Art](https://text2art.com/): Generate art from text with AI.
+    - [Text2Art](https://text2art.com/): Generate art from text with AI ([VQGAN+CLIP](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)).
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
     - [DallEval](https://github.com/j-min/DallEval)
