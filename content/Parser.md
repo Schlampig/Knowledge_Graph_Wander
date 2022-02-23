@@ -52,13 +52,15 @@
   * [FudanNLP](https://github.com/FudanNLP/fnlp)
   * [JiaGu](https://github.com/ownthink/Jiagu)
   * [JioNLP](https://github.com/dongrixinyu/jionlp)
+  * [knlp](https://github.com/DukeEnglish/knlp)
   * [LAC](https://github.com/baidu/lac)
   * [PyNLPIR](https://github.com/tsroten/pynlpir)
   * [PyTextRank](https://github.com/DerwenAI/pytextrank)
   * [SmoothNLP](https://github.com/smoothnlp/SmoothNLP)
   * [SnowNLP](https://github.com/isnowfy/snownlp)
   * [THULAC](http://thulac.thunlp.org/)
-  * [knlp](https://github.com/DukeEnglish/knlp)
+  * [XMNLP](https://github.com/SeanLee97/xmnlp)
+  
 
 ### Neural Combinatory Constituency Parsers
   * link: https://github.com/tmu-nlp/nccp
