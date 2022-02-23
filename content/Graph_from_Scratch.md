@@ -32,5 +32,10 @@
   * author: Ruben
   * note: 爬取百度百科中文页面，抽取三元组信息，构建中文知识图谱
 
+### Z_knowledge_graph
+  * link: https://github.com/Pelhans/Z_knowledge_graph
+  * author: Pelhans
+  * note: 仿zhishi.me从零开始搭建一个百科图谱
+
 ### Blogs from HuanyongLiu
   * [技术分享：知识图谱构建中的异构知识抽取范式、开放资源与工具总结](https://mp.weixin.qq.com/s/P1gGxx8LEsbAAv4zwvrFrg) | 刘焕勇 老刘说NLP 2022年02月20日
