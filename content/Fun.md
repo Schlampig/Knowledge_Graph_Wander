@@ -108,6 +108,7 @@
   * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器.
   * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
   * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern).
+  * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
 
 ### Culture & History
   * [全历史](https://www.allhistory.com/): 以知识图谱为核心引擎的历史知识网站.
