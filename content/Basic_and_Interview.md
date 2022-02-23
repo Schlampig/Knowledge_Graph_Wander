@@ -261,6 +261,11 @@
   * author: HIT-SCIR
   * keywords: 本仓库用于存放《自然语言处理：基于预训练模型的方法》（作者：车万翔、郭江、崔一鸣）一书各章节的示例代码。
 
+### Deep-Generative-Models-for-Natural-Language-Processing
+  * link: https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing
+  * author: Yao Fu
+  * keywords: DGMs 4 NLP. Deep Generative Models for Natural Language Processing. A Roadmap.
+
 ---
 ## Competition
 
