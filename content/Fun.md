@@ -103,6 +103,7 @@
   * [poetry](https://github.com/sheepzh/poetry) by [ZHY](https://github.com/sheepzh)
   * [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen) by [caoxingyu](https://github.com/caoxingyu)
   * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
+  * [Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) by [Zhenxin Fu](https://github.com/fuzhenxin)
   * [Internet Archive](https://archive.org/): a non-profit library of millions of free books, movies, software, music, websites, and more.
   * [Ren'Py](https://www.renpy.org/): [The Ren'Py Visual Novel Engine](https://github.com/renpy/renpy).
   * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器.
