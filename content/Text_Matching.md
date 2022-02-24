@@ -134,7 +134,7 @@
     - [paper](https://arxiv.org/abs/2010.12148): ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding
   * CoSENT
     - blog: [CoSENT：比Sentence-BERT更有效的句向量方案](https://kexue.fm/archives/8847)
-    - [code](https://github.com/bojone/CoSENT)
+    - [code](https://github.com/bojone/CoSENT)([CoSENT_Pytorch](https://github.com/shawroad/CoSENT_Pytorch))
 
 ### Other Methods
   * BERT-whitening
