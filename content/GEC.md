@@ -17,3 +17,8 @@
   * author: liushulinle
   * [paper](https://aclanthology.org/2021.acl-long.233.pdf)
   * note: a code and data of the work in ACL2021: PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction
+
+### speller-bert
+  * link: https://github.com/xueyouluo/speller-bert
+  * author: Xueyou Luo
+  * note: chinese error detection model (including comparsion experiments on pycorrector, cbert, macbert, plome, etc)
