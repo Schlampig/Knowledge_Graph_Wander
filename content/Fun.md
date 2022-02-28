@@ -58,8 +58,8 @@
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
   * ViT(Vision in Transformer)
     - [简单实现 ViT](https://mp.weixin.qq.com/s/sXNI2oSZH6AaSJuqbAwF8Q)
-
 </br>
+
 ### Reinforcement Learning
   * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
   * [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
@@ -68,8 +68,8 @@
   * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
   * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
   * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
-
 </br>
+
 ### Recommender system
   * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
   * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
@@ -78,8 +78,8 @@
   * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
   * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
-
 </br>
+
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
   * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
@@ -87,8 +87,8 @@
   * [Grammarly](https://www.grammarly.com/): 语法检查App.
   * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
   * [Effective Language Learning](https://effectivelanguagelearning.com/)
-
 </br>
+
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
   * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
@@ -97,8 +97,8 @@
   * [Natasha](https://github.com/996-icu-avengers/Natasha) by [996-icu-avengers](https://github.com/996-icu-avengers): 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
   * [Job-Recommend](https://github.com/CyC2018/Job-Recommend) by [CyC2018](https://github.com/CyC2018): 互联网内推信息（社招、校招、实习）。
   * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)([离线版本](https://mp.weixin.qq.com/s/yAepL7CwBIQKRlO7-ED5ag))，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
-
 </br>
+
 ### Literature
   * [豆坟](https://github.com/doufen-org/tofu)
   * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
@@ -115,14 +115,14 @@
   * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
   * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern).
   * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
-
 </br>
+
 ### Culture & History
   * [全历史](https://www.allhistory.com/): 以知识图谱为核心引擎的历史知识网站.
   * [小鸡词典](https://jikipedia.com/): 网络流行语速查百科.
   * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
-
 </br>
+
 ### Art & Design
   * Make your Github more beautiful
     - [Github.io](https://pages.github.com/): [简介](https://www.jianshu.com/p/22b413e3da53)、[如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
@@ -142,16 +142,16 @@
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
-
 </br>
+
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
   * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
-
 </br>
+
 ### Medical
   * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
-
 </br>
+
 ### Math & Computer
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
