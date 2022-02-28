@@ -84,6 +84,10 @@
   * author: Facebook Research
   * note: hackable and optimized Transformers building blocks, supporting a composable construction.
 
+### FLASH
+  * [paper](https://arxiv.org/abs/2202.10447): Hua, W., Dai, Z., Liu, H., & Le, Q. V. (2022). *Transformer Quality in Linear Time*. arXiv preprint arXiv:2202.10447. 
+  * [blog](https://www.spaces.ac.cn/archives/8934): FLASH：可能是近来最有意思的高效Transformer设计
+
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
   * code: 
