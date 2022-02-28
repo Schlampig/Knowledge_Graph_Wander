@@ -142,6 +142,7 @@
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
+  * [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA).
 </br>
 
 ### City Life
