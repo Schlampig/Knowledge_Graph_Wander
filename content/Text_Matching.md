@@ -16,6 +16,7 @@
   * Blogs
     - [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
     - [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
+    - [竞赛中的文本相似性！](https://mp.weixin.qq.com/s/bn78MQ2SYNCJz5QjrQXMCg)
     - [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A)
     - [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
     - [阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/qAJWXaplQeRD5gGEsPjijQ)
