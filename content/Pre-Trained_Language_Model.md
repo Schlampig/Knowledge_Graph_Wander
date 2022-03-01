@@ -86,7 +86,9 @@
 
 ### FLASH
   * [paper](https://arxiv.org/abs/2202.10447): Hua, W., Dai, Z., Liu, H., & Le, Q. V. (2022). *Transformer Quality in Linear Time*. arXiv preprint arXiv:2202.10447. 
-  * [blog](https://www.spaces.ac.cn/archives/8934): FLASH：可能是近来最有意思的高效Transformer设计
+  * blog
+    - [FLASH：可能是近来最有意思的高效Transformer设计](https://www.spaces.ac.cn/archives/8934)
+    - [谷歌Quoc Le团队新transformer：线性可扩展，训练成本仅有原版1/12](https://mp.weixin.qq.com/s/t30AKLJaOKTZVhlZgdCFnQ)
 
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
