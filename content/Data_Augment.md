@@ -60,3 +60,8 @@
   * link: https://github.com/facebookresearch/AugLy
   * author: facebookresearch
   * note: a data augmentations library for audio, image, text, and video.
+
+### Mutate
+  * link: https://github.com/infinitylogesh/mutate
+  * author: Logesh kumar
+  * note: a library to synthesize text datasets using Large Language Models (LLM).
