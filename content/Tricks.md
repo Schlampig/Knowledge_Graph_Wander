@@ -26,6 +26,17 @@
 
 ### EMA
 
+### Explaination
+  * Survey
+    - blog: [机器学习模型可解释性的详尽介绍](https://www.jiqizhixin.com/articles/2019-10-30-9)
+  * SHAP(SHapley Additive exPlanations)
+    - [code](https://github.com/slundberg/shap)
+    - blog: [不再黑盒，机器学习解释利器：SHAP原理及实战](https://zhuanlan.zhihu.com/p/106320452)
+  * LIME(Local Interpretable Model-agnostic Explanations)
+    - [code](https://github.com/marcotcr/lime)
+    - [paper](https://arxiv.org/abs/1602.04938)
+    - blog: [能相信模型的预测吗？LIME：一种解释模型预测的方法](https://www.jiqizhixin.com/articles/2016-08-22-6)
+
 ### Label-Focused
   * Mix-up
   * Label Smoothing
