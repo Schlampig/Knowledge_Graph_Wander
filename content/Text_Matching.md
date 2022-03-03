@@ -81,6 +81,7 @@
     - [2021年11月 笔记︱几款多模态向量检索引擎：Faiss 、milvus、Proxima、vearch、Jina等](https://zhuanlan.zhihu.com/p/364923722)
     - [2021年11月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/357414033)
     - [2020年02月 Faiss入门及应用经验记录](https://zhuanlan.zhihu.com/p/107241260)
+    - [Facebook AI Similarity Search (Faiss): The Missing Manual](https://www.pinecone.io/learn/faiss-tutorial/)
 
 ### Re-Ranking Methods
   * [LibRerank](https://github.com/LibRerank-Community/LibRerank): a toolkit for re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
