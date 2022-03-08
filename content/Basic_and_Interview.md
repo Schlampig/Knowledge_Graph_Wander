@@ -229,6 +229,11 @@
   * author: msgi
   * keywords: documents, papers and codes related to NLP
 
+### nlp-notebook
+  * link: https://github.com/jasoncao11/nlp-notebook
+  * author: jasoncao11
+  * keywords: pytorch examples for usually-used NLP tasks
+
 ### NLP_ability
   * link: https://github.com/DA-southampton/NLP_ability
   * author: DA-southampton
