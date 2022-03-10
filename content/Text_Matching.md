@@ -116,6 +116,7 @@
         - [PairSCL：句子对级别的有监督对比学习方法](https://mp.weixin.qq.com/s/6rMxHrxlTlNBX8H6Z6wUAA)
   * SNCSE
       - [paper](https://arxiv.org/pdf/2201.05979.pdf): SNCSE: Contrastive Learning for Unsupervised Sentence Embedding with Soft Negative Samples
+      - [code](https://github.com/Sense-GVT/SNCSE)
       - further reading
         - [SNCSE：一种基于软负例的无监督句向量对比学习方法](https://mp.weixin.qq.com/s/73Qoth8U9MSN6RI3_CEyaQ)
   * DualCL
