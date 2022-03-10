@@ -59,6 +59,7 @@
   * [SEBERTNets](https://github.com/hecongqing/CCKS2019EventEntityExtraction_Rank5)(by hecongqing)
   * [bert-event-extraction](https://github.com/nlpcl-lab/bert-event-extraction)(by NLP-CL Laboratory)
   * [Financial-Causality-Extraction](https://github.com/guillaume-be/Financial-Causality-Extraction)(by guillaume-be)
+  * [Transformer-based-pretrained-model-for-event-extraction](https://github.com/Hanlard/Transformer-based-pretrained-model-for-event-extraction)(by Hanlard)
 
 ### Event-Extraction
   * link: https://github.com/xiaoqian19940510/Event-Extraction
