@@ -23,6 +23,11 @@
   * note: An open-source framework for knowledge embedding with both [tensorflow](https://github.com/thunlp/TensorFlow-TransX) and [pytorch](https://github.com/thunlp/OpenKE/tree/OpenKE-PyTorch) versions, including several classic methods such as TransE, TransD, TransH, TransR, etc, and related to another light C++ project named [Fast-TransX](https://github.com/thunlp/Fast-TransX).
   * extra: various network embedding-related works could be found under the lists of thunlp groups, such as [KB2E](https://github.com/thunlp/KB2E), [OpenNE](https://github.com/thunlp/OpenNE), [Fast-TransX](https://github.com/thunlp/Fast-TransX).
 
+### NeuralKG
+  * link: https://github.com/zjukg/NeuralKG
+  * author: ZJUKG
+  * note: a python-based library for diverse representation learning of knowledge graphs implementing Conventional KGEs, GNN-based KGEs, and Rule-based KGEs.
+
 ### CANE
   * link: https://github.com/thunlp/CANE
   * author: thunlp
