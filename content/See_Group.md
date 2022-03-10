@@ -60,7 +60,7 @@
     - [**搜狗实验室**](http://www.sogou.com/labs/): [Sogou Open Source](https://github.com/sogou)/[搜狗语音](https://github.com/sogouspeech)
     - [**SinoVation**](https://github.com/sinovation): [创新工场](https://ai.chuangxin.com/)
   * 计算机视觉
-    - [**商汤科技**](https://www.sensetime.com/cn): [SenseTime Video Intelligence Research Team(STVIR)](https://github.com/STVIR)
+    - [**商汤科技**](https://www.sensetime.com/cn): [SenseTime Video Intelligence Research Team(STVIR)](https://github.com/STVIR)/[Sense-GVT](https://github.com/Sense-GVT)
     - [**旷世科技**](https://www.megvii.com/)|[Face++](https://www.faceplusplus.com.cn/): [MEGVII Research](https://github.com/megvii-research)/[FacePlusPlus](https://github.com/FacePlusPlus)
     - [**依图科技**](https://www.yitutech.com/cn/about-us)
     - [**云从科技**](https://www.cloudwalk.com/)
