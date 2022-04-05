@@ -106,6 +106,7 @@
   * website: https://www.pytorchlightning.ai/#grid-section
   * author: Pytorch Lightning Team
   * keywords: the lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+  * tutorial: [pytorch-lightning-tutorial](https://github.com/kwea123/pytorch-lightning-tutorial) by [kwea123](https://github.com/kwea123).
 
 ### minitorch
   * link: https://github.com/minitorch/minitorch
