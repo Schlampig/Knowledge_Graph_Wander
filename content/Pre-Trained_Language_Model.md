@@ -90,6 +90,13 @@
     - [FLASH：可能是近来最有意思的高效Transformer设计](https://www.spaces.ac.cn/archives/8934)
     - [谷歌Quoc Le团队新transformer：线性可扩展，训练成本仅有原版1/12](https://mp.weixin.qq.com/s/t30AKLJaOKTZVhlZgdCFnQ)
 
+### PaLM
+  * [paper](https://storage.googleapis.com/pathways-language-model/PaLM-paper.pdf): *PaLM: Scaling Language Modeling with Pathways*.
+  * code: [PaLM - Pytorch](https://github.com/lucidrains/PaLM-pytorch) by [Phil Wang](https://github.com/lucidrains)
+  * blog
+    - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+    - [6144块TPU，5400亿参数，会改bug、解读笑话，谷歌刚刚用Pathways训练了一个大模型](https://mp.weixin.qq.com/s/-Annt2JkAhgv9YxYpc7pXQ)
+
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
   * code: 
