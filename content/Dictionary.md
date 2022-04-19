@@ -92,6 +92,10 @@
   * [CNEconDict](https://github.com/sijichun/CNEconDict) by Jichun Si: 适用于中文分词的经济金融词典.
   * [accounting_financial_sentiment_dict_exp](https://github.com/nanabunny/accounting_financial_sentiment_dict_exp) by Xinyu Lu: 简体中文会计和金融情感词典扩充.
 
+### Cars
+  * [Cars_Data](https://github.com/utf6/Cars_Data): 车系、品牌数据.
+  * [car_knowledge_graph](https://github.com/luxuantao/car_knowledge_graph): 基于Neo4j的汽车知识图谱，使用Flask构建系统，Echarts可视化.
+
 ### Others
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
