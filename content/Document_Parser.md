@@ -18,6 +18,7 @@
   * pdf2image: [code](https://github.com/Belval/pdf2image)
   * PdfPasswordRemover: [code](https://github.com/SeppPenner/PdfPasswordRemover)
   * Camelot: [code](https://github.com/camelot-dev/camelot)
+  * caj2pdf: [code](https://github.com/caj2pdf/caj2pdf)
   
 ### DOC/DOCX
   * textract: [pypi](https://pypi.org/project/textract/)/[doc](https://textract.readthedocs.io/en/stable/)
