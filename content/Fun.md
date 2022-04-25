@@ -150,6 +150,7 @@
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
   * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
+  * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
 </br>
 
 ### Medical
