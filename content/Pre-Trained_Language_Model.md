@@ -128,6 +128,13 @@
     - [albert_zh by brightmart](https://github.com/brightmart/albert_zh)
     - [albert_pytorch by lonePatient](https://github.com/lonePatient/albert_pytorch)
 
+### DeBERTa
+  * paper
+    - [*DeBERTa: Decoding-enhanced BERT with Disentangled Attention*](https://arxiv.org/abs/2006.03654)
+    - [*DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing*](https://arxiv.org/abs/2111.09543)
+  * code:
+    - [DeBERTa](https://github.com/microsoft/DeBERTa)
+
 ### GPT
   * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
   * code: [tensorflow by OpenAI](https://github.com/openai/finetune-transformer-lm)
