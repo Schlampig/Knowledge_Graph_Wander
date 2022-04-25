@@ -338,6 +338,14 @@
   * original version: https://github.com/aosabook/500lines
 
 ---
+## Research
+
+### Paper_Writing_Tips
+  * link: https://github.com/MLNLP-World/Paper_Writing_Tips
+  * author: [MLNLP-World](https://github.com/MLNLP-World)
+  * keywords: tips to improve your research-writing qualities.
+
+---
 ## Interview
 
 ### reverse-interview-zh
