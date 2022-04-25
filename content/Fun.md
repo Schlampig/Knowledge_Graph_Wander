@@ -54,6 +54,7 @@
       - [ru-dolph](https://github.com/sberbank-ai/ru-dolph)
       - [dalle-playground](https://github.com/saharmor/dalle-playground)
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
+    - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
   * NeRF
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
   * ViT(Vision in Transformer)
