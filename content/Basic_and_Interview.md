@@ -345,6 +345,11 @@
   * author: [MLNLP-World](https://github.com/MLNLP-World)
   * keywords: tips to improve your research-writing qualities.
 
+### document-style-guide
+  * link: https://github.com/ruanyf/document-style-guide
+  * author: [Ruan YiFeng](https://github.com/ruanyf)
+  * keywords: 中文技术文档的写作规范.
+
 ---
 ## Interview
 
