@@ -26,6 +26,7 @@
     - [初来乍到：帮助新用户冷启的算法技巧](https://mp.weixin.qq.com/s/LvRx8hYYMwd71atojOEEiA)
     - [KG与搜广推入门：C端广告业务的生态、展示类型、结算方式与评估指标总结](https://mp.weixin.qq.com/s/5fD4UT-waj0dGmIcYlSFIg)
     - [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/SH2FaDZH6lw8hy3Ym8esTw), [交互模型你快跑，双塔要卷过来了](https://mp.weixin.qq.com/s/jFQWOVnDZHdvSAOKafbDqw)
+    - [两万字聊对话系统](https://mp.weixin.qq.com/s/M7NkxMYVPcgTYLqp07ocuA)
   * Model Collections
     - [deep-text-matching](https://github.com/wangle1218/deep_text_matching): implementation several deep text match (text similarly) models for keras . cdssm, arc-ii,match_pyramid, mvlstm ,esim, drcn ,bimpm, bert, albert, raberta.
     - [text_matching](https://github.com/pengming617/text_matching): Models such as DSSM, ESIM, ABCNN, BiMPM.
