@@ -33,6 +33,8 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [总结|Prompt在NER场景的应用](https://mp.weixin.qq.com/s/ExkKWV3GwbmNSU-AVseyeg) | 刘聪NLP NLP工作站 2022年05月22日
+    - [Prompt learning系列之训练策略篇](https://mp.weixin.qq.com/s/qxEqO0OUbQs-sM0zbAi3Lg) | AINLP 2022年05月01日 转载
     - [NLP新范式：从Fine-tuning到Prompt，再到AdaPrompt工作赏析](https://mp.weixin.qq.com/s/JHT-dhzQu96QBFT4JlzT8g) | CReep 老刘说NLP 2022年02月28日
     - [后Prompt时代｜NLP统一范式：预训练+大规模多任务学习](https://mp.weixin.qq.com/s/EOJGIXSo7bj7oi0nqbbMlw) | AINLP 2022年02月09日 转载
     - [一文速览！多模态预训练中的 Prompt 范式](https://mp.weixin.qq.com/s/FSu5YzR3pRYEgmZdonH15Q) | 深度学习自然语言处理 2022年01月27日 转载
