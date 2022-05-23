@@ -267,3 +267,5 @@
   * further reading:
     - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
     - [2022年02月15日：关于大模型的发展趋势，我突然有个细思极恐的脑洞](https://mp.weixin.qq.com/s/dlFJYyCsip5fGlY88Bd7DA):sweat_smile:
+    - [2022年05月01日：大型语言模型能真正理解人类语言吗？](https://mp.weixin.qq.com/s/EHmPvcS5M5NwIxN6IQ08YQ)
+    - [2022年05月01日：斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://mp.weixin.qq.com/s/PLKDezmaTn8dEkhcES1g2Q)
