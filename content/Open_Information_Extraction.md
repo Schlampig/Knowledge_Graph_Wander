@@ -60,3 +60,10 @@
   * author: THUNLP
   * web: https://openhownet.thunlp.org/
   * note: a project contains core data of HowNet and OpenHowNet API developed by THUNLP, which provides a convenient way to search information in HowNet, display sememe trees, calculate word similarity via sememes, etc. 
+
+### UIE
+  * link: https://universal-ie.github.io
+  * [paper](https://arxiv.org/abs/2203.12277): Lu, Y. , Liu, Q. , Dai, D. , Xiao, X. , Lin, H. , & Han, X. , et al. (2022). Unified structure generation for universal information extraction.
+  * blog:
+    - [首创基于Prompt的产业级信息抽取能力，这个开源工具用心了！](https://mp.weixin.qq.com/s/Y2QNTzf18p6fk7eCv4yfCg)
+    - [信息抽取大一统：百度中科院发布通用抽取模型UIE，刷新13个IE数据集SOTA！](https://mp.weixin.qq.com/s/s9Kw3UO0VOEi6hqUYFR9Gg)
