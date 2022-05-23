@@ -146,6 +146,8 @@
     - [idea(blog)](https://kexue.fm/archives/8069): 你可能不需要BERT-flow：一个线性变换媲美BERT-flow
     - [experiments(blog)](https://kexue.fm/archives/8321): 无监督语义相似度哪家强？我们做了个比较全面的评测
     - [paper](https://arxiv.org/abs/2103.15316)
+    - blog
+      [当BERT-whitening引入超参数：总有一款适合你](https://mp.weixin.qq.com/s/Xx9unl0QL6aNO1pY_szENA)
   * Perfect Match
     - [code](https://github.com/d909b/perfect_match)
     - [paper](https://arxiv.org/abs/1810.00656)
