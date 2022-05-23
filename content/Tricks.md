@@ -23,6 +23,7 @@
     - blog: [一篇就够！数据增强方法综述](https://mp.weixin.qq.com/s/HPItY9xXJcOZWisBGOrkSw)
   * SDE
   * EDA
+  * FlipDA: [为大模型定制的数据增强方法FlipDA，屠榜六大NLU 数据集！](https://mp.weixin.qq.com/s/EcC8naSuNrTNQf0Es32YHQ)
 
 ### EMA
 
