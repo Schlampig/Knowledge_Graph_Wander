@@ -15,6 +15,7 @@
   * [FewCLUE](https://github.com/CLUEbenchmark/FewCLUE): [paper](https://arxiv.org/abs/2107.07498)
   * [ChineseBLUE](https://github.com/alibaba-research/ChineseBLUE): Chinese Biomedical Language Understanding Evaluation benchmark.
   * CUGE(Chinese LanguageUnderstanding and Generation Evaluation): [report](arxiv.org/pdf/2112.13610.pdf)/[homepage](cuge.baai.ac.cn)
+  * NATURAL-INSTRUCTIONSv2: [paper](https://arxiv.org/pdf/2204.07705.pdf), [news](https://mp.weixin.qq.com/s/VulP2-xSeJQsn4SwwFaC7w)
 
 
 ### Word Dictionary / Word Vector Resource
