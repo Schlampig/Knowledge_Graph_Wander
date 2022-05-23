@@ -52,6 +52,10 @@
   * Stacking
   * Ensemble
 
+### Normalization
+  * [超细节的BatchNorm/BN/LayerNorm/LN知识点](https://mp.weixin.qq.com/s/rvs82W91jDPGyhcC_9PlLw)
+  * [为什么Pre Norm的效果不如Post Norm？](https://mp.weixin.qq.com/s/kJnZpfYUIJRnLAUEuRQGsA)
+
 ### Pre-Finetune
 
 ### Warm-up
