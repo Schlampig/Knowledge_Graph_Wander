@@ -110,7 +110,9 @@
     - [pretrained-models by ZhuiyiTechnology](https://github.com/ZhuiyiTechnology/pretrained-models)
   * list: [awesome-bert by Jiakui Wang](https://github.com/Jiakui/awesome-bert)
   * pre-trained models: [OpenCLaP](https://github.com/thunlp/OpenCLaP)
-  * extra: [GuwenBERT](https://github.com/Ethan-yt/guwenbert), [PERT](https://github.com/ymcui/PERT)
+  * extra: 
+    - [GuwenBERT](https://github.com/Ethan-yt/guwenbert)
+    - [PERT](https://github.com/ymcui/PERT): [PERT：一种基于乱序语言模型的预训练模型](https://mp.weixin.qq.com/s/gx6N5QBZozxdZqSOjMKOKA)
 
 ### BERT-WWM (Pre-Training with Whole Word Masking for BERT)
   * link: [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) by Yiming Cui.
