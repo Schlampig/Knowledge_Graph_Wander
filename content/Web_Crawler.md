@@ -30,4 +30,9 @@
 ### wechat-spider
   * link: https://github.com/striver-ing/wechat-spider
   * author: striver-ing
-  * note: 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。
+  * note: 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容.
+
+### crawlab
+  * link: https://github.com/crawlab-team/crawlab
+  * author: [Crawlab Team](https://github.com/crawlab-team)
+  * note: 分布式爬虫管理平台，支持任何语言和框架.
