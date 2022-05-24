@@ -6,6 +6,7 @@
   * [paper](https://arxiv.org/pdf/1705.03645.pdf): Kumar, S. . (2017). *A survey of deep learning methods for relation extraction*.
   
 ### Papers (Various)
+  * [paper](https://arxiv.org/abs/2205.05270)/[blog](https://mp.weixin.qq.com/s/N6kEY0dRi7VFTXD6uDTSDQ): Shang, Y. M. , Huang, H. , Sun, X. , Wei, W. , & Mao, X. L. . (2022). *Relational triple extraction: one step is enough*. arXiv
   * [paper](https://arxiv.org/pdf/2010.12812.pdf): Zhong Z. , Chen D. . (2020). *A Frustratingly Easy Approach for Joint Entity and Relation Extraction*. arXiv
   * [paper](https://www.researchgate.net/publication/333172475_GraphRel_Modeling_Text_as_Relational_Graphs_for_Joint_Entity_and_Relation_Extraction): Fu, T. J. , & Ma, W. Y. . (2019). *GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction*. ACL 2019.
   * [paper](https://arxiv.org/abs/1903.01306v1): Zhang, N. , Deng, S. , Sun, Z. , Wang, G. , Chen, X. , Zhang, W. , Chen, H. . (2019). *Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks*. NAACL 2019.
