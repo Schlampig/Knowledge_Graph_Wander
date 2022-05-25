@@ -62,6 +62,8 @@
     - blog: [大规模模型训练tricks集锦](https://mp.weixin.qq.com/s/p99u10YOODDmZQPN0lc03w)
 
 ### Pre-Finetune
+  * Survey
+    - blog: [语言模型微调领域有哪些最新进展？一文详解最新趋势](https://mp.weixin.qq.com/s/XVZSAxaWM30t9rOeXYM03A) cited from [here](https://ruder.io/recent-advances-lm-fine-tuning/)
 
 ### Warm-up
   * Linear Warm-up
