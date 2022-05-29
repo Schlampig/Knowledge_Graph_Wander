@@ -3,9 +3,16 @@
 ---
 ## Search Literatures
 
+### arXiv
+  * link: https://arxiv.org/
+
 ### Paper with codes
   * link: https://paperswithcode.com/
   * note: ranked lists of researches with codes in various machine learning domains, according to github stars.
+
+### OpenReview
+  * link: https://openreview.net/
+  * note: open peer review, open publishing, open access, open discussion, open recommendations, open directory, open api, open source.
 
 ### CONNECTED PAPERS
   * link: https://www.connectedpapers.com/
