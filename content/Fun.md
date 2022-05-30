@@ -153,6 +153,7 @@
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
   * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
   * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
+  * [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁——人体系统调优不完全指南。
 </br>
 
 ### Medical
