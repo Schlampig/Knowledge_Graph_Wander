@@ -65,6 +65,12 @@
   * Survey
     - blog: [语言模型微调领域有哪些最新进展？一文详解最新趋势](https://mp.weixin.qq.com/s/XVZSAxaWM30t9rOeXYM03A) cited from [here](https://ruder.io/recent-advances-lm-fine-tuning/)
 
+### Prior-Experience
+  * Concatenate & Embedding
+    - REINA([paper](https://arxiv.org/abs/2203.08773)/[code](https://github.com/microsoft/REINA)): [微软发现了一个超简单的NLP上分技巧，还发了ACL2022 ？？](https://mp.weixin.qq.com/s/koUKcfIozcl2zYeVzGj9wA)
+  * Prompt
+    - [哄一哄能让GPT-3准确率暴涨61%！谷歌&东京大学研究震惊四座](https://mp.weixin.qq.com/s/jDqaL6d2UCeY_8usXszkJg)
+
 ### Warm-up
   * Linear Warm-up
 
