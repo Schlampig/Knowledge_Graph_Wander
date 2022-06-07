@@ -41,6 +41,11 @@
 ---
 ## Search Codes
 
+### 机器之心SOTA!模型
+  * link: https://sota.jiqizhixin.com/
+  * author: 机器之心
+  * note: 追踪AI技术进展，实践先进AI算法的社区
+
 ### StateOfTheArt
   * link: https://www.stateoftheart.ai/
   * note: collections of the SOTA codes and papers of 7 main machine learning domains.
