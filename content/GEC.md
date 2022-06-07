@@ -27,3 +27,8 @@
   * link: https://github.com/xueyouluo/speller-bert
   * author: Xueyou Luo
   * note: chinese error detection model (including comparsion experiments on pycorrector, cbert, macbert, plome, etc)
+
+### CCL2022-CLTC
+  * link: https://github.com/blcuicall/CCL2022-CLTC
+  * author: BLCU-ICALL
+  * note: CCL 2022 汉语学习者文本纠错评测
