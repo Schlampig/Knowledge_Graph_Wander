@@ -12,6 +12,7 @@
   * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
   * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/):thumbsup:
+  * [**HKU NLP Group**](https://github.com/HKUNLP): [香港大学自然语言处理实验室](https://nlp.cs.hku.hk/)
   * [**ICTKC**](https://github.com/ICTKC): [中国科学院计算技术研究所-知识计算组](http://www.ict.ac.cn/)
   * [**IDEA-CCNL**](https://github.com/IDEA-CCNL): [粤港澳大湾区数字经济研究院](https://idea.edu.cn/)
   * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
