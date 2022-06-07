@@ -38,6 +38,10 @@
     - [paper](https://arxiv.org/abs/1602.04938)
     - blog: [能相信模型的预测吗？LIME：一种解释模型预测的方法](https://www.jiqizhixin.com/articles/2016-08-22-6)
 
+### Feature Selection
+  * Survey
+    - blog: [特征选择：11 种特征选择策略总结！](https://mp.weixin.qq.com/s/BhCfPkJexi-DCLpwYwY6YA)
+
 ### Label-Focused
   * Mix-up
   * Label Smoothing
