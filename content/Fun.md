@@ -65,6 +65,7 @@
     - [简单实现 ViT](https://mp.weixin.qq.com/s/sXNI2oSZH6AaSJuqbAwF8Q)
     - [CVPR 2022 | 道高一尺，魔高一丈，ConvNet还是ViT？](https://mp.weixin.qq.com/s/png0UhkNyb1VqrRJAPyD0Q)
     - [Awesome-Transformer-in-CV](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV)
+    - [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 </br>
 
 ### Reinforcement Learning
