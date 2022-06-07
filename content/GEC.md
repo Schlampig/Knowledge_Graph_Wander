@@ -11,6 +11,11 @@
     - [中文文本纠错之入门篇](https://mp.weixin.qq.com/s/jUIm395ZPQM6JN-fpgfUBA)
     - [中文文本纠错系列之深度学习篇](https://mp.weixin.qq.com/s/zP5gXFruP4Ke5Q31S8-EWA)
 
+### GEC-Reading-List
+  * link: https://github.com/blcuicall/GEC-Reading-List
+  * author: BLCU-ICALL
+  * note: a grammatical error correction reading list
+
 ### PyCorrector
   * link: https://github.com/shibing624/pycorrector
   * author: shibing624
