@@ -24,6 +24,7 @@
   * [《成语大全》](http://www.guoxue.com/chengyu/CYML.htm) by [国学网](www.guoxue.com).
   * [DomainWordsDict](https://github.com/liuhuanyong/DomainWordsDict) by [liuhuanyong](https://github.com/liuhuanyong): 涵盖68个领域、共计916万词的专业词典知识库.
   * [万词王](https://github.com/thunlp/WantWords) by [THUNLP] with [website](https://wantwords.thunlp.org/).
+  * [AutoDict](https://github.com/blcuicall/AutoDict) by [BLCU-ICALL](https://github.com/blcuicall) in [paper](https://arxiv.org/abs/1905.06512): Chinese Definition Modeling.
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
