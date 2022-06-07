@@ -3,7 +3,7 @@
 > Warning: This is not a white/black list!
 <br>
 
-### Academic Group & Researcher
+### Academic Group & Lab & Researcher
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
   * **AIRS**: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
   * [**BAAI**](https://github.com/BAAI-WuDao): [北京智源人工智能研究院](https://www.baai.ac.cn/)
@@ -19,6 +19,7 @@
   * **LAMDA**: [南京大学机器学习与数据挖掘研究所](http://www.lamda.nju.edu.cn/CH.MainPage.ashx):thumbsup:
   * [**MIT Media Lab**](https://github.com/mitmedialab): [麻省理工多媒体实验室](https://www.media.mit.edu/)
   * [**NiuTrans**](https://github.com/NiuTrans)
+  * [**NLP\*CL Laboratory**](https://github.com/nlpcl-lab): [韩国科学技术院（Korea Advanced Institute of Science and Technology, KAIST）](http://nlpcl.kaist.ac.kr/home/)
   * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
   * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
   * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
