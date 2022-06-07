@@ -337,6 +337,11 @@
   * keywords: 18 python-based projects each approached less than 500 lines
   * original version: https://github.com/aosabook/500lines
 
+### chinese-programmer-wrong-pronunciation
+  * link: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+  * author: Shimo HQ
+  * keywords: 中国程序员容易发音错误的单词
+
 ---
 ## Research
 
