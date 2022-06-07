@@ -64,7 +64,7 @@
 ### Event-Extraction
   * link: https://github.com/xiaoqian19940510/Event-Extraction
   * author: xiaoqian19940510
-  * note: survey for event extraction
+  * note: survey for event extraction.
 
 ### Event Extraction papers
   * link: https://github.com/BaptisteBlouin/EventExtractionPapers
@@ -74,10 +74,15 @@
 ### DL_EventExtractionPapers
   * link: https://github.com/carrie0307/DL_EventExtractionPapers
   * author: carrie0307
-  * note: a collection of deep-learning based event extraction papers from 2015 till now
+  * note: a collection of deep-learning based event extraction papers from 2015 till now.
 
 ### pathlm_schema
   * link: https://github.com/limanling/pathlm_schema
   * author: Manling Li 
-  * note: code for the paper "Cross-media Structured Common Space for Multimedia Event Extraction"
+  * note: code for the paper "Cross-media Structured Common Space for Multimedia Event Extraction".
   * extra: [OneIE](http://blender.cs.illinois.edu/software/oneie/)
+
+### ace2005-preprocessing
+  * link: https://github.com/nlpcl-lab/ace2005-preprocessing
+  * author: NLP*CL Laboratory
+  * extra: ace 2005 corpus preprocessing for event extraction task.
