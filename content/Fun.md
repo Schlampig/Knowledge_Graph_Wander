@@ -59,6 +59,8 @@
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
   * NeRF
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
+    - [NeRF神经渲染技术盘点](https://mp.weixin.qq.com/s/Ca59kWbKMzG3ml9U2GQTvA)
+    - [计图：5秒训好NeRF！已开源](https://mp.weixin.qq.com/s/pF9S4IvO9EJiBlBCP3LiBQ)
   * ViT(Vision in Transformer)
     - [简单实现 ViT](https://mp.weixin.qq.com/s/sXNI2oSZH6AaSJuqbAwF8Q)
     - [CVPR 2022 | 道高一尺，魔高一丈，ConvNet还是ViT？](https://mp.weixin.qq.com/s/png0UhkNyb1VqrRJAPyD0Q)
