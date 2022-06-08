@@ -22,6 +22,10 @@
   - DecompRC 2019: [paper](https://arxiv.org/pdf/1906.02916.pdf)|[code](https://github.com/shmsw25/DecompRC)|[demo](http://allgood.cs.washington.edu:2019/)
   - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
 
+### Explainability in MRC
+  - [ExpMRC: explainability evaluation for machine reading comprehension (2022)](https://www.cell.com/action/showPdf?pii=S2405-8440%2822%2900578-3)
+  - [A Survey on Explainability in Machine Reading Comprehension (2020)](https://arxiv.org/abs/2010.00389)
+
 ### Dialogue MRC
   - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
 
@@ -31,9 +35,12 @@
   - [ChID](https://aclanthology.org/P19-1075.pdf): A Large-scale **Ch**inese **ID**iom Dataset for Cloze Test.
   - [CLICR](https://github.com/clips/clicr): Machine reading comprehension on **CLI**nical **C**ase **R**eports.
   - [CLUE阅读理解排行榜](https://www.cluebenchmarks.com/rc.html)
-  - [CMRC 2017](https://hfl-rc.com/cmrc2017/): The 1st Evaluation Workshop on **C**hinese **M**achine **R**eading **C**omprehension.
-  - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
-  - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
+  - [CMRC](https://hfl-rc.com/cmrc/)
+    - [CMRC 2017](https://hfl-rc.com/cmrc2017/): The 1st Evaluation Workshop on **C**hinese **M**achine **R**eading **C**omprehension.
+    - [CMRC 2018](https://ymcui.com/cmrc2018/): A Span-Extraction Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
+    - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
+    - [CMRC 2020](https://hfl-rc.com/cmrc2020/): Challenge of AI in Law ([CAIL](http://cail.cipsc.org.cn/)) for **C**hinese **M**achine **R**eading **C**omprehension.
+    - [CMRC 2022](https://hfl-rc.com/cmrc2022/): A Weak-Supervised Explainability-focused Dataset (from [ExpMRC](https://ymcui.com/expmrc/)) for **C**hinese **M**achine **R**eading **C**omprehension.
   - [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge.
   - [DREAM](https://github.com/nlpdata/dream): A Challenge Dataset and Models for Dialogue-Based Reading Comprehension.
   - [DRCD](https://github.com/DRCKnowledgeTeam/DRCD): **D**elta **R**eading **C**omprehension **D**ataset.
