@@ -1,4 +1,4 @@
-## **Link of Research Groups**
+## **Link of AI Groups**
 
 > Warning: This is not a white/black list!
 <br>
