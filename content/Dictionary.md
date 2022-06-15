@@ -25,6 +25,8 @@
   * [DomainWordsDict](https://github.com/liuhuanyong/DomainWordsDict) by [liuhuanyong](https://github.com/liuhuanyong): 涵盖68个领域、共计916万词的专业词典知识库.
   * [万词王](https://github.com/thunlp/WantWords) by [THUNLP] with [website](https://wantwords.thunlp.org/).
   * [AutoDict](https://github.com/blcuicall/AutoDict) by [BLCU-ICALL](https://github.com/blcuicall) in [paper](https://arxiv.org/abs/1905.06512): Chinese Definition Modeling.
+  * [Linggle 英文单词用例查询](https://linggle.com/)
+  * [PhraseBank 英文学术用语检索](https://www.phrasebank.manchester.ac.uk/)
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
@@ -44,6 +46,7 @@
   * [Final_word_Similarity](https://github.com/yaleimeng/Final_word_Similarity) by Yalei Meng.
   * [ChineseSemanticKB](https://github.com/liuhuanyong/ChineseSemanticKB) by liuhuanyong.
   * [funNLP 同/反义词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
+  * [WikiDiff 近义词辨析](https://wikidiff.com/)
 
 ### Similar Character
   * [SimilarCharacter](https://github.com/contr4l/SimilarCharacter) by XiaoFang.
