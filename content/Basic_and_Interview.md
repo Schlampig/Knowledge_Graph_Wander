@@ -355,6 +355,11 @@
   * author: [Ruan YiFeng](https://github.com/ruanyf)
   * keywords: 中文技术文档的写作规范.
 
+### awesome-scholarly-productivity
+  * link: https://github.com/OpenMindClub/awesome-scholarly-productivity
+  * author: [OpenMindClub](https://github.com/OpenMindClub)
+  * keywords: 高效论文写作指南.
+
 ---
 ## Interview
 
@@ -368,3 +373,8 @@
   * author: Khang Pham
   * blog: mlengineer.io
   * keywords: machine learning interviews from FAANG, Snapchat, LinkedIn, Coupang, Stitchfix etc.
+
+### python-cp-cheatsheet
+  * link: https://github.com/peterlamar/python-cp-cheatsheet
+  * author: Peter Lamar
+  * keywords: Python3 interview prep cheatsheet and examples
