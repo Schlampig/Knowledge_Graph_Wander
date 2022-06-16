@@ -144,6 +144,7 @@
     - [Moe-counter](https://github.com/journey-ad/Moe-counter): Github首页动态生成状态图之三，多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
     - [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly): 可在Markdown使用的开源emoji素材库.
     - [Emoji大全](https://www.emojidaquan.com/)
+    - [WikiEmoji](https://wikiemoji.org/zh)
   * Build Simple Front-End
     - [Streamlit](https://streamlit.io/): [算法不会前端，也可以做出好看的界面-Streamlit工具](https://mp.weixin.qq.com/s/cSrxA8-9ZMNnIqGjtfnQMw)
     - [Gradio](https://github.com/gradio-app/gradio): [Gradio: 让机器学习算法秒变小程序](https://zhuanlan.zhihu.com/p/265553909)
