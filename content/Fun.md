@@ -150,12 +150,16 @@
     - [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/): 简洁开源的icon素材库.
     - [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
     - [free-font](https://github.com/wordshub/free-font): 2020年最全的免费可商用字体.  
+  * Python可视化
+    - [详解可视化神器 seaborn，制作图形又快又美！](https://zhuanlan.zhihu.com/p/456271226)
+    - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
   * [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA).
+  
 </br>
 
 ### City Life
