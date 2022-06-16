@@ -119,6 +119,8 @@
     - [**招银网络科技**](https://cmbnt.cmbchina.com/)
     - [**兴业数金**](http://www.cibfintech.com/opencms/export/index.html)
     - [**万德(WinD)**](https://www.wind.com.cn/)
+  * 量化
+    - [**Super Symmetry Tech**](https://github.com/ssymmetry): [超对称技术](https://www.ssymmetry.com/)
   * 法律
     - [**擎盾数据(Aegis)**](https://www.aegis-info.com/)
     - [**幂律智能**](https://www.powerlaw.ai/)
