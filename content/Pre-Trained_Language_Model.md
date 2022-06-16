@@ -269,5 +269,11 @@
   * further reading:
     - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
     - [2022年02月15日：关于大模型的发展趋势，我突然有个细思极恐的脑洞](https://mp.weixin.qq.com/s/dlFJYyCsip5fGlY88Bd7DA):sweat_smile:
+    - [2022年04月14日：百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ)
     - [2022年05月01日：大型语言模型能真正理解人类语言吗？](https://mp.weixin.qq.com/s/EHmPvcS5M5NwIxN6IQ08YQ)
     - [2022年05月01日：斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://mp.weixin.qq.com/s/PLKDezmaTn8dEkhcES1g2Q)
+    - [2022年06月09日：Geoffrey Hinton 最新访谈：不出五年，我们就会破解大脑的运作机制，但不是通过反向传播](https://mp.weixin.qq.com/s/KAfDxOzEfb55_ABK4nGJgw)
+    - [2022年06月09日：Gary Marcus公开喊话Hinton、马斯克：深度学习就是撞墙了，我赌十万美金](https://mp.weixin.qq.com/s/bqPV_BgHtPYa5ST_TVC3ug)
+    - [2022年06月12日：谷歌研究员走火入魔事件曝光：认为AI已具备人格，被罚带薪休假，聊天记录让网友San值狂掉](https://mp.weixin.qq.com/s/FpXW9AyharQMrLVf6v69IA)([2022年06月14日：谷歌AI具有意识？LaMDA像个聪明孩子？专家：胡扯](https://mp.weixin.qq.com/s/kHhI3bL29yygDdBP8ELeuw))
+    - [2022年06月13日：又一篇超百名作者的 AI 论文问世！442位作者耗时两年发布大模型新基准 BIG-bench……](https://mp.weixin.qq.com/s/N_XYh04y92psPk9h1ISxzQ)
+    
