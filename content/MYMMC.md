@@ -93,4 +93,10 @@
     - [击败GPT3，刷新50个SOTA！谷歌全面统一NLP范式](https://mp.weixin.qq.com/s/oMUASBSKe3xgGVLuQz7MGg) | ZenMoore 夕小瑶的卖萌屋 2022年05月13日
     - [“统一语言学习范式”：详解50个任务达到sota的谷歌新模型](https://mp.weixin.qq.com/s/1LlezA0uhFyq0pf86iJI_Q) | LZM 数据实战派 2022年05月17日
 
+### KPT
+  * [paper](https://arxiv.org/abs/2108.02035): Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification
+  * [code](https://github.com/thunlp/KnowledgeablePromptTuning)
+  * blog:
+    - [ACL 2022 | KPT: 文本分类中融入知识的Prompt Verbalizer](https://mp.weixin.qq.com/s/4PEfBbRr98FjxHc2oiDPKA)
+
 </br>
