@@ -152,3 +152,4 @@
   * [**MLNLP-World**](https://github.com/MLNLP-World)
   * [**刘焕勇NLP项目主页**](https://liuhuanyong.github.io/)
   * [**The Turing Language**](https://github.com/TuringLang)
+  * [**刘聪NLP**](https://github.com/liucongg)
