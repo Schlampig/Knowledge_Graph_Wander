@@ -152,4 +152,4 @@
   * link: https://github.com/nicolay-r/AREkit
   * author: Nicolay Rusnachenko
   * note: document level attitude and relation extraction toolkit for mass-media news and analytical articles.
-  * extra: [RElight](https://github.com/nicolay-r/ARElight)
+  * extra: [ARElight](https://github.com/nicolay-r/ARElight)
