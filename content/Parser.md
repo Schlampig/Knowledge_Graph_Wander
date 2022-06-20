@@ -5,6 +5,7 @@
   * homepage: https://opennlp.apache.org/
   * link: https://github.com/apache/opennlp
   * author: Apache
+
 ### Jieba
   * link: https://github.com/fxsjy/jieba
   * author: Sun Junyi
@@ -46,6 +47,12 @@
   * web: https://textblob.readthedocs.io/en/dev/
   * author: Steven Loria
   * note: a Python (2 and 3) library for processing textual data.
+
+### zhon
+  * link: https://github.com/tsroten/zhon
+  * web: https://zhon.readthedocs.io/en/latest/#
+  * author: [Thomas Roten](https://github.com/tsroten)
+  * note: constants used in Chinese text processing.
 
 ### Others
   * [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK)
