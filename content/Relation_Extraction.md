@@ -136,14 +136,20 @@
   * note: a lifelong learning strategy to handle the FewRel challenge
  
 ### JointRE
-  * linke: https://github.com/yubowen-ph/JointER
+  * link: https://github.com/yubowen-ph/JointER
   * author: yubowen-ph
   * [paper](https://yubowen-ph.github.io/files/2020_ECAI_ETL/ETL.pdf)
   * note: using novel decomposed subtasks to solve the problem
 
 ### BERT-Relation-Extraction
-  * linke: https://github.com/plkmo/BERT-Relation-Extraction
+  * link: https://github.com/plkmo/BERT-Relation-Extraction
   * author: Soh Wee Tee
   * [paper](https://arxiv.org/abs/1906.03158v1)
   * note: pytorch implementation for "Matching the Blanks: Distributional Similarity for Relation Learning".
   * [blog](https://zhuanlan.zhihu.com/p/110202712)
+
+### AREkit
+  * link: https://github.com/nicolay-r/AREkit
+  * author: Nicolay Rusnachenko
+  * note: document level attitude and relation extraction toolkit for mass-media news and analytical articles.
+  * extra: [RElight](https://github.com/nicolay-r/ARElight)
