@@ -28,7 +28,9 @@
   * document: https://docs.dedupe.io/
   * author: dedupeio
   * note: a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
-  * [extra](https://dedupe.io/documentation/how-it-works.html): how dedupe works.
+  * extra: 
+    - [How Dedupe works](https://dedupe.io/documentation/how-it-works.html)
+    - [开源知识图谱融合工具剖析：Dedupe与OpenEA工具实现思想、关键环节与实操分析](https://mp.weixin.qq.com/s/8y3TUEAWmW1q2aPB7_z_0Q)
 
  ### Record Linkage ToolKit （RLTK）
   * type: entity resolution
