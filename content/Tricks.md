@@ -26,6 +26,7 @@
   * FlipDA: [为大模型定制的数据增强方法FlipDA，屠榜六大NLU 数据集！](https://mp.weixin.qq.com/s/EcC8naSuNrTNQf0Es32YHQ)
 
 ### EMA
+  * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
 
 ### Explaination
   * Survey
