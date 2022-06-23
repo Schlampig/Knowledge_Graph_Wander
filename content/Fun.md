@@ -57,6 +57,7 @@
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
       - [open_clip](https://github.com/mlfoundations/open_clip)
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
+    - [PARTI](https://parti.research.google/)([code](https://github.com/google-research/parti)): Pathways Autoregressive Text-to-Image model.
   * NeRF
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
     - [NeRF神经渲染技术盘点](https://mp.weixin.qq.com/s/Ca59kWbKMzG3ml9U2GQTvA)
