@@ -142,6 +142,11 @@
   * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
   * keywords: machine learning and deep learning lessons
 
+### 深度学习工程师生存指南
+  * link: https://github.com/ypwhs/dl-engineer-guidebook
+  * author: [杨培文 (Yang Peiwen)](https://github.com/ypwhs)
+  * keywords: deeplearning engineer guidebook
+
 ### PRML
   * link: https://github.com/ctgk/PRML
   * author: ctgk
