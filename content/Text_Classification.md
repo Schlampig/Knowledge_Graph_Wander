@@ -70,7 +70,7 @@
   * author: Alan Clarke
   * note: MLP, CNN, RNN in PyTorch.
 
-### Cleanlab :wrench:
+### CleanLab :wrench:
   * link: https://github.com/cleanlab/cleanlab
   * author: [CleanLab](https://github.com/cleanlab)
   * note: the standard data-centric ai package for data quality and machine learning with messy, real-world data and labels.
