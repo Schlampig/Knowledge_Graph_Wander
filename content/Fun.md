@@ -104,6 +104,9 @@
   * [Effective Language Learning](https://effectivelanguagelearning.com/)
 </br>
 
+### Computer Language
+  * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
+
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
   * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
