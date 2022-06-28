@@ -34,6 +34,11 @@
   * author: Giancarlo Fissore 
   * note: neural search engine for AI papers.
 
+### Paperlib
+  * link: https://github.com/GeoffreyChen777/paperlib
+  * author: GeoffreyChen777
+  * note: an open-source simple academic paper management tool for computer science.
+
 ### SimBiber
   * link: https://github.com/MLNLP-World/SimBiber
   * author: MLNLP-World
