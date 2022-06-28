@@ -365,6 +365,11 @@
   * author: [OpenMindClub](https://github.com/OpenMindClub)
   * keywords: 高效论文写作指南.
 
+### Tutorial-on-PhD-Application
+  * link: https://github.com/zhanglj37/Tutorial-on-PhD-Application
+  * author: Lijin Zhang
+  * keywords: 国外读博申请攻略
+
 ---
 ## Interview
 
