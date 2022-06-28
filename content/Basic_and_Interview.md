@@ -388,3 +388,9 @@
   * link: https://github.com/peterlamar/python-cp-cheatsheet
   * author: Peter Lamar
   * keywords: Python3 interview prep cheatsheet and examples
+
+### 97 Things Every Programmer Should Know
+  * link: https://97-things-every-x-should-know.gitbook.io/97-things-every-programmer-should-know/en
+  * book info: https://book.douban.com/subject/4156701/
+  * author: Kevlin Henney (Editor)
+  * keywords: 程序员应该知道的97件事 (pearls of wisdom for programmers collected from leading practitioners).
