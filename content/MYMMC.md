@@ -56,8 +56,25 @@
     - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 2021年4月3日
 
 ### P-Tuning（PET）
-  * paper: [GPT Understands, Too](https://arxiv.org/abs/2103.10385)
-  * blog: [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295)
+  * link: https://github.com/THUDM/P-tuning
+  * author: THUDM
+  * [paper](https://arxiv.org/abs/2103.10385): GPT Understands, Too
+  * extra: [P-tuning](https://github.com/bojone/P-tuning) by bojone
+  * blog: 
+    - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 2021年04月03日
+
+### Instruction Tuning
+  * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
+  * blog:
+    - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw) | rumor 李rumor 2021年9月9日
+    - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w) | Yimin_饭煲 夕小瑶的卖萌屋 2021年9月7日
+
+### Ladder Side-Tuning（LST）
+  * link: https://github.com/bojone/LST-CLUE
+  * author: bojone
+  * [paper](https://arxiv.org/abs/2206.06522): LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning.
+  * blog:
+    - [Ladder Side-Tuning：预训练模型的“过墙梯”](https://spaces.ac.cn/archives/9138) | 苏剑林 科学空间 2021年06月20日
 
 ### OpenPrompt
   * link: https://github.com/thunlp/OpenPrompt
@@ -84,11 +101,11 @@
     - [CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt Tuning](https://mp.weixin.qq.com/s/Q1z-1-UWHUtvfSRUfjzDsg) | 小马 我爱计算机视觉 2022年01月18日
     - [CPT模型：一种中文兼顾NLU和NLG的非平衡预训练语言模型](https://mp.weixin.qq.com/s/e7kDPRw_wfdWrKI4b8FbtA) | 刘聪工作站 NLP工作站 2022年01月12日
 
-### Instruction Tuning
-  * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
+### KPT
+  * [paper](https://arxiv.org/abs/2108.02035): Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification
+  * [code](https://github.com/thunlp/KnowledgeablePromptTuning)
   * blog:
-    - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw) | rumor 李rumor 2021年9月9日
-    - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w) | Yimin_饭煲 夕小瑶的卖萌屋 2021年9月7日
+    - [ACL 2022 | KPT: 文本分类中融入知识的Prompt Verbalizer](https://mp.weixin.qq.com/s/4PEfBbRr98FjxHc2oiDPKA)
 
 ### UL2
   * [paper](https://arxiv.org/pdf/2205.05131.pdf): Unifying Language Learning Paradigms.
@@ -96,11 +113,5 @@
   * blog:
     - [击败GPT3，刷新50个SOTA！谷歌全面统一NLP范式](https://mp.weixin.qq.com/s/oMUASBSKe3xgGVLuQz7MGg) | ZenMoore 夕小瑶的卖萌屋 2022年05月13日
     - [“统一语言学习范式”：详解50个任务达到sota的谷歌新模型](https://mp.weixin.qq.com/s/1LlezA0uhFyq0pf86iJI_Q) | LZM 数据实战派 2022年05月17日
-
-### KPT
-  * [paper](https://arxiv.org/abs/2108.02035): Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification
-  * [code](https://github.com/thunlp/KnowledgeablePromptTuning)
-  * blog:
-    - [ACL 2022 | KPT: 文本分类中融入知识的Prompt Verbalizer](https://mp.weixin.qq.com/s/4PEfBbRr98FjxHc2oiDPKA)
-
+ 
 </br>
