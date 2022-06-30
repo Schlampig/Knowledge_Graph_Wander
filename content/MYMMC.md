@@ -55,6 +55,10 @@
     - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 2021年6月14日
     - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 2021年4月3日
 
+### P-Tuning（PET）
+  * paper: [GPT Understands, Too](https://arxiv.org/abs/2103.10385)
+  * blog: [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295)
+
 ### OpenPrompt
   * link: https://github.com/thunlp/OpenPrompt
   * author: THUNLP
