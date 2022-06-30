@@ -25,6 +25,12 @@
   * EDA
   * FlipDA: [为大模型定制的数据增强方法FlipDA，屠榜六大NLU 数据集！](https://mp.weixin.qq.com/s/EcC8naSuNrTNQf0Es32YHQ)
 
+### Distillation
+  * Survey
+    - blog: 
+      - [BERT蒸馏完全指南｜原理/技巧/代码](https://mp.weixin.qq.com/s/tKfHq49heakvjM0EVQPgHw)
+      - [深度神经网络模型蒸馏Distillation](https://zhuanlan.zhihu.com/p/71986772)
+
 ### EMA
   * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
 
