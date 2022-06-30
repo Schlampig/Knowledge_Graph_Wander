@@ -54,6 +54,7 @@
       - [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
       - [ru-dolph](https://github.com/sberbank-ai/ru-dolph)
       - [dalle-playground](https://github.com/saharmor/dalle-playground)
+      - [min(DALL·E)](https://github.com/kuprel/min-dalle): a minimal implementation of DALL·E Mini.
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
       - [open_clip](https://github.com/mlfoundations/open_clip)
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
