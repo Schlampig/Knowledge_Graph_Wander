@@ -50,6 +50,10 @@
 
 ### Lookahead
 
+### Loss
+  * Cross-Entropy Loss
+    - [Things that confused me about cross-entropy](https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/) by [Chris Said](https://chris-said.io/)
+
 ### Mask
   * Mask Ratio
     - blog: [丹琦女神又发新作，Mask 15%？我不](https://mp.weixin.qq.com/s/6bCwBy5_72Hl7-xr3hSZMA) （reserving my views :( ）
