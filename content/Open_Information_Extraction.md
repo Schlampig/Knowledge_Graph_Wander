@@ -67,3 +67,4 @@
   * blog:
     - [首创基于Prompt的产业级信息抽取能力，这个开源工具用心了！](https://mp.weixin.qq.com/s/Y2QNTzf18p6fk7eCv4yfCg)
     - [信息抽取大一统：百度中科院发布通用抽取模型UIE，刷新13个IE数据集SOTA！](https://mp.weixin.qq.com/s/s9Kw3UO0VOEi6hqUYFR9Gg)
+    - [抽取式UIE的医学命名实体识别实践](https://mp.weixin.qq.com/s/aAZbzTiXD2K9UILIMgsDwg)
