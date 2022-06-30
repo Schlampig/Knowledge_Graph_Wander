@@ -30,6 +30,7 @@
     - blog: 
       - [BERT蒸馏完全指南｜原理/技巧/代码](https://mp.weixin.qq.com/s/tKfHq49heakvjM0EVQPgHw)
       - [深度神经网络模型蒸馏Distillation](https://zhuanlan.zhihu.com/p/71986772)
+    - [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
 ### EMA
   * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
