@@ -100,6 +100,8 @@
   * blog
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
     - [6144块TPU，5400亿参数，会改bug、解读笑话，谷歌刚刚用Pathways训练了一个大模型](https://mp.weixin.qq.com/s/-Annt2JkAhgv9YxYpc7pXQ)
+    - [解读谷歌Pathways架构（一）：Single-controller与Multi-controller](https://zhuanlan.zhihu.com/p/495592456)/[解读 Pathways （二）：向前一步是 OneFlow
+](https://mp.weixin.qq.com/s/N99dRgFYC9zOOcGlg0Ulsw)
 
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
