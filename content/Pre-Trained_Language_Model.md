@@ -102,6 +102,7 @@
     - [6144块TPU，5400亿参数，会改bug、解读笑话，谷歌刚刚用Pathways训练了一个大模型](https://mp.weixin.qq.com/s/-Annt2JkAhgv9YxYpc7pXQ)
     - [解读谷歌Pathways架构（一）：Single-controller与Multi-controller](https://zhuanlan.zhihu.com/p/495592456)/[解读 Pathways （二）：向前一步是 OneFlow
 ](https://mp.weixin.qq.com/s/N99dRgFYC9zOOcGlg0Ulsw)
+    - [如何评价 Google 在 2022 年 3 月公开的 Pathways 架构设计？](http://www-quic.zhihu.com/question/524596983)
 
 ### BERT
   * [paper](https://arxiv.org/pdf/1810.04805.pdf): Devlin, J. , Chang, M. W. , Lee, K. , & Toutanova, K. . (2018). *Bert: pre-training of deep bidirectional transformers for language understanding*.
