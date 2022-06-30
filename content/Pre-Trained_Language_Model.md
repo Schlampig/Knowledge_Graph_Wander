@@ -95,6 +95,7 @@
 
 ### PaLM
   * [paper](https://storage.googleapis.com/pathways-language-model/PaLM-paper.pdf): *PaLM: Scaling Language Modeling with Pathways*.
+  * [paper](https://arxiv.org/abs/2203.12533): *Pathways: Asynchronous Distributed Dataflow for ML*.
   * code: [PaLM - Pytorch](https://github.com/lucidrains/PaLM-pytorch) by [Phil Wang](https://github.com/lucidrains)
   * blog
     - [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
