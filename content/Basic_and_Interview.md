@@ -182,6 +182,10 @@
   * link: https://developers.google.cn/machine-learning/crash-course/
   * keywords: a self-study guide for aspiring machine learning practitioners by google
 
+### 100 Lectures on Machine Learning
+  * link: https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/?continueFlag=893a2577a04a257068ec62dd2fa7ec33
+  * keywords: a collection of course material from various [courses](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) that were taught on machine learning at UBC.
+
 ### AI-EDU
   * link: https://github.com/microsoft/ai-edu
   * author: Microsoft
@@ -346,6 +350,11 @@
   * link: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
   * author: Shimo HQ
   * keywords: 中国程序员容易发音错误的单词
+  
+### Linux-Commands-A-Z
+  * link: https://github.com/0xTRAW/Linux-Commands-A-Z
+  * author: 0xTRAW
+  * keywords: 学习各种Linux命令行指令
 
 ---
 ## Research
