@@ -53,7 +53,6 @@
     - [Prompt范式的缘起｜Pattern-Exploiting Training](https://mp.weixin.qq.com/s/3XzXMZmanINcMgzySCmAXw) | rumor 李rumor 2021年8月5日
     - [近代自然语言处理技术发展的“第四范式”](https://zhuanlan.zhihu.com/p/395115779) | 刘鹏飞 知乎专栏 2021年8月1日
     - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 2021年6月14日
-    - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 2021年4月3日
 
 ### P-Tuning（PET）
   * link: https://github.com/THUDM/P-tuning
