@@ -58,6 +58,7 @@
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
       - [open_clip](https://github.com/mlfoundations/open_clip)
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
+    - [Discoart](https://github.com/jina-ai/discoart): Create Disco Diffusion artworks in one line.
     - [PARTI](https://parti.research.google/)([code](https://github.com/google-research/parti)): Pathways Autoregressive Text-to-Image model.
   * NeRF
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
@@ -94,7 +95,8 @@
   * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
   * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
   * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
-  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): 浅梦学习笔记 公众号文章汇总
+  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): “浅梦学习笔记”公众号文章汇总。
+  * [推荐系统 百面百搭](https://github.com/km1994/RES-Interview-Notes): 作者们根据个人面试和经验总结出的推荐系统(RES) 面试准备的学习笔记与资料。
 </br>
 
 ### Language
