@@ -181,6 +181,9 @@
   
 </br>
 
+### Book
+  * [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books): [Dujltqzv](https://github.com/Dujltqzv)个人收藏书籍电子版列表。
+
 ### City Life
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
   * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
