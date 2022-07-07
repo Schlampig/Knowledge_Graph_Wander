@@ -194,6 +194,11 @@
   * [paper](https://arxiv.org/pdf/1909.08053v2.pdf): Shoeybi, M. , Patwary, M. , Puri, R. , Legresley, P. , Casper, J. , & Catanzaro, B. . (2019). *Megatron-lm: training multi-billion parameter language models using model parallelism*.
   * code: https://github.com/NVIDIA/Megatron-LM
 
+### LiBai
+  * link: https://github.com/Oneflow-Inc/libai
+  * author: [OneFlow](https://github.com/Oneflow-Inc)
+  * blog: [大模型训练之难，难于上青天？预训练易用、效率超群的「李白」模型库来了！](https://mp.weixin.qq.com/s/u1up19FQ-FoNLpZvM9dgkw)
+
 ### MASS
   * [paper](https://arxiv.org/pdf/1905.02450.pdf): Kaitao S. , Xu T. , Tao Q. , Jianfeng L. , Tie-Y. L. . (2019). *MASS: Masked Sequence to Sequence Pre-training for Language Generation*.
   
