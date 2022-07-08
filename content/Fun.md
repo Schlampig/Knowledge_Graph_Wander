@@ -76,6 +76,7 @@
     - [由浅入深了解Diffusion Model](https://zhuanlan.zhihu.com/p/525106459)
     - [guided-diffusion](https://github.com/openai/guided-diffusion)
     - [diffusers](https://github.com/huggingface/diffusers)
+    - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 </br>
 
 ### Reinforcement Learning
