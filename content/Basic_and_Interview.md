@@ -384,6 +384,9 @@
   * author: Lijin Zhang
   * keywords: 国外读博申请攻略
 
+### AI算法工程师的笔记本环境配置
+  * link: https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A
+
 ---
 ## Interview
 
