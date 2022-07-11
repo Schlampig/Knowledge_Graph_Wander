@@ -101,6 +101,11 @@
   * author: Daniel Voigt Godoy
   * keywords: official repository of the book: "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide".
 
+### pytorch-apple-silicon
+  * link: https://github.com/mrdbourke/pytorch-apple-silicon
+  * author: Daniel Bourke
+  * keywords: setup pytorch on mac/apple silicon plus a few benchmarks.
+
 ### PyTorch Lightning
   * link: https://github.com/PyTorchLightning/pytorch-lightning
   * website: https://www.pytorchlightning.ai/#grid-section
