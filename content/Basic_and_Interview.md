@@ -393,6 +393,11 @@
   * blog: mlengineer.io
   * keywords: machine learning interviews from FAANG, Snapchat, LinkedIn, Coupang, Stitchfix etc.
 
+### machine-learning-interview
+  * link: https://github.com/zhengjingwei/machine-learning-interview
+  * author: Jingwei Zheng
+  * keywords: 算法工程师-机器学习面试题总结
+
 ### python-cp-cheatsheet
   * link: https://github.com/peterlamar/python-cp-cheatsheet
   * author: Peter Lamar
