@@ -72,3 +72,9 @@
   * author: Sun Yi
   * paper: [SIFRank: A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-trained Language Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8954611)
   * note: keyphrases extraction approach for Chinese text, while the English version (SIFRank) could be found [here](https://github.com/sunyilgdx/SIFRank).
+
+### BERTopic
+  * link: https://github.com/MaartenGr/BERTopic
+  * author: Maarten Grootendorst
+  * paper: [BERTopic: Neural topic modeling with a class-based TF-IDF procedure](https://arxiv.org/pdf/2203.05794.pdf)
+  * blog: [BERTopic：NLP主题模型的未来！](https://mp.weixin.qq.com/s/DUiE71-qnYlQnYO_gL-YAA)
