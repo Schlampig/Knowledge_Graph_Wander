@@ -67,3 +67,9 @@
   - [SearchQA](https://arxiv.org/pdf/1704.05179.pdf): A New Q&A Dataset Augmented with Context from a Search Engine.
   - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The **S**tanford **Qu**estion **A**nswering **D**ataset (v1.1 & v2.0).
   - [TriviaQA](https://nlp.cs.washington.edu/triviaqa/): A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.
+
+### All about Question, Answer, Evidence...
+  * question_generator
+    - link: https://github.com/AMontgomerie/question_generator
+    - author: Adam Montgomerie
+    - note: an nlp system for generating reading comprehension questions.
