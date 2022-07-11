@@ -297,3 +297,4 @@
     - [2022年06月17日：终于，Yann LeCun发文驳斥Gary Marcus：别把一时的困难当撞墙](https://mp.weixin.qq.com/s/Ty8y6llpantMYz8I3T-S_A)
     - [2022年06月28日：思考总结10年，图灵奖得主Yann LeCun指明下一代AI方向：自主机器智能](https://mp.weixin.qq.com/s/JUlhu95uFsY0c5WjJOJl3g)
     - [2022年07月08日：LeCun论文被指「洗稿」？ LSTM之父发文怒怼：抄我的还标原创](https://mp.weixin.qq.com/s/naCveSEguaUdjkZ5u0rbSg)
+    - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
