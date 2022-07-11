@@ -32,6 +32,11 @@
       - [深度神经网络模型蒸馏Distillation](https://zhuanlan.zhihu.com/p/71986772)
     - [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
+### Distribution
+  * Survey
+    - blog:
+      - [新生手册：PyTorch分布式训练](https://mp.weixin.qq.com/s/dovriJnogKp1rIg6YZG2dw)
+
 ### EMA
   * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
 
