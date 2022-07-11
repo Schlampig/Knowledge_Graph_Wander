@@ -36,6 +36,7 @@
   * Survey
     - blog:
       - [新生手册：PyTorch分布式训练](https://mp.weixin.qq.com/s/dovriJnogKp1rIg6YZG2dw)
+      - [PyTorch 深度剖析：并行训练的 DP 和 DDP 分别在什么情况下使用及实例](https://blog.csdn.net/God_WeiYang/article/details/125289149)
 
 ### EMA
   * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
