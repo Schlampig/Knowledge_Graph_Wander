@@ -69,6 +69,10 @@
     - [paper](https://arxiv.org/abs/2202.06991): Transformer Memory as a Differentiable Search Index (DSI, 可微搜索索引)
     - further reading
       - [别再双塔了！谷歌提出DSI索引，检索效果吊打双塔，零样本超BM25！](https://mp.weixin.qq.com/s/l1kVnr_GMxoWgZOaCgCbXQ)
+  * SDEs vs ADEs
+    - [paper](https://arxiv.org/pdf/2204.07120.pdf): Exploring Dual Encoder Architectures for Question Answering
+    - further reading
+      - [双塔模型的最强出装，谷歌又开始玩起“老古董”了？](https://mp.weixin.qq.com/s/MF3NVyLBh0xIVCEMltzBgw)
 
 ### Searching Liburaries
   * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
