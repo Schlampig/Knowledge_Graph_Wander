@@ -60,7 +60,7 @@
   * Survey
     - blog: 
       - [特征选择：11 种特征选择策略总结！](https://mp.weixin.qq.com/s/BhCfPkJexi-DCLpwYwY6YA)
-      - [Amazing-Feature-Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)(译文：[特征工程架构性好文](https://mp.weixin.qq.com/s/j1ofgcZ_Wcnn4ehbPnKM8w))
+      - [Amazing-Feature-Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)（译文：[特征工程架构性好文](https://mp.weixin.qq.com/s/j1ofgcZ_Wcnn4ehbPnKM8w)）
 
 ### Label-Focused
   * Mix-up
