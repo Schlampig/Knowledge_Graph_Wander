@@ -77,6 +77,10 @@
     - [guided-diffusion](https://github.com/openai/guided-diffusion)
     - [diffusers](https://github.com/huggingface/diffusers)
     - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+    - **All about Flow**
+      - [一文详解基于流的深度生成模型](https://mp.weixin.qq.com/s/ctVotHXiO7QRPju_dnssFA)
+      - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼](https://spaces.ac.cn/archives/9119)
+      - [生成扩散模型漫谈（二）：DDPM = 自回归式VAE](https://spaces.ac.cn/archives/9152)
 </br>
 
 ### Reinforcement Learning
