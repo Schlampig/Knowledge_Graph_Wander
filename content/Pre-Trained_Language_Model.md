@@ -87,6 +87,12 @@
   * author: Facebook Research
   * note: hackable and optimized Transformers building blocks, supporting a composable construction.
 
+### Flowformer
+  * code: https://github.com/thuml/Flowformer
+  * author: THUML
+  * [paper](https://arxiv.org/pdf/2202.06258.pdf): Wu, H. , Wu, J. , Xu, J. , Wang, J. , & Long, M. . (2022). *Flowformer: linearizing transformers with conservation flows*.
+  * blog: [任务通用！清华提出主干网络Flowformer，实现线性复杂度｜ICML2022](https://mp.weixin.qq.com/s/kiMnIaRh5uf8jcFzWWEtKQ) 
+
 ### FLASH
   * [paper](https://arxiv.org/abs/2202.10447): Hua, W., Dai, Z., Liu, H., & Le, Q. V. (2022). *Transformer Quality in Linear Time*. arXiv preprint arXiv:2202.10447. 
   * blog
