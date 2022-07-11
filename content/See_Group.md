@@ -26,6 +26,7 @@
   * [**Stanford Computer Vision Lab**](http://vision.stanford.edu/index.html)
   * [**THUDM**](https://github.com/THUDM): [清华大学数据挖掘研究室-唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
   * [**THU-KEG**](https://github.com/THU-KEG): [清华大学知识工程实验室](http://keg.cs.tsinghua.edu.cn/)
+  * [**THUML**](https://github.com/thuml): [信息系统与工程研究所](http://ise.thss.tsinghua.edu.cn/)
   * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/):thumbsup:
   * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
   * [**ZJUKG**](https://github.com/zjukg): 浙江大学知识图谱团队
