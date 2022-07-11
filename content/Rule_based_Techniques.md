@@ -78,3 +78,9 @@
   * website: https://www.autoregex.xyz/
   * author: Aarya
   * note: a application that uses GPT-3 to generate regular expressions from plain English.
+
+### Automated-Regular-Expression-Generation
+  * link: https://github.com/KHTamim/Automated-Regular-Expression-Generation
+  * author: KHTamim
+  * note: the regexGen() function generates a regex from a single word sample.
+  * extra: [autoregex](https://github.com/entrptaher/autoregex)
