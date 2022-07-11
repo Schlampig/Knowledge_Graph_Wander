@@ -71,5 +71,10 @@
 ### textX
   * link: https://github.com/textX/textX
   * author: [textX](https://github.com/textX)
-  * note: Domain-Specific Languages (DSL) and parsers in Python made easy
+  * note: Domain-Specific Languages (DSL) and parsers in Python made easy.
   * extra: [Xtext](http://www.eclipse.org/Xtext/)
+
+### AutoRegex
+  * website: https://www.autoregex.xyz/
+  * author: Aarya
+  * note: a application that uses GPT-3 to generate regular expressions from plain English.
