@@ -69,6 +69,18 @@
   - [TriviaQA](https://nlp.cs.washington.edu/triviaqa/): A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.
 
 ### All about Question, Answer, Evidence...
+  * Question-Generation-Paper-List
+    - link: https://github.com/teacherpeterpan/Question-Generation-Paper-List
+    - author: Liangming Pan
+    - note: a summary of must-read papers for Neural Question Generation (NQG).
+  * Questgen.ai
+    - link: https://github.com/ramsrigouthamg/Questgen.ai
+    - author: Ramsri Goutham Golla
+    - note: question generation using state-of-the-art nlp algorithms.
+  * Question-Generation
+    - link: https://github.com/KristiyanVachev/Question-Generation
+    - author: Kristiyan Vachev
+    - note: generating multiple choice questions from text using Machine Learning..
   * question_generator
     - link: https://github.com/AMontgomerie/question_generator
     - author: Adam Montgomerie
