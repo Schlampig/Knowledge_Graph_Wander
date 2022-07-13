@@ -43,6 +43,8 @@
   * link: https://github.com/MLNLP-World/SimBiber
   * author: MLNLP-World
   * note: a tool to simplify the official citation infomation to a shorter version.
+  * extra: [AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector)
+ 
 ---
 ## Search Codes
 
