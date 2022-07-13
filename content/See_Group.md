@@ -20,6 +20,7 @@
   * [**MIT Media Lab**](https://github.com/mitmedialab): [麻省理工多媒体实验室](https://www.media.mit.edu/)
   * [**NiuTrans**](https://github.com/NiuTrans)
   * [**NLP\*CL Laboratory**](https://github.com/nlpcl-lab): [韩国科学技术院（Korea Advanced Institute of Science and Technology, KAIST）](http://nlpcl.kaist.ac.kr/home/)
+  * [**NLPIR**](https://github.com/NLPIR-team): [北京市海量语言信息处理与云计算应用工程技术研究中心](http://www.nlpir.org/wordpress/)
   * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
   * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
   * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
