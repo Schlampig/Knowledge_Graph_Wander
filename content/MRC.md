@@ -51,6 +51,7 @@
   - [DRCD](https://github.com/DRCKnowledgeTeam/DRCD): **D**elta **R**eading **C**omprehension **D**ataset.
   - [DROP](https://allennlp.org/drop): A Reading Comprehension Benchmark Requiring **D**iscrete **R**easoning **O**ver **P**aragraphs.
   - [DuReader](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) from [千言（LUGE）](https://www.luge.ai/): a Chinese Machine Reading Comprehension Dataset from Real-world Applications.
+    - [MRC_Competition_Dureader](https://github.com/luhua-rain/MRC_Competition_Dureader)
   - [ExpMRC](https://ymcui.com/expmrc/): **Exp**lainability Evaluation for **M**achine **R**eading **C**omprehension. [哈工大讯飞联合实验室发布可解释性阅读理解评测集ExpMRC](https://mp.weixin.qq.com/s/spR-KQWWTxZD44jGnuOF7Q)
   - [FinQA](https://github.com/czyssrs/FinQA)([paper](https://arxiv.org/abs/2109.00122)): A Dataset of Numerical Reasoning over Financial Data.
   - [FriendsQA](https://github.com/emorynlp/FriendsQA): Open-Domain Question Answering on TV Show Transcripts.
