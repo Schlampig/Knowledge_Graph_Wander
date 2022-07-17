@@ -152,6 +152,12 @@
   * author: [杨培文 (Yang Peiwen)](https://github.com/ypwhs)
   * keywords: deeplearning engineer guidebook
 
+### 神经网络与深度学习
+  * homepage: https://nndl.github.io/
+  * author: [邱锡鹏](https://xpqiu.github.io/)
+  * [pdf下载](https://nndl.github.io/nndl-book.pdf)
+  * [github](https://github.com/nndl/nndl.github.io)
+  
 ### PRML
   * link: https://github.com/ctgk/PRML
   * author: ctgk
