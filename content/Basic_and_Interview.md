@@ -233,7 +233,12 @@
   * link: https://github.com/princewen/DeepLearning-500-questions
   * author: princewen
   * keywords: deep learning knowledge collected in QA forms
-  
+
+### ML-YouTube-Courses
+  * link: https://github.com/dair-ai/ML-YouTube-Courses
+  * author: DAIR.AI
+  * keywords: a place to discover the latest machine learning courses on YouTube.
+
 ### ML-NLP
   * link: https://github.com/NLP-LOVE/ML-NLP
   * author: NLP-LOVE
