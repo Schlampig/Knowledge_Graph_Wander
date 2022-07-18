@@ -288,6 +288,7 @@
     - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
     - [2022年02月15日：关于大模型的发展趋势，我突然有个细思极恐的脑洞](https://mp.weixin.qq.com/s/dlFJYyCsip5fGlY88Bd7DA):sweat_smile:
     - [2022年04月14日：百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ)
+      - [后续2022年07月18日：智源“抄袭门”最新通报：2处抄袭4处引用不规范，相关责任人均已主动离职](https://mp.weixin.qq.com/s/9gnQ0RYCWLwM_h_fre91uA)
     - [2022年05月01日：大型语言模型能真正理解人类语言吗？](https://mp.weixin.qq.com/s/EHmPvcS5M5NwIxN6IQ08YQ)
     - [2022年05月01日：斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://mp.weixin.qq.com/s/PLKDezmaTn8dEkhcES1g2Q)
     - [2022年06月09日：Geoffrey Hinton 最新访谈：不出五年，我们就会破解大脑的运作机制，但不是通过反向传播](https://mp.weixin.qq.com/s/KAfDxOzEfb55_ABK4nGJgw)
@@ -298,4 +299,5 @@
     - [2022年06月28日：思考总结10年，图灵奖得主Yann LeCun指明下一代AI方向：自主机器智能](https://mp.weixin.qq.com/s/JUlhu95uFsY0c5WjJOJl3g)
     - [2022年07月08日：LeCun论文被指「洗稿」？ LSTM之父发文怒怼：抄我的还标原创](https://mp.weixin.qq.com/s/naCveSEguaUdjkZ5u0rbSg)
     - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
+    - [2022年07月15日：语言AI原来知道自己的回答是否正确！伯克利等高校新研究火了，网友：危险危险危险](https://mp.weixin.qq.com/s/25UXC2OHt43qla8mZwEESg)
     - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
