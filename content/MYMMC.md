@@ -131,6 +131,7 @@
   - [2022年06月12日：谷歌研究员走火入魔事件曝光：认为AI已具备人格，被罚带薪休假，聊天记录让网友San值狂掉](https://mp.weixin.qq.com/s/FpXW9AyharQMrLVf6v69IA)
     - [2022年06月14日：谷歌AI具有意识？LaMDA像个聪明孩子？专家：胡扯](https://mp.weixin.qq.com/s/kHhI3bL29yygDdBP8ELeuw)
     - [2022年06月01日：研究者意外发现DALL-E 2在用自创语言生成图像：全文黑话，人类都看不懂](https://mp.weixin.qq.com/s/IJBMPfKHy1d1KnfV4vt-oQ)
+    - [2022年07月01日：人工智能学会数学推理了，考试成绩比CS博士还高](https://mp.weixin.qq.com/s/7wqEkqgFGpVlQiJ_hnPCyw)
     - [2022年07月15日：语言AI原来知道自己的回答是否正确！伯克利等高校新研究火了，网友：危险危险危险](https://mp.weixin.qq.com/s/25UXC2OHt43qla8mZwEESg)
   - [2022年06月13日：又一篇超百名作者的 AI 论文问世！442位作者耗时两年发布大模型新基准 BIG-bench……](https://mp.weixin.qq.com/s/N_XYh04y92psPk9h1ISxzQ)
   - [2022年06月29日：李飞飞划重点的「具身智能」，走到哪一步了？](https://mp.weixin.qq.com/s/fQgIHv78Q1AG5bF6fQYbGg)
