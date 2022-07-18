@@ -298,3 +298,4 @@
     - [2022年06月28日：思考总结10年，图灵奖得主Yann LeCun指明下一代AI方向：自主机器智能](https://mp.weixin.qq.com/s/JUlhu95uFsY0c5WjJOJl3g)
     - [2022年07月08日：LeCun论文被指「洗稿」？ LSTM之父发文怒怼：抄我的还标原创](https://mp.weixin.qq.com/s/naCveSEguaUdjkZ5u0rbSg)
     - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
+    - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
