@@ -103,6 +103,13 @@
   * Prompt
     - [哄一哄能让GPT-3准确率暴涨61%！谷歌&东京大学研究震惊四座](https://mp.weixin.qq.com/s/jDqaL6d2UCeY_8usXszkJg)
 
+### Re-Parameter
+
+### Soft Label
+
+### Softmax
+  * Gumbel Softmax
+
 ### Warm-up
   * Linear Warm-up
 
