@@ -62,6 +62,9 @@
       - [特征选择：11 种特征选择策略总结！](https://mp.weixin.qq.com/s/BhCfPkJexi-DCLpwYwY6YA)
       - [Amazing-Feature-Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)（译文：[特征工程架构性好文](https://mp.weixin.qq.com/s/j1ofgcZ_Wcnn4ehbPnKM8w)）
 
+### Finetune
+  * [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583?context=cs.CL)
+
 ### Label-Focused
   * Mix-up
   * Label Smoothing
