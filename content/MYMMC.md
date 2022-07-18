@@ -115,3 +115,25 @@
     - [“统一语言学习范式”：详解50个任务达到sota的谷歌新模型](https://mp.weixin.qq.com/s/1LlezA0uhFyq0pf86iJI_Q) | LZM 数据实战派 2022年05月17日
  
 </br>
+
+## Where will AI go?
+  - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
+  - [2022年02月15日：关于大模型的发展趋势，我突然有个细思极恐的脑洞](https://mp.weixin.qq.com/s/dlFJYyCsip5fGlY88Bd7DA):sweat_smile:
+  - [2022年04月14日：百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ)
+    - [2022年07月18日：智源“抄袭门”最新通报：2处抄袭4处引用不规范，相关责任人均已主动离职](https://mp.weixin.qq.com/s/9gnQ0RYCWLwM_h_fre91uA)
+  - [2022年05月01日：大型语言模型能真正理解人类语言吗？](https://mp.weixin.qq.com/s/EHmPvcS5M5NwIxN6IQ08YQ)
+  - [2022年05月01日：斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://mp.weixin.qq.com/s/PLKDezmaTn8dEkhcES1g2Q)
+  - [2022年06月09日：Geoffrey Hinton 最新访谈：不出五年，我们就会破解大脑的运作机制，但不是通过反向传播](https://mp.weixin.qq.com/s/KAfDxOzEfb55_ABK4nGJgw)
+  - [2022年06月09日：Gary Marcus公开喊话Hinton、马斯克：深度学习就是撞墙了，我赌十万美金](https://mp.weixin.qq.com/s/bqPV_BgHtPYa5ST_TVC3ug)
+  - [2022年06月12日：谷歌研究员走火入魔事件曝光：认为AI已具备人格，被罚带薪休假，聊天记录让网友San值狂掉](https://mp.weixin.qq.com/s/FpXW9AyharQMrLVf6v69IA)
+    - [2022年06月14日：谷歌AI具有意识？LaMDA像个聪明孩子？专家：胡扯](https://mp.weixin.qq.com/s/kHhI3bL29yygDdBP8ELeuw)
+    - [2022年06月01日：研究者意外发现DALL-E 2在用自创语言生成图像：全文黑话，人类都看不懂](https://mp.weixin.qq.com/s/IJBMPfKHy1d1KnfV4vt-oQ)
+    - [2022年07月15日：语言AI原来知道自己的回答是否正确！伯克利等高校新研究火了，网友：危险危险危险](https://mp.weixin.qq.com/s/25UXC2OHt43qla8mZwEESg)
+  - [2022年06月13日：又一篇超百名作者的 AI 论文问世！442位作者耗时两年发布大模型新基准 BIG-bench……](https://mp.weixin.qq.com/s/N_XYh04y92psPk9h1ISxzQ)
+  - [2022年06月17日：终于，Yann LeCun发文驳斥Gary Marcus：别把一时的困难当撞墙](https://mp.weixin.qq.com/s/Ty8y6llpantMYz8I3T-S_A)
+  - [2022年06月28日：思考总结10年，图灵奖得主Yann LeCun指明下一代AI方向：自主机器智能](https://mp.weixin.qq.com/s/JUlhu95uFsY0c5WjJOJl3g)
+  - [2022年07月08日：LeCun论文被指「洗稿」？ LSTM之父发文怒怼：抄我的还标原创](https://mp.weixin.qq.com/s/naCveSEguaUdjkZ5u0rbSg)
+  - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
+  - [2022年07月14日：下一站，Embodied AI](https://mp.weixin.qq.com/s/iePasFauFjAziXU8u0PcTg)
+  - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
+ 
