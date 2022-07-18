@@ -134,8 +134,8 @@
     - [2022年07月15日：语言AI原来知道自己的回答是否正确！伯克利等高校新研究火了，网友：危险危险危险](https://mp.weixin.qq.com/s/25UXC2OHt43qla8mZwEESg)
   - [2022年06月13日：又一篇超百名作者的 AI 论文问世！442位作者耗时两年发布大模型新基准 BIG-bench……](https://mp.weixin.qq.com/s/N_XYh04y92psPk9h1ISxzQ)
   - [2022年06月29日：李飞飞划重点的「具身智能」，走到哪一步了？](https://mp.weixin.qq.com/s/fQgIHv78Q1AG5bF6fQYbGg)
+    - [2022年07月14日：下一站，Embodied AI](https://mp.weixin.qq.com/s/iePasFauFjAziXU8u0PcTg)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
-  - [2022年07月14日：下一站，Embodied AI](https://mp.weixin.qq.com/s/iePasFauFjAziXU8u0PcTg)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
  
