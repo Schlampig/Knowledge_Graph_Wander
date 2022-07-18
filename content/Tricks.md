@@ -82,6 +82,7 @@
   * Ensemble
 
 ### Normalization
+  * [归一化原来这么重要！深入浅出详解Transformer中的Normalization](https://mp.weixin.qq.com/s/n_twT43ZmQrkBKkAxOKa-Q)
   * [超细节的BatchNorm/BN/LayerNorm/LN知识点](https://mp.weixin.qq.com/s/rvs82W91jDPGyhcC_9PlLw)
   * [为什么Pre Norm的效果不如Post Norm？](https://mp.weixin.qq.com/s/kJnZpfYUIJRnLAUEuRQGsA)
 
