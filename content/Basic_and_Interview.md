@@ -158,7 +158,12 @@
   * author: [邱锡鹏](https://xpqiu.github.io/)
   * [pdf下载](https://nndl.github.io/nndl-book.pdf)
   * [github](https://github.com/nndl/nndl.github.io)
-  
+
+### 手把手带你学懂SVM
+  * homepage: https://zhuanlan.zhihu.com/p/480302399
+  * author: [张皓](https://haomood.github.io/homepage/)
+  * blog: [从数学推导开始，7万字一定带你学会支持向量机（免费PDF下载）](https://mp.weixin.qq.com/s/jY29veJrMk6O0PRGPuOodQ)
+
 ### PRML
   * link: https://github.com/ctgk/PRML
   * author: ctgk
