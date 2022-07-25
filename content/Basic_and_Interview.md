@@ -434,3 +434,8 @@
   * book info: https://book.douban.com/subject/4156701/
   * author: Kevlin Henney (Editor)
   * keywords: 程序员应该知道的97件事 (pearls of wisdom for programmers collected from leading practitioners).
+
+### GPU-Puzzles
+  * link: https://github.com/srush/GPU-Puzzles
+  * author: Sasha Rush
+  * keywords: solve puzzles, learn cuda.
