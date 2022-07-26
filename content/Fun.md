@@ -116,6 +116,7 @@
 </br>
 
 ### Computer Language
+  * 《[The Go Programming Language](http://www.gopl.io/)》(GO语言圣经，GOPL): [中文版](https://github.com/golang-china/gopl-zh).
   * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
   * [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) by [凹语言™ ](https://github.com/wa-lang): µGo语言实现(从头开发一个迷你Go语言编译器)，使用Go版本与Rust版本。
 
