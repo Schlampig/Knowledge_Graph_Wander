@@ -35,7 +35,7 @@
   - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
 
 ### Common-Sense MRC/QA（常识型任务）
-  - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[blog](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
+  - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[单模型常识推理首超人类！HFL登顶OpenBookQA挑战赛](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
 
 ### Datasets & Competitions
   - [CAIL](https://github.com/china-ai-law-challenge): **C**hina **AI** **L**aw Challenge(中国法研杯司法人工智能挑战赛(含阅读理解赛道)).
