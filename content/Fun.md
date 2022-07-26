@@ -117,6 +117,7 @@
 
 ### Computer Language
   * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
+  * [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) by [凹语言™ ](https://github.com/wa-lang): µGo语言实现(从头开发一个迷你Go语言编译器)，使用Go版本与Rust版本。
 
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
