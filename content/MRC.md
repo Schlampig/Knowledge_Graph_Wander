@@ -8,7 +8,7 @@
   - [Multi-hopRC](https://github.com/krystalan/Multi-hopRC): 多跳阅读理解相关论文, by Jiaan Wang.
   - [Sewon Min (민세원) personal homepage](https://shmsw25.github.io/)
 
-### Classic Model
+### Classic Model（经典模型）
   - R-NET 2017: [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)|[code](https://github.com/localminimum/R-net)
   - DrQA 2017: [paper](https://arxiv.org/pdf/1704.00051.pdf)|[code](https://github.com/facebookresearch/DrQA)
   - BiDAF 2018: [paper](https://arxiv.org/pdf/1611.01603.pdf)|[code](https://github.com/allenai/bi-att-flow)|[homepage](https://allenai.github.io/bi-att-flow/)
@@ -16,23 +16,26 @@
   - BERT-MRC(base) 2018: [paper](https://arxiv.org/pdf/1810.04805.pdf)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/multiple-choice)(multi-choices)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering)(question-answering)
   - NumNet 2019: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
 
-### Dialogue MRC
+### Dialogue MRC/QA（对话型任务）
   - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
 
-### Explainability in MRC
+### Explainability in MRC/QA
   - [ExpMRC: explainability evaluation for machine reading comprehension (2022)](https://www.cell.com/action/showPdf?pii=S2405-8440%2822%2900578-3)
   - [A Survey on Explainability in Machine Reading Comprehension (2020)](https://arxiv.org/abs/2010.00389)
 
-### Logical Reasoning
+### Logical Reasoning（逻辑推理型任务）
   - [赛尔笔记 | 逻辑推理阅读理解任务及方法](https://mp.weixin.qq.com/s/OiiE6fLXs3JVTbbCKHmXzg)
   - [ReClor：一个需要逻辑推理的数据集](https://zhuanlan.zhihu.com/p/143067841)
   - [从Bengio演讲发散开来：探讨逻辑推理与机器学习](https://zhuanlan.zhihu.com/p/265157196?utm_source=qq)
 
-### Multi-Hop MRC
+### Multi-Hop MRC/QA（多跳推理型任务）
   - PathNet 2018: [paper](https://arxiv.org/pdf/1811.01127.pdf)|[code](https://github.com/allenai/PathNet)
   - CogQA 2019: [homepage](https://sites.google.com/view/cognitivegraph/)|[paper](https://arxiv.org/pdf/1905.05460.pdf)|[code](https://github.com/THUDM/CogQA)
   - DecompRC 2019: [paper](https://arxiv.org/pdf/1906.02916.pdf)|[code](https://github.com/shmsw25/DecompRC)|[demo](http://allgood.cs.washington.edu:2019/)
   - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
+
+### Common-Sense MRC/QA（常识型任务）
+  - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[blog](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
 
 ### Datasets & Competitions
   - [CAIL](https://github.com/china-ai-law-challenge): **C**hina **AI** **L**aw Challenge(中国法研杯司法人工智能挑战赛(含阅读理解赛道)).
@@ -63,6 +66,7 @@
   - [NarrativeQA](https://aclanthology.org/Q18-1023.pdf): The NarrativeQA Reading Comprehension Challenge.
   - [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/): A Machine Comprehension Dataset.
   - [NumNet+](https://leaderboard.allenai.org/drop/submission/bm60vq8f7g2p7t2ld0j0) & [NumNet+ v2](https://leaderboard.allenai.org/drop/submission/bmfuq9e0v32fq8pskug0): Machine Reading Comprehension with Numerical Reasoning.
+  - [OpenBookQA]([https://leaderboard.allenai.org/open_book_qa/submissions/get-started](https://aclanthology.org/D18-1260.pdf)): A New Dataset for Open Book Question Answering.
   - [QAConv](https://github.com/salesforce/QAConv): **Q**uestion **A**nswering on Informative **Conv**ersations.
   - [ReClor](https://arxiv.org/abs/2002.04326): A **Re**ading **C**omprehension Dataset Requiring **Lo**gical **R**easoning.
   - [SearchQA](https://arxiv.org/pdf/1704.05179.pdf): A New Q&A Dataset Augmented with Context from a Search Engine.
