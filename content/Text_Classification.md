@@ -74,3 +74,9 @@
   * link: https://github.com/cleanlab/cleanlab
   * author: [CleanLab](https://github.com/cleanlab)
   * note: the standard data-centric ai package for data quality and machine learning with messy, real-world data and labels.
+
+### PyTextClassifier
+  * link: https://github.com/shibing624/pytextclassifier
+  * website: https://shibing624.github.io/pytextclassifier/
+  * author: shibing624
+  * note: s a toolkit for text classification including LR, Xgboost, TextCNN, FastText, BiLSTM_Attention, BERT, etc.
