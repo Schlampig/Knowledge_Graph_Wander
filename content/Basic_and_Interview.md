@@ -50,16 +50,6 @@
   * author: jumper2014
   * keywords: learn python, collections, from Zhihu
   
-### The Art of Command Line
-  * link: https://github.com/jlevy/the-art-of-command-line
-  * author: Joshua Levy
-  * keywords: terminal operation skills
-  
-### Developer-Zero-To-Mastery
-  * link: https://github.com/wx-chevalier/Developer-Zero-To-Mastery
-  * author: wx-chevalier
-  * keywords: career plan and technique blue print for computer-science developers 
-
 ### Pycom
   * link: https://github.com/Omyyyy/pycom
   * author: Omyyyy Omar
@@ -377,11 +367,26 @@
   * link: https://github.com/shimohq/chinese-programmer-wrong-pronunciation
   * author: Shimo HQ
   * keywords: 中国程序员容易发音错误的单词
-  
+
+### Developer-Zero-To-Mastery
+  * link: https://github.com/wx-chevalier/Developer-Zero-To-Mastery
+  * author: wx-chevalier
+  * keywords: career plan and technique blue print for computer-science developers 
+
 ### Linux-Commands-A-Z
   * link: https://github.com/0xTRAW/Linux-Commands-A-Z
   * author: 0xTRAW
   * keywords: 学习各种Linux命令行指令
+
+### The Art of Command Line
+  * link: https://github.com/jlevy/the-art-of-command-line
+  * author: Joshua Levy
+  * keywords: terminal operation skills
+
+### Git-Tips
+  * link: https://github.com/521xueweihan/git-tips
+  * author: 削微寒（521xueweihan）
+  * keywords: Git的奇技淫巧 ([Git的小白教程](https://rogerdudler.github.io/git-guide/index.zh.html))
 
 ---
 ## Research
