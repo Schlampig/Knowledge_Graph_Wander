@@ -60,6 +60,11 @@
   * author: wx-chevalier
   * keywords: career plan and technique blue print for computer-science developers 
 
+### Pycom
+  * link: https://github.com/Omyyyy/pycom
+  * author: Omyyyy Omar
+  * keywords: a python compiler, down to native code, using C++.
+
 ---
 ## Learn Algorithm
 
