@@ -43,6 +43,7 @@
   * [**DeepL**](https://github.com/DeepLcom): [homepage](https://www.deepl.com/zh/translator)
   * [**Facebook Research**](https://github.com/facebookresearch): [community](https://opensource.fb.com/)
   * [**Google Research**](https://github.com/google-research): [community](https://research.google)
+  * [**HPC-AI Tech**](https://github.com/hpcaitech): [coummunity](https://www.hpcaitech.com/#team)
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)/[autonlp project](https://huggingface.co/autonlp):smile::open_hands:
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
