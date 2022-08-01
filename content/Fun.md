@@ -64,6 +64,7 @@
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
     - [NeRF神经渲染技术盘点](https://mp.weixin.qq.com/s/Ca59kWbKMzG3ml9U2GQTvA)
     - [计图：5秒训好NeRF！已开源](https://mp.weixin.qq.com/s/pF9S4IvO9EJiBlBCP3LiBQ)
+    - [从点云到NeRF，多伦多大学CSC 2547课程全面讲解3D计算机视觉](https://mp.weixin.qq.com/s/ihhtZWTI9LsxtoPFz0x_Hg)
   * ViT(Vision in Transformer)
     - [简单实现 ViT](https://mp.weixin.qq.com/s/sXNI2oSZH6AaSJuqbAwF8Q)
     - [CVPR 2022 | 道高一尺，魔高一丈，ConvNet还是ViT？](https://mp.weixin.qq.com/s/png0UhkNyb1VqrRJAPyD0Q)
