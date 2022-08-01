@@ -21,7 +21,10 @@
   * author: Jonathan de Bruin
   * note: a toolkit for record linkage and deduplication written in Python
   * extra: [Data Matching Software List](https://github.com/J535D165/data-matching-software)
-  
+
+### Blog
+  * [2022年08月01日：一文简要了解词义消歧与实体消歧](https://mp.weixin.qq.com/s/MsEYQ6HU1GuzHV9OBq3V5Q)
+
 ### Dedupe
   * type: entity resolution
   * link: https://github.com/dedupeio/dedupe
