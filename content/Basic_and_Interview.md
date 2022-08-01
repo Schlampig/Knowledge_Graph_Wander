@@ -411,6 +411,11 @@
   * author: Lijin Zhang
   * keywords: 国外读博申请攻略
 
+### awesome-tips
+  * link: https://github.com/jbhuang0604/awesome-tips
+  * author: Jia-Bin Huang
+  * keywords: a curated list of tips on various topics, such as research, writing, presentation, etc.
+
 ### Blog
   * [AI算法工程师的笔记本环境配置](https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A)
   * [陈天奇、王威廉等人推荐：ACL最佳论文奖得主给新入行研究者的一点建议](https://mp.weixin.qq.com/s/nDj_m1Cq1qi3Qo4E--EhpA)
