@@ -212,6 +212,7 @@
 ### Math & Computer
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
   * [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
+  * [人们怎么总跟质数过不去？](https://mp.weixin.qq.com/s/wn9jPz1wW3qjdr6Wv4x2vQ)
 
 
 ### Laws & Regulations
