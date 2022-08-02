@@ -39,3 +39,8 @@
 
 ### Blogs from HuanyongLiu
   * [技术分享：知识图谱构建中的异构知识抽取范式、开放资源与工具总结](https://mp.weixin.qq.com/s/P1gGxx8LEsbAAv4zwvrFrg) | 刘焕勇 老刘说NLP 2022年02月20日
+
+### spo_extract_platform
+  * link: https://github.com/percent4/spo_extract_platform
+  * author: [Jclian percent4](https://github.com/percent4)
+  * note: 本项目是利用深度学习技术来构建知识图谱方向上的一次尝试，作为开放领域的关系抽取。
