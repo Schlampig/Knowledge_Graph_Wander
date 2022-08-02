@@ -21,7 +21,7 @@
     - [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
     - [阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/qAJWXaplQeRD5gGEsPjijQ)
     - [图谱实战 | 阿里周晓欢：如何将实体抽取从生成问题变成匹配问题？](https://mp.weixin.qq.com/s/xSl2uRE2MWm6Z0YPNEZh2g)
-    - [丁香园：聊聊电商搜索的语义理解问题](https://mp.weixin.qq.com/s/I82U9NAD3KD2js04c3a0CQ)
+    - [丁香园：聊聊电商搜索的语义理解问题](https://mp.weixin.qq.com/s/I82U9NAD3KD2js04c3a0CQ)/[从文本匹配到语义相关——新闻相似度计算的一般思路](https://mp.weixin.qq.com/s/G8nQ78zUwZ01enDyDv1fnw)
     - [都是推荐系统，广告算法和推荐算法有啥区别？](https://mp.weixin.qq.com/s/AeAD97nDwZ8s3I2quI-Riw)
     - [初来乍到：帮助新用户冷启的算法技巧](https://mp.weixin.qq.com/s/LvRx8hYYMwd71atojOEEiA)
     - [KG与搜广推入门：C端广告业务的生态、展示类型、结算方式与评估指标总结](https://mp.weixin.qq.com/s/5fD4UT-waj0dGmIcYlSFIg)
