@@ -61,6 +61,7 @@
     - [Discoart](https://github.com/jina-ai/discoart): Create Disco Diffusion artworks in one line.
     - [PARTI](https://parti.research.google/)([code](https://github.com/google-research/parti)): Pathways Autoregressive Text-to-Image model.
   * NeRF
+    - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf)
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
     - [NeRF神经渲染技术盘点](https://mp.weixin.qq.com/s/Ca59kWbKMzG3ml9U2GQTvA)
     - [计图：5秒训好NeRF！已开源](https://mp.weixin.qq.com/s/pF9S4IvO9EJiBlBCP3LiBQ)
