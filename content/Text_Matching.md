@@ -133,6 +133,7 @@
       - [paper](https://arxiv.org/pdf/2201.08984v2.pdf): PiCO: Contrastive Label Disambiguation for Partial Label Learning
       - [code](https://github.com/hbzju/pico)
       - further reading
+        - [ICLR 2022最佳论文：基于对比消歧的偏标签学习](https://mp.weixin.qq.com/s/gJRVPitOK9ONkTRMo6-G-w)
         - [ICLR Oral｜PiCO：基于对比消歧的偏标签学习](https://zhuanlan.zhihu.com/p/463255610)(作者知乎)
         - [对比学习引领弱标签学习新SOTA，浙大新研究入选ICLR Oral](https://mp.weixin.qq.com/s/ls3Kaj7tozcMx6RkaFkrfg)
 
