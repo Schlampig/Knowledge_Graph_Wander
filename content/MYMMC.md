@@ -140,4 +140,4 @@
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
- 
+  - [2022年08月02日：DeepMind 首席科学家 Oriol Vinyals 最新访谈：通用 AI 的未来是强交互式元学习](https://mp.weixin.qq.com/s/srWdDW461vQYD735Gi8Tbg)
