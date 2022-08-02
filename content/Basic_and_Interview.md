@@ -45,6 +45,11 @@
   * extra: [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) by Jeffrey Hu
   * extra: [Python​零基础100题，一起开启Python之旅吧！](https://mp.weixin.qq.com/s/cpAEa8vY2sZ8ATST5mn7lQ) by 和鲸
 
+### What the f\*ck Python! 
+   * link: https://github.com/satwikkansal/wtfpython
+   * author: Satwik Kansal
+   * note: a fun project attempting to explain what exactly is happening under the hood for some counter-intuitive snippets and lesser-known features in Python.
+
 ### PyCodeComplete
   * link: https://github.com/jumper2014/PyCodeComplete
   * author: jumper2014
