@@ -98,7 +98,7 @@
     - [**竹间智能**](https://www.emotibot.com/)
     - [**爱因互动**](https://www.einplus.cn/)
     - [**奇点机智**](https://www.naturali.io/)
-    - [**深度好奇(DeeplyCurious.AI/)**](http://deeplycurious.ai/#/)
+    - [**深度好奇(DeeplyCurious.AI)**](http://deeplycurious.ai/#/)
     - [**循环智能**](https://www.rcrai.com/)
     - [**Chatopera**](https://github.com/chatopera): [website](https://www.chatopera.com/)/[cloud](https://docs.chatopera.com/)
   * 语音
