@@ -59,6 +59,7 @@
   - [FinQA](https://github.com/czyssrs/FinQA)([paper](https://arxiv.org/abs/2109.00122)): A Dataset of Numerical Reasoning over Financial Data.
   - [FriendsQA](https://github.com/emorynlp/FriendsQA): Open-Domain Question Answering on TV Show Transcripts.
   - [Hotpot](https://hotpotqa.github.io/): A Dataset for Diverse, Explainable Multi-hop Question Answering.
+  - [insuranceQA](https://github.com/shuzi/insuranceQA): A **Q**uestion **A**nswering corpus in **insurance** domain.
   - [LogiQA](https://arxiv.org/abs/2007.08124): A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning.
   - [MCScript](https://arxiv.org/pdf/1803.05223.pdf): A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge.
   - [MCTest](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/): A Challenge Dataset for the Open-Domain Machine Comprehension of Text.
