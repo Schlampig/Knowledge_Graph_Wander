@@ -100,6 +100,7 @@
     - [**奇点机智**](https://www.naturali.io/)
     - [**深度好奇(DeeplyCurious.AI/)**](http://deeplycurious.ai/#/)
     - [**循环智能**](https://www.rcrai.com/)
+    - [**Chatopera**](https://github.com/chatopera): [website](https://www.chatopera.com/)/[cloud](https://docs.chatopera.com/)
   * 语音
     - [**iFlyTek**](https://www.iflytek.com/index.html): [科大讯飞](https://github.com/iflytek)
     - [**UniSound**](http://www.unisound.com/): [云知声](https://github.com/Unisound)
