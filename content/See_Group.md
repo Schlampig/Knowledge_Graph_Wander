@@ -35,6 +35,7 @@
 
 ### Company & Organization
   * [**AllenAI(AI2)**](https://github.com/allenai): [community](http://www.allenai.org)
+  * [**Amazon Web Services - Labs(AWS-Labs)**](https://github.com/awslabs): [homepage](http://amazon.com/aws/)
   * [**The Apache Software Foundation**](https://github.com/apache): [homepage](https://www.apache.org/)
   * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
   * [**AutoNLP**](https://autonlp.ai/about)
@@ -47,6 +48,7 @@
   * [**HPC-AI Tech**](https://github.com/hpcaitech): [homepage](https://www.hpcaitech.com/#team)
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)/[autonlp project](https://huggingface.co/autonlp):smile::open_hands:
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
+  * [**NVIDIA Corporation**](https://github.com/NVIDIA): [homepage](http://www.nvidia.com)
   * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
   * [**Salesforce**](https://github.com/salesforce): [Einstein Research Lab](https://www.salesforceairesearch.com/research/natural-language-processing)/[Open Source](https://opensource.salesforce.com/)
