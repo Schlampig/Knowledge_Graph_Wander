@@ -90,3 +90,10 @@
     - [GPLinker：基于GlobalPointer的实体关系联合抽取](https://spaces.ac.cn/archives/8888)
     - [Efficient GlobalPointer：少点参数，多点效果](https://spaces.ac.cn/archives/8877)
     - [GlobalPointer：用统一的方式处理嵌套和非嵌套NER](https://spaces.ac.cn/archives/8373)
+
+### KB-NER
+  * link: https://github.com/Alibaba-NLP/KB-NER
+  * [paper](https://arxiv.org/pdf/2203.00545.pdf)
+  * [task](https://multiconer.github.io/results)
+  * author: Alibaba-NLP
+  * note: winner system (DAMO-NLP) of SemEval 2022 MultiCoNER shared task over 10 out of 13 tracks.
