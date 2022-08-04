@@ -11,12 +11,17 @@
 ### Attention
   * DIN & DIEN
     - blog: [DIN+DIEN，机器学习唯一指定涨点技Attention](https://mp.weixin.qq.com/s/oRoy82I_8S7uvMToMouIeQ)
-
+  
 ### Batch Size
   * Size
     - blog: [一番实验后，有关Batch Size的玄学被打破了](https://mp.weixin.qq.com/s/eMxxpPwRYSeYy9suUSX_gQ)
 
 ### BlockShuffle
+
+### Concatenation of Embeddings
+  * Automated Concatenation of Embeddings
+    - [code](https://github.com/Alibaba-NLP/ACE#download-embeddings)
+    - [paper](https://arxiv.org/abs/2010.05006)
 
 ### Cross-Validation
   * kFCV(k-Fold Cross-Validation)
