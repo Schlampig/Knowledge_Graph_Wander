@@ -147,6 +147,7 @@
   * link: http://www.huaxiaozhuan.com/
   * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
   * keywords: machine learning and deep learning lessons
+  * extra: [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas
 
 ### 深度学习工程师生存指南
   * link: https://github.com/ypwhs/dl-engineer-guidebook
