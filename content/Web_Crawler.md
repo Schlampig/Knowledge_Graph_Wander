@@ -36,3 +36,8 @@
   * link: https://github.com/crawlab-team/crawlab
   * author: [Crawlab Team](https://github.com/crawlab-team)
   * note: 分布式爬虫管理平台，支持任何语言和框架.
+
+### paperscraper
+  * link: https://github.com/PhosphorylatedRabbits/paperscraper
+  * author: PhosphorylatedRabbits
+  * note: tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.
