@@ -197,12 +197,13 @@
 ### Book
   * [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books): [Dujltqzv](https://github.com/Dujltqzv)个人收藏书籍电子版列表。
 
-### City Life
+### City Life & Transport
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
   * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
   * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
   * [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁——人体系统调优不完全指南。
   * [university-information](https://github.com/CollegesChat/university-information): 一些大学的生活质量。
+  * [船讯网](https://www.shipxy.com/Ship/Index)
 </br>
 
 ### Medical
