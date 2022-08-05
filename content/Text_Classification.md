@@ -1,5 +1,8 @@
 ## **Text Classification**
 
+### Annotation Tools
+  * [Label Sleuth](https://github.com/label-sleuth/label-sleuth)([homepage](www.label-sleuth.org)): an open source no-code system for text annotation and building text classifiers.
+
 ### THUCTC
   * homepage: http://thuctc.thunlp.org/
   * link: https://github.com/thunlp/THUCTC
