@@ -28,6 +28,11 @@
   * author: ZJUKG
   * note: a python-based library for diverse representation learning of knowledge graphs implementing Conventional KGEs, GNN-based KGEs, and Rule-based KGEs.
 
+### KGE
+  * link: https://github.com/xinguoxia/KGE
+  * author: xinguoxia
+  * note: some papers on Knowledge Graph Embedding(KGE).
+
 ### CANE
   * link: https://github.com/thunlp/CANE
   * author: thunlp
