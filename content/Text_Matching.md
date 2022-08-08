@@ -5,6 +5,9 @@
     - [pypi](https://pypi.org/project/simhash/)
     - [homepage](https://leons.im/posts/a-python-implementation-of-simhash-algorithm/)
     - [code](https://github.com/1e0ng/simhash)
+  * difflib
+  * pdf-diff
+    - [code](https://github.com/serhack/pdf-diff)
 
 ### Datasets
   * [CSTS](https://github.com/zejunwang1/CSTS): 中文自然语言推理与语义相似度数据集
