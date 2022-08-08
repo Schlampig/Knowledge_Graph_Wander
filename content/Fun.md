@@ -10,6 +10,7 @@
     - Review
       - [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
       - [Generative Adversarial Networks- History and Overview](https://towardsdatascience.com/generative-adversarial-networks-history-and-overview-7effbb713545)
+      - [When, Why, and Which Pretrained GANs Are Useful?](https://arxiv.org/abs/2202.08937)
     - Github List
       - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers#Image-Inpainting)
       - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications#image-editing)
