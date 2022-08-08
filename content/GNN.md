@@ -17,6 +17,7 @@
 ### Tools & Libraries
   * [Deep Graph Library(DGL, MXNet, by Distributed (Deep) Machine Learning Community)](https://github.com/dmlc/dgl)
   * [PyTorch Geometric(PyG, PyTorch, by Matthias Fey)](https://github.com/rusty1s/pytorch_geometric) and [its document](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
+  * [NetworkX](https://networkx.org/)([code](https://github.com/networkx/networkx)): a python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
 ### awesome-self-supervised-gnn
   * link: https://github.com/ChandlerBang/awesome-self-supervised-gnn
