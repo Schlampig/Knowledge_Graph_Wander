@@ -44,3 +44,8 @@
   * link: https://github.com/percent4/spo_extract_platform
   * author: [Jclian percent4](https://github.com/percent4)
   * note: 本项目是利用深度学习技术来构建知识图谱方向上的一次尝试，作为开放领域的关系抽取。
+
+### OpenKS
+  * link: https://github.com/ZJU-OpenKS/OpenKS
+  * author: [ZJU-OpenKS](https://github.com/ZJU-OpenKS)
+  * note: 领域可泛化的知识学习与计算引擎。
