@@ -150,6 +150,7 @@
   * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
   * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern).
   * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
+  * [智能创作助手](https://effidit.qq.com/en) with [paper](https://arxiv.org/abs/2208.01815).
   * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
 </br>
 
