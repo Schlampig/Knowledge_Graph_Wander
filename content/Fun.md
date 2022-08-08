@@ -133,7 +133,7 @@
   * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)([离线版本](https://mp.weixin.qq.com/s/yAepL7CwBIQKRlO7-ED5ag))，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
 </br>
 
-### Literature
+### Literature & Writing
   * [豆坟](https://github.com/doufen-org/tofu)
   * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
 ](https://github.com/THUNLP-MT)
@@ -149,6 +149,7 @@
   * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
   * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern).
   * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
+  * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
 </br>
 
 ### Culture & History
