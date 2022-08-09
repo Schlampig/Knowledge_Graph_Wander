@@ -37,6 +37,11 @@
   * author: LancoPKU
   * note: a toolkit for multi-domain Chinese word segmentation.
 
+### TexSmart
+  * homepage: https://ai.tencent.com/ailab/nlp/texsmart/zh/index.html
+  * author: [腾讯AI Lab-自然语言处理团队](https://ai.tencent.com/ailab/nlp/zh/)
+  * note: 一套自然语言理解工具与服务, 用以对中文和英文两种语言的文本进行词法、句法和语义分析。 除了支持分词、词性标注、命名实体识别（NER）、句法分析、语义角色标注、文本分类、文本匹配、文本规范化(自动恢复英文大小写)等常见功能外， TexSmart还提供细粒度命名实体识别、语义联想、深度语义表达等特色功能。
+
 ### Jiayan
   * link: https://github.com/jiaeyan/Jiayan
   * author: Jiajie Ya
