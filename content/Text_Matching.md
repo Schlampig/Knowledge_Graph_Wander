@@ -115,6 +115,12 @@
     - further reading
       - [句子表示学习前沿技术分享](https://mp.weixin.qq.com/s/BnFbf6R6hGe-OSf0JIIOcw)
       - [ACL 2021｜美团提出基于对比学习的文本表示模型，效果提升8%](https://mp.weixin.qq.com/s/C4KaIXO9Lp8tlqhS3b0VCw)
+  * SimCTG
+    - [code](https://github.com/yxuansu/SimCTG)
+    - [paper](https://arxiv.org/pdf/2202.06417.pdf)
+    - further reading
+      - [论文领读｜文本生成模型退化怎么办？SimCTG 告诉你答案](https://mp.weixin.qq.com/s/3Kv-GVLnNdPoJ-3f3d33-A)
+      - [智能创作助手Effidit](https://effidit.qq.com/)
   * PyGCL
       - [code](https://github.com/GraphCL/PyGCL)
       - note: an open-source Graph Contrastive Learning (GCL) library for PyTorch
@@ -139,7 +145,7 @@
         - [ICLR 2022最佳论文：基于对比消歧的偏标签学习](https://mp.weixin.qq.com/s/gJRVPitOK9ONkTRMo6-G-w)
         - [ICLR Oral｜PiCO：基于对比消歧的偏标签学习](https://zhuanlan.zhihu.com/p/463255610)(作者知乎)
         - [对比学习引领弱标签学习新SOTA，浙大新研究入选ICLR Oral](https://mp.weixin.qq.com/s/ls3Kaj7tozcMx6RkaFkrfg)
-    * Open-world Contrastive Learning
+  * Open-world Contrastive Learning
       - [paper](https://arxiv.org/abs/2208.02764)
 
 ### Pre-Trained-Model-based Matching Methods
