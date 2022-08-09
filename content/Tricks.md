@@ -1,5 +1,18 @@
 ## **Tricks to Sharpen your Models**
 
+### Competitions
+  * ALL
+    - [AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections): 收集整理各种人工智能比赛经验帖。
+  * NLP
+    - [NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal): 收录NLP竞赛策略实现、各任务baseline、相关竞赛经验贴（当前赛事、往期赛事、训练赛）、NLP会议时间、常用自媒体、GPU推荐等，持续更新中。
+    - [NLP Competitions List Review](https://github.com/zhpmatrix/nlp-competitions-list-review): 复盘所有NLP比赛的TOP方案，只关注NLP比赛，持续更新中！
+    - [China AI & Law Challenge (CAIL)](https://github.com/china-ai-law-challenge): 历届法研杯竞赛信息。
+    - [MRC_Competition_Dureader](https://github.com/luhua-rain/MRC_Competition_Dureader): 机器阅读理解 冠军/亚军代码及中文预训练MRC模型。
+  * Data Science
+    - [Competition Baseline](https://github.com/datawhalechina/competition-baseline): 数据科学竞赛知识、代码、思路。
+    - [Data Competition TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution): 数据竞赛Top解决方案开源整理。
+    - [CDCS](https://github.com/geekinglcq/CDCS): Chinese Data Competitions' Solutions.
+    - [Data-Science-Competitions](https://github.com/the-black-knight-01/Data-Science-Competitions): Goal of this repo is to provide the solutions of all Data Science Competitions(Kaggle, Data Hack, Machine Hack, Driven Data etc...).
 
 ### Adversarial Training
   * Survey
