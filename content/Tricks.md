@@ -1,6 +1,6 @@
 ## **Tricks to Sharpen your Models**
 
-### Competitions
+### :star2: Competitions
   * ALL
     - [AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections): 收集整理各种人工智能比赛经验帖。
   * NLP
