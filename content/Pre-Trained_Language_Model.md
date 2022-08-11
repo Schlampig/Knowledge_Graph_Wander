@@ -165,6 +165,7 @@
     - [GPT-2-pytorch by Tae-Hwan Jung](https://github.com/graykode/gpt-2-Pytorch)
     - [gpt2-ml by Caspar ZHANG](https://github.com/imcaspar/gpt2-ml).
   * extra: [another unofficial tensorflow version by ConnorJL](https://github.com/ConnorJL/GPT2) and the author's [blog](https://medium.com/@NPCollapse/gpt2-counting-consciousness-and-the-curious-hacker-323c6639a3a8).
+  * tutorial: [GPT2.0 解读 Language Models are Unsupervised Multitask Learners](https://terrifyzhao.github.io/2019/02/18/GPT2.0%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB.html)
 
 ### GPT-3
   * [paper](https://arxiv.org/abs/2005.14165): OpenAI . (2020). *Language Models are Few-Shot Learners*.
