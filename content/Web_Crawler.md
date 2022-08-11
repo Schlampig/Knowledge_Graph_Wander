@@ -41,3 +41,8 @@
   * link: https://github.com/PhosphorylatedRabbits/paperscraper
   * author: PhosphorylatedRabbits
   * note: tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.
+
+### magical_spider
+  * link: https://github.com/lixi5338619/magical_spider
+  * author: 李玺
+  * note: 神奇的蜘蛛🕷，一个几乎适用于所有web端站点的采集方案.
