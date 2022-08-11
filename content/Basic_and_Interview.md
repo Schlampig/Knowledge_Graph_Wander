@@ -196,6 +196,12 @@
   * example: [Transformer](https://theaisummer.com/transformer/#the-core-building-block-multi-head-attention-and-parallel-implementation), [Attention](https://theaisummer.com/attention/), [Transformer from Scratch](https://theaisummer.com/einsum-attention/)
   * keywords: blog to introduce Transformer in Pytorch, easy to understand
 
+### Aman.AI
+  * link: https://aman.ai/
+  * author: [Aman Chadha](https://github.com/amanchadha)
+  * keywords: a collection of courses, researchs, liburaries, lists of artificial intelligence, exploring the art of artificial intelligence one concept at a time.
+
+
 ### Machine Learning Crash Course
   * link: https://developers.google.cn/machine-learning/crash-course/
   * keywords: a self-study guide for aspiring machine learning practitioners by google
