@@ -46,6 +46,11 @@
   * author: lonePatinet
   * Chinese NER(Named Entity Recognition) using BERT (Softmax, CRF, Span).
 
+### NERpy
+  * link: https://github.com/shibing624/nerpy
+  * author: shibing624
+  * note: implementation of ner using python, including BertSoftmax、BertCrf、BertSpan, etc.
+
 ### LexiconAugmentedNER
   * link: https://github.com/v-mipeng/LexiconAugmentedNER 
   * paper: [Simplify the Usage of Lexicon in Chinese NER](https://arxiv.org/pdf/1908.05969.pdf)
