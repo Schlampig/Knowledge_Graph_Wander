@@ -50,7 +50,7 @@
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)/[autonlp project](https://huggingface.co/autonlp):smile::open_hands:
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**NVIDIA Corporation**](https://github.com/NVIDIA): [homepage](http://www.nvidia.com)
-  * [**OpenAI**](https://github.com/openai):[community](https://openai.com/)
+  * [**OpenAI**](https://github.com/openai):[homepage](https://openai.com/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
   * [**Salesforce**](https://github.com/salesforce): [Einstein Research Lab](https://www.salesforceairesearch.com/research/natural-language-processing)/[Open Source](https://opensource.salesforce.com/)
   * [**Snorkel Team**](https://github.com/snorkel-team): [community](https://www.snorkel.org/)
