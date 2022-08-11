@@ -86,7 +86,7 @@
   * [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583?context=cs.CL)
 
 ### Label-Focused
-  * Mix-up
+  * Mix-up / [AutoMix](https://mp.weixin.qq.com/s/lOeamPcQ_I870j4xXk8EKg)
   * Label Smoothing (Soft Label)
   * CAN
 
