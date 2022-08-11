@@ -77,9 +77,13 @@
   * code: [fast-transformers by Idiap Research Institute](https://github.com/idiap/fast-transformers)
   * website: https://linear-transformers.com/
 
-### REFORMER
+### ReFormer
   * [paper](https://arxiv.org/pdf/2001.04451.pdf): Kitaev, N. , Kaiser, U. , & Levskaya, A. . (2020). *Reformer: the efficient Transformer*.
   * code: [reformer-pytorch by Phil Wang](https://github.com/lucidrains/reformer-pytorch)
+
+### RoFormer
+  * [RoFormer](https://github.com/ZhuiyiTechnology/roformer): [Transformer升级之路：2、博采众长的旋转式位置编码](https://kexue.fm/archives/8265)
+  * [RoFormer(v2)](https://github.com/ZhuiyiTechnology/roformer-v2): [RoFormerV2：自然语言理解的极限探索](https://kexue.fm/archives/8998)
 
 ### Infinite Memory Transformer
   * [paper](https://arxiv.org/abs/2109.00301): Martins, P. H., Marinho, Z., & Martins, A. F. (2021). *$\infty $-former: Infinite Memory Transformer*. arXiv preprint arXiv:2109.00301.
