@@ -123,6 +123,7 @@
   * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
   * [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) by [凹语言™ ](https://github.com/wa-lang): µGo语言实现(从头开发一个迷你Go语言编译器)，使用Go版本与Rust版本。
   * [OneFile](https://github.com/521xueweihan/OneFile): 汇集了仅一个文件，好玩的开源项目，访问[页面](https://hellogithub.com/onefile/)。
+</br>
 
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
@@ -191,12 +192,12 @@
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
-  * [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA).
-  
+  * [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
 </br>
 
 ### Book
   * [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books): [Dujltqzv](https://github.com/Dujltqzv)个人收藏书籍电子版列表。
+</br>
 
 ### City Life & Transport
   * [新一线知城数据平台](https://www.datayicai.com/home#/)
@@ -215,7 +216,8 @@
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
   * [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
   * [人们怎么总跟质数过不去？](https://mp.weixin.qq.com/s/wn9jPz1wW3qjdr6Wv4x2vQ)
-
+</br>
 
 ### Laws & Regulations
   * [TopJudge](https://github.com/thunlp/TopJudge)
+</br>
