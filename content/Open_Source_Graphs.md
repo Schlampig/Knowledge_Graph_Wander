@@ -111,3 +111,7 @@
 ### MusicBrainz
   * data: https://musicbrainz.org/
   * note: an open music encyclopedia that collects music metadata and makes it available to the public.
+
+### QuoteKG
+  * link: https://quotekg.l3s.uni-hannover.de/
+  * [paper](https://arxiv.org/abs/2207.09562): Kuculo, T., Gottschalk, S., & Demidova, E. (2022). *QuoteKG: A Multilingual Knowledge Graph of Quotes*. In European Semantic Web Conference (pp. 353-369). Springer, Cham. 
