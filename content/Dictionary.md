@@ -96,6 +96,12 @@
   * [CNEconDict](https://github.com/sijichun/CNEconDict) by Jichun Si: 适用于中文分词的经济金融词典.
   * [accounting_financial_sentiment_dict_exp](https://github.com/nanabunny/accounting_financial_sentiment_dict_exp) by Xinyu Lu: 简体中文会计和金融情感词典扩充.
 
+### Culture & Literature
+  * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) by [chinese-poetry](https://shici.store/huajianji/): 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+  * [poetry](https://github.com/sheepzh/poetry) by [ZHY](https://github.com/sheepzh): 汉语现代诗歌语料库整理，3470诗人，81.2K诗歌，15.33M字。
+  * [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen) by [caoxingyu](https://github.com/caoxingyu): 中华古诗文数据库和API。包含10000首古文(诗、词、歌、赋以及其它形式的文言文)，近4000名作者，10000名句.
+  * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern)。
+
 ### Cars
   * [Cars_Data](https://github.com/utf6/Cars_Data): 车系、品牌数据.
   * [car_knowledge_graph](https://github.com/luxuantao/car_knowledge_graph): 基于Neo4j的汽车知识图谱，使用Flask构建系统，Echarts可视化.
