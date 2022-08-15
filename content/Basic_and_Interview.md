@@ -201,7 +201,6 @@
   * author: [Aman Chadha](https://github.com/amanchadha)
   * keywords: a collection of courses, researchs, liburaries, lists of artificial intelligence, exploring the art of artificial intelligence one concept at a time.
 
-
 ### Machine Learning Crash Course
   * link: https://developers.google.cn/machine-learning/crash-course/
   * keywords: a self-study guide for aspiring machine learning practitioners by google
@@ -220,6 +219,11 @@
   * video: https://space.bilibili.com/255296093
   * author: aespresso
   * keywords: introduction about the math of machine learning through video
+
+### The-Art-of-Linear-Algebra
+  * link: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
+  * author: Kenji Hiranabe
+  * keywords: graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 
 ### SCIR-Training-Day
   * link: https://github.com/HIT-SCIR/scir-training-day
