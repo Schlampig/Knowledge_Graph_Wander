@@ -432,6 +432,13 @@
   * homepage: https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM
   * link: https://github.com/paperswithcode/ai-deadlines
   * author: Papers with code
+  * keywords: ai conference deadline countdowns.
+
+### CSrankings
+  * homepage: csrankings.org
+  * link: https://github.com/emeryberger/CSrankings
+  * author: Emery Berger
+  * keywords: a web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 
 ### Blog
   * [AI算法工程师的笔记本环境配置](https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A)
