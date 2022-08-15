@@ -156,6 +156,7 @@
   * [全历史](https://www.allhistory.com/): 以知识图谱为核心引擎的历史知识网站.
   * [小鸡词典](https://jikipedia.com/): 网络流行语速查百科.
   * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
+  * [Wayback Machine](https://archive.org/web/): 网页时光机，输入任意网址，恢复显示网址对应的页面。
 </br>
 
 ### Art & Design
