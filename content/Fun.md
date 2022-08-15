@@ -140,15 +140,12 @@
 ](https://github.com/THUNLP-MT)
   * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
 ](https://github.com/0voice)
-  * [poetry](https://github.com/sheepzh/poetry) by [ZHY](https://github.com/sheepzh)
-  * [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen) by [caoxingyu](https://github.com/caoxingyu)
   * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
   * [Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) by [Zhenxin Fu](https://github.com/fuzhenxin)
   * [Internet Archive](https://archive.org/): a non-profit library of millions of free books, movies, software, music, websites, and more.
   * [Ren'Py](https://www.renpy.org/): [The Ren'Py Visual Novel Engine](https://github.com/renpy/renpy).
   * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器.
   * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
-  * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern).
   * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
   * [智能创作助手](https://effidit.qq.com/en) with [paper](https://arxiv.org/abs/2208.01815).
   * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
