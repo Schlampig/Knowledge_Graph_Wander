@@ -95,7 +95,9 @@
   * link: https://github.com/zergtant/pytorch-handbook
   * author: hengtao tantai
   * keywords: open source pytorch tutorials.
-  * extra: [哈工大博士历时半年整理的《Pytorch常用函数手册》开放下载！内含200余个函数!](https://mp.weixin.qq.com/s/QaHG4TvNhtEleesaykH6XQ)
+  * extra: 
+    - [2022年07月16日：哈工大博士历时半年整理的《Pytorch常用函数手册》开放下载！内含200余个函数!](https://mp.weixin.qq.com/s/QaHG4TvNhtEleesaykH6XQ)
+    - [2022年08月11日：哈工大博士历时半年整理的《Pytorch常用函数手册》开放下载！内含200余个函数!](https://mp.weixin.qq.com/s/44bx6K-F51C78X3f_kGNPg)
 
 ### PyTorch Step By Step
   * link: https://github.com/dvgodoy/PyTorchStepByStep
