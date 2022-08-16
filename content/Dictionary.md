@@ -101,6 +101,7 @@
   * [poetry](https://github.com/sheepzh/poetry) by [ZHY](https://github.com/sheepzh): 汉语现代诗歌语料库整理，3470诗人，81.2K诗歌，15.33M字。
   * [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen) by [caoxingyu](https://github.com/caoxingyu): 中华古诗文数据库和API。包含10000首古文(诗、词、歌、赋以及其它形式的文言文)，近4000名作者，10000名句.
   * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern)。
+  * [CROSSTALK-GENERATION](https://github.com/anonNo2/crosstalk-generation): 目前为止最大的中文开源相声数据集。Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.
 
 ### Cars
   * [Cars_Data](https://github.com/utf6/Cars_Data): 车系、品牌数据.
