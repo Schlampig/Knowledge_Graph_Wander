@@ -129,6 +129,7 @@
     - [2022年06月28日：思考总结10年，图灵奖得主Yann LeCun指明下一代AI方向：自主机器智能](https://mp.weixin.qq.com/s/JUlhu95uFsY0c5WjJOJl3g)
     - [2022年07月08日：LeCun论文被指「洗稿」？ LSTM之父发文怒怼：抄我的还标原创](https://mp.weixin.qq.com/s/naCveSEguaUdjkZ5u0rbSg)
     - [2022年08月01日：Yann LeCun开怼谷歌研究：目标传播早就有了，你们创新在哪里？](https://mp.weixin.qq.com/s/8Orad1pPsnryj2U9wjgDCA)
+    - [2022年08月13日：人工智能有大事发生，LeCun也转型了](https://mp.weixin.qq.com/s/yL7vaQfTFOEsXF-DZOIUzA)
   - [2022年06月12日：谷歌研究员走火入魔事件曝光：认为AI已具备人格，被罚带薪休假，聊天记录让网友San值狂掉](https://mp.weixin.qq.com/s/FpXW9AyharQMrLVf6v69IA)
     - [2022年06月14日：谷歌AI具有意识？LaMDA像个聪明孩子？专家：胡扯](https://mp.weixin.qq.com/s/kHhI3bL29yygDdBP8ELeuw)
     - [2022年06月01日：研究者意外发现DALL-E 2在用自创语言生成图像：全文黑话，人类都看不懂](https://mp.weixin.qq.com/s/IJBMPfKHy1d1KnfV4vt-oQ)
@@ -141,3 +142,4 @@
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
   - [2022年08月02日：DeepMind 首席科学家 Oriol Vinyals 最新访谈：通用 AI 的未来是强交互式元学习](https://mp.weixin.qq.com/s/srWdDW461vQYD735Gi8Tbg)
+    - [2022年08月15日：DeepMind创始人Demis Hassabis：AI 的强大，超乎我们的想象](https://mp.weixin.qq.com/s/D5DzLqlizHaURNHOqs5GnQ)
