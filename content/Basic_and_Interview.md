@@ -353,6 +353,9 @@
   * author: Datawhale
   * homepage: http://datawhale.club
 
+### Data Fabric
+  * [死磕了老半天，终于读懂了数据编织（Data Fabric）](https://mp.weixin.qq.com/s/OhczWJg2H2j76E35YaUdeA)
+
 ---
 ## Learn Python Engineering
 
