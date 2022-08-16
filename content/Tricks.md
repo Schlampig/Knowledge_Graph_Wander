@@ -134,3 +134,4 @@
 
 ### Other Trick-and-Tips
   * link: https://github.com/oukohou/trick-and-tips
+  * [PyTorch 常用 Tricks 总结](https://mp.weixin.qq.com/s/E-WXOu5hmL1ynEJlHmA0WQ)
