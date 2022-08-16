@@ -83,7 +83,10 @@
   * link: https://github.com/LeeSureman/Flat-Lattice-Transformer
   * author: LeeSureman
   * blog: [FLAT：中文NER屠榜之作！复旦大学邱锡鹏团队出品](https://baijiahao.baidu.com/s?id=1677517325999475430&wfr=spider&for=pc)，[FLAT--起飞的NER模型](https://zhuanlan.zhihu.com/p/362349210)
-  * extra: [**Lex-BERT**](https://arxiv.org/abs/2101.00396): [Lex-BERT：超越FLAT的中文NER模型？](https://zhuanlan.zhihu.com/p/343231764).
+  * extra: 
+    - [**Lex-BERT**](https://arxiv.org/abs/2101.00396): [Lex-BERT：超越FLAT的中文NER模型？](https://zhuanlan.zhihu.com/p/343231764).
+    - [**NFLAT**](https://arxiv.org/abs/2205.05832): [NFLAT：FLAT的一种改进方案](https://mp.weixin.qq.com/s/MjjOMUTBdvSo1Ef7wcUkPg)
+     
 
 ### LexiconAugmentedNER
   * [paper](https://arxiv.org/pdf/1908.05969.pdf): Peng, M. , Ma, R. , Zhang, Q. , & Huang, X. . (2019). Simplify the usage of lexicon in chinese ner.
@@ -98,7 +101,11 @@
 
 ### KB-NER
   * link: https://github.com/Alibaba-NLP/KB-NER
-  * [paper](https://arxiv.org/pdf/2203.00545.pdf)
+  * [paper](https://arxiv.org/pdf/2203.00545.pdf): DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition.
   * [task](https://multiconer.github.io/results)
   * author: Alibaba-NLP
   * note: winner system (DAMO-NLP) of SemEval 2022 MultiCoNER shared task over 10 out of 13 tracks.
+
+### RICON
+  * [paper](https://arxiv.org/abs/2204.05544): Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition
+  * blog: [NAACL2022 NER SOTA—RICON学习笔记](https://mp.weixin.qq.com/s/V5_-2MsH5VaZxbDRakJ3dg)
