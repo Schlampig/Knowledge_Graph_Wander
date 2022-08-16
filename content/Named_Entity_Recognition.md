@@ -10,6 +10,9 @@
   * BRAT
     - [homepage](http://brat.nlplab.org/index.html)
     - [introduction](https://wetest.qq.com/lab/view/31.html)
+  * whaleAnno
+    - [link](https://github.com/datawhalechina/whale-anno)
+    - [demo](https://tekii.cn/ner#/)
 
 ### NCRF++
   * link: https://github.com/jiesutd/NCRFpp
