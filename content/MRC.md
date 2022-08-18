@@ -72,6 +72,7 @@
   - [ReClor](https://arxiv.org/abs/2002.04326): A **Re**ading **C**omprehension Dataset Requiring **Lo**gical **R**easoning.
   - [SearchQA](https://arxiv.org/pdf/1704.05179.pdf): A New Q&A Dataset Augmented with Context from a Search Engine.
   - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The **S**tanford **Qu**estion **A**nswering **D**ataset (v1.1 & v2.0).
+  - [StreamingQA](https://github.com/deepmind/streamingqa)([paper](https://arxiv.org/abs/2208.07461)): A Benchmark for Adaptation to New Knowledge over Time in Question Answering Models.
   - [TriviaQA](https://nlp.cs.washington.edu/triviaqa/): A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.
 
 ### All about Question, Answer, Evidence...
