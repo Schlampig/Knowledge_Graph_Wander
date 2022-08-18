@@ -189,6 +189,7 @@
     - [详解可视化神器 seaborn，制作图形又快又美！](https://zhuanlan.zhihu.com/p/456271226)
     - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
     - [DearPyGui](https://github.com/hoffstadt/DearPyGui): a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies.
+    - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
   * 神经网络可视化
     - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
