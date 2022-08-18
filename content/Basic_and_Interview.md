@@ -438,6 +438,11 @@
   * author: Jia-Bin Huang
   * keywords: a curated list of tips on various topics, such as research, writing, presentation, etc.
 
+### Ascender
+  * link: https://github.com/cvpaperchallenge/Ascender
+  * author: [cvpaper.challenge](https://github.com/cvpaperchallenge)
+  * keywords: a project template developed by XCCV group of cvpaper.challenge.
+
 ### AI Conference Deadlines
   * homepage: https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM
   * link: https://github.com/paperswithcode/ai-deadlines
