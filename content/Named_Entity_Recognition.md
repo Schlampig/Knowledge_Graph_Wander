@@ -2,6 +2,7 @@
 
 
 ### Blog
+  * 2022年08月 [中文小样本NER模型方法总结和实战](https://mp.weixin.qq.com/s/81Ef0hhRoEeOrVyTge61FA)
   * 2021年12月 [中文NER的那些事儿](https://github.com/DSXiangLi/ChineseNER)
   * 2021年01月 [工业界如何解决NER问题？12个trick，与你分享～](https://zhuanlan.zhihu.com/p/152463745)
   * 2020年07月 [美团搜索中NER技术的探索与实践](https://mp.weixin.qq.com/s/632T-bwnKU2Ui4Uidpoylw)
