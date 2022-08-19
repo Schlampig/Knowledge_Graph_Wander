@@ -342,6 +342,7 @@
   * link: https://github.com/guipsamora/pandas_exercises
   * author: Guilherme Samora
   * keywords: pandas exercise instructions, solutions without code / with code and comments
+  * extra: [超强图解 Pandas 18 招！](https://mp.weixin.qq.com/s/yjZB7TtLGEESHHX-r3o48Q)
 
 ### numpy-100
   * link: https://github.com/rougier/numpy-100
@@ -353,8 +354,9 @@
   * author: Datawhale
   * homepage: http://datawhale.club
 
-### Data Fabric
-  * [死磕了老半天，终于读懂了数据编织（Data Fabric）](https://mp.weixin.qq.com/s/OhczWJg2H2j76E35YaUdeA)
+### Blog
+  * [2022年08月09日：死磕了老半天，终于读懂了数据编织（Data Fabric）](https://mp.weixin.qq.com/s/OhczWJg2H2j76E35YaUdeA)
+  * [2022年08月16日：【漫画】隐私计算，到底是个什么鬼？](https://mp.weixin.qq.com/s/a8F9vSx08Fy3tlvkX5UNtw)
 
 ---
 ## Learn Python Engineering
