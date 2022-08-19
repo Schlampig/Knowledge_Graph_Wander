@@ -17,20 +17,20 @@
 
 
 ### Blogs
-    * [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
-    * [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
-    * [竞赛中的文本相似性！](https://mp.weixin.qq.com/s/bn78MQ2SYNCJz5QjrQXMCg)
-    * [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A)
-    * [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
-    * [阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/qAJWXaplQeRD5gGEsPjijQ)
-    * [图谱实战 | 阿里周晓欢：如何将实体抽取从生成问题变成匹配问题？](https://mp.weixin.qq.com/s/xSl2uRE2MWm6Z0YPNEZh2g)
-    * [丁香园：聊聊电商搜索的语义理解问题](https://mp.weixin.qq.com/s/I82U9NAD3KD2js04c3a0CQ)/[从文本匹配到语义相关——新闻相似度计算的一般思路](https://mp.weixin.qq.com/s/G8nQ78zUwZ01enDyDv1fnw)
-    * [都是推荐系统，广告算法和推荐算法有啥区别？](https://mp.weixin.qq.com/s/AeAD97nDwZ8s3I2quI-Riw)
-    * [初来乍到：帮助新用户冷启的算法技巧](https://mp.weixin.qq.com/s/LvRx8hYYMwd71atojOEEiA)
-    * [KG与搜广推入门：C端广告业务的生态、展示类型、结算方式与评估指标总结](https://mp.weixin.qq.com/s/5fD4UT-waj0dGmIcYlSFIg)
-    * [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/SH2FaDZH6lw8hy3Ym8esTw), [交互模型你快跑，双塔要卷过来了](https://mp.weixin.qq.com/s/jFQWOVnDZHdvSAOKafbDqw)
-    * [两万字聊对话系统](https://mp.weixin.qq.com/s/M7NkxMYVPcgTYLqp07ocuA)
-    * [一文详解文本语义相似度的研究脉络和最新进展](https://mp.weixin.qq.com/s/qxYz_n_UM2lWhaz1YBhXYw)
+  * [搜索中的深度匹配模型·上](https://zhuanlan.zhihu.com/p/113244063)，[搜索中的深度匹配模型·下](https://zhuanlan.zhihu.com/p/118183738)
+  * [文本相似度/文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
+  * [竞赛中的文本相似性！](https://mp.weixin.qq.com/s/bn78MQ2SYNCJz5QjrQXMCg)
+  * [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/QaoeztUZK2yE29tWtfjq1A)
+  * [阿里飞猪搜索技术的应用与创新](https://mp.weixin.qq.com/s/UTFXn1vD548IUoh53Gm2VA)
+  * [阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/qAJWXaplQeRD5gGEsPjijQ)
+  * [图谱实战 | 阿里周晓欢：如何将实体抽取从生成问题变成匹配问题？](https://mp.weixin.qq.com/s/xSl2uRE2MWm6Z0YPNEZh2g)
+  * [丁香园：聊聊电商搜索的语义理解问题](https://mp.weixin.qq.com/s/I82U9NAD3KD2js04c3a0CQ)/[从文本匹配到语义相关——新闻相似度计算的一般思路](https://mp.weixin.qq.com/s/G8nQ78zUwZ01enDyDv1fnw)
+  * [都是推荐系统，广告算法和推荐算法有啥区别？](https://mp.weixin.qq.com/s/AeAD97nDwZ8s3I2quI-Riw)
+  * [初来乍到：帮助新用户冷启的算法技巧](https://mp.weixin.qq.com/s/LvRx8hYYMwd71atojOEEiA)
+  * [KG与搜广推入门：C端广告业务的生态、展示类型、结算方式与评估指标总结](https://mp.weixin.qq.com/s/5fD4UT-waj0dGmIcYlSFIg)
+  * [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/SH2FaDZH6lw8hy3Ym8esTw), [交互模型你快跑，双塔要卷过来了](https://mp.weixin.qq.com/s/jFQWOVnDZHdvSAOKafbDqw)
+  * [两万字聊对话系统](https://mp.weixin.qq.com/s/M7NkxMYVPcgTYLqp07ocuA)
+  * [一文详解文本语义相似度的研究脉络和最新进展](https://mp.weixin.qq.com/s/qxYz_n_UM2lWhaz1YBhXYw)
 
 ### Searching / Recommending Matching Methods
   * Model Collections
