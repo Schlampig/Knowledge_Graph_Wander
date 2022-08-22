@@ -116,7 +116,16 @@
  
 </br>
 
+---
 ## Where will AI go?
+
+### JEPA-pytorch
+  * link: https://github.com/lucidrains/JEPA-pytorch
+  * author: lucidrains(Phil Wang)
+  * [paper](https://openreview.net/forum?id=BZ5a1r-kVsf): A Path Towards Autonomous Machine Intelligence
+  * note: implementation of JEPA, Yann LeCun's vision of how AGI would be built, in pytorch.
+
+### News
   - [2022年02月04日：盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://mp.weixin.qq.com/s/KuFfFAhXz5O5EsF2A_aBGQ)
   - [2022年02月15日：关于大模型的发展趋势，我突然有个细思极恐的脑洞](https://mp.weixin.qq.com/s/dlFJYyCsip5fGlY88Bd7DA):sweat_smile:
   - [2022年04月14日：百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ)
