@@ -249,6 +249,11 @@
   * author: Alireza Dirafzoon
   * keywords: repo, production-level deep learning, skills & tools stack
 
+### Full Stack Deep Learning
+  * link: https://fullstackdeeplearning.com/
+  * author: [Full Stack Deep Learning](https://github.com/full-stack-deep-learning)
+  * keywords: the community for people building ML-powered products.
+
 ### DeepLearning-500-questions
   * link: https://github.com/princewen/DeepLearning-500-questions
   * author: princewen
