@@ -48,6 +48,7 @@
   * [**Google Research**](https://github.com/google-research): [community](https://research.google)
   * [**HPC-AI Tech**](https://github.com/hpcaitech): [homepage](https://www.hpcaitech.com/#team)
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)/[autonlp project](https://huggingface.co/autonlp):smile::open_hands:
+  * [**IBM(AUR-NLP)**](https://github.com/ibm-aur-nlp)
   * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
   * [**NVIDIA Corporation**](https://github.com/NVIDIA): [homepage](http://www.nvidia.com)
   * [**OpenAI**](https://github.com/openai):[homepage](https://openai.com/)
