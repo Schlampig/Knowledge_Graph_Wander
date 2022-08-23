@@ -39,7 +39,7 @@
   * [**Amazon Web Services - Labs(AWS-Labs)**](https://github.com/awslabs): [homepage](http://amazon.com/aws/)
   * [**The Apache Software Foundation**](https://github.com/apache): [homepage](https://www.apache.org/)
   * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
-  * [**AssemblyAI**](https://github.com/AssemblyAI): [homepage](https://www.assemblyai.com/)
+  * [**AssemblyAI**](https://github.com/AssemblyAI): [homepage](https://www.assemblyai.com/)/[examples](https://github.com/AssemblyAI-Examples)
   * [**AutoNLP**](https://autonlp.ai/about)
   * [**Coqui**](https://github.com/coqui-ai): [homepage](https://coqui.ai/)
   * [**DeepAI**](https://deepai.org/)
