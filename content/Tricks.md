@@ -110,6 +110,9 @@
   * [超细节的BatchNorm/BN/LayerNorm/LN知识点](https://mp.weixin.qq.com/s/rvs82W91jDPGyhcC_9PlLw)
   * [为什么Pre Norm的效果不如Post Norm？](https://mp.weixin.qq.com/s/kJnZpfYUIJRnLAUEuRQGsA)
 
+### Optimizer
+  * [pytorch-optimizer](https://github.com/kozistr/pytorch_optimizer): bunch of optimizer implementations in pytorch.
+
 ### Parallelism
   * Survey
     - blog: [大规模模型训练tricks集锦](https://mp.weixin.qq.com/s/p99u10YOODDmZQPN0lc03w)
