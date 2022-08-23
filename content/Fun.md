@@ -62,6 +62,9 @@
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
     - [Discoart](https://github.com/jina-ai/discoart): Create Disco Diffusion artworks in one line.
     - [PARTI](https://parti.research.google/)([code](https://github.com/google-research/parti)): Pathways Autoregressive Text-to-Image model.
+    - [Imagen](https://imagen.research.google/)([paper](https://arxiv.org/abs/2205.11487)): Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding.
+      - [AI作画新高度！谷歌发布imagen，效果惊艳全场](https://mp.weixin.qq.com/s/HQl6mOBetUzQRC2bJfB0iA)
+      - extra: [MinImagen](https://github.com/AssemblyAI-Examples/MinImagen)([doc](https://assemblyai-examples.github.io/MinImagen/)): a minimal implementation of the imagen text-to-image model.
   * NeRF
     - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf)
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
