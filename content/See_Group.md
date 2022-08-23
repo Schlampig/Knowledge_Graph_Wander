@@ -39,7 +39,9 @@
   * [**Amazon Web Services - Labs(AWS-Labs)**](https://github.com/awslabs): [homepage](http://amazon.com/aws/)
   * [**The Apache Software Foundation**](https://github.com/apache): [homepage](https://www.apache.org/)
   * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
+  * [**AssemblyAI**](https://github.com/AssemblyAI): [homepage](https://www.assemblyai.com/)
   * [**AutoNLP**](https://autonlp.ai/about)
+  * [**Coqui**](https://github.com/coqui-ai): [homepage](https://coqui.ai/)
   * [**DeepAI**](https://deepai.org/)
   * [**DeepAI Tech**](https://deep-aitech.com/)
   * [**DeepL**](https://github.com/DeepLcom): [homepage](https://www.deepl.com/zh/translator)
@@ -110,7 +112,6 @@
     - [**UniSound**](http://www.unisound.com/): [云知声](https://github.com/Unisound)
     - [**AISpeech**](http://www.aispeech.com/): 思必驰
     - [**标贝科技**](https://www.data-baker.com/)
-    - [**Coqui**](https://github.com/coqui-ai): [website](https://coqui.ai/)
   * 机器人流程自动化(RPA)
     - [**艺赛旗**](https://www.i-search.com.cn/)
     - [**云扩科技**](https://www.encoo.com/)
