@@ -187,11 +187,12 @@
     - [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/): 简洁开源的icon素材库.
     - [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
     - [free-font](https://github.com/wordshub/free-font): 2020年最全的免费可商用字体.  
-  * Python可视化
+  * Python可视化及其他操作
     - [详解可视化神器 seaborn，制作图形又快又美！](https://zhuanlan.zhihu.com/p/456271226)
     - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
     - [DearPyGui](https://github.com/hoffstadt/DearPyGui): a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies.
     - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
+    - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark): python library for invisible image watermark (blind image watermark).
   * 神经网络/机器学习可视化
     - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
     - [Python Graphs](https://github.com/google-research/python-graphs)([paper](https://arxiv.org/pdf/2208.07461.pdf)): A LIBRARY FOR REPRESENTING PYTHON PROGRAMS AS GRAPHS FOR MACHINE LEARNING.
