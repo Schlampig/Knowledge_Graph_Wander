@@ -195,6 +195,7 @@
     - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
     - [DearPyGui](https://github.com/hoffstadt/DearPyGui): a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies.
     - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
+    - [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
     - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark): python library for invisible image watermark (blind image watermark).
   * 神经网络/机器学习可视化
     - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
@@ -202,9 +203,12 @@
   * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
   * [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
   * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
-  * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
-  * [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
+</br>
+
+### Music & Instrument & Voice
+  * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
+  * [声音汇](http://www.sound-club.cn/): 普惠长笛教学，一站式乐器购买平台。
 </br>
 
 ### Book
