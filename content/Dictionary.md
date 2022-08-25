@@ -91,6 +91,7 @@
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
   * [mirana-datas](https://github.com/yiifaa/mirana-datas) by 大头蚁: 中文姓名大全+中国主要省市经纬度信息.
+  * [Chinese-Celebrities-Names](https://github.com/NLPBLCU/Chinese-Celebrities-Names) by NLPBLCU: 中国名人人名数据库.
 
 ### Finance & Commerce & Economy
   * [CNEconDict](https://github.com/sijichun/CNEconDict) by Jichun Si: 适用于中文分词的经济金融词典.
@@ -110,6 +111,8 @@
 ### Others
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
+  * [Chinese-Multi-Target-Sentiment-Classification-Dataset](https://github.com/NLPBLCU/Chinese-Multi-Target-Sentiment-Classification-Dataset) by NLPBLCU: 中文多目标情感分类数据集.
+  * [Adjectives-list-with-Gendered-Skewness-and-Sentiment](https://github.com/NLPBLCU/Adjectives-list-with-Gendered-Skewness-and-Sentiment) by NLPBLCU: 形容词性别偏度及情感信息数据集.
 
 ### 千言(Language Understanding and Generation Evaluation Benchmarks, LUGE)
   * homepage: https://www.luge.ai/
