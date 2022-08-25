@@ -112,6 +112,7 @@
 
 ### Optimizer
   * [pytorch-optimizer](https://github.com/kozistr/pytorch_optimizer): bunch of optimizer implementations in pytorch.
+  * [Adan-Pytorch](https://github.com/lucidrains/Adan-pytorch): implementation of the ADAN (ADAptive Nesterov momentum algorithm) optimizer in pytorch.
 
 ### Parallelism
   * Survey
