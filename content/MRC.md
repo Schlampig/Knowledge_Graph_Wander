@@ -16,26 +16,25 @@
   - BERT-MRC(base) 2018: [paper](https://arxiv.org/pdf/1810.04805.pdf)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/multiple-choice)(multi-choices)|[code](https://github.com/huggingface/transformers/tree/master/examples/pytorch/question-answering)(question-answering)
   - NumNet 2019: [paper](https://aclanthology.org/D19-1251/)|[code](https://github.com/ranqiu92/NumNet)
 
-### Dialogue MRC/QA（对话型任务）
-  - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
-
-### Explainability in MRC/QA
-  - [ExpMRC: explainability evaluation for machine reading comprehension (2022)](https://www.cell.com/action/showPdf?pii=S2405-8440%2822%2900578-3)
-  - [A Survey on Explainability in Machine Reading Comprehension (2020)](https://arxiv.org/abs/2010.00389)
-
-### Logical Reasoning（逻辑推理型任务）
-  - [赛尔笔记 | 逻辑推理阅读理解任务及方法](https://mp.weixin.qq.com/s/OiiE6fLXs3JVTbbCKHmXzg)
-  - [ReClor：一个需要逻辑推理的数据集](https://zhuanlan.zhihu.com/p/143067841)
-  - [从Bengio演讲发散开来：探讨逻辑推理与机器学习](https://zhuanlan.zhihu.com/p/265157196?utm_source=qq)
-
-### Multi-Hop MRC/QA（多跳推理型任务）
-  - PathNet 2018: [paper](https://arxiv.org/pdf/1811.01127.pdf)|[code](https://github.com/allenai/PathNet)
-  - CogQA 2019: [homepage](https://sites.google.com/view/cognitivegraph/)|[paper](https://arxiv.org/pdf/1905.05460.pdf)|[code](https://github.com/THUDM/CogQA)
-  - DecompRC 2019: [paper](https://arxiv.org/pdf/1906.02916.pdf)|[code](https://github.com/shmsw25/DecompRC)|[demo](http://allgood.cs.washington.edu:2019/)
-  - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
-
-### Common-Sense MRC/QA（常识型任务）
-  - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[单模型常识推理首超人类！HFL登顶OpenBookQA挑战赛](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
+### Variations
+  * Common-Sense MRC/QA（常识型任务）
+    - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[单模型常识推理首超人类！HFL登顶OpenBookQA挑战赛](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
+  * Dialogue MRC/QA（对话型任务）
+    - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
+  * Explainability in MRC/QA
+    - [ExpMRC: explainability evaluation for machine reading comprehension (2022)](https://www.cell.com/action/showPdf?pii=S2405-8440%2822%2900578-3)
+    - [A Survey on Explainability in Machine Reading Comprehension (2020)](https://arxiv.org/abs/2010.00389)
+  * Knowledge Graph Question Answering
+    - [KGQA](https://github.com/KGQA)
+  * Logical Reasoning（逻辑推理型任务）
+    - [赛尔笔记 | 逻辑推理阅读理解任务及方法](https://mp.weixin.qq.com/s/OiiE6fLXs3JVTbbCKHmXzg)
+    - [ReClor：一个需要逻辑推理的数据集](https://zhuanlan.zhihu.com/p/143067841)
+    - [从Bengio演讲发散开来：探讨逻辑推理与机器学习](https://zhuanlan.zhihu.com/p/265157196?utm_source=qq)
+  * Multi-Hop MRC/QA（多跳推理型任务）
+    - PathNet 2018: [paper](https://arxiv.org/pdf/1811.01127.pdf)|[code](https://github.com/allenai/PathNet)
+    - CogQA 2019: [homepage](https://sites.google.com/view/cognitivegraph/)|[paper](https://arxiv.org/pdf/1905.05460.pdf)|[code](https://github.com/THUDM/CogQA)
+    - DecompRC 2019: [paper](https://arxiv.org/pdf/1906.02916.pdf)|[code](https://github.com/shmsw25/DecompRC)|[demo](http://allgood.cs.washington.edu:2019/)
+    - SAE 2020: [paper](https://arxiv.org/pdf/1911.00484.pdf)|[code](https://github.com/JD-AI-Research-Silicon-Valley/SAE)
 
 ### Datasets & Competitions
   - [CAIL](https://github.com/china-ai-law-challenge): **C**hina **AI** **L**aw Challenge(中国法研杯司法人工智能挑战赛(含阅读理解赛道)).
