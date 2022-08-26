@@ -14,6 +14,7 @@
   * homepage: http://www.ltp-cloud.com/intro / http://ltp.ai/
   * author: HIT-SCIR
   * navigation: [pyltp](https://pyltp.readthedocs.io/zh_CN/latest/), [intro](https://www.jianshu.com/p/f78453f5d1ca)
+  * blog: [语言技术平台（LTP）推出 v4.2 版本！](https://mp.weixin.qq.com/s/pnGN7QY-R5TkLWnI9vNTqw)
 
 ### HanLP
   * link: https://github.com/hankcs/HanLP/tree/1.x
