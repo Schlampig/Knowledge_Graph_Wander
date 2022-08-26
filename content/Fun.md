@@ -59,6 +59,7 @@
     - [CLIP](https://github.com/openai/CLIP) : contrastive language-image pretraining.
       - [open_clip](https://github.com/mlfoundations/open_clip)
       - [Chinese-CLIP](https://github.com/billjie1/Chinese-CLIP)
+      - [CLIPasso](https://clipasso.github.io/clipasso/)
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
     - [Discoart](https://github.com/jina-ai/discoart): Create Disco Diffusion artworks in one line.
     - [PARTI](https://parti.research.google/)([code](https://github.com/google-research/parti)): Pathways Autoregressive Text-to-Image model.
