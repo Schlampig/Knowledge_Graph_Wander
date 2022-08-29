@@ -45,6 +45,7 @@
   * attention:
     - [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch): pytorch implementation of various attention mechanisms, mlp, re-parameter, convolution, which is helpful to further understand papers.
   * survey: 
+    - [2022年：Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey](https://www.arxiv-vanity.com/papers/2208.11857/)
     - [2022年：从SwinTransformer到GFlowNets，我们从2021年2万份SOTA工作中选了256个最值得关注的（附完整名录）](https://mp.weixin.qq.com/s/41kaiZm7PR5bRb8GpAJcTw)
     - [2021年：自然语言处理：基于预训练模型的方法](https://github.com/HIT-SCIR/plm-nlp-code)(哈工大SCIR 车万翔、郭江、崔一鸣著)
     - [2021年：国内数十位NLP大佬合作，综述预训练模型的过去、现在与未来](https://mp.weixin.qq.com/s/3hlSFny6RjwwxZODlEgSlA)
