@@ -417,6 +417,12 @@
   * author: 削微寒（521xueweihan）
   * keywords: Git的奇技淫巧 ([Git的小白教程](https://rogerdudler.github.io/git-guide/index.zh.html))
 
+### PLDB: The Programming Language Database
+  * link: https://github.com/breck7/pldb
+  * homepage: https://pldb.com/posts/index.html
+  * author: Breck Yunits
+  * keywords: PLDB is a public domain database and blog containing over 100,000 facts about over 4,000 programming languages. This repo contains the entire database, blog, and code for PLDB.
+
 ---
 ## Research
 
