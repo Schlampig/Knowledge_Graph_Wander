@@ -1,7 +1,158 @@
 ## **Fun**
 
 
-### Computer Vision
+### Arbeits
+  * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
+  * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
+  * [ShameCom](https://github.com/ShameCom/ShameCom) by [ShameCom](https://github.com/ShameCom): 校招污点公司记录。
+  * [955.WLB](https://github.com/formulahendry/955.WLB) by [Jun Han](https://github.com/formulahendry): “955”公司白名单。
+  * [Natasha](https://github.com/996-icu-avengers/Natasha) by [996-icu-avengers](https://github.com/996-icu-avengers): 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
+  * [Job-Recommend](https://github.com/CyC2018/Job-Recommend) by [CyC2018](https://github.com/CyC2018): 互联网内推信息（社招、校招、实习）。
+  * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)([离线版本](https://mp.weixin.qq.com/s/yAepL7CwBIQKRlO7-ED5ag))，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
+</br>
+
+### Art & Design
+  * Animation
+    - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
+  * Art and Design
+    - [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
+    - [ArtStation](https://www.artstation.com/): [新年重磅！Artstation 大师级艺术课程全部免费开放](https://www.uisdc.com/artstation-learning)
+  * Decoration
+    - [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
+    - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
+  * Front-End
+    - [Streamlit](https://streamlit.io/): [算法不会前端，也可以做出好看的界面-Streamlit工具](https://mp.weixin.qq.com/s/cSrxA8-9ZMNnIqGjtfnQMw)
+    - [Gradio](https://github.com/gradio-app/gradio): [Gradio: 让机器学习算法秒变小程序](https://zhuanlan.zhihu.com/p/265553909)
+  * Github
+    - [Github.io](https://pages.github.com/): 
+      - [简介](https://www.jianshu.com/p/22b413e3da53)
+      - [如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
+      - [GitHub Pages 搭建教程](https://sspai.com/post/54608)
+      - [如何快速搭建自己的github.io博客](https://keysaim.github.io/post/blog/2017-08-15-how-to-setup-your-github-io-blog/)
+    - [Jekyll中文站](http://jekyllcn.com/)
+    - [Gridea](https://gridea.dev/)
+    - [Hexo中文站](https://hexo.io/zh-cn/)、[Hexo系列 | Hexo的基本使用](https://zhuanlan.zhihu.com/p/85037427)
+    - [Hugo中文站](https://www.gohugo.cn/)
+    - [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra): Github首页动态生成状态图之一.
+    - [Metrics](https://github.com/lowlighter/metrics): Github首页动态生成状态图之二.
+    - [Moe-counter](https://github.com/journey-ad/Moe-counter): Github首页动态生成状态图之三，多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
+    - [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly): 可在Markdown使用的开源emoji素材库.
+    - [Emoji大全](https://www.emojidaquan.com/)
+    - [Fluentui-Emoji](https://github.com/microsoft/fluentui-emoji): a collection of familiar, friendly, and modern emoji from microsoft.
+    - [WikiEmoji](https://wikiemoji.org/zh)
+  * ICON
+    - [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/): 简洁开源的icon素材库.
+    - [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
+    - [free-font](https://github.com/wordshub/free-font): 2020年最全的免费可商用字体.
+  * Machine Learning & Neural Networks
+    - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
+    - [Python Graphs](https://github.com/google-research/python-graphs)([paper](https://arxiv.org/pdf/2208.07461.pdf)): A LIBRARY FOR REPRESENTING PYTHON PROGRAMS AS GRAPHS FOR MACHINE LEARNING.
+  * Python
+    - [详解可视化神器 seaborn，制作图形又快又美！](https://zhuanlan.zhihu.com/p/456271226)
+    - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
+    - [DearPyGui](https://github.com/hoffstadt/DearPyGui): a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies.
+    - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
+    - [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
+    - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark): python library for invisible image watermark (blind image watermark).
+</br>
+
+### Book
+  * [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books): [Dujltqzv](https://github.com/Dujltqzv)个人收藏书籍电子版列表。
+</br>
+
+### City Life & Transport
+  * [新一线知城数据平台](https://www.datayicai.com/home#/)
+  * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
+  * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
+  * [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁——人体系统调优不完全指南。
+  * [university-information](https://github.com/CollegesChat/university-information): 一些大学的生活质量。
+  * [船讯网](https://www.shipxy.com/Ship/Index)
+</br>
+
+### Computer Language
+  * 《[The Go Programming Language](http://www.gopl.io/)》(GO语言圣经，GOPL): [中文版](https://github.com/golang-china/gopl-zh).
+  * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
+  * [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) by [凹语言™ ](https://github.com/wa-lang): µGo语言实现(从头开发一个迷你Go语言编译器)，使用Go版本与Rust版本。
+  * [OneFile](https://github.com/521xueweihan/OneFile): 汇集了仅一个文件，好玩的开源项目，访问[页面](https://hellogithub.com/onefile/)。
+</br>
+
+### Culture & History
+  * [全历史](https://www.allhistory.com/): 以知识图谱为核心引擎的历史知识网站.
+  * [小鸡词典](https://jikipedia.com/): 网络流行语速查百科.
+  * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
+  * [Wayback Machine](https://archive.org/web/): 网页时光机，输入任意网址，恢复显示网址对应的页面。
+</br>
+
+### Language
+  * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
+  * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
+  * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
+  * [Grammarly](https://www.grammarly.com/): 语法检查App.
+  * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
+  * [Effective Language Learning](https://effectivelanguagelearning.com/)
+</br>
+
+### Laws & Regulations
+  * [TopJudge](https://github.com/thunlp/TopJudge)
+</br>
+
+### Literature & Writing
+  * [豆坟](https://github.com/doufen-org/tofu)
+  * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
+](https://github.com/THUNLP-MT)
+  * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
+](https://github.com/0voice)
+  * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
+  * [Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) by [Zhenxin Fu](https://github.com/fuzhenxin)
+  * [Internet Archive](https://archive.org/): a non-profit library of millions of free books, movies, software, music, websites, and more.
+  * [Ren'Py](https://www.renpy.org/): [The Ren'Py Visual Novel Engine](https://github.com/renpy/renpy).
+  * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器.
+  * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
+  * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
+  * [智能创作助手](https://effidit.qq.com/en) with [paper](https://arxiv.org/abs/2208.01815).
+  * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
+</br>
+
+### Math & Computer
+  * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
+  * [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
+  * [人们怎么总跟质数过不去？](https://mp.weixin.qq.com/s/wn9jPz1wW3qjdr6Wv4x2vQ)
+</br>
+
+### Medical
+  * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
+</br>
+
+### Music & Instrument & Voice
+  * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
+  * [声音汇](http://www.sound-club.cn/): 普惠长笛教学，一站式乐器购买平台。
+</br>
+
+### Recommender system
+  * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
+  * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
+  * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
+  * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
+  * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
+  * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
+  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): “浅梦学习笔记”公众号文章汇总。
+  * [推荐系统 百面百搭](https://github.com/km1994/RES-Interview-Notes): 作者们根据个人面试和经验总结出的推荐系统(RES) 面试准备的学习笔记与资料。
+</br>
+
+### Reinforcement Learning
+  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+  * [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
+  * [reinforcement-learning-an-introduction-chinese](https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese)
+  * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+  * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
+  * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+  * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
+  * [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
+  * [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
+  * [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
+</br>
+
+### Vision
   * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
   * Neural Style Transfer
     - [AI-Art](https://github.com/Adi-iitd/AI-Art): about PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream.
@@ -92,151 +243,4 @@
       - [一文详解基于流的深度生成模型](https://mp.weixin.qq.com/s/ctVotHXiO7QRPju_dnssFA)
       - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼](https://spaces.ac.cn/archives/9119)
       - [生成扩散模型漫谈（二）：DDPM = 自回归式VAE](https://spaces.ac.cn/archives/9152)
-</br>
-
-### Reinforcement Learning
-  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-  * [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
-  * [reinforcement-learning-an-introduction-chinese](https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese)
-  * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-  * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
-  * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-  * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
-  * [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
-  * [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
-  * [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
-</br>
-
-### Recommender system
-  * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system): 深度学习在推荐系统中的应用及论文小结。
-  * [fun-rec](https://github.com/datawhalechina/fun-rec): 推荐系统基础、推荐系统进阶和推荐系统应用教程，来自[Datawhale](https://github.com/datawhalechina)。
-  * [DeepMatch](https://github.com/shenweichen/DeepMatch): a deep matching model library for recommendations & advertising.
-  * [Recommend-System-tf2.0](https://github.com/jc-LeeHub/Recommend-System-tf2.0): 原理解析及代码实战，推荐算法也可以很简单。
-  * [Reco-papers](https://github.com/wzhe06/Reco-papers): classic papers and resources on recommendation.
-  * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
-  * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): “浅梦学习笔记”公众号文章汇总。
-  * [推荐系统 百面百搭](https://github.com/km1994/RES-Interview-Notes): 作者们根据个人面试和经验总结出的推荐系统(RES) 面试准备的学习笔记与资料。
-</br>
-
-### Language
-  * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
-  * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
-  * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
-  * [Grammarly](https://www.grammarly.com/): 语法检查App.
-  * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
-  * [Effective Language Learning](https://effectivelanguagelearning.com/)
-</br>
-
-### Computer Language
-  * 《[The Go Programming Language](http://www.gopl.io/)》(GO语言圣经，GOPL): [中文版](https://github.com/golang-china/gopl-zh).
-  * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
-  * [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) by [凹语言™ ](https://github.com/wa-lang): µGo语言实现(从头开发一个迷你Go语言编译器)，使用Go版本与Rust版本。
-  * [OneFile](https://github.com/521xueweihan/OneFile): 汇集了仅一个文件，好玩的开源项目，访问[页面](https://hellogithub.com/onefile/)。
-</br>
-
-### Arbeits
-  * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
-  * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
-  * [ShameCom](https://github.com/ShameCom/ShameCom) by [ShameCom](https://github.com/ShameCom): 校招污点公司记录。
-  * [955.WLB](https://github.com/formulahendry/955.WLB) by [Jun Han](https://github.com/formulahendry): “955”公司白名单。
-  * [Natasha](https://github.com/996-icu-avengers/Natasha) by [996-icu-avengers](https://github.com/996-icu-avengers): 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
-  * [Job-Recommend](https://github.com/CyC2018/Job-Recommend) by [CyC2018](https://github.com/CyC2018): 互联网内推信息（社招、校招、实习）。
-  * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)([离线版本](https://mp.weixin.qq.com/s/yAepL7CwBIQKRlO7-ED5ag))，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
-</br>
-
-### Literature & Writing
-  * [豆坟](https://github.com/doufen-org/tofu)
-  * [THUAIPoet (Jiuge, 九歌)](https://github.com/THUNLP-AIPoet)/[THUNLP-MT
-](https://github.com/THUNLP-MT)
-  * [expert_readed_books](https://github.com/0voice/expert_readed_books) by [0voice
-](https://github.com/0voice)
-  * [aichpoem](https://github.com/wangjiezju1988/aichpoem) by [wangjiezju1988](https://github.com/wangjiezju1988)
-  * [Style-Transfer-in-Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) by [Zhenxin Fu](https://github.com/fuzhenxin)
-  * [Internet Archive](https://archive.org/): a non-profit library of millions of free books, movies, software, music, websites, and more.
-  * [Ren'Py](https://www.renpy.org/): [The Ren'Py Visual Novel Engine](https://github.com/renpy/renpy).
-  * [lifeRestart](https://github.com/VickScarlet/lifeRestart): 人生重开模拟器.
-  * [喵语言](https://github.com/miao-lang/miao-lang)(原理相关：[零宽字符加密](https://github.com/yuanfux/zero-width-lib)).
-  * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
-  * [智能创作助手](https://effidit.qq.com/en) with [paper](https://arxiv.org/abs/2208.01815).
-  * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
-</br>
-
-### Culture & History
-  * [全历史](https://www.allhistory.com/): 以知识图谱为核心引擎的历史知识网站.
-  * [小鸡词典](https://jikipedia.com/): 网络流行语速查百科.
-  * [萌娘百科](https://zh.moegirl.org.cn/Mainpage): 由MediaWiki软件支持的非商业ACGN主题在线百科全书, “秉承‘万物皆可萌’的精神原则”.
-  * [Wayback Machine](https://archive.org/web/): 网页时光机，输入任意网址，恢复显示网址对应的页面。
-</br>
-
-### Art & Design
-  * Make your Github more beautiful
-    - [Github.io](https://pages.github.com/): 
-      - [简介](https://www.jianshu.com/p/22b413e3da53)
-      - [如何用github page搭建博客？](https://www.zhihu.com/question/59088760)
-      - [GitHub Pages 搭建教程](https://sspai.com/post/54608)
-      - [如何快速搭建自己的github.io博客](https://keysaim.github.io/post/blog/2017-08-15-how-to-setup-your-github-io-blog/)
-    - [Jekyll中文站](http://jekyllcn.com/)
-    - [Gridea](https://gridea.dev/)
-    - [Hexo中文站](https://hexo.io/zh-cn/)、[Hexo系列 | Hexo的基本使用](https://zhuanlan.zhihu.com/p/85037427)
-    - [Hugo中文站](https://www.gohugo.cn/)
-    - [ithub-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra): Github首页动态生成状态图之一.
-    - [Metrics](https://github.com/lowlighter/metrics): Github首页动态生成状态图之二.
-    - [Moe-counter](https://github.com/journey-ad/Moe-counter): Github首页动态生成状态图之三，多种风格可选的萌萌计数器，[demo](https://count.getloli.com/).
-    - [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly): 可在Markdown使用的开源emoji素材库.
-    - [Emoji大全](https://www.emojidaquan.com/)
-    - [Fluentui-Emoji](https://github.com/microsoft/fluentui-emoji): a collection of familiar, friendly, and modern emoji from microsoft.
-    - [WikiEmoji](https://wikiemoji.org/zh)
-  * Build Simple Front-End
-    - [Streamlit](https://streamlit.io/): [算法不会前端，也可以做出好看的界面-Streamlit工具](https://mp.weixin.qq.com/s/cSrxA8-9ZMNnIqGjtfnQMw)
-    - [Gradio](https://github.com/gradio-app/gradio): [Gradio: 让机器学习算法秒变小程序](https://zhuanlan.zhihu.com/p/265553909)
-  * Free ICON libraries
-    - [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/): 简洁开源的icon素材库.
-    - [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
-    - [free-font](https://github.com/wordshub/free-font): 2020年最全的免费可商用字体.  
-  * Python可视化及其他操作
-    - [详解可视化神器 seaborn，制作图形又快又美！](https://zhuanlan.zhihu.com/p/456271226)
-    - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
-    - [DearPyGui](https://github.com/hoffstadt/DearPyGui): a fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies.
-    - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
-    - [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
-    - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark): python library for invisible image watermark (blind image watermark).
-  * 神经网络/机器学习可视化
-    - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
-    - [Python Graphs](https://github.com/google-research/python-graphs)([paper](https://arxiv.org/pdf/2208.07461.pdf)): A LIBRARY FOR REPRESENTING PYTHON PROGRAMS AS GRAPHS FOR MACHINE LEARNING.
-  * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
-  * [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
-  * [Rich](https://github.com/willmcgugan/rich): a Python library for rich text and beautiful formatting in the terminal.
-  * [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows): A cute running cat animation on your windows taskbar.
-</br>
-
-### Music & Instrument & Voice
-  * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
-  * [声音汇](http://www.sound-club.cn/): 普惠长笛教学，一站式乐器购买平台。
-</br>
-
-### Book
-  * [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books): [Dujltqzv](https://github.com/Dujltqzv)个人收藏书籍电子版列表。
-</br>
-
-### City Life & Transport
-  * [新一线知城数据平台](https://www.datayicai.com/home#/)
-  * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
-  * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
-  * [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁——人体系统调优不完全指南。
-  * [university-information](https://github.com/CollegesChat/university-information): 一些大学的生活质量。
-  * [船讯网](https://www.shipxy.com/Ship/Index)
-</br>
-
-### Medical
-  * [ML for Health Lab Pub](https://github.com/vanderschaarlab/mlforhealthlabpub) by [van_der_Schaar Lab](https://github.com/vanderschaarlab)
-</br>
-
-### Math & Computer
-  * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
-  * [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
-  * [人们怎么总跟质数过不去？](https://mp.weixin.qq.com/s/wn9jPz1wW3qjdr6Wv4x2vQ)
-</br>
-
-### Laws & Regulations
-  * [TopJudge](https://github.com/thunlp/TopJudge)
 </br>
