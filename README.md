@@ -47,11 +47,11 @@
   * [Named Entity Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Named_Entity_Recognition.md)
   * [Entity Typing](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Entity_Typing.md)
   * [Machine Reading Comprehension](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/MRC.md)
-  * [Text Generation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Generation.md)
-  * Summarization/Text Simplification
+  * [Summarization/Text Simplification](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Simplification.md)
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
   * [Text Mining](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Mining.md) [(Parser Tools)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
   * [Text Classification](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Classification.md)
+  * [Text Generation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Generation.md)
 
 ### Graph Operation
   * [Distant Supervision](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Distant_Supervision.md)
