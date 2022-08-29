@@ -112,6 +112,7 @@
     - [**UniSound**](http://www.unisound.com/): [云知声](https://github.com/Unisound)
     - [**AISpeech**](http://www.aispeech.com/): 思必驰
     - [**标贝科技**](https://www.data-baker.com/)
+    - [**WeNet**](https://github.com/wenet-e2e): [community](https://wenet.org.cn/)
   * 机器人流程自动化(RPA)
     - [**艺赛旗**](https://www.i-search.com.cn/)
     - [**云扩科技**](https://www.encoo.com/)
