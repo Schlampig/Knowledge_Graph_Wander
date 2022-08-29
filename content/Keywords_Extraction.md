@@ -57,6 +57,11 @@
   * author: THUNLP
   * note: joint keyphrase chunking and salience ranking with BERT.
 
+### KeyBERT
+  * link: https://github.com/MaartenGr/KeyBERT
+  * author: Maarten Grootendorst
+  * note: minimal keyword extraction with BERT.
+
 ### THUCKE
   * link: https://github.com/thunlp/THUCKE
   * author: THUNLP
