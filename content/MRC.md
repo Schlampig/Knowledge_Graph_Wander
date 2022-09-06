@@ -48,7 +48,7 @@
     - [CMRC 2019](https://ymcui.com/cmrc2019/): A Sentence Cloze Dataset for **C**hinese **M**achine **R**eading **C**omprehension.
     - [CMRC 2020](https://hfl-rc.com/cmrc2020/): Challenge of AI in Law ([CAIL](http://cail.cipsc.org.cn/)) for **C**hinese **M**achine **R**eading **C**omprehension.
     - [CMRC 2022](https://hfl-rc.com/cmrc2022/): A Weak-Supervised Explainability-focused Dataset (from [ExpMRC](https://ymcui.com/expmrc/)) for **C**hinese **M**achine **R**eading **C**omprehension.
-  - [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge.
+  - [CoQA](https://stanfordnlp.github.io/coqa/): A **Co**nversational **Q**uestion **A**nswering Challenge.
   - [DREAM](https://github.com/nlpdata/dream): A Challenge Dataset and Models for Dialogue-Based Reading Comprehension.
   - [DRCD](https://github.com/DRCKnowledgeTeam/DRCD): **D**elta **R**eading **C**omprehension **D**ataset.
   - [DROP](https://allennlp.org/drop): A Reading Comprehension Benchmark Requiring **D**iscrete **R**easoning **O**ver **P**aragraphs.
