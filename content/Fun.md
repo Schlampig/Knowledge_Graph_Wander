@@ -126,6 +126,7 @@
 ### Music & Instrument & Voice
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [声音汇](http://www.sound-club.cn/): 普惠长笛教学，一站式乐器购买平台。
+  * [国际乐谱库](https://cn.imslp.org/wiki/%E9%A6%96%E9%A1%B5).
 </br>
 
 ### Recommender system
