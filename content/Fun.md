@@ -89,7 +89,8 @@
   * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
   * [Grammarly](https://www.grammarly.com/): 语法检查App.
   * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
-  * [Effective Language Learning](https://effectivelanguagelearning.com/)
+  * [Effective Language Learning](https://effectivelanguagelearning.com/).
+  * [English-Writing](https://github.com/yzy1996/English-Writing): enhance your English writing.
 </br>
 
 ### Laws & Regulations
