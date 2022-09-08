@@ -52,7 +52,7 @@
   * [**Hugging Face**](https://github.com/huggingface): [community](https://huggingface.co/)/[autonlp project](https://huggingface.co/autonlp):smile::open_hands:
   * [**IBM(AUR-NLP)**](https://github.com/ibm-aur-nlp)
   * [**Impira**](https://github.com/impira): [homepage](https://www.impira.com/)
-  * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)
+  * [**Microsoft**](https://github.com/microsoft): [community](https://opensource.microsoft.com/)/[Multimedia Research](https://github.com/researchmm)
   * [**NVIDIA Corporation**](https://github.com/NVIDIA): [homepage](http://www.nvidia.com)
   * [**OpenAI**](https://github.com/openai):[homepage](https://openai.com/)
   * [**RASA**](https://github.com/rasaHQ/): [coummnity](https://rasa.com/)
