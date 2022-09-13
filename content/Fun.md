@@ -132,6 +132,7 @@
   * [OMNIZART](https://github.com/Music-and-Culture-Technology-Lab/omnizart):a python library that aims for democratizing automatic music transcription, i.e., acoustic music to midi-format file.
   * [AIComposer](https://github.com/MatthewAwesome/AIComposer): [MIDI Mashups: Using Machine Learning to Generate Unique Musical Scores](https://medium.com/swlh/midi-mashups-using-machine-learning-to-generate-unique-musical-scores-6041b6270883).
   * [music21](https://web.mit.edu/music21/doc/index.html): a python-based toolkit for computer-aided musicology.
+  * [Python MIDI](https://github.com/vishnubob/python-midi): a python-based toolkit to deal with midi-format files.
   * Midi-to-MusicSheet
     - [Converting MIDI to traditional music score: A comparison of music notation software](https://www.skytopia.com/project/articles/notation.html)
     - [How to Convert MIDI to Sheet Music (Free and Paid Options)](https://www.musicianwave.com/midi-to-sheet-music/)
