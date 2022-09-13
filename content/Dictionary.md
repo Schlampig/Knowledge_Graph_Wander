@@ -69,7 +69,10 @@
     - [Pinyin2ChineseChars](https://github.com/iseesaw/Pinyin2ChineseChars) by iseesaw.
   * Hanzi-to-AncientPinyin
     - [Ancient-Chinese-Pinyin-transform-Tool](https://github.com/yaojialyu/Ancient-Chinese-Pinyin-transform-Tool) by yaojialyu.
-  
+
+### Traditional-Simplified Chinese
+  * [OpenCC](https://github.com/BYVoid/OpenCC): 开放中文简繁转换，[demo](https://opencc.byvoid.com/)。
+
 ### Address
   * [chinese_province_city_area_(cpca) mapper](https://github.com/DQinYuan/chinese_province_city_area_mapper) by DQYuan: 用于提取简体中文字符串中省、市、区并能进行映射、检验和简单绘图的python库.
   * [zh-address-parse](https://github.com/ldwonday/zh-address-parse) by ldwonday.
