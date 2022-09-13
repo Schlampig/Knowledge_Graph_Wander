@@ -37,3 +37,9 @@
   * link: https://github.com/blcuicall/CCL2022-CLTC
   * author: BLCU-ICALL
   * note: CCL 2022 汉语学习者文本纠错评测
+
+### MuCGEC
+  * link: https://github.com/HillZhang1999/MuCGEC
+  * [paper](https://aclanthology.org/2022.naacl-main.227/): MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction
+  * author: HillZhang1999
+  * note: MuCGEC中文纠错数据集及文本纠错SOTA模型开源
