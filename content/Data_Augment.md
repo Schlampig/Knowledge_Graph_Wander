@@ -6,6 +6,7 @@
 
 ### AutoClean
   * link: https://github.com/elisemercury/AutoClean
+  * pypi: https://pypi.org/project/py-AutoClean/
   * author: Elise Landman
   * note: python package for automated data preprocessing & cleaning.
 
