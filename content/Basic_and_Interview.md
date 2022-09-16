@@ -452,6 +452,11 @@
   * author: Lijin Zhang
   * keywords: 国外读博申请攻略
 
+### Awesome Lists for Tenure-Track Asst. Professors and PhD students
+  * link: https://github.com/JunweiLiang/awesome_lists
+  * author: Junwei Liang
+  * keywords: Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南).
+
 ### awesome-tips
   * link: https://github.com/jbhuang0604/awesome-tips
   * author: Jia-Bin Huang
