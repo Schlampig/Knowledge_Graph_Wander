@@ -24,6 +24,7 @@
   * [**OpenMMLab**](https://github.com/open-mmlab): [openmmlab计算机视觉开源项目](https://openmmlab.com/home)
   * [**OpenNMT**](https://github.com/OpenNMT): [An open source neural machine translation system](https://opennmt.net/)
   * [**Papers with Code**](https://github.com/paperswithcode): [homepage](https://paperswithcode.com/)
+  * [**PKU-TANGENT**](https://github.com/PKU-TANGENT): Text ANalysis and GENeration Technology Group at Peking University.
   * [**QData**](https://github.com/QData): [Qdata Team Research Blog Site](https://qdata.github.io/qdata-page/) by [Dr. Yanjun Qi](http://www.cs.virginia.edu/yanjun/index.htm).
   * [**Stanford Computer Vision Lab**](http://vision.stanford.edu/index.html)
   * [**THUDM**](https://github.com/THUDM): [清华大学数据挖掘研究室-唐杰](http://keg.cs.tsinghua.edu.cn/jietang/)
