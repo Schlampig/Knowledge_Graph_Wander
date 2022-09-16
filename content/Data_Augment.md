@@ -4,6 +4,11 @@
 ### Blog
   * 2021年10月 [哈工大｜NLP数据增强方法？我有15种](https://mp.weixin.qq.com/s/yx5BxLYmUvjzDny7DGzt1w)
 
+### AutoClean
+  * link: https://github.com/elisemercury/AutoClean
+  * author: Elise Landman
+  * note: python package for automated data preprocessing & cleaning.
+
 ### NLPCDA
   * link: https://github.com/425776024/nlpcda
   * pypi: https://pypi.org/project/nlpcda/
