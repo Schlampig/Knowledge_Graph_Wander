@@ -228,10 +228,15 @@
   * author: Kenji Hiranabe
   * keywords: graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
 
+### PKU-TANGENT NLP-Tutorial
+  * link: https://github.com/PKU-TANGENT/nlp-tutorial
+  * author: PKU-TANGENT
+  * keywords: 供新加入TANGENT实验室的同学入门NLP的教程。
+
 ### SCIR-Training-Day
   * link: https://github.com/HIT-SCIR/scir-training-day
   * author: HIT-SCIR
-  * keywords: training program for new crews of HIT-SCIR
+  * keywords: training program for new crews of HIT-SCIR.
 
 ### ABigSurvey
   * link: https://github.com/NiuTrans/ABigSurvey
