@@ -484,6 +484,11 @@
   * author: [Dou Sun](https://www.myhuiban.com/researcher/1)
   * keywords: 查询各种会议级别与时间。
 
+### arXiv LaTeX Cleaner
+  * link: https://github.com/google-research/arxiv-latex-cleaner
+  * author: google-research
+  * keywords: easily clean the LaTeX code of your paper to submit to arXiv.
+
 ### Blog
   * [AI算法工程师的笔记本环境配置](https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A)
   * [陈天奇、王威廉等人推荐：ACL最佳论文奖得主给新入行研究者的一点建议](https://mp.weixin.qq.com/s/nDj_m1Cq1qi3Qo4E--EhpA)
