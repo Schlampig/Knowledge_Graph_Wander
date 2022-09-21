@@ -4,7 +4,7 @@
 ### Summarization Papers
   * link: https://github.com/xcfcode/Summarization-Papers
   * author: xcfeng
-  * note: papers, trends plot, presentations, notes ... for summarization.
+  * note: papers, trends plot, presentations, notes, benchmarks ... for summarization.
 
 ### BertSum
   * link: https://github.com/nlpyang/BertSum
