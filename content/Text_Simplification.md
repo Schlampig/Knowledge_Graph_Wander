@@ -1,6 +1,11 @@
 ## Summarization/Text Simplification
 
 
+### Summarization Papers
+  * link: https://github.com/xcfcode/Summarization-Papers
+  * author: xcfeng
+  * note: papers, trends plot, presentations, notes ... for summarization.
+
 ### BertSum
   * link: https://github.com/nlpyang/BertSum
   * author: [Yang Liu](https://nlp-yang.github.io/)
