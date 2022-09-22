@@ -501,6 +501,11 @@
   * author: Yifei Kong
   * keywords: 技术面试最后反问面试官的话:)
 
+### Interview Resources
+  * link: https://github.com/nas5w/interview-resources
+  * author: Nick Scialli
+  * keywords: a non-overwhelming list of resources for tech interviews.
+
 ### machine-learning-interview
   * link: https://github.com/khangich/machine-learning-interview
   * author: Khang Pham
