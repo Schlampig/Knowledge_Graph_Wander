@@ -43,6 +43,8 @@
   * [paper](https://aclanthology.org/2022.naacl-main.227/): MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction
   * author: HillZhang1999
   * note: MuCGEC中文纠错数据集及文本纠错SOTA模型开源
+  * blog:
+    - [文本智能校对大赛冠军方案！已落地应用，来自苏州大学、达摩院团队](https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA)
 
 ### Gramformer
   * link: https://github.com/PrithivirajDamodaran/Gramformer
