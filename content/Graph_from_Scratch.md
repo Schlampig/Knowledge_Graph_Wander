@@ -39,6 +39,7 @@
 
 ### Blogs from HuanyongLiu
   * [技术分享：知识图谱构建中的异构知识抽取范式、开放资源与工具总结](https://mp.weixin.qq.com/s/P1gGxx8LEsbAAv4zwvrFrg) | 刘焕勇 老刘说NLP 2022年02月20日
+  * [知识图谱构建练兵数据集：常用12类实体识别、10类关系抽取数据集的梳理与思考](https://mp.weixin.qq.com/s/YJLptAgwPWP9myqH99fReA) | 刘焕勇 老刘说NLP 2022年09月28日
 
 ### spo_extract_platform
   * link: https://github.com/percent4/spo_extract_platform
