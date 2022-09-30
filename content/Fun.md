@@ -63,12 +63,17 @@
 </br>
 
 ### City Life & Transport
-  * [新一线知城数据平台](https://www.datayicai.com/home#/)
-  * [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
-  * [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
-  * [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁——人体系统调优不完全指南。
-  * [university-information](https://github.com/CollegesChat/university-information): 一些大学的生活质量。
-  * [船讯网](https://www.shipxy.com/Ship/Index)
+  * Self-building
+    - [HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。
+    - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南。
+    - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁——人体系统调优不完全指南。
+    - [三联生活周刊：低潮生活躺平指南｜40条小建议](https://mp.weixin.qq.com/s/eJz7mXgWXhw1yZZjURXhzw)
+  * School & University Life
+    - [university-information](https://github.com/CollegesChat/university-information): 一些大学的生活质量。
+  * City Living
+    - [新一线知城数据平台](https://www.datayicai.com/home#/)
+    - [聊聊我在新加坡的生活和工作体验](https://mp.weixin.qq.com/s/KPXJsrE5NBPo4CkgV-YzMQ)
+    - [船讯网](https://www.shipxy.com/Ship/Index)
 </br>
 
 ### Computer Language
