@@ -23,6 +23,7 @@
   * extra: [Data Matching Software List](https://github.com/J535D165/data-matching-software)
 
 ### Blog
+  * [2022年09月23日：知识干货 | 关于实体链接的构建及应用](https://mp.weixin.qq.com/s/0MX5zv5dNE4aPdvz6niUyw)
   * [2022年08月01日：一文简要了解词义消歧与实体消歧](https://mp.weixin.qq.com/s/MsEYQ6HU1GuzHV9OBq3V5Q)
 
 ### Dedupe
