@@ -54,6 +54,7 @@
     - blog: 
       - [BERT蒸馏完全指南｜原理/技巧/代码](https://mp.weixin.qq.com/s/tKfHq49heakvjM0EVQPgHw)
       - [深度神经网络模型蒸馏Distillation](https://zhuanlan.zhihu.com/p/71986772)
+      - [简单实现知识蒸馏 (Knowledge Distill)](https://mp.weixin.qq.com/s/vFuCj5JoXOV3WTU_eQpClA)
     - [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
 ### Distribution / Parallel
@@ -62,6 +63,9 @@
       - [新生手册：PyTorch分布式训练](https://mp.weixin.qq.com/s/dovriJnogKp1rIg6YZG2dw)
       - [PyTorch 深度剖析：并行训练的 DP 和 DDP 分别在什么情况下使用及实例](https://blog.csdn.net/God_WeiYang/article/details/125289149)
       - [当代研究生应当掌握的并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/HfE99ghT0Xv0F9pPCnNf6w)
+
+### Dropout
+  * R-Drop: [重新审视Dropout算法](https://mp.weixin.qq.com/s/uHkhrccuWYCLoHwIHMeSMA)
 
 ### EMA
   * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
