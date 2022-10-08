@@ -26,5 +26,6 @@
   * link: https://github.com/LirongWu/awesome-graph-self-supervised-learning
 
 ### Other Tools
+  * [Graph Data Augmentation (GraphDA) for Deep Graph Learning](https://github.com/kaize0409/awesome-graph-data-augmentaion)
   * [AttentionPathExplainer(APE, by qjf42)](https://github.com/qjf42/AttentionPathExplainer) and [its blog](https://zhuanlan.zhihu.com/p/150869105)
   * [GNN-algorithms: 图神经网络相关算法详述及实现教程。](https://github.com/wangyouze/GNN-algorithms)
