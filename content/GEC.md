@@ -16,6 +16,11 @@
   * author: BLCU-ICALL
   * note: a grammatical error correction reading list
 
+### Text Correction Papers
+  * link: https://github.com/nghuyong/text-correction-papers
+  * author: HuYong
+  * note: a repo that keeps tracking related work in text correction, including Chinese Spell Checking (CSC) and Grammatical Error Correction (GEC)
+
 ### PyCorrector
   * link: https://github.com/shibing624/pycorrector
   * author: shibing624
