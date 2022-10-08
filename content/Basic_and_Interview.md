@@ -528,6 +528,10 @@
   * author: Jingwei Zheng
   * keywords: 算法工程师-机器学习面试题总结
 
+### NLPer面试基础自检指南：100道基础NLP/知识图谱试题与必备能力思考
+  * link: https://mp.weixin.qq.com/s/pzjBaDmjarwKCSaCahWTRw
+  * author: 刘焕勇
+
 ### python-cp-cheatsheet
   * link: https://github.com/peterlamar/python-cp-cheatsheet
   * author: Peter Lamar
