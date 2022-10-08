@@ -122,6 +122,7 @@
 </br>
 
 ### Math & Computer
+  * [50年后，矩阵乘法迎来全新突破！](https://mp.weixin.qq.com/s/VhIyZ3Q5Px2u0rkShamnAA)
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
   * [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
   * [人们怎么总跟质数过不去？](https://mp.weixin.qq.com/s/wn9jPz1wW3qjdr6Wv4x2vQ)
@@ -261,4 +262,6 @@
       - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼](https://spaces.ac.cn/archives/9119)
       - [生成扩散模型漫谈（二）：DDPM = 自回归式VAE](https://spaces.ac.cn/archives/9152)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
+  * Text-to-Video
+    - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
 </br>
