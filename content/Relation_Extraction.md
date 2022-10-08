@@ -60,7 +60,11 @@
 
 ### Awesome Relation Extraction
   * link: https://github.com/roomylee/awesome-relation-extraction
-  * Joohong Lee
+  * author: Joohong Lee
+
+### NRE_awesome
+  * link: https://github.com/pattywgm/NRE_awesome
+  * author: BunneyWu
 
 ### NREPapers
   * link: https://github.com/thunlp/NREPapers
