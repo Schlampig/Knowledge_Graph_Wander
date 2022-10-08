@@ -115,3 +115,6 @@
 ### QuoteKG
   * link: https://quotekg.l3s.uni-hannover.de/
   * [paper](https://arxiv.org/abs/2207.09562): Kuculo, T., Gottschalk, S., & Demidova, E. (2022). *QuoteKG: A Multilingual Knowledge Graph of Quotes*. In European Semantic Web Conference (pp. 353-369). Springer, Cham. 
+
+### Othors
+  * [知识图谱构建练兵数据集：常用12类实体识别、10类关系抽取数据集的梳理与思考](https://mp.weixin.qq.com/s/YJLptAgwPWP9myqH99fReA)
