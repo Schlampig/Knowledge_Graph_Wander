@@ -494,6 +494,11 @@
   * author: google-research
   * keywords: easily clean the LaTeX code of your paper to submit to arXiv.
 
+### CNSurvey：中文综述文章列表（自然语言处理&机器学习）
+  * link: https://github.com/NiuTrans/CNSurvey
+  * author: NiuTrans
+  * keywords: 本项目整理了《中文信息学报》、《计算机学报》、《软件学报》、《自动化学报》、《电子学报》、《计算机研究与发展》、《中国科学：信息科学》近年来在自然语言处理和机器学习领域的综述论文（共350篇），将其按照不同研究领域进行分类，并提供论文的获取网址。
+
 ### Blog
   * [AI算法工程师的笔记本环境配置](https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A)
   * [陈天奇、王威廉等人推荐：ACL最佳论文奖得主给新入行研究者的一点建议](https://mp.weixin.qq.com/s/nDj_m1Cq1qi3Qo4E--EhpA)
