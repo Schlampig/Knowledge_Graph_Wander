@@ -71,3 +71,8 @@
   * link: https://github.com/infinitylogesh/mutate
   * author: Logesh kumar
   * note: a library to synthesize text datasets using Large Language Models (LLM).
+
+### Text preprocessing for Natural Language Processing
+  * link: https://github.com/berknology/text-preprocessing
+  * author: Berknology
+  * note: a python package for text preprocessing task in natural language processing.
