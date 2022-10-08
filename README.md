@@ -1,6 +1,6 @@
 # Learn Knowledge Graph and other NLP Methods
 ---
-*Collected by [Kuyi King](https://github.com/Schlampig)*
+*Collected by [KuyiKing](https://github.com/Schlampig)*
 
 [![](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
