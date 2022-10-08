@@ -258,10 +258,15 @@
     - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
     -  paper:
       - [Understanding Diffusion Models: A Unified Perspective](https://www.arxiv-vanity.com/papers/2208.11970/)
-    - **All about Flow**
+    - All about Flow
       - [一文详解基于流的深度生成模型](https://mp.weixin.qq.com/s/ctVotHXiO7QRPju_dnssFA)
       - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼](https://spaces.ac.cn/archives/9119)
       - [生成扩散模型漫谈（二）：DDPM = 自回归式VAE](https://spaces.ac.cn/archives/9152)
+    - Waifu-Diffusion
+      - [微博1](https://weibo.com/1757693565/M6bF4FQww?pagetype=profilefeed)，[微博2](https://weibo.com/1757693565/M8d3P6FNu?type=repost)
+      - [ChromedSets的推](https://twitter.com/ChromedSets)和[教程](https://t.co/7OFDObN5K8)
+      - [hakurei的开源](https://huggingface.co/hakurei/waifu-diffusion)
+      - [Waifu Diffusion Demo (Huggingface试玩)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
