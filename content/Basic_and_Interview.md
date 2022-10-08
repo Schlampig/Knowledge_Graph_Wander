@@ -543,3 +543,17 @@
   * link: https://github.com/srush/GPU-Puzzles
   * author: Sasha Rush
   * keywords: solve puzzles, learn cuda.
+
+### Coding practice website (编程练习网站 )
+  * codewars.com
+  * leetcode.com
+  * hackerrank.com
+  * topcoder.com
+  * exercism.org
+  * coderbyte.com
+  * codingame.com
+  * codechef.com
+  * projecteuler.net
+  * edabit.com
+  * codeforces.com
+  * hackerearth.com 
