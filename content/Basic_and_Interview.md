@@ -269,6 +269,11 @@
   * author: DAIR.AI
   * keywords: a place to discover the latest machine learning courses on YouTube.
 
+### Journey of 66DaysOfData in Machine Learning
+  * link: https://github.com/regmi-saugat/66Days_MachineLearning
+  * author: Saugat Regmi
+  * keywords: learning machine learning.
+
 ### ML-NLP
   * link: https://github.com/NLP-LOVE/ML-NLP
   * author: NLP-LOVE
