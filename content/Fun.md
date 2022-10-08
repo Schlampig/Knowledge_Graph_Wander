@@ -235,6 +235,7 @@
     - [Imagen](https://imagen.research.google/)([paper](https://arxiv.org/abs/2205.11487)): Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding.
       - [AI作画新高度！谷歌发布imagen，效果惊艳全场](https://mp.weixin.qq.com/s/HQl6mOBetUzQRC2bJfB0iA)
       - extra: [MinImagen](https://github.com/AssemblyAI-Examples/MinImagen)([doc](https://assemblyai-examples.github.io/MinImagen/)): a minimal implementation of the imagen text-to-image model.
+    - [Modelverse](https://github.com/generative-intelligence-lab/modelverse): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
   * NeRF
     - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf)
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
