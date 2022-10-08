@@ -260,4 +260,5 @@
       - [一文详解基于流的深度生成模型](https://mp.weixin.qq.com/s/ctVotHXiO7QRPju_dnssFA)
       - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼](https://spaces.ac.cn/archives/9119)
       - [生成扩散模型漫谈（二）：DDPM = 自回归式VAE](https://spaces.ac.cn/archives/9152)
+    - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
 </br>
