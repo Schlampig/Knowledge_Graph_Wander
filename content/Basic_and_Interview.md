@@ -110,6 +110,11 @@
   * author: Daniel Bourke
   * keywords: setup pytorch on mac/apple silicon plus a few benchmarks.
 
+### How to eat Pytorch in 20 days ?
+  * link: https://github.com/lyhue1991/eat_pytorch_in_20_days
+  * author: lyhue1991
+  * keywords: 本书假定读者有一定的机器学习和深度学习基础，使用过Keras或TensorFlow或Pytorch搭建训练过简单的模型。
+
 ### PyTorch Lightning
   * link: https://github.com/PyTorchLightning/pytorch-lightning
   * website: https://www.pytorchlightning.ai/#grid-section
