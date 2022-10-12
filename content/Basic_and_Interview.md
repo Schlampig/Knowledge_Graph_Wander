@@ -438,6 +438,12 @@
   * author: Breck Yunits
   * keywords: PLDB is a public domain database and blog containing over 100,000 facts about over 4,000 programming languages. This repo contains the entire database, blog, and code for PLDB.
 
+### CS 自学指南
+  * link: https://github.com/PKUFlyingPig/cs-self-learning
+  * homepage: https://csdiy.wiki/
+  * author: PKUFlyingPig
+  * keywords: computer science self-learning repository.
+
 ---
 ## Research
 
