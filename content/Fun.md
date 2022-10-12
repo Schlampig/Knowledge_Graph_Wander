@@ -269,7 +269,8 @@
       - [hakurei的开源](https://huggingface.co/hakurei/waifu-diffusion)
       - [Waifu Diffusion Demo (Huggingface试玩)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
     - Stable-Diffusion(NovelAI ver.)
-      - [latent-diffusion](https://github.com/CompVis/latent-diffusion)
+      - [latent-diffusion](https://github.com/CompVis/latent-diffusion) by [CompVis](https://github.com/CompVis)
+      - [stable-diffusion](https://github.com/CompVis/stable-diffusion) by [CompVis](https://github.com/CompVis)
       - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
   * Text-to-Video
