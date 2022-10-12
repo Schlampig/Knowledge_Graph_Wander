@@ -268,6 +268,8 @@
       - [ChromedSets的推](https://twitter.com/ChromedSets)和[教程](https://t.co/7OFDObN5K8)
       - [hakurei的开源](https://huggingface.co/hakurei/waifu-diffusion)
       - [Waifu Diffusion Demo (Huggingface试玩)](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo)
+    - Stable-Diffusion(NovelAI ver.)
+      - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
