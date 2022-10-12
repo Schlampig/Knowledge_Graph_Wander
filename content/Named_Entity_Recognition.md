@@ -114,3 +114,9 @@
 ### RICON
   * [paper](https://arxiv.org/abs/2204.05544): Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition
   * blog: [NAACL2022 NER SOTA—RICON学习笔记](https://mp.weixin.qq.com/s/V5_-2MsH5VaZxbDRakJ3dg)
+
+### W2NER
+  * [paper](https://arxiv.org/pdf/2112.10070.pdf): Unified Named Entity Recognition as Word-Word Relation Classification
+  * link: https://github.com/ljynlp/W2NER
+  * author: Jingye Li
+  * note: source code & datasets for author's AAAI 2022 paper
