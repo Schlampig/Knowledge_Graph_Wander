@@ -42,6 +42,11 @@
   * author: PhosphorylatedRabbits
   * note: tools to scrape publication metadata from pubmed, arxiv, medrxiv and chemrxiv.
 
+### arxiv2latex
+  * link: https://github.com/liuyixin-louis/arxiv2latex
+  * author: Yixin Liu
+  * note: download the source latex code of multiple arxiv paper with one click.
+
 ### magical_spider
   * link: https://github.com/lixi5338619/magical_spider
   * author: 李玺
