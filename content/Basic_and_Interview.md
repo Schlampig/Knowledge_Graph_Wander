@@ -483,6 +483,11 @@
   * author: Papers with code
   * keywords: ai conference deadline countdowns.
 
+### Conference-Acceptance-Rate
+  * link: https://github.com/lixin4ever/Conference-Acceptance-Rate
+  * author: LI XIN
+  * keywords: statistics of acceptance rate for the main AI conferences.
+
 ### CSrankings
   * homepage: csrankings.org
   * link: https://github.com/emeryberger/CSrankings
