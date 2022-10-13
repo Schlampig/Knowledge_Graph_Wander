@@ -137,7 +137,7 @@
 ### Music & Instrument & Voice
   * [DANGO](https://dango.ai/)（试用&付费）: 团子AI-人工智能提取伴奏人声.
   * [声音汇](http://www.sound-club.cn/): 普惠长笛教学，一站式乐器购买平台。
-  * [国际乐谱库](https://cn.imslp.org/wiki/%E9%A6%96%E9%A1%B5).
+  * [国际乐谱库](https://cn.imslp.org/wiki/%E9%A6%96%E9%A1%B5)（[使用教程](https://mp.weixin.qq.com/s/ddqxArf-u31lmkRpos0mUA)）.
   * [OMNIZART](https://github.com/Music-and-Culture-Technology-Lab/omnizart):a python library that aims for democratizing automatic music transcription, i.e., acoustic music to midi-format file.
   * [AIComposer](https://github.com/MatthewAwesome/AIComposer): [MIDI Mashups: Using Machine Learning to Generate Unique Musical Scores](https://medium.com/swlh/midi-mashups-using-machine-learning-to-generate-unique-musical-scores-6041b6270883).
   * [music21](https://web.mit.edu/music21/doc/index.html): a python-based toolkit for computer-aided musicology.
