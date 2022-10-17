@@ -31,6 +31,7 @@
   * [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/SH2FaDZH6lw8hy3Ym8esTw), [交互模型你快跑，双塔要卷过来了](https://mp.weixin.qq.com/s/jFQWOVnDZHdvSAOKafbDqw)
   * [两万字聊对话系统](https://mp.weixin.qq.com/s/M7NkxMYVPcgTYLqp07ocuA)
   * [一文详解文本语义相似度的研究脉络和最新进展](https://mp.weixin.qq.com/s/qxYz_n_UM2lWhaz1YBhXYw)
+  * [搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/emYOMZKE8jX0UaorwalPug)
 
 ### Searching / Recommending Matching Methods
   * Model Collections
