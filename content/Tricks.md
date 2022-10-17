@@ -24,6 +24,8 @@
   * FreeLB (Free Large-Batch)
 
 ### Attention
+  * Survey
+    - blog: [各种各样神奇的自注意力机制（Self-attention）变形](https://mp.weixin.qq.com/s/HRRS5Piy_SsZy41WYg-H8Q)
   * DIN & DIEN
     - blog: [DIN+DIEN，机器学习唯一指定涨点技Attention](https://mp.weixin.qq.com/s/oRoy82I_8S7uvMToMouIeQ)
   
@@ -45,6 +47,7 @@
 ### Data Augmentation
   * Survey
     - blog: [一篇就够！数据增强方法综述](https://mp.weixin.qq.com/s/HPItY9xXJcOZWisBGOrkSw)
+    - blog: [KDD 2022 | 如何正使用数据增强提高模型鲁棒性？](https://mp.weixin.qq.com/s/FKo3xF8JJ90PuobMs-mevQ)
   * SDE
   * EDA
   * FlipDA: [为大模型定制的数据增强方法FlipDA，屠榜六大NLU 数据集！](https://mp.weixin.qq.com/s/EcC8naSuNrTNQf0Es32YHQ)
