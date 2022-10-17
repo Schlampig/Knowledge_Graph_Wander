@@ -33,6 +33,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [NLP Prompt系列——Prompt Engineering方法详细梳理](https://mp.weixin.qq.com/s/aubMldgEBCLa6iLfifoVgw) | AINLP AINLP 2022年10月09日
     - [ACL‘22杰出论文：Prompt范式有bug！](https://mp.weixin.qq.com/s/mgXEZgXyPfW5vg_6kigwmA) | python 夕小瑶的卖萌屋 2022年07月10日 （[paper](https://aclanthology.org/2022.acl-long.556.pdf)）
     - [总结|Prompt在NER场景的应用](https://mp.weixin.qq.com/s/ExkKWV3GwbmNSU-AVseyeg) | 刘聪NLP NLP工作站 2022年05月22日
     - [Prompt learning系列之训练策略篇](https://mp.weixin.qq.com/s/qxEqO0OUbQs-sM0zbAi3Lg) | AINLP 2022年05月01日 转载
