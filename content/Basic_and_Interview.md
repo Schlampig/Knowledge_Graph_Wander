@@ -509,6 +509,8 @@
   * link: https://github.com/google-research/arxiv-latex-cleaner
   * author: google-research
   * keywords: easily clean the LaTeX code of your paper to submit to arXiv.
+  * extra:
+    - [cvpr-latex-template](https://github.com/apoorvkh/cvpr-latex-template): extended LaTeX template for CVPR/ICCV papers.
 
 ### CNSurvey：中文综述文章列表（自然语言处理&机器学习）
   * link: https://github.com/NiuTrans/CNSurvey
