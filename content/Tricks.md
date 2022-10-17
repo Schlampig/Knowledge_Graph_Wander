@@ -95,6 +95,11 @@
 ### Finetune
   * [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583?context=cs.CL)
 
+### Imbalanced Problem
+  * Survey
+    - blog:
+      - [NLP实战|文本分类之样本不均衡处理及模型鲁棒性提升trick总结](https://mp.weixin.qq.com/s/mshop9mWDziqg9QwAyPD0Q)
+
 ### Label-Focused
   * Mix-up / [AutoMix](https://mp.weixin.qq.com/s/lOeamPcQ_I870j4xXk8EKg)
   * Label Smoothing (Soft Label)
