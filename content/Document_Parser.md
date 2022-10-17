@@ -14,6 +14,8 @@
   * PDFlib:[official homepage (not free)](https://www.pdflib.com/)
   * pdfminer: [pypi](https://pypi.org/project/pdfminer/)/[doc](https://euske.github.io/pdfminer/index.html)
   * PdfPasswordRemover: [code](https://github.com/SeppPenner/PdfPasswordRemover)
+  * pdfplumber: [pypi](https://pypi.org/project/pdfplumber/)/[code](https://github.com/jsvine/pdfplumber)
+  * pdf2docx: [pypi](https://pypi.org/project/pdf2docx/)/[code](https://github.com/dothinking/pdf2docx)
   * pdftotext: [pypi](https://pypi.org/project/pdftotext/)/[code](https://github.com/jalan/pdftotext)
   * pdfx: [pypi](https://pypi.org/project/pdfx/1.3.0/)/[doc](https://www.metachris.com/pdfx/)
   * PyMuPDF: [code](https://github.com/pymupdf/PyMuPDF)/[news](https://mp.weixin.qq.com/s/BJphKWPpl5UxDdbRV89GuQ)
