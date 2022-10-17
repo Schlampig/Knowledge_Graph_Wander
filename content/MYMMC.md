@@ -142,6 +142,7 @@
     - [2022年08月13日：人工智能有大事发生，LeCun也转型了](https://mp.weixin.qq.com/s/yL7vaQfTFOEsXF-DZOIUzA)
     - [2022年09月24日：Gary Marcus：文本生成图像系统理解不了世界，离 AGI 还差得远](https://mp.weixin.qq.com/s/DfcjZJCw4xyg4SLBPBSOsA)
     - [2022年09月26日：LeCun再炮轰Marcus： 他是心理学家，不是搞AI的](https://mp.weixin.qq.com/s/QTjZSZxrn3Z_pbiLiGXcPQ)
+    - [2022年10月14日：Yann LeCun：大模型方向错了，智力无法接近人类](https://mp.weixin.qq.com/s/HolU4FQSra_DpZtINic98Q)
   - [2022年06月12日：谷歌研究员走火入魔事件曝光：认为AI已具备人格，被罚带薪休假，聊天记录让网友San值狂掉](https://mp.weixin.qq.com/s/FpXW9AyharQMrLVf6v69IA)
     - [2022年06月14日：谷歌AI具有意识？LaMDA像个聪明孩子？专家：胡扯](https://mp.weixin.qq.com/s/kHhI3bL29yygDdBP8ELeuw)
     - [2022年06月01日：研究者意外发现DALL-E 2在用自创语言生成图像：全文黑话，人类都看不懂](https://mp.weixin.qq.com/s/IJBMPfKHy1d1KnfV4vt-oQ)
