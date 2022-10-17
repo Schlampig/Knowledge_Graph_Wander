@@ -80,6 +80,7 @@
 
 ### OpenPrompt
   * link: https://github.com/thunlp/OpenPrompt
+  * homepage: https://thunlp.github.io/OpenPrompt/
   * author: THUNLP
   * note: an open-source toolkit for prompt-learning.
 
