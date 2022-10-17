@@ -141,6 +141,8 @@
     - REINA([paper](https://arxiv.org/abs/2203.08773)/[code](https://github.com/microsoft/REINA)): [微软发现了一个超简单的NLP上分技巧，还发了ACL2022 ？？](https://mp.weixin.qq.com/s/koUKcfIozcl2zYeVzGj9wA)
   * Prompt
     - [哄一哄能让GPT-3准确率暴涨61%！谷歌&东京大学研究震惊四座](https://mp.weixin.qq.com/s/jDqaL6d2UCeY_8usXszkJg)
+  * Unlearning
+    - [模型会忘了你是谁吗？两篇Machine Unlearning顶会论文告诉你什么是模型遗忘](https://mp.weixin.qq.com/s/7J8sB5EBe_hsQqNYWyrDvg)
 
 ### Regularization
   * [如何用正则化防止模型过拟合？](https://mp.weixin.qq.com/s/5leQpMrdby5e9P6xCtE7mQ)
