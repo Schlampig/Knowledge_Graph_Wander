@@ -59,6 +59,8 @@
       - [深度神经网络模型蒸馏Distillation](https://zhuanlan.zhihu.com/p/71986772)
       - [简单实现知识蒸馏 (Knowledge Distill)](https://mp.weixin.qq.com/s/vFuCj5JoXOV3WTU_eQpClA)
     - [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+  * Dataset Distillation
+    - [一个项目帮你了解数据集蒸馏Dataset Distillation](https://mp.weixin.qq.com/s/tSKQoOLJhmdtAjxvH6z8cw) 
 
 ### Distribution / Parallel
   * Survey
