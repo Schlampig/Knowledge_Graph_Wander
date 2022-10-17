@@ -275,6 +275,7 @@
       - [stable-diffusion](https://github.com/CompVis/stable-diffusion) by [CompVis](https://github.com/CompVis)
       - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
+    - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
