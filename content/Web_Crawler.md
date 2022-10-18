@@ -51,3 +51,8 @@
   * link: https://github.com/lixi5338619/magical_spider
   * author: 李玺
   * note: 神奇的蜘蛛🕷，一个几乎适用于所有web端站点的采集方案.
+
+### Newspaper3k
+  * link: https://github.com/codelucas/newspaper
+  * author: Lucas Ou-Yang
+  * note: news, full-text, and article metadata extraction in python 3.
