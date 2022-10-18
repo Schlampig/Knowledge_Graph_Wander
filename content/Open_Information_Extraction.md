@@ -74,3 +74,8 @@
   * link: https://github.com/gabrielStanovsky/oie-benchmark
   * author: Gabriel Stanovsky
   * note: framework for converting QA-SRL to Open-IE and evaluating Open IE parsers.
+
+### PyTorch-IE
+  * link: https://github.com/ChristophAlt/pytorch-ie
+  * author: Christoph Alt
+  * note: state-of-the-art information extraction in pytorch.
