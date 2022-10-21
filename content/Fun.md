@@ -41,6 +41,7 @@
     - [emoji](https://github.com/leereilly/emoji) by [Lee Reilly](https://github.com/leereilly): 可在Markdown使用的开源emoji素材库.
     - [Emoji大全](https://www.emojidaquan.com/)
     - [Emoji](https://github.com/carpedm20/emoji): emoji terminal output for python.
+    - [Your3dEmoji](https://github.com/41xu/Your3dEmoji)
     - [Fluentui-Emoji](https://github.com/microsoft/fluentui-emoji): a collection of familiar, friendly, and modern emoji from microsoft.
     - [WikiEmoji](https://wikiemoji.org/zh)
   * ICON
@@ -122,6 +123,7 @@
   * [pua-lang](https://github.com/flaneur2020/pua-lang): a dialect of The Monkey Programming Language.
   * [智能创作助手](https://effidit.qq.com/en) with [paper](https://arxiv.org/abs/2208.01815).
   * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
+  * [Twinejs](https://github.com/klembot/twinejs): a tool for telling interactive, nonlinear stories.
 </br>
 
 ### Math & Computer
@@ -147,6 +149,9 @@
     - [Converting MIDI to traditional music score: A comparison of music notation software](https://www.skytopia.com/project/articles/notation.html)
     - [How to Convert MIDI to Sheet Music (Free and Paid Options)](https://www.musicianwave.com/midi-to-sheet-music/)
     - [Pure python library for MIDI to Score (Notes) and/or Audio Translation](https://stackoverflow.com/questions/14539093/pure-python-library-for-midi-to-score-notes-and-or-audio-translation)
+  * Text-to-Music
+    - [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
+    - [Museformer](https://arxiv.org/abs/2210.10349): Transformer with Fine- and Coarse-Grained Attention for Music Generation.
 </br>
 
 ### Recommender system
@@ -276,8 +281,11 @@
       - [latent-diffusion](https://github.com/CompVis/latent-diffusion) by [CompVis](https://github.com/CompVis)
       - [stable-diffusion](https://github.com/CompVis/stable-diffusion) by [CompVis](https://github.com/CompVis)
       - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+      - [Stability.AI Easy Diffusion](https://github.com/WASasquatch/easydiffusion)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
-    - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
+    - CV-oriented Search Engine
+      - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
+      - [StockAI](https://www.stockai.com/): 新型AI图片库，会根据你的查询自动创建图片，可免费下载。
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
