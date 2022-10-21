@@ -258,6 +258,7 @@
     - [Awesome-Transformer-in-CV](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV)
     - [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
     - [VIT-Pytorch](https://github.com/lucidrains/vit-pytorch)
+    - [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/abs/2210.09263)
   * Diffusion Model
     - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#forward-diffusion-process)
     - [Diffusion Models专栏文章汇总：入门与实战](https://zhuanlan.zhihu.com/p/513387691)
