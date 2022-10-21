@@ -267,6 +267,7 @@
     - [diffusers](https://github.com/huggingface/diffusers)
     - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
     - [diffusion_tutorial](https://github.com/sunlin-ai/diffusion_tutorial): 扩散模型实例教程集
+    - [从大一统视角理解扩散模型（Diffusion Models）](https://mp.weixin.qq.com/s/-BdBN4hT3orVjPYokOzALA)
     -  paper:
       - [Understanding Diffusion Models: A Unified Perspective](https://www.arxiv-vanity.com/papers/2208.11970/)
     - All about Flow
