@@ -155,7 +155,9 @@
   * link: http://www.huaxiaozhuan.com/
   * author: huaxiaozhuan (huaxz1986@163.com/github.com/huaxz1986)
   * keywords: machine learning and deep learning lessons
-  * extra: [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas
+  * extra: 
+    - [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas
+    - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine LearningAlgebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by Jean Gallier and Jocelyn Quaintance.
 
 ### 深度学习工程师生存指南
   * link: https://github.com/ypwhs/dl-engineer-guidebook
@@ -216,6 +218,11 @@
 ### 100 Lectures on Machine Learning
   * link: https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/?continueFlag=893a2577a04a257068ec62dd2fa7ec33
   * keywords: a collection of course material from various [courses](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) that were taught on machine learning at UBC.
+
+### 机器学习系统：设计和实现
+  * link: https://github.com/openmlsys/openmlsys-zh
+  * book(web): https://openmlsys.github.io/ 
+  * keywords: 《Machine Learning Systems: Design and Implementation》Chinese Version，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
 ### AI-EDU
   * link: https://github.com/microsoft/ai-edu
