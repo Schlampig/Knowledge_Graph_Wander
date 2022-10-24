@@ -229,7 +229,7 @@
   * [paper](https://arxiv.org/pdf/1910.10683.pdf): Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). *Exploring the limits of transfer learning with a unified text-to-text transformer*. J. Mach. Learn. Res., 21(140), 1-67.
   * [tutorial](https://huggingface.co/docs/transformers/model_doc/t5)
   * extra:
-    - [mT5]: 
+    - mT5: 
       - [paper](https://arxiv.org/pdf/2010.11934.pdf): mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer.
       - [code](https://github.com/google-research/multilingual-t5)
     - ByT5:
