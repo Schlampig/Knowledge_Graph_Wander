@@ -224,6 +224,21 @@
   * [paper](https://arxiv.org/pdf/1910.13461.pdf): Lewis, M. , Liu, Y. , Goyal, N. , Ghazvininejad M. , Mohamed A. , Levy O. , Stoyanov, V. , & Zettlemoyer, L. . (2019). *BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension*.
   * extra: [BARTScore](https://github.com/neulab/BARTScore)
 
+### T5
+  * [code](https://github.com/google-research/t5x/blob/main/docs/models.md)
+  * [paper](https://arxiv.org/pdf/1910.10683.pdf): Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). *Exploring the limits of transfer learning with a unified text-to-text transformer*. J. Mach. Learn. Res., 21(140), 1-67.
+  * [tutorial](https://huggingface.co/docs/transformers/model_doc/t5)
+  * extra:
+    - [mT5]: 
+      - [paper](https://arxiv.org/pdf/2010.11934.pdf): mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer.
+      - [code](https://github.com/google-research/multilingual-t5)
+    - ByT5:
+      - [paper](https://aclanthology.org/2022.tacl-1.17/): ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models.
+    - TabT5: 
+      - [paper](https://arxiv.org/abs/2210.09162): Table-To-Text generation and pre-training with TabT5.
+    - Flan-T5: 
+      - [paper](https://arxiv.org/abs/2210.11416): Scaling Instruction-Finetuned Language Models.
+
 ### ZEN
   * [paper](https://arxiv.org/abs/1911.00720): Diao, S. , Bai, J. , Song, Y. , Zhang, T. , & Wang, Y. . (2019). Zen: pre-training chinese text encoder enhanced by n-gram representations.
   * code: https://github.com/sinovation/ZEN
