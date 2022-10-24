@@ -8,3 +8,8 @@
   * link: https://github.com/shibing624/textgen
   * author: shibing624
   * note: implementation of text generation models such as UDA、GPT2、Seq2Seq、BART、T5...
+
+### Minimal Text Diffusion
+  * link: https://github.com/madaan/minimal-text-diffusion
+  * author: Aman Madaan
+  * note: a minimal implementation of diffusion models for text generation.
