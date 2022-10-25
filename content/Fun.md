@@ -60,6 +60,8 @@
     - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
     - [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
     - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark): python library for invisible image watermark (blind image watermark).
+  * UI
+    - [Textual](https://textual.textualize.io/) with [code](https://github.com/Textualize/textual): a TUI (Text User Interface) framework for python inspired by modern web development.
 </br>
 
 ### Book
