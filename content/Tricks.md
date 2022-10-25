@@ -103,7 +103,7 @@
 ### Label-Focused
   * Mix-up / [AutoMix](https://mp.weixin.qq.com/s/lOeamPcQ_I870j4xXk8EKg)
   * Label Smoothing (Soft Label)
-  * CAN
+  * [CAN](https://wmathor.com/index.php/archives/1589/)
 
 ### Lookahead
 
