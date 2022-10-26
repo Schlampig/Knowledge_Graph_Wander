@@ -238,6 +238,9 @@
       - [paper](https://arxiv.org/abs/2210.09162): Table-To-Text generation and pre-training with TabT5.
     - Flan-T5: 
       - [paper](https://arxiv.org/abs/2210.11416): Scaling Instruction-Finetuned Language Models.
+      - blog:
+        - [2022年：谷歌Flan-T5诞生！1800种语言任务超大规模微调](https://mp.weixin.qq.com/s/AI-8YfNgs2gz2Xj-n-8RMg)
+        - [2022年：30亿跑赢GPT-3的1750亿，谷歌新模型引热议，然而却把Hinton年龄搞错了](https://mp.weixin.qq.com/s/oW9tU7vJvMRxPcpkbofsMQ)
 
 ### ZEN
   * [paper](https://arxiv.org/abs/1911.00720): Diao, S. , Bai, J. , Song, Y. , Zhang, T. , & Wang, Y. . (2019). Zen: pre-training chinese text encoder enhanced by n-gram representations.
