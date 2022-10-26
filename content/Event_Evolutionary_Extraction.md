@@ -17,7 +17,10 @@
   * [paper](http://www.cnki.com.cn/Article/CJFDTotal-WXAQ201706004.htm): 李英俊, 张宏莉, & 王星. (2017). 基于新闻事件片段的时序关系识别方法. 网络与信息安全学报(06), 37-45.
   * [paper](http://www.cnki.com.cn/Article/CJFDTOTAL-QBZZ201707018.htm): 何绯娟, 杨宽, 缪相林, & 高建忠. (2017). 基于要素图的舆情事件线索化方法研究. 情报杂志(07), 105-108.
   * [paper](http://www.cnki.com.cn/Article/CJFDTOTAL-QHXB201710006.htm): 李培峰, 黄一龙, & 朱巧明. (2017). 使用全局优化方法识别中文事件因果关系. 清华大学学报(自然科学版)(10), 37-42.
-  
+
+### Blog
+  * [2022年10月26日：“事理图谱”术语发布](https://mp.weixin.qq.com/s/s-RLF6bPivHK5RsOU5A2lw)
+
 ### 首届事理图谱研讨会
   * Date: 2019-07-20
   * Location:  Room 214 in Student Center, Harbin Institute of Technology, Harbin, China
