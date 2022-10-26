@@ -286,6 +286,14 @@
       - [stable-diffusion](https://github.com/CompVis/stable-diffusion) by [CompVis](https://github.com/CompVis)
       - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
       - [Stability.AI Easy Diffusion](https://github.com/WASasquatch/easydiffusion)
+      - blog:
+        - [2022年10月25日：靠AI六小时开发出游戏Demo，剧本绘画配音一条龙，网友：新概念3“A”大作](https://mp.weixin.qq.com/s/sNIsDGF5gwOMwQVIkOeQPA)
+        - [2022年10月23日：Stable Diffusion新玩法，一句话帮你换图，网友魔改《戴珍珠耳环的少女》长这样](https://mp.weixin.qq.com/s/HhXLPDKxj-2spfQA_Nk0NQ)
+        - [2022年10月22日：浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/r8_bO_yCIeV-Oi_j9ROClw)
+        - [2022年10月21日：卷！MIT提出泊松流生成模型击败扩散模型，兼顾质量与速度](https://mp.weixin.qq.com/s/6YyCQ747VxqEwtqgIFcK9g)
+        - [2022年10月20日：从多篇论文看扩散模型在文本生成领域的应用](https://mp.weixin.qq.com/s/kDshGJcdpbjtXg9O1Y17EQ)
+        - [2022年10月20日：最时髦的AI画画，一文包教包会](https://mp.weixin.qq.com/s/hiuGo4Qj1xYiePzab-nd3A)
+        - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - CV-oriented Search Engine
       - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
