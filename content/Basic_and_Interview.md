@@ -180,6 +180,12 @@
   * author: ctgk
   * keywords: Pattern Recognition and Machine Learning (PRML) algorithms implemented in Python
 
+### 自然语言处理：基于预训练模型的方法
+  * link: https://github.com/HIT-SCIR/plm-nlp-code
+  * author: HIT-SCIR
+  * keywords: 用于存放[《自然语言处理：基于预训练模型的方法》](https://item.jd.com/13344628.html)（作者：车万翔、郭江、崔一鸣）一书各章节的示例代码。
+  * extra: [HuggingFace简明教程](https://www.bilibili.com/video/BV1a44y1H7Jc/?p=2&share_source=copy_web&vd_source=4efd4f95cba6924d99bff4c66cd37a18)
+
 ### AI learning
  * link: https://github.com/apachecn/AiLearning
  * author: Apache CN
