@@ -184,6 +184,7 @@
 ### Vision
   * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) by [SerialLain3170](https://github.com/SerialLain3170)
   * [Text2All](https://github.com/AvrahamRaviv/Text2All): a comprehensive list of resources about text-guided generative models.
+  * [满足你的各种绘图需求，生成式AI的8种新玩法](https://mp.weixin.qq.com/s/aGf9_nF-Y2S6v9ekVHo4gA)
   * Neural Style Transfer
     - [AI-Art](https://github.com/Adi-iitd/AI-Art): about PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream.
     - [deepdream](https://github.com/google/deepdream) and its various approaches/tutorials: [pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream), [neural-dream](https://github.com/ProGamerGov/neural-dream), [deep-dream-pytorch](https://github.com/wmn7/ML_Practice/blob/master/2019_05_27/deep-dream-pytorch.ipynb).
