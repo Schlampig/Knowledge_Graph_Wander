@@ -10,6 +10,8 @@
   * [**BigScience Workshop**](https://github.com/bigscience-workshop): [bigscience.io](https://bigscience.huggingface.co/)
   * [**BLCU-ICALL**](https://github.com/blcuicall): ICALL Research Group at Beijing Language and Culture University
   * [**CompVis Heidelberg**](https://github.com/CompVis): [Heidelberg Collaboratory for Image Processing (HCI)](https://hci.iwr.uni-heidelberg.de/)
+  * [**Data Mining Lab, Xiamen University**](https://github.com/XMUDM)
+  * [**Deep Cognition and Language Research (DeCLaRe) Lab**](https://github.com/declare-lab): [homepage](https://declare-lab.net/)
   * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
   * [**Generative Intelligence Lab**](https://github.com/generative-intelligence-lab)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
