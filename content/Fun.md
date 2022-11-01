@@ -87,6 +87,7 @@
   * [Go-Course](https://github.com/karanpratapsingh/go-course) by Karan Pratap Singh: master the fundamentals and advanced features of the Go programming language.
   * [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) by [凹语言™ ](https://github.com/wa-lang): µGo语言实现(从头开发一个迷你Go语言编译器)，使用Go版本与Rust版本。
   * [OneFile](https://github.com/521xueweihan/OneFile): 汇集了仅一个文件，好玩的开源项目，访问[页面](https://hellogithub.com/onefile/)。
+  * [深入理解函数式编程（上）](https://mp.weixin.qq.com/s/XTXnTPAbK1ipaHIsUD2kBQ), [深入理解函数式编程（下）](https://mp.weixin.qq.com/s/2a2PZkGq0eKd7ee7HnHpoQ)。
 </br>
 
 ### Culture & History
