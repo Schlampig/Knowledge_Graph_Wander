@@ -68,10 +68,10 @@
   * website: https://www.cnblogs.com/sandwichnlp/p/11698996.html#textrcnn
   * note: TextRNN, TextCNN, TextRCNN, Highway, Attention for sentimental classification.
 
-### chinese-sentiment-classification
-  * link: https://github.com/xalanq/chinese-sentiment-classification
-  * author: Alan Clarke
-  * note: MLP, CNN, RNN in PyTorch.
+### Pretty-Pytorch-Text-Classification
+  * link: https://github.com/HarryHe11/Pretty-Pytorch-Text-Classification
+  * author: Haorui HE
+  * note: a (very pretty) template for text classification model training/validating/testing.
 
 ### CleanLab :wrench:
   * link: https://github.com/cleanlab/cleanlab
