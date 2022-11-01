@@ -129,6 +129,7 @@
 </br>
 
 ### Math & Computer
+  * [谷歌、OpenAI学者谈AI：语言模型正在努力「攻克」数学](https://mp.weixin.qq.com/s/vAmpymJvkK8HRWFFCjMyiw)
   * [50年后，矩阵乘法迎来全新突破！](https://mp.weixin.qq.com/s/VhIyZ3Q5Px2u0rkShamnAA)
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
   * [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
