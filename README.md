@@ -51,6 +51,7 @@
   * [Keywords Extraction/Detection](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Keywords_Extraction.md)
   * [Text Mining](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Mining.md) [(Parser Tools)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Parser.md)
   * [Text Classification](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Classification.md)
+  * [Emotion/Sentiment Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Emotion_Recognition.md)
   * [Text Generation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Generation.md)
 
 ### Graph Operation
