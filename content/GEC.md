@@ -55,3 +55,10 @@
   * link: https://github.com/PrithivirajDamodaran/Gramformer
   * author: Prithiviraj Damodaran
   * note: a framework for detecting, highlighting and correcting grammatical errors on natural language text. 
+
+### SynGEC
+  * link: https://github.com/HillZhang1999/SynGEC
+  * [paper](https://arxiv.org/abs/2210.12484): SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser
+  * author: Yue Zhang
+  * blog:
+    - [EMNLP'22 | 苏大LAGroup提出：利用定制句法信息的语法纠错](https://mp.weixin.qq.com/s/Y1iMxfhJ9xMKiOE9e8P7Rw) 
