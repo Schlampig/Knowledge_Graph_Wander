@@ -50,8 +50,10 @@
 
 ### Data Augmentation
   * Survey
-    - blog: [一篇就够！数据增强方法综述](https://mp.weixin.qq.com/s/HPItY9xXJcOZWisBGOrkSw)
-    - blog: [KDD 2022 | 如何正使用数据增强提高模型鲁棒性？](https://mp.weixin.qq.com/s/FKo3xF8JJ90PuobMs-mevQ)
+    - blog: 
+      - [一篇就够！数据增强方法综述](https://mp.weixin.qq.com/s/HPItY9xXJcOZWisBGOrkSw)
+      - [KDD 2022 | 如何正使用数据增强提高模型鲁棒性？](https://mp.weixin.qq.com/s/FKo3xF8JJ90PuobMs-mevQ)
+      - [文本分类日常提点技巧](https://mp.weixin.qq.com/s/X5ay3149owM88jEOQAuIEQ)
   * SDE
   * EDA
   * FlipDA: [为大模型定制的数据增强方法FlipDA，屠榜六大NLU 数据集！](https://mp.weixin.qq.com/s/EcC8naSuNrTNQf0Es32YHQ)
