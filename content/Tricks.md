@@ -16,6 +16,10 @@
 
 ---
 
+### Auto Compression Toolkit
+  * Survey
+    - blog: [BERT压缩加速622%，ERNIE压缩加速637%，这款开源自动压缩工具必须收藏！](https://mp.weixin.qq.com/s/hWkfQQh8e34eXkUmoQfyaQ)
+
 ### Adversarial Training
   * Survey
     - blog: [一文搞懂NLP中的对抗训练FGSM/FGM/PGD/FreeAT/YOPO/FreeLB/SMART](https://zhuanlan.zhihu.com/p/103593948)
@@ -130,7 +134,9 @@
 
 ### Parallelism
   * Survey
-    - blog: [大规模模型训练tricks集锦](https://mp.weixin.qq.com/s/p99u10YOODDmZQPN0lc03w)
+    - blog: 
+      - [Huge and Efficient! 一文了解大规模预训练模型高效训练技术](https://mp.weixin.qq.com/s/tycN-nL0hPrRqtO1WuXdOw)
+      - [大规模模型训练tricks集锦](https://mp.weixin.qq.com/s/p99u10YOODDmZQPN0lc03w)
 
 ### Pre-Finetune
   * Survey
