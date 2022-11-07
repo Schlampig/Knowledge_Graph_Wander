@@ -1,6 +1,7 @@
 ## **Emotion/Sentiment Recognition**
 
 ### Blog
+  * [2022年11月02日：NAACL 2022 Findings论文：社交媒体上的抱怨强度分析](https://mp.weixin.qq.com/s/T8wqLk31MPEGrfHk3jhJaw)
   * [2022年10月27日：情感词库构建代表工作详解：多维度、细粒度情感词库的核心思想与建设过程概述](https://mp.weixin.qq.com/s/mefUYQnTn8vdWV78c9lRBw)
 
 ### 简单的中文文本情感分类
