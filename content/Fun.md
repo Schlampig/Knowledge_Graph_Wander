@@ -130,6 +130,9 @@
 </br>
 
 ### Math & Computer
+  * [中山大学HCP Lab团队：AI解题新突破，神经网络推开数学推理大门](https://mp.weixin.qq.com/s/8y8ASoc469TOCFtP7MymFQ)
+  * [EMNLP2022论文：基于结构统一M叉编码树的数学问题求解器](https://mp.weixin.qq.com/s/IE9LRPFt2PkEmFTeMWSbAw)
+  * [AI挑战国际数学奥林匹克竞赛，Meta神经定理证明器拿到多项SOTA](https://mp.weixin.qq.com/s/n1zOPNKcshJsE2umROVWfA)
   * [谷歌、OpenAI学者谈AI：语言模型正在努力「攻克」数学](https://mp.weixin.qq.com/s/vAmpymJvkK8HRWFFCjMyiw)
   * [50年后，矩阵乘法迎来全新突破！](https://mp.weixin.qq.com/s/VhIyZ3Q5Px2u0rkShamnAA)
   * [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf): [卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://mp.weixin.qq.com/s/evIZTPGHDJlo8Xee20j56A)
@@ -156,6 +159,9 @@
   * Text-to-Music
     - [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
     - [Museformer](https://arxiv.org/abs/2210.10349): Transformer with Fine- and Coarse-Grained Attention for Music Generation.
+  * Speech Synthesis
+    - [浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/VLURxAGDozFWgbr0KWGbGA)
+    - [一文全面了解火山语音无监督预训练技术的落地实践](https://mp.weixin.qq.com/s/1cWkMut6e3VnPbFczVW7DA)
 </br>
 
 ### Recommender system
@@ -243,6 +249,7 @@
       - [open_clip](https://github.com/mlfoundations/open_clip)
       - [Chinese-CLIP](https://github.com/billjie1/Chinese-CLIP)
       - [CLIPasso](https://clipasso.github.io/clipasso/)
+      - ChieseClip: [中文「大大大大大」模型开源开放！从吟诗作画写代码到蛋白质预测全都有，源代码可编程API均奉上](https://mp.weixin.qq.com/s/CYy-Br_wxJhYeNu9xNlrtg)
     - [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
     - [Discoart](https://github.com/jina-ai/discoart): Create Disco Diffusion artworks in one line.
     - [PARTI](https://parti.research.google/)([code](https://github.com/google-research/parti)): Pathways Autoregressive Text-to-Image model.
@@ -280,6 +287,8 @@
       - [一文详解基于流的深度生成模型](https://mp.weixin.qq.com/s/ctVotHXiO7QRPju_dnssFA)
       - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼](https://spaces.ac.cn/archives/9119)
       - [生成扩散模型漫谈（二）：DDPM = 自回归式VAE](https://spaces.ac.cn/archives/9152)
+      - [生成扩散模型漫谈：统一扩散模型（理论篇）](https://mp.weixin.qq.com/s/vwytsN2PkM_P2dVhDi2wzw)
+      - [扩散模型初探：原理及应用](https://mp.weixin.qq.com/s/gQzQhg3UTns_qvT8ZkYtrw)
     - Waifu-Diffusion
       - [微博1](https://weibo.com/1757693565/M6bF4FQww?pagetype=profilefeed)，[微博2](https://weibo.com/1757693565/M8d3P6FNu?type=repost)
       - [ChromedSets的推](https://twitter.com/ChromedSets)和[教程](https://t.co/7OFDObN5K8)
@@ -291,6 +300,7 @@
       - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
       - [Stability.AI Easy Diffusion](https://github.com/WASasquatch/easydiffusion)
       - blog:
+        - [2022年11月04日：diffusion新高度！可一次性生成200张图？？](https://mp.weixin.qq.com/s/k5z4d_bz1N4s9b5DzRPKzQ)
         - [2022年10月25日：靠AI六小时开发出游戏Demo，剧本绘画配音一条龙，网友：新概念3“A”大作](https://mp.weixin.qq.com/s/sNIsDGF5gwOMwQVIkOeQPA)
         - [2022年10月23日：Stable Diffusion新玩法，一句话帮你换图，网友魔改《戴珍珠耳环的少女》长这样](https://mp.weixin.qq.com/s/HhXLPDKxj-2spfQA_Nk0NQ)
         - [2022年10月22日：浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/r8_bO_yCIeV-Oi_j9ROClw)
@@ -298,6 +308,10 @@
         - [2022年10月20日：从多篇论文看扩散模型在文本生成领域的应用](https://mp.weixin.qq.com/s/kDshGJcdpbjtXg9O1Y17EQ)
         - [2022年10月20日：最时髦的AI画画，一文包教包会](https://mp.weixin.qq.com/s/hiuGo4Qj1xYiePzab-nd3A)
         - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
+    - Stable-Diffusion(Chinese ver.)
+      - blog:
+        - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
+        - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - CV-oriented Search Engine
       - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
