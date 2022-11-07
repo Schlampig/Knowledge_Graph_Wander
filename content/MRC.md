@@ -18,6 +18,7 @@
 
 ### Variations
   * Common-Sense MRC/QA（常识型任务）
+    - QASC:[task](https://leaderboard.allenai.org/qasc)|[再下一城！HFL打破人类水平荣登常识推理挑战赛QASC榜首](https://mp.weixin.qq.com/s/b07jQvbaNll9aX5dNNr02A)
     - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[单模型常识推理首超人类！HFL登顶OpenBookQA挑战赛](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
   * Dialogue MRC/QA（对话型任务）
     - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
@@ -68,6 +69,7 @@
   - [NumNet+](https://leaderboard.allenai.org/drop/submission/bm60vq8f7g2p7t2ld0j0) & [NumNet+ v2](https://leaderboard.allenai.org/drop/submission/bmfuq9e0v32fq8pskug0): Machine Reading Comprehension with Numerical Reasoning.
   - [OpenBookQA]([https://leaderboard.allenai.org/open_book_qa/submissions/get-started](https://aclanthology.org/D18-1260.pdf)): A New Dataset for Open Book Question Answering.
   - [QAConv](https://github.com/salesforce/QAConv): **Q**uestion **A**nswering on Informative **Conv**ersations.
+  - [QASC](https://github.com/allenai/qasc): **Q**uestion **A**nswering via **S**entence **C**omposition.
   - [ReClor](https://arxiv.org/abs/2002.04326): A **Re**ading **C**omprehension Dataset Requiring **Lo**gical **R**easoning.
   - [SearchQA](https://arxiv.org/pdf/1704.05179.pdf): A New Q&A Dataset Augmented with Context from a Search Engine.
   - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The **S**tanford **Qu**estion **A**nswering **D**ataset (v1.1 & v2.0).
