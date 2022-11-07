@@ -48,10 +48,17 @@
 ---
 ## Search Codes
 
+### Huggingface.io
+  * link: https://huggingface.co/
+
 ### 机器之心SOTA!模型
   * link: https://sota.jiqizhixin.com/
   * author: 机器之心
   * note: 追踪AI技术进展，实践先进AI算法的社区
+
+### 魔塔社区
+  * link: https://modelscope.cn/home
+  * blog: [首批开源超300个顶尖模型：这几家中国「AI主力军」，合力打造了一个AI模型社区「魔搭」](https://mp.weixin.qq.com/s/wVpuJTmBmEvmW8O4cWvvKA)
 
 ### StateOfTheArt
   * link: https://www.stateoftheart.ai/
