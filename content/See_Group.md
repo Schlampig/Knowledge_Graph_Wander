@@ -153,6 +153,7 @@
     - [**文通科技(Wintone)**](https://www.wintone.com.cn/)
   * 科创孵化
     - [neoBay](https://neobay.cn/home/index): 零号湾|全球创新创业集聚区
+    - [ZIZHU High-Tech](https://www.zizhupark.com/): 紫竹国家高新技术产业开发区
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
