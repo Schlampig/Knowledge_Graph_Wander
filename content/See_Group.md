@@ -37,6 +37,7 @@
   * [**THUNLP**](https://github.com/thunlp): [清华大学自然语言处理实验室](http://nlp.csai.tsinghua.edu.cn/):thumbsup:
   * [**UKP**](https://github.com/UKPLab): [Ubiquitous Knowledge Processing Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp)
   * [**ZJUKG**](https://github.com/zjukg): 浙江大学知识图谱团队
+  * [**浙江清华长三角研究院**](https://www.tsinghua-zj.edu.cn/)
 <br>
 
 ### Company & Organization
