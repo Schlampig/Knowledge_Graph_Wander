@@ -151,6 +151,8 @@
   * 光学字符识别(OCR)
     - [**合合AI开放平台(INTSIG)**](https://ai.intsig.com/): [TextIn——一站式OCR服务平台](https://www.textin.com/)
     - [**文通科技(Wintone)**](https://www.wintone.com.cn/)
+  * 科创孵化
+    - [neoBay](https://neobay.cn/home/index): 零号湾|全球创新创业集聚区
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
