@@ -152,8 +152,9 @@
     - [**合合AI开放平台(INTSIG)**](https://ai.intsig.com/): [TextIn——一站式OCR服务平台](https://www.textin.com/)
     - [**文通科技(Wintone)**](https://www.wintone.com.cn/)
   * 科创孵化
+    - [CAOHE JING Hi-Tech Park](https://chj.shlingang.com/chj/home/): 漕河泾开发区
     - [neoBay](https://neobay.cn/home/index): 零号湾|全球创新创业集聚区
-    - [ZIZHU High-Tech](https://www.zizhupark.com/): 紫竹国家高新技术产业开发区
+    - [ZIZHU Hi-Tech Park](https://www.zizhupark.com/): 紫竹国家高新技术产业开发区
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
