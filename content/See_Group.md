@@ -155,6 +155,7 @@
     - [CAOHE JING Hi-Tech Park](https://chj.shlingang.com/chj/home/): 漕河泾开发区
     - [neoBay](https://neobay.cn/home/index): 零号湾|全球创新创业集聚区
     - [ZIZHU Hi-Tech Park](https://www.zizhupark.com/): 紫竹国家高新技术产业开发区
+    - [ZJ SCIENCE CITY](https://zjkxc.pudong.gov.cn/#/index): 张江科学城企业服务线上平台
   * 其他综合
     - [**数美科技**](https://www.ishumei.com/)
     - [**深信科创**](https://www.guardstrike.com/)
