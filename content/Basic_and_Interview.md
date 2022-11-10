@@ -596,3 +596,8 @@
   * edabit.com
   * codeforces.com
   * hackerearth.com 
+
+### Job Info website (薪酬待遇裁员查询网站)
+  * 职级对标（中国）：https://duibiao.info/
+  * 职级对标（国际）：https://www.levels.fyi/
+  * 裁员信息（国际）：https://layoffs.fyi/
