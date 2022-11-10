@@ -120,3 +120,9 @@
   * link: https://github.com/ljynlp/W2NER
   * author: Jingye Li
   * note: source code & datasets for author's AAAI 2022 paper
+
+### FSNER
+  * [paper](https://arxiv.org/abs/2008.10570): Example-Based Named Entity Recognition
+  * link: https://github.com/sayef/fsner
+  * author: Md Saiful I. Sayef
+  * note: a train-free few-shot learning approach inspired by question-answering.
