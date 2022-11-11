@@ -32,6 +32,10 @@
   * openpyxl: [pypi](https://pypi.org/project/openpyxl/)/[homepage](https://openpyxl.readthedocs.io/en/stable/index.html)/[doc](https://openpyxl.readthedocs.io/en/stable/)
   * xlwings: [pypi](https://pypi.org/project/xlwings/)/[homepage](https://www.xlwings.org/)/[doc](https://docs.xlwings.org/en/stable/index.html)
 
+### PPT
+  * pdf2pptx: [code](https://github.com/kevinmcguinness/pdf2pptx)
+  * beamer2pptx: [code](https://github.com/martinGithub/beamer2pptx)
+
 ### Markdown
   * md2report: [code](https://github.com/woolen-sheep/md2report)/[doc](https://woolen-sheep.github.io/md2report/)
   * pypandoc: [pypi](https://pypi.org/project/pypandoc/#installing-pandoc-manually)/[code](https://github.com/bebraw/pypandoc)
