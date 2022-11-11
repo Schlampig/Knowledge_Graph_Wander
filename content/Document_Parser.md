@@ -33,6 +33,7 @@
   * xlwings: [pypi](https://pypi.org/project/xlwings/)/[homepage](https://www.xlwings.org/)/[doc](https://docs.xlwings.org/en/stable/index.html)
 
 ### Markdown
+  * md2report: [code](https://github.com/woolen-sheep/md2report)/[doc](https://woolen-sheep.github.io/md2report/)
   * pypandoc: [pypi](https://pypi.org/project/pypandoc/#installing-pandoc-manually)/[code](https://github.com/bebraw/pypandoc)
   * Read the Docs: [official homepage ](https://readthedocs.org/)
 
