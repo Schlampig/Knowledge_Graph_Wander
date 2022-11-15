@@ -60,6 +60,7 @@
     - [Aquarel](https://github.com/lgienapp/aquarel): a lightweight templating engine and wrapper around Matplotlibs' rcparams to make styling plots simple. 
     - [CuteCharts](https://github.com/cutecharts): [又一款超酷的可视化神器](https://mp.weixin.qq.com/s/jYXFVvkDibzJMcVJQZ1GPA). 
     - [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark): python library for invisible image watermark (blind image watermark).
+    - [BertViz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.), see [intro](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1).
   * UI
     - [Textual](https://textual.textualize.io/) with [code](https://github.com/Textualize/textual): a TUI (Text User Interface) framework for python inspired by modern web development.
 </br>
