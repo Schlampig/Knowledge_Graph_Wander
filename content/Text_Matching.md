@@ -80,6 +80,9 @@
     - [paper](https://arxiv.org/pdf/2204.07120.pdf): Exploring Dual Encoder Architectures for Question Answering
     - further reading
       - [双塔模型的最强出装，谷歌又开始玩起“老古董”了？](https://mp.weixin.qq.com/s/MF3NVyLBh0xIVCEMltzBgw)
+  * Trans-Encoder
+    - [paper](https://arxiv.org/abs/2109.13059): Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations
+    - [code](https://github.com/amzn/trans-encoder): official 
 
 ### Searching Liburaries
   * [ann-benchmarks](http://ann-benchmarks.com/index.html): a benchmarking environment for approximate nearest neighbor algorithms search.
