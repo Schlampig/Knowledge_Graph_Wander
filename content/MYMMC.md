@@ -58,6 +58,12 @@
     - [近代自然语言处理技术发展的“第四范式”](https://zhuanlan.zhihu.com/p/395115779) | 刘鹏飞 知乎专栏 2021年8月1日
     - [Prompt-based Language Models：模版增强语言模型小结](https://mp.weixin.qq.com/s/w0BH7Uty3In09QIHdVEG8w) | 李泺秋 PaperWeekly 2021年6月14日
 
+### PromptClue
+  * link: https://github.com/clue-ai/PromptCLUE
+  * homepage: https://www.cluebenchmarks.com/clueai.html
+  * author: [ClueAI](https://github.com/clue-ai)
+  * note: 全中文任务支持零样本学习模型
+
 ### P-Tuning（PET）
   * link: https://github.com/THUDM/P-tuning
   * author: THUDM
