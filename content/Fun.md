@@ -302,6 +302,9 @@
       - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
       - [Stability.AI Easy Diffusion](https://github.com/WASasquatch/easydiffusion)
       - [Stable Diffusion Tutorial](https://blog.paperspace.com/dreambooth-stable-diffusion-tutorial-1/)
+      - one more thing(s):
+        - [DreamBooth](https://dreambooth.github.io/)
+        - [Textual Inversion](https://textual-inversion.github.io/)
       - blog:
         - [2022年11月04日：diffusion新高度！可一次性生成200张图？？](https://mp.weixin.qq.com/s/k5z4d_bz1N4s9b5DzRPKzQ)
         - [2022年10月25日：靠AI六小时开发出游戏Demo，剧本绘画配音一条龙，网友：新概念3“A”大作](https://mp.weixin.qq.com/s/sNIsDGF5gwOMwQVIkOeQPA)
@@ -312,6 +315,7 @@
         - [2022年10月20日：最时髦的AI画画，一文包教包会](https://mp.weixin.qq.com/s/hiuGo4Qj1xYiePzab-nd3A)
         - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
     - Stable-Diffusion(Chinese ver.)
+      - [太乙]()
       - blog:
         - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
         - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
