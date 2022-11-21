@@ -315,8 +315,10 @@
         - [2022年10月20日：最时髦的AI画画，一文包教包会](https://mp.weixin.qq.com/s/hiuGo4Qj1xYiePzab-nd3A)
         - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
     - Stable-Diffusion(Chinese ver.)
-      - [太乙]()
+      - [太乙](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html)
+      - [AltDiffusion](https://sota.jiqizhixin.com/project/altdiffusion)
       - blog:
+        - [2022年11月21日：本周SOTA！智源开源双语文生图模型AltDiffusion](https://mp.weixin.qq.com/s/9Wi7OE5RLEBkv_EocNyBEQ)
         - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
         - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
