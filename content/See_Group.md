@@ -13,6 +13,7 @@
   * [**Data Mining Lab, Xiamen University**](https://github.com/XMUDM)
   * [**Deep Cognition and Language Research (DeCLaRe) Lab**](https://github.com/declare-lab): [homepage](https://declare-lab.net/)
   * [**DFKI-NLP**](https://github.com/DFKI-NLP): [Speech and Language Technology (SLT) Group of the Berlin lab of the German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research)
+  * [**FlagAI(Fast LArge-scale General AI models)**](https://github.com/FlagAI-Open)
   * [**Generative Intelligence Lab**](https://github.com/generative-intelligence-lab)
   * [**HazyResearch**](https://github.com/HazyResearch): [Department of Computer Science Stanford University](https://cs.stanford.edu/people/chrismre/)
   * [**HIT-SCIR**](https://github.com/HIT-SCIR): [哈尔滨工业大学社会计算与信息检索研究中心](http://ir.hit.edu.cn/):thumbsup:
