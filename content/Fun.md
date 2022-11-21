@@ -316,7 +316,8 @@
         - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
     - Stable-Diffusion(Chinese ver.)
       - [太乙](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html)
-      - [AltDiffusion](https://sota.jiqizhixin.com/project/altdiffusion)
+      - [AltDiffusion](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion)
+      - [AltCLIP](https://github.com/FlagAI-Open/FlagAI/examples/AltCLIP)
       - blog:
         - [2022年11月21日：本周SOTA！智源开源双语文生图模型AltDiffusion](https://mp.weixin.qq.com/s/9Wi7OE5RLEBkv_EocNyBEQ)
         - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
