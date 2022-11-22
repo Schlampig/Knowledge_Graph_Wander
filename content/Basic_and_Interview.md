@@ -235,6 +235,11 @@
   * author: Microsoft
   * keywords: AI education materials, for Chinese students, teachers, IT professionals
 
+### Practical Machine Learning
+  * link: https://github.com/eugenesiow/practical-ml
+  * author: Eugene Siow
+  * keywords: about learn by experimenting on state-of-the-art machine learning models and algorithms with jupyter notebooks.
+
 ### A Journey into Math of ML
   * link: https://github.com/aespresso/a_journey_into_math_of_ml
   * video: https://space.bilibili.com/255296093
