@@ -50,3 +50,8 @@
   * link: https://github.com/ZJU-OpenKS/OpenKS
   * author: [ZJU-OpenKS](https://github.com/ZJU-OpenKS)
   * note: 领域可泛化的知识学习与计算引擎。
+
+### Financial-Knowledge-Graphs
+  * link: https://github.com/jm199504/Financial-Knowledge-Graphs
+  * author: Junming
+  * note: 小型金融知识图谱构建流程。
