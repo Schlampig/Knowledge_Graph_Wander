@@ -4,6 +4,7 @@
 <br>
 
 ### Academic Group & Lab & Researcher
+  * [**AI4Finance Foundation**](https://github.com/AI4Finance-Foundation): [video](https://www.youtube.com/channel/UCrVri6k3KPBa3NhapVV4K5g)
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
   * **AIRS**: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
   * [**BAAI**](https://github.com/BAAI-WuDao): [北京智源人工智能研究院](https://www.baai.ac.cn/)
