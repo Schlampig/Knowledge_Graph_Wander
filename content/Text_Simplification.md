@@ -29,3 +29,9 @@
   * author: pengzhendong(彭震东)
   * note: a tool to make the Chinese text more normalized.
   * extra: [WeTextProcessing](https://github.com/wenet-e2e/WeTextProcessing)
+
+### CTRLsum
+  * link: https://github.com/salesforce/ctrl-sum
+  * author: Salesforce
+  * note: code for paper [CTRLsum: Towards Generic Controllable Text Summarization](https://arxiv.org/abs/2012.04281)
+
