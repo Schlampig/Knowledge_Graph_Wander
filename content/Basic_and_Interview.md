@@ -469,7 +469,9 @@
   * link: https://github.com/MLNLP-World/Paper_Writing_Tips
   * author: [MLNLP-World](https://github.com/MLNLP-World)
   * keywords: tips to improve your research-writing qualities.
-  * extra: [Paper Picture Writing Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
+  * extra: 
+    - [Paper Picture Writing Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
+    - [Academic writing: a Practical Guide](https://subjectguides.york.ac.uk/academic-writing)
 
 ### document-style-guide
   * link: https://github.com/ruanyf/document-style-guide
