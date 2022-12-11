@@ -100,6 +100,9 @@
   * [Wayback Machine](https://archive.org/web/): 网页时光机，输入任意网址，恢复显示网址对应的页面。
 </br>
 
+### Economy & Finance
+  * [如何快速了解一个行业？| 方法论](https://mp.weixin.qq.com/s/k_9ecQcIIICMny7ANN-Nmw) from 很帅的投资客（微信号：shuai_investor）
+
 ### Language
   * [VocabularyMap](https://github.com/OctopusLian/VocabularyMap) by [Niannian Zhang](https://www.cnblogs.com/OctoptusLian/): 将学习过的英语单词词根及频率较高单词通过思维导图的形式不断联想，扩充词汇量，帮助英语学习者解决记单词的困难。
   * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
