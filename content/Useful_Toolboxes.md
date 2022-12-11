@@ -44,7 +44,12 @@
   * author: MLNLP-World
   * note: a tool to simplify the official citation infomation to a shorter version.
   * extra: [AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector)
- 
+
+### AI Scholar Dataset
+  * link: https://github.com/causalNLP/AI-Scholar
+  * author: CausalNLP
+  * note: 78K Google Scholars data and 100K random samples from the 2.6M papers.
+
 ---
 ## Search Codes
 
