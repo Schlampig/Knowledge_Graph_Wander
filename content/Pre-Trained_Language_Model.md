@@ -179,6 +179,10 @@
 ### minGPT
   * code: https://github.com/karpathy/minGPT
 
+### GPT-JT
+  * blog:
+    - [Releasing v1 of GPT-JT powered by open-source AI](https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai)
+
 ### CPM-Generate
   * code: https://github.com/TsinghuaAI/CPM-Generate
   * author: Tsinghua AI & BAAI
