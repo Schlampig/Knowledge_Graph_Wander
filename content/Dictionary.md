@@ -98,6 +98,7 @@
   * [Chinese-Celebrities-Names](https://github.com/NLPBLCU/Chinese-Celebrities-Names) by NLPBLCU: 中国名人人名数据库.
 
 ### Finance & Commerce & Economy
+  * [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) by Jeroen Bouma with [pypi](https://pypi.org/project/financedatabase/): a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
   * [CNEconDict](https://github.com/sijichun/CNEconDict) by Jichun Si: 适用于中文分词的经济金融词典.
   * [accounting_financial_sentiment_dict_exp](https://github.com/nanabunny/accounting_financial_sentiment_dict_exp) by Xinyu Lu: 简体中文会计和金融情感词典扩充.
 
@@ -107,6 +108,7 @@
   * [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen) by [caoxingyu](https://github.com/caoxingyu): 中华古诗文数据库和API。包含10000首古文(诗、词、歌、赋以及其它形式的文言文)，近4000名作者，10000名句.
   * [文言文（古文）-现代文平行语料](https://mp.weixin.qq.com/s/kXzg7YRTTecM2vpQU7fL7Q): [小牛翻译开源数据](https://github.com/NiuTrans/Classical-Modern)。
   * [CROSSTALK-GENERATION](https://github.com/anonNo2/crosstalk-generation): 目前为止最大的中文开源相声数据集。Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.
+  * [Ancient-Chinese-WSD](https://github.com/pxm427/Ancient-Chinese-WSD): 基于《左传》的词义消歧数据集。
 
 ### Cars
   * [Cars_Data](https://github.com/utf6/Cars_Data): 车系、品牌数据.
