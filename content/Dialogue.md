@@ -1,0 +1,26 @@
+## **Dialogue Methods/ChatBot**
+
+### Large Models
+  * LaMDA
+    - [paper](https://arxiv.org/abs/2201.08239): LaMDA: Language Models for Dialog Applications
+    - author: Google
+    - blog:
+      - [对话机器人之LaMDA](https://mp.weixin.qq.com/s/I6EV6cmlql5kYiwAuwxXEg) | AINLP 2022-12-14
+  * Sparrow
+    - blog:
+      - []
+  * InstructGPT
+    - [paper](https://arxiv.org/abs/2203.02155): InstructGPT: Training Language Models to Follow Instructions with Human Feedback
+    - author: OpenAI
+    - code:
+      - [InstructGPT (official)](https://github.com/openai/following-instructions-human-feedback) by openai
+    - blog:
+      - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/) | [OpenAI official website](https://openai.com/)
+  * ChatGPT
+    - author: OpenAI
+    - [demo(official)](https://chat.openai.com/auth/login)
+    - blog:
+      - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/)
+      - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15
+      - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee
+      - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab
