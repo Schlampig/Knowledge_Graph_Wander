@@ -10,6 +10,7 @@
     - [文本语法纠错不完全调研：学术界 v.s. 工业界最新研究进展](https://mp.weixin.qq.com/s/Dj8KIe6LbVGonV-Kk9mO2Q)
     - [中文文本纠错之入门篇](https://mp.weixin.qq.com/s/jUIm395ZPQM6JN-fpgfUBA)
     - [中文文本纠错系列之深度学习篇](https://mp.weixin.qq.com/s/zP5gXFruP4Ke5Q31S8-EWA)
+    - [COLING 2022 | CCTC：面向中文母语使用者的跨句子文本纠错数据集](https://mp.weixin.qq.com/s/Y15Srqe59mQcQMWwyNjfpw): [paper](https://aclanthology.org/2022.coling-1.294.pdf)
 
 ### GEC-Reading-List
   * link: https://github.com/blcuicall/GEC-Reading-List
