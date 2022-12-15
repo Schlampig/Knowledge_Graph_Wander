@@ -32,6 +32,7 @@
   * [两万字聊对话系统](https://mp.weixin.qq.com/s/M7NkxMYVPcgTYLqp07ocuA)
   * [一文详解文本语义相似度的研究脉络和最新进展](https://mp.weixin.qq.com/s/qxYz_n_UM2lWhaz1YBhXYw)
   * [搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/emYOMZKE8jX0UaorwalPug)
+  * [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/fBsDPiU1y78XLbvxrPs6xQ)
 
 ### Searching / Recommending Matching Methods
   * Model Collections
