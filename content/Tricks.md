@@ -72,6 +72,7 @@
   * Survey
     - blog:
       - [新生手册：PyTorch分布式训练](https://mp.weixin.qq.com/s/dovriJnogKp1rIg6YZG2dw)
+      - [使用 PyTorch 进行分布式计算](https://mp.weixin.qq.com/s/ryHrI6cfG9lDeDqPmmyhlw)
       - [PyTorch 深度剖析：并行训练的 DP 和 DDP 分别在什么情况下使用及实例](https://blog.csdn.net/God_WeiYang/article/details/125289149)
       - [当代研究生应当掌握的并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/HfE99ghT0Xv0F9pPCnNf6w)
 
