@@ -5,6 +5,8 @@
   * link: https://github.com/xcfcode/Summarization-Papers
   * author: xcfeng
   * note: papers, trends plot, presentations, notes, benchmarks ... for summarization.
+  * blog:
+    - [Long document summarization: 一文速览长文本摘要进展](https://mp.weixin.qq.com/s/Jo2vJrhx0UnQSrUXjfmnJg) | AINLP 2022-12-14
 
 ### BertSum
   * link: https://github.com/nlpyang/BertSum
