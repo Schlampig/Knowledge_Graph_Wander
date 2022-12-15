@@ -10,3 +10,7 @@
   * [paper](https://arxiv.org/pdf/1612.03975.pdf)/[data](http://conceptnet.io/): Speer, R. , Chin, J. , & Havasi, C. . (2017). *ConceptNet 5.5: An Open Multilingual Graph of General Knowledge*. Proceedings of 31th AAAI Conference on Artificial Intelligence.
   * [paper](https://www.aclweb.org/anthology/P16-1137/): Li, X. , Taheri, A. , Tu, L. , & Gimpel, K. . (2016). *Commonsense Knowledge Base Completion*. Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
   
+### AKGR: Awesome Knowledge Graph Reasoning
+  * link: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
+  * author: LIANGKE23
+  * note: a collection of knowledge graph reasoning works, including papers, codes and datasets.
