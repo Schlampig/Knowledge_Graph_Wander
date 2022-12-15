@@ -7,8 +7,10 @@
     - blog:
       - [对话机器人之LaMDA](https://mp.weixin.qq.com/s/I6EV6cmlql5kYiwAuwxXEg) | AINLP 2022-12-14
   * Sparrow
+    - [paper](https://arxiv.org/pdf/2209.14375.pdf): Improving alignment of dialogue agents via targeted human judgements
+    - author: DeepMind
     - blog:
-      - []
+      - [DeepMind Sparrow Dialogue model: Prompt & rules](https://lifearchitect.ai/sparrow/) | [Life Architect](https://lifearchitect.ai/)
   * InstructGPT
     - [paper](https://arxiv.org/abs/2203.02155): InstructGPT: Training Language Models to Follow Instructions with Human Feedback
     - author: OpenAI
