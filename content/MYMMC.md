@@ -169,3 +169,4 @@
     - [2022年08月15日：DeepMind创始人Demis Hassabis：AI 的强大，超乎我们的想象](https://mp.weixin.qq.com/s/D5DzLqlizHaURNHOqs5GnQ)
   - [2022年09月27日：【前沿报告】Richard Sutton 直言卷积反向传播已经落后，AI 突破要有新思路：持续反向传播](https://mp.weixin.qq.com/s/P3gArNbpBwVlAAoh0qIOMw)
   - [2022年10月22日：Bengio、LeCun 等人联名上书，呼吁美国投资神经AI，攻破「具身图灵测试」](https://mp.weixin.qq.com/s/FrhFb5RxGGDi2DC6UJMvpw)
+  - [2022年12月02日：近万人围观Hinton最新演讲：前向-前向神经网络训练算法，论文已公开](https://mp.weixin.qq.com/s/oxS57R8lZGAQga2AbvYnRw)
