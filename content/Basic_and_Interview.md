@@ -543,12 +543,6 @@
   * extra:
     - [cvpr-latex-template](https://github.com/apoorvkh/cvpr-latex-template): extended LaTeX template for CVPR/ICCV papers.
 
-### MyArxiv
-  * link: https://github.com/MLNLP-World/MyArxiv
-  * demo: https://mlnlp-world.github.io/MyArxiv/ 
-  * author: [MLNLP](https://github.com/MLNLP-World)
-  * keywords: 提供Arxiv个性化定制化模版，实现对特定领域的相关内容、作者与学术会议的有效跟进，将Arxiv定制化为MyArxiv。
-
 ### CNSurvey：中文综述文章列表（自然语言处理&机器学习）
   * link: https://github.com/NiuTrans/CNSurvey
   * author: NiuTrans
