@@ -119,6 +119,7 @@
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
   * [Chinese-Multi-Target-Sentiment-Classification-Dataset](https://github.com/NLPBLCU/Chinese-Multi-Target-Sentiment-Classification-Dataset) by NLPBLCU: 中文多目标情感分类数据集.
   * [Adjectives-list-with-Gendered-Skewness-and-Sentiment](https://github.com/NLPBLCU/Adjectives-list-with-Gendered-Skewness-and-Sentiment) by NLPBLCU: 形容词性别偏度及情感信息数据集.
+  * [CNSD](https://github.com/pluto-junzeng/CNSD) by pluto-junzeng: 中文自然语言推理数据集.
 
 ### 千言(Language Understanding and Generation Evaluation Benchmarks, LUGE)
   * homepage: https://www.luge.ai/
