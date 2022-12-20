@@ -30,3 +30,4 @@
       - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08
       - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
+      - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
