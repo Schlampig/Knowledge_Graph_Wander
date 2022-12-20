@@ -499,7 +499,7 @@
   * keywords: a curated list of tips on various topics, such as research, writing, presentation, etc.
 
 ### Overleaf
-  * link: https://www.overleaf.com/
+  * link: https://www.overleaf.com/ （[中文版](https://cn.overleaf.com/)）
   * github: https://github.com/overleaf
   * author: John Lees-Miller
   * keywords: the easy to use, online, collaborative LaTeX editor.
