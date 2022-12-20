@@ -297,6 +297,11 @@
   * author: Saugat Regmi
   * keywords: learning machine learning.
 
+### LearnML (Learn Machine Learning in 3 Months (PyTorch Curriculum))
+  * link: https://github.com/llSourcell/LearnML
+  * author: Siraj Raval
+  * keywords: the study guide for learn machine learning in 3 months (pytorch curriculum) on youtube.
+
 ### ML-NLP
   * link: https://github.com/NLP-LOVE/ML-NLP
   * author: NLP-LOVE
