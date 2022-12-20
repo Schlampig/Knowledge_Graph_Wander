@@ -45,6 +45,12 @@
   * note: a tool to simplify the official citation infomation to a shorter version.
   * extra: [AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector)
 
+### MyArxiv
+  * link: https://github.com/MLNLP-World/MyArxiv
+  * demo: https://mlnlp-world.github.io/MyArxiv/ 
+  * author: [MLNLP](https://github.com/MLNLP-World)
+  * keywords: 提供Arxiv个性化定制化模版，实现对特定领域的相关内容、作者与学术会议的有效跟进，将Arxiv定制化为MyArxiv。
+
 ### AI Scholar Dataset
   * link: https://github.com/causalNLP/AI-Scholar
   * author: CausalNLP
