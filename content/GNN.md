@@ -28,4 +28,5 @@
 ### Other Tools
   * [Graph Data Augmentation (GraphDA) for Deep Graph Learning](https://github.com/kaize0409/awesome-graph-data-augmentaion)
   * [AttentionPathExplainer(APE, by qjf42)](https://github.com/qjf42/AttentionPathExplainer) and [its blog](https://zhuanlan.zhihu.com/p/150869105)
+  * [Graph4NLP](https://github.com/graph4ai/graph4nlp) by [Graph4AI](https://github.com/graph4ai)
   * [GNN-algorithms: 图神经网络相关算法详述及实现教程。](https://github.com/wangyouze/GNN-algorithms)
