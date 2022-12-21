@@ -79,6 +79,11 @@
 ### Dropout
   * R-Drop: [重新审视Dropout算法](https://mp.weixin.qq.com/s/uHkhrccuWYCLoHwIHMeSMA)
 
+### Efficiency
+  * Survey
+    - blog:
+      - [有没有什么可以节省大量时间的 Deep Learning 效率神器？](https://mp.weixin.qq.com/s/MUcGWGY_O2p8nLgv6-XYIw)
+
 ### EMA
   * [ema-pytorch](https://github.com/lucidrains/ema-pytorch): a simple way to keep track of an Exponential Moving Average (EMA) version of your pytorch model.
 
