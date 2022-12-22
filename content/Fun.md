@@ -137,6 +137,8 @@
 </br>
 
 ### Math & Computer
+  * Repository
+    - [DL4MATH - Reading List](https://github.com/lupantech/dl4math): reading list for research topics in mathematical reasoning and artificial intelligence.
   * Research
     - [中山大学HCP Lab团队：AI解题新突破，神经网络推开数学推理大门](https://mp.weixin.qq.com/s/8y8ASoc469TOCFtP7MymFQ)
     - [EMNLP2022论文：基于结构统一M叉编码树的数学问题求解器](https://mp.weixin.qq.com/s/IE9LRPFt2PkEmFTeMWSbAw)
