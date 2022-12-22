@@ -18,6 +18,7 @@
       - [InstructGPT (official)](https://github.com/openai/following-instructions-human-feedback) by openai
     - blog:
       - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/) | [OpenAI official website](https://openai.com/)
+      - [对话机器人之InstructGPT](https://mp.weixin.qq.com/s/WxYaekMZgWt28_fLvl_OUw) | AINLP 2022-12-22
   * ChatGPT
     - author: OpenAI
     - [demo(official)](https://chat.openai.com/auth/login)
@@ -31,3 +32,4 @@
       - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
       - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
+      - [ChatGPT有哪些不足和缺陷？](https://mp.weixin.qq.com/s/V1V7JeBlISc0coHZhIVnxQ) | AINLP 2022-12-22
