@@ -51,6 +51,7 @@
   * note: MuCGEC中文纠错数据集及文本纠错SOTA模型开源
   * blog:
     - [文本智能校对大赛冠军方案！已落地应用，来自苏州大学、达摩院团队](https://mp.weixin.qq.com/s/bBJ58agJTlCxHhYrP35DNA)
+    - 其他竞赛方案：[达观：多模型结合的等长拼写纠错|全国中文纠错大赛冠军方案](https://mp.weixin.qq.com/s/yI8hrCPFKzpO0x21rpqE9A)
 
 ### Gramformer
   * link: https://github.com/PrithivirajDamodaran/Gramformer
