@@ -67,6 +67,10 @@
     - [Textual](https://textual.textualize.io/) with [code](https://github.com/Textualize/textual): a TUI (Text User Interface) framework for python inspired by modern web development.
 </br>
 
+### Biology
+  * blog:
+    - [语言模型生成了自然界不存在的蛋白质，图灵奖得主LeCun：蛋白质编程来了](https://mp.weixin.qq.com/s/t9c3wICdIhJpSHJ17B4Vdw) | 机器之心 2022-12-23
+
 ### Book
   * [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books): [Dujltqzv](https://github.com/Dujltqzv)个人收藏书籍电子版列表。
 </br>
