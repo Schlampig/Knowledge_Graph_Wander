@@ -20,16 +20,6 @@
   * CUGE(Chinese LanguageUnderstanding and Generation Evaluation): [report](arxiv.org/pdf/2112.13610.pdf)/[homepage](cuge.baai.ac.cn)
   * NATURAL-INSTRUCTIONSv2: [paper](https://arxiv.org/pdf/2204.07705.pdf), [news](https://mp.weixin.qq.com/s/VulP2-xSeJQsn4SwwFaC7w)
 
-
-### Word Dictionary / Word Vector Resource
-  * [OSCAR](https://oscar-corpus.com/): **O**pen **S**uper-large **C**rawled **A**ggregated co**R**pus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
-  * [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) by Embedding.
-  * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
-  * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
-  * [dict_complete 各类生活字典](https://github.com/hee0624/dict_complete) by He Chen.
-  * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
-  * [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) by brightmart.
-
 ### Tokenizer
   * Pinyin Tokenizer
     - link: https://github.com/shibing624/pinyin-tokenizer
