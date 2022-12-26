@@ -9,9 +9,13 @@
 ### Word Vector Resource / Corpus
   * [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) by brightmart.
   * [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) by Embedding.
-  * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
-  * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) by Kyubyong Park.
+  * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [Chinese-NLP-Corpus](https://github.com/OYE93/Chinese-NLP-Corpus) by En Ouyang.
+  * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
+  
+### Multi-Languages
+  * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) by Kyubyong Park.
+  * [OSCAR](https://oscar-corpus.com/): **O**pen **S**uper-large **C**rawled **A**ggregated co**R**pus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
 
 ### Commonsense Dictionary
   * [dict_complete 各类生活字典](https://github.com/hee0624/dict_complete) by He Chen.
@@ -115,7 +119,6 @@
   * [car_knowledge_graph](https://github.com/luxuantao/car_knowledge_graph): 基于Neo4j的汽车知识图谱，使用Flask构建系统，Echarts可视化.
 
 ### Others
-  * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [unicode-scarfboy](https://unicode.scarfboy.com/) by unknown.
   * [Chinese-Multi-Target-Sentiment-Classification-Dataset](https://github.com/NLPBLCU/Chinese-Multi-Target-Sentiment-Classification-Dataset) by NLPBLCU: 中文多目标情感分类数据集.
   * [Adjectives-list-with-Gendered-Skewness-and-Sentiment](https://github.com/NLPBLCU/Adjectives-list-with-Gendered-Skewness-and-Sentiment) by NLPBLCU: 形容词性别偏度及情感信息数据集.
