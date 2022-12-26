@@ -30,6 +30,16 @@
   * [chinese-xinhua 中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) by Xiance Wu.
   * [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) by brightmart.
 
+### Tokenizer
+  * Pinyin Tokenizer
+    - link: https://github.com/shibing624/pinyin-tokenizer
+    - author: xuming
+    - note: 使用python3开发的中文拼音分词器，将连续的拼音切分为单字拼音列表，开箱即用。
+  * tiktoken
+    - link: https://github.com/openai/tiktoken
+    - author: OpenAI
+    - note: a fast BPE tokeniser for use with OpenAI's models.
+
 ### ELMo
   * [paper](http://export.arxiv.org/pdf/1812.10860): Samuel R. , Ellie P. , Edouard G. , Benjamin Van D. , Alex W. , Jan H. , Patrick X. , Raghavendra P. , R. T. M. , Roma P. , Najoung K. , Ian T. , Yinghui H. , Katherin Y. , Shuning J. , Berlin C. . (2018). *Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling*. 
   * code: [Origin by ML²AT CILVR Report](https://github.com/nyu-mll/jiant), [Tutorial by Prashant Ranjan](https://github.com/PrashantRanjan09/Elmo-Tutorial), [keras by iliaschalkidis](https://github.com/iliaschalkidis/ELMo-keras), [Multi-Language-oriented ELMo by HIT-SCIR](https://github.com/HIT-SCIR/ELMoForManyLangs), [another keras version by strongio](https://github.com/strongio/keras-elmo).
