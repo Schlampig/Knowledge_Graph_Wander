@@ -131,6 +131,10 @@
   * Stacking
   * Ensemble
 
+### Model-Choosing
+  * Tools
+    - [weight | watcher](https://weightwatcher.ai/): [Better than BERT: Pick your best model](https://calculatedcontent.com/2022/07/22/better-than-bert-pick-your-best-model/)
+
 ### Normalization
   * [归一化原来这么重要！深入浅出详解Transformer中的Normalization](https://mp.weixin.qq.com/s/n_twT43ZmQrkBKkAxOKa-Q)
   * [超细节的BatchNorm/BN/LayerNorm/LN知识点](https://mp.weixin.qq.com/s/rvs82W91jDPGyhcC_9PlLw)
