@@ -13,6 +13,7 @@
   * [Must-read papers on GNN(by THUNLP)](https://github.com/thunlp/GNNPapers)
   * [Graph-neural-networks(by Seongok Ryu)](https://github.com/SeongokRyu/Graph-neural-networks)
   * [awesome-graph-explainability-papers](https://github.com/flyingdoog/awesome-graph-explainability-papers)
+  * [GNN4NLP-Papers](https://github.com/IndexFziQ/GNN4NLP-Papers)
 
 ### Tools & Libraries
   * [Deep Graph Library(DGL, MXNet, by Distributed (Deep) Machine Learning Community)](https://github.com/dmlc/dgl)
