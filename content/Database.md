@@ -3,7 +3,7 @@
 
 ### Awesome Vector Search Engine
   * link: https://github.com/currentslab/awesome-vector-search
-  * author: [Currents Lab](https://github.com/currentslab)
+  * author: [Currents Lab](https://github.com/currentslab) ([homepage](https://currentsapi.services/en))
   * note: collections of vector search related libraries, service and research papers.
 
 ### PyMongo
