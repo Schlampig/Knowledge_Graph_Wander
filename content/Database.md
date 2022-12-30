@@ -1,6 +1,11 @@
 ## **Database / Search Engine**
 
 
+### Awesome Vector Search Engine
+  * link: https://github.com/currentslab/awesome-vector-search
+  * author: [Currents Lab](https://github.com/currentslab)
+  * note: collections of vector search related libraries, service and research papers.
+
 ### PyMongo
   * link: https://github.com/mongodb/mongo-python-driver/
   * document: http://api.mongodb.com/python/current/#
