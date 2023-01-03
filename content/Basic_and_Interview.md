@@ -473,6 +473,12 @@
   * author: PKUFlyingPig
   * keywords: computer science self-learning repository.
 
+### 方糖全栈路线图
+  * link: https://github.com/easychen/stack-roadmap
+  * homepage: http://road.ftqq.com/
+  * author: easychen
+  * keywords: 方糖全栈路线图聚焦于「如何将一个想法做成产品，将其商业化并获得收益」这一问题，并从大量的学习内容中进行精选，尝试让读者在短时间内补全包括商业模式、设计、开发、运营、增长在内的「最小可行技能栈」，帮助读者完成「从螺丝钉到一人企业」的蜕变。
+
 ---
 ## Research
 
