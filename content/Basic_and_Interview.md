@@ -206,6 +206,13 @@
   * author: Janishar Ali 
   * keywords: MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
+### UvA Deep Learning Tutorials
+  * link: https://github.com/phlippe/uvadlc_notebooks
+  * homepage: https://uvadlc.github.io/
+  * document: https://uvadlc-notebooks.readthedocs.io/en/latest/
+  * author: Phillip Lippe
+  * keywords: 阿姆斯特丹大学深度学习课程
+
 ### AI SUMMER
   * link: https://github.com/The-AI-Summer
   * website: https://theaisummer.com/
