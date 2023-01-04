@@ -210,6 +210,7 @@
   * link: https://github.com/phlippe/uvadlc_notebooks
   * homepage: https://uvadlc.github.io/
   * document: https://uvadlc-notebooks.readthedocs.io/en/latest/
+  * video: https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA
   * author: Phillip Lippe
   * keywords: 阿姆斯特丹大学深度学习课程
 
