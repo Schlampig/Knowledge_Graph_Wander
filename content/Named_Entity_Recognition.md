@@ -126,3 +126,9 @@
   * link: https://github.com/sayef/fsner
   * author: Md Saiful I. Sayef
   * note: a train-free few-shot learning approach inspired by question-answering.
+
+### GENRE
+  * [paper](https://arxiv.org/abs/2010.00904): Autoregressive Entity Retrieval
+  * link: https://github.com/facebookresearch/GENRE
+  * author: facebookresearch
+  * note: the GENRE (Generative ENtity REtrieval) system as presented in Autoregressive Entity Retrieval implemented in pytorch.
