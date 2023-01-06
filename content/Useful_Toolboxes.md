@@ -156,7 +156,12 @@
 ### Some funny and helpful python lib.
   * link: https://www.cnblogs.com/palace/p/9889235.html
 
-
+### Google Dataset Search
+  * link: https://datasetsearch.research.google.com/
+  * [paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/77547c8d2a7fba472e76c774028cf2b3c0afdb8a.pdf): Google Dataset Search: Building a search engine for datasets in an open Web ecosystem.
+  * author: Google AI
+  * blog: [谷歌出品，数据集搜索引擎上线了！](https://mp.weixin.qq.com/s/DwNSB0F8uqKpucd5WsPqKg) | 夕小瑶的卖萌屋 2023-01-06
+  * note: a dataset-discovery tool that provides search capabilities over potentially all datasets published on the Web.
   
 
   
