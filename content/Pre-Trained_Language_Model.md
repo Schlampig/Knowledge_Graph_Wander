@@ -29,6 +29,11 @@
     - link: https://github.com/openai/tiktoken
     - author: OpenAI
     - note: a fast BPE tokeniser for use with OpenAI's models.
+  * easytokenizer
+    - link: https://github.com/zejunwang1/easytokenizer
+    - author: WangZeJun
+    - note: 一个简单易用的高性能文本 Tokenizer 库，支持类似 HuggingFace transformers 中 BertTokenizer 的词语切分和标记化功能。
+    - blog: [easytokenizer-v0.2.0: 高性能文本 Tokenizer 库](https://mp.weixin.qq.com/s/hxbAlRS4hDMqPxOQtPmxCQ)
 
 ### ELMo
   * [paper](http://export.arxiv.org/pdf/1812.10860): Samuel R. , Ellie P. , Edouard G. , Benjamin Van D. , Alex W. , Jan H. , Patrick X. , Raghavendra P. , R. T. M. , Roma P. , Najoung K. , Ian T. , Yinghui H. , Katherin Y. , Shuning J. , Berlin C. . (2018). *Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling*. 
