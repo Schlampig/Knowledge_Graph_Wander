@@ -621,6 +621,12 @@
   * author: Sasha Rush
   * keywords: solve puzzles, learn cuda.
 
+### leetcode-master
+  * link: https://github.com/youngyangyang04/leetcode-master
+  * homepage: https://programmercarl.com/
+  * author: youngyangyang04
+  * keywords: 《代码随想录》LeetCode 刷题攻略.
+
 ### Coding practice website (编程练习网站 )
   * codewars.com
   * leetcode.com
