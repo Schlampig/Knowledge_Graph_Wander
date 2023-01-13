@@ -56,6 +56,14 @@
   * author: CausalNLP
   * note: 78K Google Scholars data and 100K random samples from the 2.6M papers.
 
+### arXiv Explorer
+  * website: https://arxivxplorer.com/
+  * author: OpenAI
+  * note: the Semantic Search Engine for ArXiv.
+  * blog:
+    - [New and Improved Embedding Model](https://openai.com/blog/new-and-improved-embedding-model/) | OpenAI 2022-12-15
+    - [可以用ChatGPT搜索论文了](https://mp.weixin.qq.com/s/1ZxzisPkPx1vOenInil3rg) | Datawhale 2023-01-13
+
 ---
 ## Search Codes
 
