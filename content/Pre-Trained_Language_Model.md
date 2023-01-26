@@ -161,6 +161,9 @@
 ### GPT
   * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
   * code: [tensorflow by OpenAI](https://github.com/openai/finetune-transformer-lm)
+  * blog:
+    - [2023年：李飞飞高徒教你从0到1构建GPT](https://mp.weixin.qq.com/s/pszo5KZgusmQpjkYCT2ihg)
+    - [2023年：小破本也能炼GPT！300行代码搞定，GitHub获6k星，来自特斯拉前AI总监](https://mp.weixin.qq.com/s/2FZ-_-lL84i5cSxirO0ciA)
   
 ### GPT-2
   * [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf): Alec R. , Jeffrey W. , Rewon C. , David L. , Dario A. , Ilya S. . (2019). *Language Models are Unsupervised Multitask Learners*.
