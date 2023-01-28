@@ -27,12 +27,13 @@
       - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
       - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee :thumbsup:
       - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab :thumbup:
-      - [理性聊聊ChatGPT](https://mp.weixin.qq.com/s/4D_zb8DJ-gKeLIP4KkImTQ) | CS的陋室 2022-12-12
       - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08
       - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
       - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
       - [ChatGPT有哪些不足和缺陷？](https://mp.weixin.qq.com/s/V1V7JeBlISc0coHZhIVnxQ) | AINLP 2022-12-22
+    - news & viewpoints:
+      - [理性聊聊ChatGPT](https://mp.weixin.qq.com/s/4D_zb8DJ-gKeLIP4KkImTQ) | CS的陋室 2022-12-12
       - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor 2022-12-29
       - [干货！​如何打造我们自己的“ChatGPT”？](https://mp.weixin.qq.com/s/iQtm-11IQkfQedMlDcPu9A) | 学术头条 2022-12-29
       - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
@@ -42,6 +43,9 @@
       - [微软下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
       - [Yann LeCun：ChatGPT缺乏创新，没什么革命性；网友：早点离开Meta做出点突破吧](https://mp.weixin.qq.com/s/qCppJc23H_5-Hd3ZCGr05g) | 机器之心 2023-01-25
       - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
+      - [理工科神器Wolfram|Alpha注入超强计算知识，补足ChatGPT短板](https://mp.weixin.qq.com/s/mJ6n9s78JNy42zU4FFpJWw) | 机器之心 2023-01-27
+      - [用ChatGPT作弊，小心被抓，反剽窃水印技术让学生噩梦提前到来](https://mp.weixin.qq.com/s/URO054sLrNtVKryyv0TxGA) | 机器之心 2023-01-27
+      - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
     - expand methods:
       - Davinci: [OpenAI | GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23 
       - youChat: [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
