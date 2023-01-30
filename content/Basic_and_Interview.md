@@ -575,7 +575,8 @@
   * [如何成功发表综述论文？](https://mp.weixin.qq.com/s/eIhl_Ohsqb1qsIVzW-3N9g)
   * [多位博士毕业去了三四流高校，现在怎么样了？](https://mp.weixin.qq.com/s/cQiafad2ELNzQ7cuaEoVzw)
   * [一位上海交大教授的深度学习五年研究总结](https://mp.weixin.qq.com/s/au84l4lBdaYCcqrb9iE5UQ)
-  * [Explainpaper](https://www.explainpaper.com/): 提供论文片段解释的网站，可以通过问答深入挖掘。  
+  * [Explainpaper](https://www.explainpaper.com/): 提供论文片段解释的网站，可以通过问答深入挖掘。
+  * [Conference Acceptance Rates](https://aclweb.org/aclwiki/Conference_acceptance_rates): ACL, EMNLP, NAACL, EACL, CoNLL, COLING, IJCNLP, LREC, IWCS, CICLing等会议的历年接收率统计。
 
 ---
 ## Interview
