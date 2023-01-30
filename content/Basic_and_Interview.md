@@ -577,6 +577,7 @@
   * [一位上海交大教授的深度学习五年研究总结](https://mp.weixin.qq.com/s/au84l4lBdaYCcqrb9iE5UQ)
   * [Explainpaper](https://www.explainpaper.com/): 提供论文片段解释的网站，可以通过问答深入挖掘。
   * [Conference Acceptance Rates](https://aclweb.org/aclwiki/Conference_acceptance_rates): ACL, EMNLP, NAACL, EACL, CoNLL, COLING, IJCNLP, LREC, IWCS, CICLing等会议的历年接收率统计。
+  * [Google Scholar Metrics](https://scholar.google.com/citations?view_op=metrics_intro&hl=en): 谷歌学术英文出版物评价排名。
 
 ---
 ## Interview
