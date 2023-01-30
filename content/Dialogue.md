@@ -51,3 +51,4 @@
       - youChat: [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
       - GPT-4: [OpenAI CEO谈GPT-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://mp.weixin.qq.com/s/A_WkmUL_6L-gdhIs5-HWTA) | 机器之心 2023-01-19
       - ChatYuan: [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
+      - Claude: [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
