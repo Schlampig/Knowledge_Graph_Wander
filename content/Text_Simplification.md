@@ -8,6 +8,11 @@
   * blog:
     - [Long document summarization: 一文速览长文本摘要进展](https://mp.weixin.qq.com/s/Jo2vJrhx0UnQSrUXjfmnJg) | AINLP 2022-12-14
 
+### TextRank4ZH
+  * link: https://github.com/letiantian/TextRank4ZH
+  * author: letiantian 乐天
+  * note: 针对中文文本的TextRank算法的python算法实现，用来从文本中提取关键词和摘要（重要的句子）。
+
 ### BertSum
   * link: https://github.com/nlpyang/BertSum
   * author: [Yang Liu](https://nlp-yang.github.io/)
@@ -36,4 +41,3 @@
   * link: https://github.com/salesforce/ctrl-sum
   * author: Salesforce
   * note: code for paper [CTRLsum: Towards Generic Controllable Text Summarization](https://arxiv.org/abs/2012.04281)
-
