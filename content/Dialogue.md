@@ -27,10 +27,10 @@
       - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
       - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee :thumbsup:
       - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab :thumbup:
+      - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
       - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08
       - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
-      - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
     - news & viewpoints:
       - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
       - [理性聊聊ChatGPT](https://mp.weixin.qq.com/s/4D_zb8DJ-gKeLIP4KkImTQ) | CS的陋室 2022-12-12
