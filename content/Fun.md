@@ -14,6 +14,7 @@
 ### Art & Design
   * Animation
     - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
+    - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB): Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~, [homepage](https://www.v2fy.com/p/000readme-chinesebqb/)
   * Art and Design
     - [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
     - [ArtStation](https://www.artstation.com/): [新年重磅！Artstation 大师级艺术课程全部免费开放](https://www.uisdc.com/artstation-learning)
