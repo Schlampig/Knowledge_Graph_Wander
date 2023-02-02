@@ -31,9 +31,10 @@
       - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
       - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
-      - [ChatGPT有哪些不足和缺陷？](https://mp.weixin.qq.com/s/V1V7JeBlISc0coHZhIVnxQ) | AINLP 2022-12-22
     - news & viewpoints:
+      - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
       - [理性聊聊ChatGPT](https://mp.weixin.qq.com/s/4D_zb8DJ-gKeLIP4KkImTQ) | CS的陋室 2022-12-12
+      - [ChatGPT有哪些不足和缺陷？](https://mp.weixin.qq.com/s/V1V7JeBlISc0coHZhIVnxQ) | AINLP 2022-12-22
       - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor 2022-12-29
       - [干货！​如何打造我们自己的“ChatGPT”？](https://mp.weixin.qq.com/s/iQtm-11IQkfQedMlDcPu9A) | 学术头条 2022-12-29
       - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
