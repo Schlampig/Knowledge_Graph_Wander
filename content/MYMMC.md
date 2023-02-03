@@ -174,5 +174,8 @@
   - [2023年01月27日：Transformer模仿大脑，在预测大脑成像上超越42个模型，还能够模拟感官与大脑之间的传输](https://mp.weixin.qq.com/s/O-gCHzTL4lAJ8bQDZtzPDQ)
 
 ### Pre-trained Language Model Paradigm Updating
+  - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
+  - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor(符尧) 2022-12-20
+  - [自然语言处理范式正在变迁](https://mp.weixin.qq.com/s/FoY888g9nv5mw2kz4IWY5A) | 李rumor(车万翔) 2022-12-08
   - [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623) | 张俊林 2023-01-18
   - [乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426) | 张俊林 2020-09-20
