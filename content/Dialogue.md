@@ -55,7 +55,10 @@
       - GPT-4: 
         - [OpenAI CEO谈GPT-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://mp.weixin.qq.com/s/A_WkmUL_6L-gdhIs5-HWTA) | 机器之心 2023-01-19
         - [GPT-4被曝进入微软必应搜索，几周内完成](https://mp.weixin.qq.com/s/TLWpmEWSaGEK1sx26t4DIA) | 量子位 2023-02-02
-      - ChatYuan: [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
+      - ChatYuan: 
+        - code: https://github.com/clue-ai/ChatYuan
+        - [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
+        - [部署国产ChatGPT仅需6G显存！ChatYuan模型开放下载：业内首个功能型对话开源中文大模型](https://mp.weixin.qq.com/s/1UnFUaUK7vNh9uId7XxJ2A)
       - Claude: [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
       - Apprentice Bard: [谷歌加紧测试ChatGPT竞品，靠对话可搜最新信息](https://mp.weixin.qq.com/s/HiC5S8sQaZ-aisk-8DFYeQ) | 量子位 2023-02-02
 
