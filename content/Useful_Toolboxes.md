@@ -64,6 +64,11 @@
     - [New and Improved Embedding Model](https://openai.com/blog/new-and-improved-embedding-model/) | OpenAI 2022-12-15
     - [可以用ChatGPT搜索论文了](https://mp.weixin.qq.com/s/1ZxzisPkPx1vOenInil3rg) | Datawhale 2023-01-13
 
+### SciSpace
+  * website: https://typeset.io/
+  * author: SciSpace group
+  * note: popular papers to serach and read
+
 ---
 ## Search Codes
 
