@@ -33,6 +33,7 @@
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
       - [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677) | 陈巍谈芯 2022-12-09
       - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
+      - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
