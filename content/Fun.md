@@ -56,6 +56,7 @@
     - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
     - [Python Graphs](https://github.com/google-research/python-graphs)([paper](https://arxiv.org/pdf/2208.07461.pdf)): A LIBRARY FOR REPRESENTING PYTHON PROGRAMS AS GRAPHS FOR MACHINE LEARNING.
     - [ML Visuals](https://github.com/dair-ai/ml-visuals): [有了这个机器学习画图神器，论文、博客都可以事半功倍了！](https://mp.weixin.qq.com/s/XJ6-mYkuI5qG5nJU5UQyLQ).
+    - [22个神经网络结构设计及可视化开源工具整理分享](https://mp.weixin.qq.com/s/k9ucN7r0TqO99KNb4_cFyA) | 我不爱机器学习 2023-02-16
   * Python
     - [详解可视化神器 seaborn，制作图形又快又美！](https://zhuanlan.zhihu.com/p/456271226)
     - [从图片中提取颜色然后绘制成可视化图表](https://mp.weixin.qq.com/s/e4wB8e6Ae-GNE58mIbZCeA)
