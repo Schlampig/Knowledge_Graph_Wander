@@ -50,7 +50,7 @@
   * attention:
     - [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch): pytorch implementation of various attention mechanisms, mlp, re-parameter, convolution, which is helpful to further understand papers.
   * survey: 
-    - [2023年：Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730)
+    - [2023年：Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730): [ChatGPT背后的大模型最新有哪些？最新最全《Transformer预训练模型分类》论文，36页pdf详述大模型技术目录](https://mp.weixin.qq.com/s/ISOcGNaGKTw7pefvWi74lg)
     - [2022年：Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey](https://www.arxiv-vanity.com/papers/2208.11857/)
     - [2022年：从SwinTransformer到GFlowNets，我们从2021年2万份SOTA工作中选了256个最值得关注的（附完整名录）](https://mp.weixin.qq.com/s/41kaiZm7PR5bRb8GpAJcTw)
     - [2021年：自然语言处理：基于预训练模型的方法](https://github.com/HIT-SCIR/plm-nlp-code)(哈工大SCIR 车万翔、郭江、崔一鸣著)
