@@ -182,6 +182,7 @@
   * [paper](https://arxiv.org/abs/2005.14165): OpenAI . (2020). *Language Models are Few-Shot Learners*.
   * code: [descriptions by OpenAI](https://github.com/openai/gpt-3).
   * blog:
+    - [2023年：Why did all of the public reproduction of GPT-3 fail? In which tasks should we use GPT-3.5/ChatGPT?](https://jingfengyang.github.io/gpt)
     - [2022年：千亿参数大模型首次被撬开！Meta复刻GPT-3“背刺”OpenAI，完整模型权重及训练代码全公布](https://mp.weixin.qq.com/s/zCgXWGUlkIQaGDE14wAATw)(OPT): [code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT), [paper](https://arxiv.org/abs/2205.01068)
     - [2022年：GPT-3回答问题不靠谱？OpenAI找来人类“调教师”，终于给教明白了](https://mp.weixin.qq.com/s/vIYDGAeDx6fi6t4xaD4GIA)
 
