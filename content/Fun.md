@@ -343,13 +343,15 @@
         - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
         - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
-    - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet)
+    - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
+    - [ChilloutMix](https://civitai.com/models/6424/chilloutmix) with its [huggingface page](https://huggingface.co/TASUKU2023/Chilloutmix).
     - CV-oriented Search Engine
       - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
       - [StockAI](https://www.stockai.com/): 新型AI图片库，会根据你的查询自动创建图片，可免费下载。
       - [Lexica](https://lexica.art/): Stable Diffusion生成图片的搜索引擎，最新升级支持文本提示图片生成。
       - [Atlas](https://atlas.nomic.ai/map/): 非结构化资源检索工具。
       - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI数字绘画资料汇总。
+      - [CivitAL](https://civitai.com/): C站，模型分享社区。
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
