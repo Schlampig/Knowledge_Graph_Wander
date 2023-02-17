@@ -344,7 +344,7 @@
         - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
-    - [ChilloutMix](https://civitai.com/models/6424/chilloutmix) with its [huggingface page](https://huggingface.co/TASUKU2023/Chilloutmix).
+    - [ChilloutMix](https://civitai.com/models/6424/chilloutmix) with its [huggingface page](https://huggingface.co/TASUKU2023/Chilloutmix), with [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685).
     - CV-oriented Search Engine
       - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
       - [StockAI](https://www.stockai.com/): 新型AI图片库，会根据你的查询自动创建图片，可免费下载。
