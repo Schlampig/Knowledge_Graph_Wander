@@ -13,6 +13,7 @@
 
 ### Art & Design
   * Animation
+    - [Live2D](https://www.live2d.com/en/): a software technology that allows you to create dynamic expressions that breathe life into an original 2D illustration.
     - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
     - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB): Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~, [homepage](https://www.v2fy.com/p/000readme-chinesebqb/)
   * Art and Design
