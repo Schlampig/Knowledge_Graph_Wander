@@ -78,6 +78,7 @@
     - [打开模型Zero-Shot新范式：Instruction Tuning](https://mp.weixin.qq.com/s/1qsaT0AVlNjhQJR8z8PAGA) | 避暑山庄梁朝伟 PaperWeekly 2022年08月25日
     - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw) | rumor 李rumor 2021年9月9日
     - [别再Prompt了！谷歌提出tuning新方法，强力释放GPT-3潜力！](https://mp.weixin.qq.com/s/TLdKRvG1Hdsjak8AeNG-3w) | Yimin_饭煲 夕小瑶的卖萌屋 2021年9月7日
+    - [Instruction Tuning：无/少样本学习新范式](https://mp.weixin.qq.com/s/M9Z91OI330tYGozihE2wPQ) | AINLP 2023-02-19
 
 ### Ladder Side-Tuning（LST）
   * link: https://github.com/bojone/LST-CLUE
