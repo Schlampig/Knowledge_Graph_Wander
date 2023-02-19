@@ -19,6 +19,7 @@
     - blog:
       - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/) | [OpenAI official website](https://openai.com/)
       - [对话机器人之InstructGPT](https://mp.weixin.qq.com/s/WxYaekMZgWt28_fLvl_OUw) | AINLP 2022-12-22
+      - [跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag) | 机器之心 2023-02-19
   * ChatGPT
     - author: OpenAI
     - [demo(official)](https://chat.openai.com/auth/login)
@@ -37,6 +38,8 @@
       - [ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父](https://mp.weixin.qq.com/s/Nce2NGdj0CQZYw8t4iptzQ) | 量子位 2023-02-16
         - [ChatGPT 在做什么… 以及它为何发挥作用？](https://mp.weixin.qq.com/s/Cf9TF4OTEFoPQMOkwRNe6g) | 笑来 2023-02-15
       - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
+      - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
+      - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -68,6 +71,10 @@
           - [ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？](https://www.zhihu.com/question/581806122) | 知乎 2023-02-08
           - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
           - [谁拖了中国ChatGPT的后腿？](https://mp.weixin.qq.com/s/FRN0Hvy7-12qS82IvUdNeg) | 品玩 2023-02-16
+          - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
+          - [从ChatGPT到生成式AI（98页PPT）](https://mp.weixin.qq.com/s/OFmrkms8lNsi9C7BpfNI2w) | 与数据同行 2023-02-19
+          - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
+          - [专访复旦教授张军平：国内想超越ChatGPT，要在编程、硬件、数据上同时使力](https://mp.weixin.qq.com/s/jEJna2eyZ55VfRyfnCecuA) | 搜狐科技 2023-02-16
       - 学界：
         - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
         - [用ChatGPT作弊，小心被抓，反剽窃水印技术让学生噩梦提前到来](https://mp.weixin.qq.com/s/URO054sLrNtVKryyv0TxGA) | 机器之心 2023-01-27
@@ -76,11 +83,17 @@
         - [理工科神器Wolfram|Alpha注入超强计算知识，补足ChatGPT短板](https://mp.weixin.qq.com/s/mJ6n9s78JNy42zU4FFpJWw) | 机器之心 2023-01-27
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
-      - 出圈：
+        - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
+        - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
+      - 出圈 & 观点 & 故事：
         - [Chat-GPT 可以做数学吗？](https://mp.weixin.qq.com/s/OtPVCWsR2VJtb2SkQMlUPA) | 和乐数学 2023-02-02
         - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
         - [格雷格·伊根｜ ChatGPT是大规模有组织的胡言乱语](https://mp.weixin.qq.com/s/bfysgGXS-GmAA5nnH3DZeg) | 八光分文化 2023-02-15
         - [清华教授钱颖一：人工智能将使中国教育优势荡然无存](https://mp.weixin.qq.com/s/7VOObaIGPv4EdNI-zcZ_XA) | CVer 2023-02-16
+        - [ChatGPT 能帮我们免费看病吗？答案可能出乎你意料](https://mp.weixin.qq.com/s/XbE-EtnvOoYaJF0wGdT8AQ) | 丁香医生 2023-02-17
+        - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
+        - [ChatGPT：那些让美国伟大的俄罗斯人](https://mp.weixin.qq.com/s/GRflnsfhk3x15Bvx2IVdRw) | 量子位 2023-02-19
+        - [ChatGPT背后真正的英雄：OpenAI首席科学家Ilya Sutskever的信仰之跃](https://mp.weixin.qq.com/s/9aREBfe3n8-SWs5Y0FoDfA) | CVer 2023-02-18
     - expand methods:
       - Davinci: [OpenAI | GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23 
       - youChat: [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
@@ -95,6 +108,9 @@
       - Apprentice Bard: 
         - [Apprentice Bard: Google's potential ChatGPT rival](https://gpt3demo.com/apps/google-apprentice-bard)
         - [An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/) | Google Blog 2023-02-06
+      - Glow:
+        - [首款产品Glow已达数百万用户，前商汤科技副总裁创立AI大模型企业](https://zhuanlan.zhihu.com/p/607262463) | 知乎-科技商说 2023-02-17
+        - [破案了！百万用户与AI交友，背后果然有大模型](https://mp.weixin.qq.com/s/k-v6hbSonrlkPrJA6wPOlQ) | 量子位 2023-02-18
 </br>
 
 ### Blogs & Reviews
