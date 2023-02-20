@@ -82,6 +82,10 @@
           - [ChatGPT中国变形记｜深氪](https://mp.weixin.qq.com/s/IYtg_SONcNo0wdzp4e3RCw) | 36氪Pro 2023-02-19
           - [独一档技术分享：低成本复现ChatGPT完整流程](https://mp.weixin.qq.com/s/8kNOq68sQUsP97zZ2CPmyQ) | 潞晨科技 2023-02-19
       - 学界：
+        - [Yann LeCun：ChatGPT缺乏创新，没什么革命性；网友：早点离开Meta做出点突破吧](https://mp.weixin.qq.com/s/qCppJc23H_5-Hd3ZCGr05g) | 机器之心 2023-01-25
+          - [被OpenAI CEO取关后，Yann LeCun再次抨击：ChatGPT对现实的把握非常肤浅](https://mp.weixin.qq.com/s/8Udthaf9gD96M1804_HnbQ) | 机器之心 2023-02-02
+          - [马库斯炮轰「ChatGPT的黑暗中心」，称灾难即将来临](https://mp.weixin.qq.com/s/wHDqjDL6II9KE75WA5nxjA) | 新智元 2023-02-14
+          - [必应发狂了！ LeCun马库斯齐喷ChatGPT：大语言模型果然是邪路？](https://mp.weixin.qq.com/s/l4BvUWe7xVMWcGX5WWlT4Q) | 新智元 2023-02-14
         - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
         - [用ChatGPT作弊，小心被抓，反剽窃水印技术让学生噩梦提前到来](https://mp.weixin.qq.com/s/URO054sLrNtVKryyv0TxGA) | 机器之心 2023-01-27
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
