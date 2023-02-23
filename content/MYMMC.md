@@ -34,6 +34,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [In-Context Learning玩法大全](https://mp.weixin.qq.com/s/5sdIMCXplt61a3-IfNlPXQ) | AINLP 2023年02月22日 转载
     - [AI取代人类，可以自动生成prompt了](https://mp.weixin.qq.com/s/gpgBPeXcWL01CSoefPv9yg) | 智商掉了一地 夕小瑶的卖萌屋 2022年11月01日
     - [Prompt+对比学习，更好地学习句子表征](https://mp.weixin.qq.com/s/q4Jww1sXrOdmqQ5fyo9Cxw) | AINLP 2022年10月22日 转载
     - [NLP Prompt系列——Prompt Engineering方法详细梳理](https://mp.weixin.qq.com/s/aubMldgEBCLa6iLfifoVgw) | AINLP AINLP 2022年10月09日
