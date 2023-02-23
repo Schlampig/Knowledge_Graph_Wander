@@ -69,6 +69,7 @@
           - [**百度**将推中国版ChatGPT“文心一言” 目前在做上线前冲刺](https://baijiahao.baidu.com/s?id=1757354458057769314&wfr=spider&for=pc) | 中国经营报 2023-02-09
             - [**柯基数据**宣布接入百度文心一言能力 智能知识发现平台获领先AI技术加持](https://mp.weixin.qq.com/s/PqvjbDnUAtp6oJ-1ey7IoQ) | 柯基数据 2023-02-22
             - [大语言模型沸腾：文心一言「重塑」百度丨智氪](https://mp.weixin.qq.com/s/Dkp_slAEO5rypbLowAbaNQ) | 36氪 2023-02-22
+            - [Why always百度？OpenAI有的他有，OpenAI没有的他还有](https://mp.weixin.qq.com/s/Ly3H0gr6RgVRIHWKkmfFuw) | 量子位 2023-02-23
           - [**360**称计划推出的类ChatGPT产品存重大不确定性，周鸿祎曾表示搭不上这班车会被淘汰](https://baijiahao.baidu.com/s?id=1757365028429019056&wfr=spider&for=pc) | 蓝鲸财经 2023-02-09
           - [**科大讯飞**被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ) | 量子位 2023-02-10
             - [科大讯飞回应了：中国版ChatGPT可以乐观以待，有信心实现类似技术跃迁](https://mp.weixin.qq.com/s/s88HWFNwONc_6A6I9fpFFQ) | 量子位 2023-02-16
