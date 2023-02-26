@@ -64,7 +64,13 @@
   * link: https://github.com/clue-ai/PromptCLUE
   * homepage: https://www.cluebenchmarks.com/clueai.html
   * author: [ClueAI](https://github.com/clue-ai)
-  * note: 全中文任务支持零样本学习模型
+  * note: 全中文任务支持零样本学习模型.
+
+### Prompt-Patterns
+  * link: https://github.com/phodal/prompt-patterns
+  * homepage: https://prompt.phodal.com/
+  * author: Fengda Huang
+  * note: Prompt编写模式：如何将思维框架赋予机器，以设计模式的形式来思考提示.
 
 ### P-Tuning（PET）
   * link: https://github.com/THUDM/P-tuning
