@@ -497,6 +497,9 @@
   * extra: 
     - [Paper Picture Writing Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
     - [Academic writing: a Practical Guide](https://subjectguides.york.ac.uk/academic-writing)
+  * tools:
+    - [Grammarly](https://www.grammarly.com/)
+    - [Paperpal](https://paperpal.com/)
 
 ### document-style-guide
   * link: https://github.com/ruanyf/document-style-guide
