@@ -4,6 +4,7 @@
 ## Knowledge into language model
 
 ### Papers
+  * Zhou, C., Li, Q., Li, C., Yu, J., Liu, Y., Wang, G., ... & Sun, L. (2023). [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf). arXiv preprint arXiv:2302.09419. Also see: [从BERT到ChatGPT，北航等9大顶尖研究机构全面综述：那些年一起追过的「预训练基础模型」](https://mp.weixin.qq.com/s/RDpOCcJKQ6h8Ns5xZyTBYw) | 新智元 2023-02-27
   * Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2023). [Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing](https://arxiv.org/abs/2107.13586). ACM Computing Surveys, 55(9), 1-35. Also see [homepage](http://pretrain.nlpedia.ai/).
   * Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207). arXiv preprint arXiv:2110.08207.
   * Wei, J., Bosma, M., Zhao, V. Y., Guu, K., Yu, A. W., Lester, B., ... & Le, Q. V. (2021). [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652). arXiv preprint arXiv:2109.01652.
@@ -181,6 +182,8 @@
   - [2022年12月02日：近万人围观Hinton最新演讲：前向-前向神经网络训练算法，论文已公开](https://mp.weixin.qq.com/s/oxS57R8lZGAQga2AbvYnRw)
   - [2023年01月19日：超详超硬Jeff Dean万字总结火热出炉！图解谷歌2022年AIGC、LLM、CV三大领域成就](https://mp.weixin.qq.com/s/mYhSFtZZMRv5dDMnYcruJg)
   - [2023年01月27日：Transformer模仿大脑，在预测大脑成像上超越42个模型，还能够模拟感官与大脑之间的传输](https://mp.weixin.qq.com/s/O-gCHzTL4lAJ8bQDZtzPDQ)
+  - [2023年02月26日：ChatGPT掀智力革命！OpenAI发布AGI路线图，最终通向超级智能世界](https://mp.weixin.qq.com/s/6Lyr2nVG5mxy1UBnOC5DAw)
+  - [2023年02月27日：ChatGPT之后何去何从？LeCun新作：全面综述下一代「增强语言模型」](https://mp.weixin.qq.com/s/1Qz8D3ZKkS4jdbNiJ7MWFg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
