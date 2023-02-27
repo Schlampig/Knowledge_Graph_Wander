@@ -4,7 +4,7 @@
 ## Knowledge into language model
 
 ### Papers
-  * Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2023). [Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing](https://arxiv.org/abs/2107.13586). ACM Computing Surveys, 55(9), 1-35. 
+  * Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2023). [Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing](https://arxiv.org/abs/2107.13586). ACM Computing Surveys, 55(9), 1-35. Also see [homepage](http://pretrain.nlpedia.ai/).
   * Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Rush, A. M. (2021). [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207). arXiv preprint arXiv:2110.08207.
   * Wei, J., Bosma, M., Zhao, V. Y., Guu, K., Yu, A. W., Lester, B., ... & Le, Q. V. (2021). [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652). arXiv preprint arXiv:2109.01652.
   * Schick, T. , & H Schütze. (2020). [Exploiting cloze questions for few shot text classification and natural language inference](https://arxiv.org/abs/2001.07676v3). EACL 2021.
