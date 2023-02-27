@@ -64,6 +64,7 @@
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
             - [微软消灭了ChatGPT的感情，必应更新引发粉丝强烈不满：是时候再见了](https://mp.weixin.qq.com/s/kL7F3D7JpIqEJXJ0PyIfxg) | 量子位 2023-02-20
             - [小冰CEO李笛：小冰链不是中国版ChatGPT](https://mp.weixin.qq.com/s/ErujYGRmvsfGSttkjCHukQ) | 新智元 2023-02-21
+            - [ChatGPT发疯怎么办？小冰李笛：两个关键，我可破之](https://mp.weixin.qq.com/s/pzu7ikmtxLmM9x2uLED0-w) | 量子位 2023-02-27
           - [OpenAI新老员工对决！**Anthropic**发布Claude模型：ChatGPT的RLHF过时啦！](https://baijiahao.baidu.com/s?id=1756343461853609867&wfr=spider&for=pc) | 新智元 2023-01-29
           - [谷歌加紧测试ChatGPT竞品，靠对话可搜最新信息](https://mp.weixin.qq.com/s/HiC5S8sQaZ-aisk-8DFYeQ) | 量子位 2023-02-02
             - [ChatGPT逼急谷歌，劈柴发全员信：别慌，迟到也能赢！](https://mp.weixin.qq.com/s/tBbDRdnFrmSv1X2ttpw6Zg) | 夕小瑶的卖萌屋 2023-02-17
@@ -100,6 +101,7 @@
           - [马库斯炮轰「ChatGPT的黑暗中心」，称灾难即将来临](https://mp.weixin.qq.com/s/wHDqjDL6II9KE75WA5nxjA) | 新智元 2023-02-14
           - [必应发狂了！ LeCun马库斯齐喷ChatGPT：大语言模型果然是邪路？](https://mp.weixin.qq.com/s/l4BvUWe7xVMWcGX5WWlT4Q) | 新智元 2023-02-14
           - [Stuart Russell专访：关于ChatGPT，更多数据和更多算力不能带来真正的智能](https://mp.weixin.qq.com/s/BB1CG_KD7M7pSST2j47tLw) | 机器之心 2023-02-20
+          - [关于AGI与ChatGPT，Stuart Russell与朱松纯这么看](https://mp.weixin.qq.com/s/TL1TCfQMetQh2nM3XykRBg) | 机器之心 2023-02-27
         - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
           - [ChatGPT与科研：革新与隐患共存 |《自然》长文](https://mp.weixin.qq.com/s/qHYbDfDY8S47mXK65TsF_A) | Nature Portfolio 2023-02-21
@@ -108,6 +110,7 @@
           - [清华教授钱颖一：人工智能将使中国教育优势荡然无存](https://mp.weixin.qq.com/s/7VOObaIGPv4EdNI-zcZ_XA) | CVer 2023-02-16
           - [香港大学宣布禁用！ChatGPT是否应被视为“教学公敌”？](https://mp.weixin.qq.com/s/z01oYcKsJhLiR88fAw2iUw) | 第一财经 2023-02-20 
         - [打造中国版 ChatGPT，国内有哪些学术力量能抢滩？](https://mp.weixin.qq.com/s/8Pmr8ubZdMkmMsQRg1i-uA) | AI科技评论 2023-02-20
+          - [清华大学孙茂松：打造中国版ChatGPT并推动其在更多场景应用落地是目前的主要挑战](https://mp.weixin.qq.com/s/rDYb-8E7quwdUr4nNcPiLg) | TsinghuaNLP 2023-02-26
       - 优化 & 应用：
         - [理工科神器Wolfram|Alpha注入超强计算知识，补足ChatGPT短板](https://mp.weixin.qq.com/s/mJ6n9s78JNy42zU4FFpJWw) | 机器之心 2023-01-27
           - [刚刚，ChatGPT官宣数学能力再升级，网友：终于精通十以内加减法了](https://mp.weixin.qq.com/s/A5gF33it-PwN0JBVEw6SZA) | 机器之心 2023-01-31 
@@ -115,6 +118,7 @@
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
         - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
+        - [ChatGPT和机器人如何结合？微软最新《ChatGPT机器人:设计原则和模型能力》论文](https://mp.weixin.qq.com/s/y01_2K2-Jci83wftMIOPug) | 专知 2023-02-26
       - 出圈 & 观点 & 故事：
         - [Chat-GPT 可以做数学吗？](https://mp.weixin.qq.com/s/OtPVCWsR2VJtb2SkQMlUPA) | 和乐数学 2023-02-02
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
@@ -122,6 +126,7 @@
           - [格雷格·伊根｜ ChatGPT是大规模有组织的胡言乱语](https://mp.weixin.qq.com/s/bfysgGXS-GmAA5nnH3DZeg) | 八光分文化 2023-02-15
           - [颠覆传统图文？ChatGPT写书放网上卖，人类作者：该管管了](https://mp.weixin.qq.com/s/vSJGsSTUj219FNjMlW3OYg) | 机器之心 2023-02-22
           - [AI写手们盯上了科幻小说，《克拉克世界》暂停收稿](https://mp.weixin.qq.com/s/rk8rR-Zx0mV9IGKANsSAAA) | 不存在 2023-02-22
+          - [ChatGPT的价值观及立场](https://mp.weixin.qq.com/s/5x2xwOnTf9rhfhYeJI82Gg) | tuzhuxi 2023-02-26
         - [ChatGPT 能帮我们免费看病吗？答案可能出乎你意料](https://mp.weixin.qq.com/s/XbE-EtnvOoYaJF0wGdT8AQ) | 丁香医生 2023-02-17
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
@@ -168,3 +173,4 @@
   * [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
   * [从ChatGPT到生成式AI（98页PPT）](https://mp.weixin.qq.com/s/OFmrkms8lNsi9C7BpfNI2w) | 与数据同行 2023-02-19
   * [ChatGPT背后的大模型技术如何炼？MSU等最新《预训练基础模型综述》，97页pdf全面阐述BERT到ChatGPT历史脉络](https://mp.weixin.qq.com/s/yDB9VKSKIu-4spJ2hiH1JQ) | 专知 2023-02-22
+  * [从BERT到ChatGPT，北航等9大顶尖研究机构全面综述：那些年一起追过的「预训练基础模型」](https://mp.weixin.qq.com/s/RDpOCcJKQ6h8Ns5xZyTBYw) | 新智元 2023-02-27
