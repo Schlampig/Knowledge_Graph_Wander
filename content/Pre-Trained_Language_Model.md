@@ -164,6 +164,7 @@
   * code: [tensorflow by OpenAI](https://github.com/openai/finetune-transformer-lm)
   * blog:
     - [2023年：60行代码就能构建GPT！网友：比之前的教程都要清晰｜附代码](https://mp.weixin.qq.com/s/LBA4vWfU4FbhWTit-gLXkA)
+      - [2023年：本科生60行代码教你手搓GPT大模型，技术介绍堪比教程](https://mp.weixin.qq.com/s/pJ3qRjS07jdhW3Vf-HRD5w) 
     - [2023年：李飞飞高徒教你从0到1构建GPT](https://mp.weixin.qq.com/s/pszo5KZgusmQpjkYCT2ihg)
     - [2023年：小破本也能炼GPT！300行代码搞定，GitHub获6k星，来自特斯拉前AI总监](https://mp.weixin.qq.com/s/2FZ-_-lL84i5cSxirO0ciA)
   
