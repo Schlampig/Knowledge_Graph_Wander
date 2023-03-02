@@ -150,37 +150,37 @@
         - Sydney人格[讨论原文](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)及[完整对话](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)。
         - 拓展：[“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
     - expand methods:
-      - Davinci: [OpenAI | GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23 
-      - youChat: [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
-      - GPT-4: 
+      - Davinci(OpenAI): [GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23 
+      - youChat(You.com): [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
+      - GPT-4(OpenAI): 
         - [OpenAI CEO谈GPT-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://mp.weixin.qq.com/s/A_WkmUL_6L-gdhIs5-HWTA) | 机器之心 2023-01-19
         - [GPT-4被曝进入微软必应搜索，几周内完成](https://mp.weixin.qq.com/s/TLWpmEWSaGEK1sx26t4DIA) | 量子位 2023-02-02
-      - ChatYuan: 
+      - ChatYuan(元语智能): 
         - code: https://github.com/clue-ai/ChatYuan
         - [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
         - [部署国产ChatGPT仅需6G显存！ChatYuan模型开放下载：业内首个功能型对话开源中文大模型](https://mp.weixin.qq.com/s/1UnFUaUK7vNh9uId7XxJ2A) | 新智元 2023-02-03
         - [ChatGPT国产化：ChatYuan元语对话大模型升级](https://mp.weixin.qq.com/s/FtXAnrhavA5u7hRyfm8j6Q) | 机器之心 2023-02-21
-      - Claude: [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
-      - Apprentice Bard: 
+      - Claude(Anthropic): [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
+      - Apprentice Bard(谷歌): 
         - [Apprentice Bard: Google's potential ChatGPT rival](https://gpt3demo.com/apps/google-apprentice-bard)
         - [An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/) | Google Blog 2023-02-06
-      - Glow:
+      - Glow(北京稀宇科技有限公司):
         - [首款产品Glow已达数百万用户，前商汤科技副总裁创立AI大模型企业](https://zhuanlan.zhihu.com/p/607262463) | 知乎-科技商说 2023-02-17
         - [破案了！百万用户与AI交友，背后果然有大模型](https://mp.weixin.qq.com/s/k-v6hbSonrlkPrJA6wPOlQ) | 量子位 2023-02-18
-      - MOSS: 
+      - MOSS(复旦大学): 
         - [复旦发布中国版ChatGPT：MOSS开启测试冲上热搜，服务器挤爆](https://mp.weixin.qq.com/s/LjwSozikB6CK5zh2Nd2JHw) | 机器之心 2023-02-21
         - [研究成果将会开源！复旦MOSS团队深度访谈来了](https://mp.weixin.qq.com/s/NCWFaTsWOPEsTu2Qs6SYwA) | 深度学习自然语言处理 2023-03-02
-      - LLaMA: 
+      - LLaMA(Meta): 
         - [paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/): LLaMA: Open and Efficient Foundation Language Models.
         - [code](https://github.com/facebookresearch/llama)
         - blog:
           - [这是Meta版ChatGPT雏形？开源、一块GPU就能跑，1/10参数量打败GPT-3](https://mp.weixin.qq.com/s/Qj8smMCKzNS_oC6Mm0u_5A) | 机器之心 2023-02-25
           - [Meta最新语言模型LLaMA论文研读：小参数+大数据的开放、高效基础语言模型阅读笔记](https://mp.weixin.qq.com/s/VsFSsTPohKGDIJdATvDuvA) | 老刘说NLP 2023-02-26
           - [轻量版ChatGPT训练方法开源！仅用3天围绕LLaMA打造，号称训练速度比OpenAI快15倍](https://mp.weixin.qq.com/s/Qyf7Ng2mhuJggpyDp_84zQ) | 量子位 2023-03-01
-      - MetaLLM: 
+      - MetaLLM(秘塔): 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
-      - Kosmos:
+      - Kosmos(微软):
         - [paper](https://arxiv.org/abs/2302.14045): Language Is Not All You Need: Aligning Perception with Language Models
         - [微软亚研院：Language Is Not All You Need](https://mp.weixin.qq.com/s/n7ziKJeVzEzVB1w1kpsn4g) | 量子位 2023-03-01 
 </br>
