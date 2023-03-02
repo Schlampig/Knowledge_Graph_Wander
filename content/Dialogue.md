@@ -160,7 +160,7 @@
         - [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
         - [部署国产ChatGPT仅需6G显存！ChatYuan模型开放下载：业内首个功能型对话开源中文大模型](https://mp.weixin.qq.com/s/1UnFUaUK7vNh9uId7XxJ2A) | 新智元 2023-02-03
         - [ChatGPT国产化：ChatYuan元语对话大模型升级](https://mp.weixin.qq.com/s/FtXAnrhavA5u7hRyfm8j6Q) | 机器之心 2023-02-21
-      - Claude(Anthropic): [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
+      - Claude([Anthropic](https://www.anthropic.com/)): [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
       - Apprentice Bard(谷歌): 
         - [Apprentice Bard: Google's potential ChatGPT rival](https://gpt3demo.com/apps/google-apprentice-bard)
         - [An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/) | Google Blog 2023-02-06
@@ -177,7 +177,7 @@
           - [这是Meta版ChatGPT雏形？开源、一块GPU就能跑，1/10参数量打败GPT-3](https://mp.weixin.qq.com/s/Qj8smMCKzNS_oC6Mm0u_5A) | 机器之心 2023-02-25
           - [Meta最新语言模型LLaMA论文研读：小参数+大数据的开放、高效基础语言模型阅读笔记](https://mp.weixin.qq.com/s/VsFSsTPohKGDIJdATvDuvA) | 老刘说NLP 2023-02-26
           - [轻量版ChatGPT训练方法开源！仅用3天围绕LLaMA打造，号称训练速度比OpenAI快15倍](https://mp.weixin.qq.com/s/Qyf7Ng2mhuJggpyDp_84zQ) | 量子位 2023-03-01
-      - MetaLLM(秘塔): 
+      - MetaLLM([秘塔科技](https://metasota.ai/#/)): 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
       - Kosmos(微软):
