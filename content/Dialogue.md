@@ -20,6 +20,7 @@
       - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/) | [OpenAI official website](https://openai.com/)
       - [对话机器人之InstructGPT](https://mp.weixin.qq.com/s/WxYaekMZgWt28_fLvl_OUw) | AINLP 2022-12-22
       - [跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag) | 机器之心 2023-02-19
+      - [GPT / GPT-2 / GPT-3 / InstructGPT 进化之路](https://mp.weixin.qq.com/s/PSVyqcHwntPcNpk8dKs50Q) | 深度学习自然语言处理 2023-03-01
   * ChatGPT
     - author: OpenAI
     - [demo(official)](https://chat.openai.com/auth/login)
@@ -95,6 +96,9 @@
           - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
             - [专访复旦教授张军平：国内想超越ChatGPT，要在编程、硬件、数据上同时使力](https://mp.weixin.qq.com/s/jEJna2eyZ55VfRyfnCecuA) | 搜狐科技 2023-02-16
             - [ChatGPT +RPA=？——对话ALBERT蓝振忠&实在智能孙林君](https://mp.weixin.qq.com/s/h4kadKYFUrlEDjGhmsXClg) | RPA全球生态 2023-02-23
+            - [身价没有几个亿，不好意思做类ChatGPT](https://mp.weixin.qq.com/s/2Mmp5wmpvw9M-W30SAOCFQ) | Tech星球 2023-03-01
+            - [“ChatGPT爆火后，NLP技术不存在了”](https://mp.weixin.qq.com/s/FknHZ_FFdwdofp5vn9ot3g) | 量子位 2023-03-02
+          - [ChatGPT开放API，价格直接打1折](https://mp.weixin.qq.com/s/S0pkSzesYzAXlJBt9ninZQ) | 量子位 2023-03-02
       - 学界：
         - [Yann LeCun：ChatGPT缺乏创新，没什么革命性；网友：早点离开Meta做出点突破吧](https://mp.weixin.qq.com/s/qCppJc23H_5-Hd3ZCGr05g) | 机器之心 2023-01-25
           - [被OpenAI CEO取关后，Yann LeCun再次抨击：ChatGPT对现实的把握非常肤浅](https://mp.weixin.qq.com/s/8Udthaf9gD96M1804_HnbQ) | 机器之心 2023-02-02
@@ -116,6 +120,7 @@
           - [刚刚，ChatGPT官宣数学能力再升级，网友：终于精通十以内加减法了](https://mp.weixin.qq.com/s/A5gF33it-PwN0JBVEw6SZA) | 机器之心 2023-01-31 
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
+          - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01 
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
         - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
         - [ChatGPT和机器人如何结合？微软最新《ChatGPT机器人:设计原则和模型能力》论文](https://mp.weixin.qq.com/s/y01_2K2-Jci83wftMIOPug) | 专知 2023-02-26
@@ -132,9 +137,11 @@
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
           - [ChatGPT 向通用意识机器进化的关键——自指的启示](https://mp.weixin.qq.com/s/TO33qJAuo1_rCzI8NsvA9A) | 集智俱乐部 2023-02-23
+          - [让 ChatGPT 拥有意识，冯·诺依曼会怎么做？——自指机器的奥秘](https://mp.weixin.qq.com/s/kIMVK4bRtbe-PCHvKw7xBA) | 集智俱乐部 2023-02-28
         - [ChatGPT：那些让美国伟大的俄罗斯人](https://mp.weixin.qq.com/s/GRflnsfhk3x15Bvx2IVdRw) | 量子位 2023-02-19
           - [ChatGPT背后真正的英雄：OpenAI首席科学家Ilya Sutskever的信仰之跃](https://mp.weixin.qq.com/s/9aREBfe3n8-SWs5Y0FoDfA) | CVer 2023-02-18
           - [智谱研究报告：揭秘ChatGPT背后的AI“梦之队”](https://mp.weixin.qq.com/s/Y_LjjsuoEEmhIg5WO_iQhA) | 智谱研究 2023-02-21
+          - [黄土高原的县城里，一群全职宝妈成了AI训练师](https://mp.weixin.qq.com/s/nKNhyJ10haNPkNAMSe5nxQ) | 三联生活周刊 2023-03-01
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
         - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -158,13 +165,16 @@
       - Glow:
         - [首款产品Glow已达数百万用户，前商汤科技副总裁创立AI大模型企业](https://zhuanlan.zhihu.com/p/607262463) | 知乎-科技商说 2023-02-17
         - [破案了！百万用户与AI交友，背后果然有大模型](https://mp.weixin.qq.com/s/k-v6hbSonrlkPrJA6wPOlQ) | 量子位 2023-02-18
-      - MOSS: [复旦发布中国版ChatGPT：MOSS开启测试冲上热搜，服务器挤爆](https://mp.weixin.qq.com/s/LjwSozikB6CK5zh2Nd2JHw) | 机器之心 2023-02-21
+      - MOSS: 
+        - [复旦发布中国版ChatGPT：MOSS开启测试冲上热搜，服务器挤爆](https://mp.weixin.qq.com/s/LjwSozikB6CK5zh2Nd2JHw) | 机器之心 2023-02-21
+        - [研究成果将会开源！复旦MOSS团队深度访谈来了](https://mp.weixin.qq.com/s/NCWFaTsWOPEsTu2Qs6SYwA) | 深度学习自然语言处理 2023-03-02
       - LLaMA: 
         - [paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/): LLaMA: Open and Efficient Foundation Language Models.
         - [code](https://github.com/facebookresearch/llama)
         - blog:
           - [这是Meta版ChatGPT雏形？开源、一块GPU就能跑，1/10参数量打败GPT-3](https://mp.weixin.qq.com/s/Qj8smMCKzNS_oC6Mm0u_5A) | 机器之心 2023-02-25
           - [Meta最新语言模型LLaMA论文研读：小参数+大数据的开放、高效基础语言模型阅读笔记](https://mp.weixin.qq.com/s/VsFSsTPohKGDIJdATvDuvA) | 老刘说NLP 2023-02-26
+          - [轻量版ChatGPT训练方法开源！仅用3天围绕LLaMA打造，号称训练速度比OpenAI快15倍](https://mp.weixin.qq.com/s/Qyf7Ng2mhuJggpyDp_84zQ) | 量子位 2023-03-01
       - MetaLLM: 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
