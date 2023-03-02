@@ -182,7 +182,8 @@
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
       - Kosmos(微软):
         - [paper](https://arxiv.org/abs/2302.14045): Language Is Not All You Need: Aligning Perception with Language Models
-        - [微软亚研院：Language Is Not All You Need](https://mp.weixin.qq.com/s/n7ziKJeVzEzVB1w1kpsn4g) | 量子位 2023-03-01 
+        - [微软亚研院：Language Is Not All You Need](https://mp.weixin.qq.com/s/n7ziKJeVzEzVB1w1kpsn4g) | 量子位 2023-03-01
+        - [从LLM到MLLM，多模态大规模语言模型KOSMOS-1赋予了语言模型看见世界的能力](https://mp.weixin.qq.com/s/c_ElIiluOsSR2rmGuF0bug) | 微软亚洲研究院 2023-03-02
 </br>
 
 ### Blogs & Reviews
