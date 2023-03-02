@@ -41,6 +41,7 @@
         - [ChatGPT 在做什么… 以及它为何发挥作用？](https://mp.weixin.qq.com/s/Cf9TF4OTEFoPQMOkwRNe6g) | 笑来 2023-02-15
       - [刘群分享ChatGPT原理](https://github.com/liuquncn/liuquncn.github.io/tree/master/talks/20230216%20ChatGPT%20Technological%20Analysis) | 刘群 github 2023-02-16 
       - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
+        - [大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw) | 老刘说NLP 2023-02-28
       - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
       - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
       - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -99,6 +100,7 @@
             - [身价没有几个亿，不好意思做类ChatGPT](https://mp.weixin.qq.com/s/2Mmp5wmpvw9M-W30SAOCFQ) | Tech星球 2023-03-01
             - [“ChatGPT爆火后，NLP技术不存在了”](https://mp.weixin.qq.com/s/FknHZ_FFdwdofp5vn9ot3g) | 量子位 2023-03-02
           - [ChatGPT开放API，价格直接打1折](https://mp.weixin.qq.com/s/S0pkSzesYzAXlJBt9ninZQ) | 量子位 2023-03-02
+          - [ChatGPT之父撰文：《万物摩尔定律》出现，这场革命将创造惊人的财富](https://mp.weixin.qq.com/s/Rke9aKge955Fz85tG4Jq1g) | 人工智能学家 2023-02-28
       - 学界：
         - [Yann LeCun：ChatGPT缺乏创新，没什么革命性；网友：早点离开Meta做出点突破吧](https://mp.weixin.qq.com/s/qCppJc23H_5-Hd3ZCGr05g) | 机器之心 2023-01-25
           - [被OpenAI CEO取关后，Yann LeCun再次抨击：ChatGPT对现实的把握非常肤浅](https://mp.weixin.qq.com/s/8Udthaf9gD96M1804_HnbQ) | 机器之心 2023-02-02
