@@ -112,6 +112,7 @@
           - [必应发狂了！ LeCun马库斯齐喷ChatGPT：大语言模型果然是邪路？](https://mp.weixin.qq.com/s/l4BvUWe7xVMWcGX5WWlT4Q) | 新智元 2023-02-14
           - [Stuart Russell专访：关于ChatGPT，更多数据和更多算力不能带来真正的智能](https://mp.weixin.qq.com/s/BB1CG_KD7M7pSST2j47tLw) | 机器之心 2023-02-20
           - [关于AGI与ChatGPT，Stuart Russell与朱松纯这么看](https://mp.weixin.qq.com/s/TL1TCfQMetQh2nM3XykRBg) | 机器之心 2023-02-27
+          - [对于AIGC，李飞飞有这些看法｜斯坦福HAI观点报告](https://mp.weixin.qq.com/s/qPUX5-d8UbELWPLmpSAinw) | 机器学习算法与自然语言处理 2023-03-06
         - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
           - [ChatGPT与科研：革新与隐患共存 |《自然》长文](https://mp.weixin.qq.com/s/qHYbDfDY8S47mXK65TsF_A) | Nature Portfolio 2023-02-21
@@ -122,9 +123,11 @@
         - [打造中国版 ChatGPT，国内有哪些学术力量能抢滩？](https://mp.weixin.qq.com/s/8Pmr8ubZdMkmMsQRg1i-uA) | AI科技评论 2023-02-20
           - [清华大学孙茂松：打造中国版ChatGPT并推动其在更多场景应用落地是目前的主要挑战](https://mp.weixin.qq.com/s/rDYb-8E7quwdUr4nNcPiLg) | TsinghuaNLP 2023-02-26
           - [哈工大张民：ChatGPT 之后，NLP 还有 12 个待解决命题](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA) | AI科技评论 2023-03-03
+          - [复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw) | AI科技大本营 2023-03-06
       - 优化 & 应用：
         - [理工科神器Wolfram|Alpha注入超强计算知识，补足ChatGPT短板](https://mp.weixin.qq.com/s/mJ6n9s78JNy42zU4FFpJWw) | 机器之心 2023-01-27
-          - [刚刚，ChatGPT官宣数学能力再升级，网友：终于精通十以内加减法了](https://mp.weixin.qq.com/s/A5gF33it-PwN0JBVEw6SZA) | 机器之心 2023-01-31 
+          - [刚刚，ChatGPT官宣数学能力再升级，网友：终于精通十以内加减法了](https://mp.weixin.qq.com/s/A5gF33it-PwN0JBVEw6SZA) | 机器之心 2023-01-31
+          - [鸡兔同笼都能算错的ChatGPT，陶哲轩发现了它的价值](https://mp.weixin.qq.com/s/Pbcm6pOe9r4cxJazj4q8_Q) | 机器之心 2023-03-06
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
           - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01
@@ -133,6 +136,8 @@
         - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
         - [ChatGPT和机器人如何结合？微软最新《ChatGPT机器人:设计原则和模型能力》论文](https://mp.weixin.qq.com/s/y01_2K2-Jci83wftMIOPug) | 专知 2023-02-26
         - [chatGPT的一个不足及解决思路，抽象认知的实现思路](https://mp.weixin.qq.com/s/kdkLMm0iMn4dcqnzxh9YWQ) | 人工智能学家 2023-03-02
+        - [关于ChatGPT解锁NLP任务的一次总结汇报：从应用变化、14类NLP任务使用案例看选型思考](https://mp.weixin.qq.com/s/XJ3lIJm3iKKsezG-V1FeVQ) | 老刘说NLP 2023-03-05
+        - [ChatGPT再出“王炸”，客服都要下岗了？](https://mp.weixin.qq.com/s/Sqj3B4IOKU99WuE27mHysA) | 大数据文摘 2023-03-06
       - 出圈 & 观点 & 故事：
         - [Chat-GPT 可以做数学吗？](https://mp.weixin.qq.com/s/OtPVCWsR2VJtb2SkQMlUPA) | 和乐数学 2023-02-02
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
@@ -152,6 +157,8 @@
           - [智谱研究报告：揭秘ChatGPT背后的AI“梦之队”](https://mp.weixin.qq.com/s/Y_LjjsuoEEmhIg5WO_iQhA) | 智谱研究 2023-02-21
           - [黄土高原的县城里，一群全职宝妈成了AI训练师](https://mp.weixin.qq.com/s/nKNhyJ10haNPkNAMSe5nxQ) | 三联生活周刊 2023-03-01
           - [ChatGPT在县城，时髦年轻人已经用它吊打同事了](https://mp.weixin.qq.com/s/zDWD0YkrH6UVXMiXPe6S5A) | 36氪 2023-03-05
+          - [为什么ChatGPT被指责对印度发动“文化战争”？？](https://mp.weixin.qq.com/s/mF6JeK65DrgS-6nZYvsxQw) | 南亚研究通讯 2023-03-05
+          - [大模型111人：谷歌和OpenAI的人才战争](https://mp.weixin.qq.com/s/VTeIZM9Zi9hc65z-4b_DVg) | 量子位 2023-03-06
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
         - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -186,6 +193,7 @@
           - [Meta最新语言模型LLaMA论文研读：小参数+大数据的开放、高效基础语言模型阅读笔记](https://mp.weixin.qq.com/s/VsFSsTPohKGDIJdATvDuvA) | 老刘说NLP 2023-02-26
           - [轻量版ChatGPT训练方法开源！仅用3天围绕LLaMA打造，号称训练速度比OpenAI快15倍](https://mp.weixin.qq.com/s/Qyf7Ng2mhuJggpyDp_84zQ) | 量子位 2023-03-01
           - [Meta开源的ChatGPT平替到底好不好用？测试结果、加料改装方法已出炉，2天5.2k星](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg) | 机器之心 2023-03-05
+          - [Meta开源的LLaMa到底好不好用？最全测评结果来了](https://mp.weixin.qq.com/s/k4mYf7ZwHWhi7dWb7gEjcQ) | 夕小瑶的卖萌屋 2023-03-06
       - MetaLLM([秘塔科技](https://metasota.ai/#/)): 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
