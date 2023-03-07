@@ -85,6 +85,7 @@
           - [**Opera**跟进引入ChatGPT，侧边栏生成文章简短摘要](https://mp.weixin.qq.com/s/eY_dJfPtYpjarUvNm2ocQg) | 机器之心 2023-02-12
           - [ChatGPT群雄逐鹿：陆奇屠龙，号令天下；小川不出，谁与争锋](https://mp.weixin.qq.com/s/NNJzd2lScGlRgl4rKcyx3A) | 雷峰网 2023-02-21
           - [ChatGPT上岗医疗还有多远？哈佛教授亲测表现接近医生，**云知声**被曝打造行业版](https://mp.weixin.qq.com/s/8CltdJQ0FZ9sNBGu4ZjnaA) | 量子位 2023-02-21
+          - [大神李沐被曝离职！投身大模型创业，GitHub项目已开](https://mp.weixin.qq.com/s/lvqtu0XsOKe8x2tTj7pl7A) | 量子位 2023-03-07
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -132,6 +133,7 @@
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
           - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01
           - [你的 ChatGPT 文件阅读助手来了！无需通读，知晓万千](https://mp.weixin.qq.com/s/M-0ueeFyIIUk5psqJX3Sow) | 北京庖丁科技 2023-03-03
+          - [ChatPDF也来了！一键上传文件即可解读，复制粘贴都省了](https://mp.weixin.qq.com/s/XINHbYX-K6v0J7Zu3W3swQ) | 量子位 2023-03-07
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
         - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
         - [ChatGPT和机器人如何结合？微软最新《ChatGPT机器人:设计原则和模型能力》论文](https://mp.weixin.qq.com/s/y01_2K2-Jci83wftMIOPug) | 专知 2023-02-26
@@ -194,6 +196,7 @@
           - [轻量版ChatGPT训练方法开源！仅用3天围绕LLaMA打造，号称训练速度比OpenAI快15倍](https://mp.weixin.qq.com/s/Qyf7Ng2mhuJggpyDp_84zQ) | 量子位 2023-03-01
           - [Meta开源的ChatGPT平替到底好不好用？测试结果、加料改装方法已出炉，2天5.2k星](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg) | 机器之心 2023-03-05
           - [Meta开源的LLaMa到底好不好用？最全测评结果来了](https://mp.weixin.qq.com/s/k4mYf7ZwHWhi7dWb7gEjcQ) | 夕小瑶的卖萌屋 2023-03-06
+          - [代码角度看LLaMA语言模型：Meta最新模型LLaMA细节与代码详解](https://mp.weixin.qq.com/s/kz2DpGDW-MUFLROTUk-olw) | 老刘说NLP 2023-03-06
       - MetaLLM([秘塔科技](https://metasota.ai/#/)): 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
