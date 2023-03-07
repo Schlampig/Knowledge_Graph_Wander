@@ -49,6 +49,7 @@
   * [**ASAPP**](https://github.com/asappresearch): [homepage](https://www.asapp.com/ai-research/)
   * [**AssemblyAI**](https://github.com/AssemblyAI): [homepage](https://www.assemblyai.com/)/[examples](https://github.com/AssemblyAI-Examples)
   * [**AutoNLP**](https://autonlp.ai/about)
+  * [**Boson.ai**](https://boson.ai/)
   * [**co:here**](https://cohere.ai/): [Bonjour. مرحبا. Guten tag. Hola. Cohere's Multilingual Text Understanding Model is Now Available](https://txt.cohere.ai/multilingual/)
   * [**Coqui**](https://github.com/coqui-ai): [homepage](https://coqui.ai/)
   * [**DeepAI**](https://deepai.org/)
