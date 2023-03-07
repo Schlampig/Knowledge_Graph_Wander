@@ -69,8 +69,9 @@
     - [2021年：Huggingface BERT源码详解：应用模型与训练优化](https://mp.weixin.qq.com/s/gR2i8HvyRBUxofovQarLNw)
     - [2021年：详解Transformer](https://zhuanlan.zhihu.com/p/48508221)
     - [2021年：3W字长文带你轻松入门视觉transformer](https://zhuanlan.zhihu.com/p/308301901)
-    - [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/) by [AI SUMMER](https://theaisummer.com/)
+    - [2020年：How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/) by [AI SUMMER](https://theaisummer.com/)
     - [2018年：The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+    - [2018年：真正的完全图解Seq2Seq Attention模型](https://mp.weixin.qq.com/s/0k71fKKv2SRLv9M6BjDo4w)
 
 ### Variations of Transformer
   * Fast Transformers
