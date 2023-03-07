@@ -140,6 +140,8 @@
         - [chatGPT的一个不足及解决思路，抽象认知的实现思路](https://mp.weixin.qq.com/s/kdkLMm0iMn4dcqnzxh9YWQ) | 人工智能学家 2023-03-02
         - [关于ChatGPT解锁NLP任务的一次总结汇报：从应用变化、14类NLP任务使用案例看选型思考](https://mp.weixin.qq.com/s/XJ3lIJm3iKKsezG-V1FeVQ) | 老刘说NLP 2023-03-05
         - [ChatGPT再出“王炸”，客服都要下岗了？](https://mp.weixin.qq.com/s/Sqj3B4IOKU99WuE27mHysA) | 大数据文摘 2023-03-06
+        - [利用ChatGPT 和Milvus快速搭建智能问答机器人](https://mp.weixin.qq.com/s/TB-c1uXTQ6oiT46-hBaAAw) | 分布式应用运行时 2023-03-05
+          - [源码“聊天人”：正经回答关于源码的“一切”](https://mp.weixin.qq.com/s/AEQ7ce6F_8U7BfHiA78qfA) | 源码资本 2023-03-07 
       - 出圈 & 观点 & 故事：
         - [Chat-GPT 可以做数学吗？](https://mp.weixin.qq.com/s/OtPVCWsR2VJtb2SkQMlUPA) | 和乐数学 2023-02-02
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
