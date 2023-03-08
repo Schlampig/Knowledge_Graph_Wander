@@ -20,7 +20,8 @@
       - [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/) | [OpenAI official website](https://openai.com/)
       - [对话机器人之InstructGPT](https://mp.weixin.qq.com/s/WxYaekMZgWt28_fLvl_OUw) | AINLP 2022-12-22
       - [跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag) | 机器之心 2023-02-19
-      - [GPT / GPT-2 / GPT-3 / InstructGPT 进化之路](https://mp.weixin.qq.com/s/PSVyqcHwntPcNpk8dKs50Q) | 深度学习自然语言处理 2023-03-01
+      - [GPT、GPT-2、GPT-3、InstructGPT 进化之路](https://mp.weixin.qq.com/s/PSVyqcHwntPcNpk8dKs50Q) | 深度学习自然语言处理 2023-03-01
+        - [梳理一下GPT发展过程中的核心技术点](https://mp.weixin.qq.com/s/x6xxOa2hgEZoKwJtFqZa6g) | AINLP 2023-03-08 
   * ChatGPT
     - author: OpenAI
     - [demo(official)](https://chat.openai.com/auth/login)
@@ -42,10 +43,13 @@
       - [刘群分享ChatGPT原理](https://github.com/liuquncn/liuquncn.github.io/tree/master/talks/20230216%20ChatGPT%20Technological%20Analysis) | 刘群 github 2023-02-16 
       - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
         - [大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw) | 老刘说NLP 2023-02-28
+        - [ChatGPT问答的生成式风格赏析：HC3比对语料库的建设及其与人类问答的差异性比对工作介绍](https://mp.weixin.qq.com/s/hETfKmr_NN1yJgU-Rat43w) | AINLP 2023-03-08
       - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
       - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
       - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
-      - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
+      - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
+        - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
+        - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -93,9 +97,9 @@
           - [阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些](https://www.zhihu.com/question/570782945/answer/2795547780) | 知乎 2023-02-10
             - [ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？](https://www.zhihu.com/question/581806122) | 知乎 2023-02-08
             - [谁拖了中国ChatGPT的后腿？](https://mp.weixin.qq.com/s/FRN0Hvy7-12qS82IvUdNeg) | 品玩 2023-02-16
-            - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
             - [ChatGPT中国变形记｜深氪](https://mp.weixin.qq.com/s/IYtg_SONcNo0wdzp4e3RCw) | 36氪Pro 2023-02-19
             - [谁能做出中国版ChatGPT？怎么做？](https://mp.weixin.qq.com/s/AMGDwZ3KbhISEdqRuS8CsA) | 机器之心 2023-03-03
+            - [ChatGPT的CEO共识：超级AI算力+大模型成为核心竞争力，生产力被重新定义](https://mp.weixin.qq.com/s/Zl60kIRHUBWJ3OJ55GsAqg) | 量子位 2023-03-08
           - [ChatGPT 背后的经济账](https://mp.weixin.qq.com/s/oJBTJEVYbO3rgHXyNOlhmw) | 人工智能学家 2023-02-19
             - [从 ChatGPT 等生成式 AI 的算力开销及商业化潜力，26页pdf](https://mp.weixin.qq.com/s/NO0P2PXBHSMtTYJKVW-6mQ) | 专知 2023-02-22 
           - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
