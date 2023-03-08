@@ -48,6 +48,7 @@
       - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
       - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
       - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
+        - [ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://mp.weixin.qq.com/s/hm_bbVebSF4JudctCsiRcA) | 夕小瑶的卖萌屋 2022-12-18
         - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
     - news & viewpoints:
