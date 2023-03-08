@@ -128,7 +128,7 @@
           - [香港大学宣布禁用！ChatGPT是否应被视为“教学公敌”？](https://mp.weixin.qq.com/s/z01oYcKsJhLiR88fAw2iUw) | 第一财经 2023-02-20 
         - [打造中国版 ChatGPT，国内有哪些学术力量能抢滩？](https://mp.weixin.qq.com/s/8Pmr8ubZdMkmMsQRg1i-uA) | AI科技评论 2023-02-20
           - [清华大学孙茂松：打造中国版ChatGPT并推动其在更多场景应用落地是目前的主要挑战](https://mp.weixin.qq.com/s/rDYb-8E7quwdUr4nNcPiLg) | TsinghuaNLP 2023-02-26
-          - [ChatGPT下的知识图谱审视](https://mp.weixin.qq.com/s/x-gRZ19ob1keZ9TFB1W47Q) | 李rumor 2023-03-01 
+          - [刘焕勇对谈王昊奋：ChatGPT下的知识图谱审视](https://mp.weixin.qq.com/s/x-gRZ19ob1keZ9TFB1W47Q) | 李rumor 2023-03-01 
           - [哈工大张民：ChatGPT 之后，NLP 还有 12 个待解决命题](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA) | AI科技评论 2023-03-03
           - [复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw) | AI科技大本营 2023-03-06
       - 优化 & 应用：
