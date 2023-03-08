@@ -157,6 +157,7 @@
           - [颠覆传统图文？ChatGPT写书放网上卖，人类作者：该管管了](https://mp.weixin.qq.com/s/vSJGsSTUj219FNjMlW3OYg) | 机器之心 2023-02-22
           - [AI写手们盯上了科幻小说，《克拉克世界》暂停收稿](https://mp.weixin.qq.com/s/rk8rR-Zx0mV9IGKANsSAAA) | 不存在 2023-02-22
           - [ChatGPT的价值观及立场](https://mp.weixin.qq.com/s/5x2xwOnTf9rhfhYeJI82Gg) | tuzhuxi 2023-02-26
+          - [一场关于ChatGPT话语权的深度思考：人类会在大模型中迷失自我吗？](https://mp.weixin.qq.com/s/2xvmwXQDlWEFYK4kHBlksA) | AI科技评论 2023-03-08
         - [ChatGPT 能帮我们免费看病吗？答案可能出乎你意料](https://mp.weixin.qq.com/s/XbE-EtnvOoYaJF0wGdT8AQ) | 丁香医生 2023-02-17
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
