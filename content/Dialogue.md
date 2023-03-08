@@ -100,6 +100,7 @@
             - [ChatGPT中国变形记｜深氪](https://mp.weixin.qq.com/s/IYtg_SONcNo0wdzp4e3RCw) | 36氪Pro 2023-02-19
             - [谁能做出中国版ChatGPT？怎么做？](https://mp.weixin.qq.com/s/AMGDwZ3KbhISEdqRuS8CsA) | 机器之心 2023-03-03
             - [ChatGPT的CEO共识：超级AI算力+大模型成为核心竞争力，生产力被重新定义](https://mp.weixin.qq.com/s/Zl60kIRHUBWJ3OJ55GsAqg) | 量子位 2023-03-08
+            - [ChatGPT的商业前景与能力分析：中国版ChatGPT是个伪命题](https://mp.weixin.qq.com/s/oQGpVWOdUnfh4AXZQeiN9A) | 深度学习自然语言处理 2023-03-08
           - [ChatGPT 背后的经济账](https://mp.weixin.qq.com/s/oJBTJEVYbO3rgHXyNOlhmw) | 人工智能学家 2023-02-19
             - [从 ChatGPT 等生成式 AI 的算力开销及商业化潜力，26页pdf](https://mp.weixin.qq.com/s/NO0P2PXBHSMtTYJKVW-6mQ) | 专知 2023-02-22 
           - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
