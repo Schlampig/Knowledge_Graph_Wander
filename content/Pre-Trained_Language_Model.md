@@ -136,6 +136,8 @@
   * extra: 
     - [GuwenBERT](https://github.com/Ethan-yt/guwenbert)
     - [PERT](https://github.com/ymcui/PERT): [PERT：一种基于乱序语言模型的预训练模型](https://mp.weixin.qq.com/s/gx6N5QBZozxdZqSOjMKOKA)
+  * blog:
+    - [2023年：语言模型预训练基础知识总结：标准数据流pipleline、tokenizer的认识以及常见编码模型范式](https://mp.weixin.qq.com/s/qdJtUZlQhSYLdd4hTcZ5tw)
 
 ### BERT-WWM (Pre-Training with Whole Word Masking for BERT)
   * link: [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) by Yiming Cui.
