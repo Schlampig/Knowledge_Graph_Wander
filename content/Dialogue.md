@@ -69,7 +69,6 @@
         - [干货！​如何打造我们自己的“ChatGPT”？](https://mp.weixin.qq.com/s/iQtm-11IQkfQedMlDcPu9A) | 学术头条 2022-12-29
         - [ChatGPT的狂欢背后：短板犹在，启发甚多，2023有这些事可以做……](https://mp.weixin.qq.com/s/B_jXU3Phyx5AC7ny15fdkw) | 机器之心 2023-01-03
         - [ChatGPT会对未来5年的NLP算法从业者带来怎样的冲击？](https://mp.weixin.qq.com/s/1HZoNBovqn1FNlxghDXMFg) | AINLP 2023-01-07
-        - [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/dsOhsFNrc_-Qyw5XlXRuxQ) | 机器学习算法与自然语言处理 2023-02-22
       - 工程化：
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
         - [ChatGPT火爆的背后，分布式计算框架正在悄然推动AI的新时代](https://mp.weixin.qq.com/s/ItAhMxE6ZRtckuaoi8lBEQ) | 蚂蚁技术AntTech 2023-01-03
@@ -139,6 +138,7 @@
           - [清华教授钱颖一：人工智能将使中国教育优势荡然无存](https://mp.weixin.qq.com/s/7VOObaIGPv4EdNI-zcZ_XA) | CVer 2023-02-16
           - [香港大学宣布禁用！ChatGPT是否应被视为“教学公敌”？](https://mp.weixin.qq.com/s/z01oYcKsJhLiR88fAw2iUw) | 第一财经 2023-02-20 
         - [打造中国版 ChatGPT，国内有哪些学术力量能抢滩？](https://mp.weixin.qq.com/s/8Pmr8ubZdMkmMsQRg1i-uA) | AI科技评论 2023-02-20
+          - [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/dsOhsFNrc_-Qyw5XlXRuxQ) | 机器学习算法与自然语言处理 2023-02-22
           - [清华大学孙茂松：打造中国版ChatGPT并推动其在更多场景应用落地是目前的主要挑战](https://mp.weixin.qq.com/s/rDYb-8E7quwdUr4nNcPiLg) | TsinghuaNLP 2023-02-26
           - [刘焕勇对谈王昊奋：ChatGPT下的知识图谱审视](https://mp.weixin.qq.com/s/x-gRZ19ob1keZ9TFB1W47Q) | 李rumor 2023-03-01 
           - [哈工大张民：ChatGPT 之后，NLP 还有 12 个待解决命题](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA) | AI科技评论 2023-03-03
