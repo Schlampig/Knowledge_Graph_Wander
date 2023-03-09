@@ -49,6 +49,7 @@
       - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
         - [大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw) | 老刘说NLP 2023-02-28
         - [ChatGPT问答的生成式风格赏析：HC3比对语料库的建设及其与人类问答的差异性比对工作介绍](https://mp.weixin.qq.com/s/hETfKmr_NN1yJgU-Rat43w) | AINLP 2023-03-08
+        - [ChatGPT 标注指南来了！数据是关键](https://mp.weixin.qq.com/s/b9QnMtHj6yJfN0goBRSCXg) | Datawhale 2023-03-08
       - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
       - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
       - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -56,6 +57,9 @@
         - [ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://mp.weixin.qq.com/s/hm_bbVebSF4JudctCsiRcA) | 夕小瑶的卖萌屋 2022-12-18
         - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
+        - [ChatGPT成功的“秘密武器”：RLHF将怎样影响人类社会？](https://mp.weixin.qq.com/s/rgw1cFOheofQuE8mLxe32A) | 学术头条 2023-03-08
+      - [ChatGPT模型参数≠1750亿，有人用反证法进行了证明](https://mp.weixin.qq.com/s/lzIQ50GCKGEPu1Yzs-7FnQ) | 机器之心 2023-03-09
+      - [Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg) | 机器之心 2023-03-08
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
