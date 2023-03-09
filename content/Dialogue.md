@@ -129,7 +129,8 @@
           - [Stuart Russell专访：关于ChatGPT，更多数据和更多算力不能带来真正的智能](https://mp.weixin.qq.com/s/BB1CG_KD7M7pSST2j47tLw) | 机器之心 2023-02-20
           - [关于AGI与ChatGPT，Stuart Russell与朱松纯这么看](https://mp.weixin.qq.com/s/TL1TCfQMetQh2nM3XykRBg) | 机器之心 2023-02-27
           - [对于AIGC，李飞飞有这些看法｜斯坦福HAI观点报告](https://mp.weixin.qq.com/s/qPUX5-d8UbELWPLmpSAinw) | 机器学习算法与自然语言处理 2023-03-06
-        - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
+        - [ICML征稿禁止使用大型语言模型，LeCun转发：中小型模型可以用吗？](https://mp.weixin.qq.com/s/nWc3mL4aRMM2thCc-Kgb7w) |  新智元 2023-01-04
+          - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
           - [ChatGPT与科研：革新与隐患共存 |《自然》长文](https://mp.weixin.qq.com/s/qHYbDfDY8S47mXK65TsF_A) | Nature Portfolio 2023-02-21
           - [反其道而行，大学教授鼓励学生用 ChatGPT 写论文](https://mp.weixin.qq.com/s/iRiO62uS_yVideSg5QMaBg) | AI科技大本营 2023-02-23
