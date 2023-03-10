@@ -22,6 +22,7 @@
       - [跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/s5WrGn_dQyHrsZP8qsI2ag) | 机器之心 2023-02-19
       - [GPT、GPT-2、GPT-3、InstructGPT 进化之路](https://mp.weixin.qq.com/s/PSVyqcHwntPcNpk8dKs50Q) | 深度学习自然语言处理 2023-03-01
         - [梳理一下GPT发展过程中的核心技术点](https://mp.weixin.qq.com/s/x6xxOa2hgEZoKwJtFqZa6g) | AINLP 2023-03-08 
+        - [一脉相通！聊聊 ChatGPT 发展路线](https://mp.weixin.qq.com/s/Rb2JDVq1UImnFyTxlIs66w) | AINLP 2023-03-10
   * ChatGPT
     - author: OpenAI
     - [demo(official)](https://chat.openai.com/auth/login)
@@ -99,6 +100,7 @@
           - [ChatGPT群雄逐鹿：陆奇屠龙，号令天下；小川不出，谁与争锋](https://mp.weixin.qq.com/s/NNJzd2lScGlRgl4rKcyx3A) | 雷峰网 2023-02-21
           - [ChatGPT上岗医疗还有多远？哈佛教授亲测表现接近医生，**云知声**被曝打造行业版](https://mp.weixin.qq.com/s/8CltdJQ0FZ9sNBGu4ZjnaA) | 量子位 2023-02-21
           - [大神李沐被曝离职！投身大模型创业，GitHub项目已开](https://mp.weixin.qq.com/s/lvqtu0XsOKe8x2tTj7pl7A) | 量子位 2023-03-07
+          - [做中国版ChatGPT，还有一个「隐身」大玩家](https://mp.weixin.qq.com/s/O9Jp9JIu34TEpSNF1J_bMw) | 机器之心 2023-03-10
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -128,6 +130,7 @@
           - [Stuart Russell专访：关于ChatGPT，更多数据和更多算力不能带来真正的智能](https://mp.weixin.qq.com/s/BB1CG_KD7M7pSST2j47tLw) | 机器之心 2023-02-20
           - [关于AGI与ChatGPT，Stuart Russell与朱松纯这么看](https://mp.weixin.qq.com/s/TL1TCfQMetQh2nM3XykRBg) | 机器之心 2023-02-27
           - [对于AIGC，李飞飞有这些看法｜斯坦福HAI观点报告](https://mp.weixin.qq.com/s/qPUX5-d8UbELWPLmpSAinw) | 机器学习算法与自然语言处理 2023-03-06
+          - [ChatGPT作者John Shulman：我们成功的秘密武器](https://mp.weixin.qq.com/s/l_QOkw21xIAqWAzdZE_84w) | 机器学习算法与自然语言处理 2023-03-10
         - [ICML征稿禁止使用大型语言模型，LeCun转发：中小型模型可以用吗？](https://mp.weixin.qq.com/s/nWc3mL4aRMM2thCc-Kgb7w) |  新智元 2023-01-04
           - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
@@ -169,6 +172,7 @@
           - [AI写手们盯上了科幻小说，《克拉克世界》暂停收稿](https://mp.weixin.qq.com/s/rk8rR-Zx0mV9IGKANsSAAA) | 不存在 2023-02-22
           - [ChatGPT的价值观及立场](https://mp.weixin.qq.com/s/5x2xwOnTf9rhfhYeJI82Gg) | tuzhuxi 2023-02-26
           - [一场关于ChatGPT话语权的深度思考：人类会在大模型中迷失自我吗？](https://mp.weixin.qq.com/s/2xvmwXQDlWEFYK4kHBlksA) | AI科技评论 2023-03-08
+          - [终于，乔姆斯基出手了：追捧ChatGPT是浪费资源](https://mp.weixin.qq.com/s/MyiLZYE_hcL27i_qtm7lSA) | 机器之心 2023-03-10
         - [ChatGPT 能帮我们免费看病吗？答案可能出乎你意料](https://mp.weixin.qq.com/s/XbE-EtnvOoYaJF0wGdT8AQ) | 丁香医生 2023-02-17
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
@@ -182,6 +186,7 @@
           - [ChatGPT在县城，时髦年轻人已经用它吊打同事了](https://mp.weixin.qq.com/s/zDWD0YkrH6UVXMiXPe6S5A) | 36氪 2023-03-05
           - [为什么ChatGPT被指责对印度发动“文化战争”？？](https://mp.weixin.qq.com/s/mF6JeK65DrgS-6nZYvsxQw) | 南亚研究通讯 2023-03-05
           - [大模型111人：谷歌和OpenAI的人才战争](https://mp.weixin.qq.com/s/VTeIZM9Zi9hc65z-4b_DVg) | 量子位 2023-03-06
+          - [OpenAI 的外包数据标注员，时薪不足2美元，称工作是“精神创伤”](https://mp.weixin.qq.com/s/xZbp35SiMbRODgt36puO-A) | 夕小瑶的卖萌屋 2023-03-09
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
         - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -193,6 +198,7 @@
       - GPT-4(OpenAI): 
         - [OpenAI CEO谈GPT-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://mp.weixin.qq.com/s/A_WkmUL_6L-gdhIs5-HWTA) | 机器之心 2023-01-19
         - [GPT-4被曝进入微软必应搜索，几周内完成](https://mp.weixin.qq.com/s/TLWpmEWSaGEK1sx26t4DIA) | 量子位 2023-02-02
+        - [GPT-4将于下周发布，微软德国CTO：将提供完全不同的可能性](https://mp.weixin.qq.com/s/O4bK0dO_E8iKXe1U839NMw) | 夕小瑶的卖萌屋 2023-03-10
       - ChatYuan(元语智能): 
         - code: https://github.com/clue-ai/ChatYuan
         - [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
@@ -227,6 +233,9 @@
         - [paper](https://arxiv.org/abs/2302.14045): Language Is Not All You Need: Aligning Perception with Language Models
         - [微软亚研院：Language Is Not All You Need](https://mp.weixin.qq.com/s/n7ziKJeVzEzVB1w1kpsn4g) | 量子位 2023-03-01
         - [从LLM到MLLM，多模态大规模语言模型KOSMOS-1赋予了语言模型看见世界的能力](https://mp.weixin.qq.com/s/c_ElIiluOsSR2rmGuF0bug) | 微软亚洲研究院 2023-03-02
+      - Visual ChatGPT(微软):
+        - blog:
+          - [王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ) | 夕小瑶的卖萌屋 2023-03-10
 </br>
 
 ### Blogs & Reviews
