@@ -131,6 +131,7 @@
           - [关于AGI与ChatGPT，Stuart Russell与朱松纯这么看](https://mp.weixin.qq.com/s/TL1TCfQMetQh2nM3XykRBg) | 机器之心 2023-02-27
           - [对于AIGC，李飞飞有这些看法｜斯坦福HAI观点报告](https://mp.weixin.qq.com/s/qPUX5-d8UbELWPLmpSAinw) | 机器学习算法与自然语言处理 2023-03-06
           - [ChatGPT作者John Shulman：我们成功的秘密武器](https://mp.weixin.qq.com/s/l_QOkw21xIAqWAzdZE_84w) | 机器学习算法与自然语言处理 2023-03-10
+          - [LeCun：ChatGPT是「外星人」，所以才会胡说八道](https://mp.weixin.qq.com/s/1joGUfZ7Qf9B4WTGFLPT_Q) | 量子位 2023-03-11
         - [ICML征稿禁止使用大型语言模型，LeCun转发：中小型模型可以用吗？](https://mp.weixin.qq.com/s/nWc3mL4aRMM2thCc-Kgb7w) |  新智元 2023-01-04
           - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
@@ -147,9 +148,11 @@
           - [哈工大张民：ChatGPT 之后，NLP 还有 12 个待解决命题](https://mp.weixin.qq.com/s/yLFGywgB29mmjVRL7OEOtA) | AI科技评论 2023-03-03
           - [复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw) | AI科技大本营 2023-03-06
       - 优化 & 应用：
-        - [理工科神器Wolfram|Alpha注入超强计算知识，补足ChatGPT短板](https://mp.weixin.qq.com/s/mJ6n9s78JNy42zU4FFpJWw) | 机器之心 2023-01-27
+        - [Chat-GPT 可以做数学吗？](https://mp.weixin.qq.com/s/OtPVCWsR2VJtb2SkQMlUPA) | 和乐数学 2023-02-02 
+          - [理工科神器Wolfram|Alpha注入超强计算知识，补足ChatGPT短板](https://mp.weixin.qq.com/s/mJ6n9s78JNy42zU4FFpJWw) | 机器之心 2023-01-27
           - [刚刚，ChatGPT官宣数学能力再升级，网友：终于精通十以内加减法了](https://mp.weixin.qq.com/s/A5gF33it-PwN0JBVEw6SZA) | 机器之心 2023-01-31
           - [鸡兔同笼都能算错的ChatGPT，陶哲轩发现了它的价值](https://mp.weixin.qq.com/s/Pbcm6pOe9r4cxJazj4q8_Q) | 机器之心 2023-03-06
+          - [陶哲轩：ChatGPT已加入我的数学工作流](https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA) | 量子位 2023-03-11
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
           - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01
@@ -164,7 +167,6 @@
         - [利用ChatGPT 和Milvus快速搭建智能问答机器人](https://mp.weixin.qq.com/s/TB-c1uXTQ6oiT46-hBaAAw) | 分布式应用运行时 2023-03-05
           - [源码“聊天人”：正经回答关于源码的“一切”](https://mp.weixin.qq.com/s/AEQ7ce6F_8U7BfHiA78qfA) | 源码资本 2023-03-07 
       - 出圈 & 观点 & 故事：
-        - [Chat-GPT 可以做数学吗？](https://mp.weixin.qq.com/s/OtPVCWsR2VJtb2SkQMlUPA) | 和乐数学 2023-02-02
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
           - [格雷格·伊根｜ ChatGPT是大规模有组织的胡言乱语](https://mp.weixin.qq.com/s/bfysgGXS-GmAA5nnH3DZeg) | 八光分文化 2023-02-15
