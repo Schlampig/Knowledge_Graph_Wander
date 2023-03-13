@@ -250,6 +250,11 @@
       - ChatLMG(元乘象):
         - blog:
           - [会看图的「ChatGPT」来了！给张图就能聊天、讲故事、写广告](https://mp.weixin.qq.com/s/uZiYpKQOxyXaVX_3wNq1DQ) | 机器之心 2023-03-11
+      - OpenChatKit(Together):
+          - blog:
+            - [ChatGPT开源替代来了！参数量200亿，在4300万条指令上微调而成](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw) | 机器之心 2023-03-13
+            - [ChatGPT开源平替来了，开箱即用！前OpenAI团队打造，GitHub刚发布就揽获800+星](https://mp.weixin.qq.com/s/-MEOhOVut2dCvbF5N6UfyQ) | 量子位 2023-03-13
+            - [Together发布首个全面开源社区版ChatGPT](https://mp.weixin.qq.com/s/awb6AyEl8QHSiv-eHpmwdw) | 机器之心SOTA模型 2023-03-13
 </br>
 
 ### Blogs & Reviews
