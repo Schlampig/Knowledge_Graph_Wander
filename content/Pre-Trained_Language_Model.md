@@ -166,6 +166,7 @@
   * [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf): Alec R. , Karthik N. , Tim S. , & Ilya S. . (2018). *Improving Language Understanding by Generative Pre-Training*.
   * code: [tensorflow by OpenAI](https://github.com/openai/finetune-transformer-lm)
   * blog:
+    - [2023年：通俗理解文本生成的常用解码策略](https://mp.weixin.qq.com/s/sVZuEkYXQ9ZZYXJCQz7F4A)
     - [2023年：60行代码就能构建GPT！网友：比之前的教程都要清晰｜附代码](https://mp.weixin.qq.com/s/LBA4vWfU4FbhWTit-gLXkA)
       - [2023年：本科生60行代码教你手搓GPT大模型，技术介绍堪比教程](https://mp.weixin.qq.com/s/pJ3qRjS07jdhW3Vf-HRD5w) 
     - [2023年：李飞飞高徒教你从0到1构建GPT](https://mp.weixin.qq.com/s/pszo5KZgusmQpjkYCT2ihg)
