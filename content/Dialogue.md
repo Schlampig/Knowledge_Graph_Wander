@@ -37,7 +37,7 @@
       - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee :thumbsup:
         - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
         - [台大李宏毅老师关于ChatGPT原理剖析的三部曲](https://mp.weixin.qq.com/s/NCd0NeYQtCFGoTijQgfN1A) | AINLP 2023-02-25
-      - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab :thumbup:
+        - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab :thumbup:
       - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
       - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08 
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
@@ -115,6 +115,7 @@
             - [谁能做出中国版ChatGPT？怎么做？](https://mp.weixin.qq.com/s/AMGDwZ3KbhISEdqRuS8CsA) | 机器之心 2023-03-03
             - [ChatGPT的CEO共识：超级AI算力+大模型成为核心竞争力，生产力被重新定义](https://mp.weixin.qq.com/s/Zl60kIRHUBWJ3OJ55GsAqg) | 量子位 2023-03-08
             - [ChatGPT的商业前景与能力分析：中国版ChatGPT是个伪命题](https://mp.weixin.qq.com/s/oQGpVWOdUnfh4AXZQeiN9A) | 深度学习自然语言处理 2023-03-08
+            - [ChatGPT三问：是什么、从哪来、去往哪？](https://mp.weixin.qq.com/s/mgxWigf5UrsAf3DIpb2AOw) | PaperWeekly 2023-03-14
           - [ChatGPT 背后的经济账](https://mp.weixin.qq.com/s/oJBTJEVYbO3rgHXyNOlhmw) | 人工智能学家 2023-02-19
             - [从 ChatGPT 等生成式 AI 的算力开销及商业化潜力，26页pdf](https://mp.weixin.qq.com/s/NO0P2PXBHSMtTYJKVW-6mQ) | 专知 2023-02-22 
           - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
@@ -146,6 +147,7 @@
           - [用ChatGPT作弊，小心被抓，反剽窃水印技术让学生噩梦提前到来](https://mp.weixin.qq.com/s/URO054sLrNtVKryyv0TxGA) | 机器之心 2023-01-27
           - [清华教授钱颖一：人工智能将使中国教育优势荡然无存](https://mp.weixin.qq.com/s/7VOObaIGPv4EdNI-zcZ_XA) | CVer 2023-02-16
           - [香港大学宣布禁用！ChatGPT是否应被视为“教学公敌”？](https://mp.weixin.qq.com/s/z01oYcKsJhLiR88fAw2iUw) | 第一财经 2023-02-20 
+          - [ChatGPT造孽！中国高校因它算力荒](https://mp.weixin.qq.com/s/ofuVXgSrH2-pW202-oOlIA) | 量子位 2023-03-12
         - [打造中国版 ChatGPT，国内有哪些学术力量能抢滩？](https://mp.weixin.qq.com/s/8Pmr8ubZdMkmMsQRg1i-uA) | AI科技评论 2023-02-20
           - [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/dsOhsFNrc_-Qyw5XlXRuxQ) | 机器学习算法与自然语言处理 2023-02-22
           - [清华大学孙茂松：打造中国版ChatGPT并推动其在更多场景应用落地是目前的主要挑战](https://mp.weixin.qq.com/s/rDYb-8E7quwdUr4nNcPiLg) | TsinghuaNLP 2023-02-26
@@ -173,6 +175,7 @@
         - [利用ChatGPT 和Milvus快速搭建智能问答机器人](https://mp.weixin.qq.com/s/TB-c1uXTQ6oiT46-hBaAAw) | 分布式应用运行时 2023-03-05
           - [源码“聊天人”：正经回答关于源码的“一切”](https://mp.weixin.qq.com/s/AEQ7ce6F_8U7BfHiA78qfA) | 源码资本 2023-03-07 
           - [记一次ChatGPT的应用探索与实践](https://mp.weixin.qq.com/s/LXS2B6bBzbCWF35E5uK93A) | AINLP 2023-03-11
+        - [ChatGPT作为知识库问答系统的问答能力评测](https://zhuanlan.zhihu.com/p/613649876?utm_id=0%23showWechatShareTip&utm_source=wechat_session&utm_medium=social&s_r=0) | 知乎（漆桂林） 2023-03-13
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
