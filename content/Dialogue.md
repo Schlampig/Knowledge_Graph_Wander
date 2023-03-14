@@ -31,6 +31,7 @@
       - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
       - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT 中文调教指南.
       - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms): 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具.
+      - [POE](https://poe.com/login): 同时对比ChatGPT、Claude等机器人效果的网站.
     - blog:
       - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
       - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
@@ -59,7 +60,6 @@
         - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
         - [ChatGPT成功的“秘密武器”：RLHF将怎样影响人类社会？](https://mp.weixin.qq.com/s/rgw1cFOheofQuE8mLxe32A) | 学术头条 2023-03-08
-      - [ChatGPT模型参数≠1750亿，有人用反证法进行了证明](https://mp.weixin.qq.com/s/lzIQ50GCKGEPu1Yzs-7FnQ) | 机器之心 2023-03-09
       - [Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg) | 机器之心 2023-03-08
       - [80+页哈工大NLP内部《ChatGPT 调研报告》](https://mp.weixin.qq.com/s/fU85eAVnh2xZmQ5xEABYgg) | 深度学习自然语言处理 2023-03-11
     - news & viewpoints:
@@ -77,6 +77,8 @@
         - [独一档技术分享：低成本复现ChatGPT完整流程](https://mp.weixin.qq.com/s/8kNOq68sQUsP97zZ2CPmyQ) | 潞晨科技 2023-02-19
         - [跑ChatGPT体量模型，从此只需一块GPU：加速百倍的方法来了](https://mp.weixin.qq.com/s/ZdW_jZov3bAcGc_9SqiL-A) | 机器之心 2023-02-22
         - [大模型的「狂飙时代」，以开源之力推动「新Linux底层操作系统」](https://mp.weixin.qq.com/s/lCg8uqjTZQe0jnX8sYF6MA) | 机器之心 2023-03-03
+        - [ChatGPT模型参数≠1750亿，有人用反证法进行了证明](https://mp.weixin.qq.com/s/lzIQ50GCKGEPu1Yzs-7FnQ) | 机器之心 2023-03-09
+        - [揭秘ChatGPT背后天价超算！上万颗英伟达A100，烧光微软数亿美元](https://mp.weixin.qq.com/s/syD74ICOlOaPATF8oxgrYg) | 新智元 2023-03-14
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -103,6 +105,7 @@
           - [大神李沐被曝离职！投身大模型创业，GitHub项目已开](https://mp.weixin.qq.com/s/lvqtu0XsOKe8x2tTj7pl7A) | 量子位 2023-03-07
           - [做中国版ChatGPT，还有一个「隐身」大玩家](https://mp.weixin.qq.com/s/O9Jp9JIu34TEpSNF1J_bMw) | 机器之心 2023-03-10
           - [ChatGPT让**亚马逊**梦碎！微软CEO：Alexa、Siri、Cortana笨得和石头一样](https://mp.weixin.qq.com/s/D5qGJMEcGhc2wAXHWlY8yQ) | 新智元 2023-03-12
+          - [科技巨头持续血拼：微软豪掷数亿造ChatGPT超算，谷歌加急测试Big Bard](https://mp.weixin.qq.com/s/jY2YLeWsNIv1jgOfbJak6Q) | 机器之心 2023-03-14
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -254,10 +257,13 @@
         - blog:
           - [会看图的「ChatGPT」来了！给张图就能聊天、讲故事、写广告](https://mp.weixin.qq.com/s/uZiYpKQOxyXaVX_3wNq1DQ) | 机器之心 2023-03-11
       - OpenChatKit(Together):
-          - blog:
-            - [ChatGPT开源替代来了！参数量200亿，在4300万条指令上微调而成](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw) | 机器之心 2023-03-13
-            - [ChatGPT开源平替来了，开箱即用！前OpenAI团队打造，GitHub刚发布就揽获800+星](https://mp.weixin.qq.com/s/-MEOhOVut2dCvbF5N6UfyQ) | 量子位 2023-03-13
-            - [Together发布首个全面开源社区版ChatGPT](https://mp.weixin.qq.com/s/awb6AyEl8QHSiv-eHpmwdw) | 机器之心SOTA模型 2023-03-13
+        - blog:
+          - [ChatGPT开源替代来了！参数量200亿，在4300万条指令上微调而成](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw) | 机器之心 2023-03-13
+          - [ChatGPT开源平替来了，开箱即用！前OpenAI团队打造，GitHub刚发布就揽获800+星](https://mp.weixin.qq.com/s/-MEOhOVut2dCvbF5N6UfyQ) | 量子位 2023-03-13
+          - [Together发布首个全面开源社区版ChatGPT](https://mp.weixin.qq.com/s/awb6AyEl8QHSiv-eHpmwdw) | 机器之心SOTA模型 2023-03-13
+      - ChatGLM(智谱AI):
+        -  blog:
+          - [ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源](https://mp.weixin.qq.com/s/N79Sdx3K1em1EJxQZ9lcpA) | 学术头条 2023-03-14
 </br>
 
 ### Blogs & Reviews
