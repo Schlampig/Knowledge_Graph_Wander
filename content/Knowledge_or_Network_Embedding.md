@@ -7,6 +7,9 @@
   * [paper](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216/12004)/[code](https://github.com/xrb92/DKRL)(DKRL): Ruobing Xie, Zhiyuan Liu, Jia Jia1, Huanbo Luan, Maosong Sun (2016). Representation Learning of Knowledge Graphs with Entity Descriptions, Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16).
   * [paper](https://arxiv.org/pdf/1805.02408.pdf)/[code](https://github.com/iieir-km/ComplEx-NNE_AER): Ding, B. , Wang, Q. , Wang, B. , & Guo, L. . (2018). Improving knowledge graph embedding using simple constraints.
 
+### Blogs & Tutorials
+  * [面向小白的知识图谱推理扫盲案例：知识推理的任务界定、主流方式以及基于TransE模型的知识推理实践](https://mp.weixin.qq.com/s/Kz_2chUeb9agIsaRGHX_Cg) | 老刘说NLP 2023-03-12
+
 ### KRLPapers
   * link: https://github.com/thunlp/KRLPapers
   * author: thunlp
