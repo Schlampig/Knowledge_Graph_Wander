@@ -295,6 +295,7 @@
         - [GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw) | 机器之心 2023-03-15
         - [GPT-4发布！ChatGPT大升级！太太太太强了！](https://mp.weixin.qq.com/s/6u33Xnp4oEHq26WR4W1kdg) | 量子位 2023-03-15
         - [OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](https://www.zhihu.com/question/589639535) | 知乎 2023-03-15
+        - [摘掉 Chat 标签，GPT-4 将释放更大生产力](https://mp.weixin.qq.com/s/7rSOEtNgL4Yqdh-jfB-MhA) | AI科技评论 2023-03-15
 
 ### Blogs & Reviews
   * [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
