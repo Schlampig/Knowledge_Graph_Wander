@@ -49,6 +49,7 @@
       - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08 
       - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
       - [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677) | 陈巍谈芯 2022-12-09
+      - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
       - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
       - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
       - [ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父](https://mp.weixin.qq.com/s/Nce2NGdj0CQZYw8t4iptzQ) | 量子位 2023-02-16
@@ -292,6 +293,7 @@
       - 发布
         - [GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw) | 机器之心 2023-03-15
         - [GPT-4发布！ChatGPT大升级！太太太太强了！](https://mp.weixin.qq.com/s/6u33Xnp4oEHq26WR4W1kdg) | 量子位 2023-03-15
+        - [OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](https://www.zhihu.com/question/589639535) | 知乎 2023-03-15
 
 ### Blogs & Reviews
   * [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
