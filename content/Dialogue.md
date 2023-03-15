@@ -69,6 +69,7 @@
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
         - [ChatGPT成功的“秘密武器”：RLHF将怎样影响人类社会？](https://mp.weixin.qq.com/s/rgw1cFOheofQuE8mLxe32A) | 学术头条 2023-03-08
       - [80+页哈工大NLP内部《ChatGPT 调研报告》](https://mp.weixin.qq.com/s/fU85eAVnh2xZmQ5xEABYgg) | 深度学习自然语言处理 2023-03-11
+      - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -296,6 +297,8 @@
         - [GPT-4发布！ChatGPT大升级！太太太太强了！](https://mp.weixin.qq.com/s/6u33Xnp4oEHq26WR4W1kdg) | 量子位 2023-03-15
         - [OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](https://www.zhihu.com/question/589639535) | 知乎 2023-03-15
         - [摘掉 Chat 标签，GPT-4 将释放更大生产力](https://mp.weixin.qq.com/s/7rSOEtNgL4Yqdh-jfB-MhA) | AI科技评论 2023-03-15
+      - 业界
+        - [GPT-4震惊四座，中国创业者激战「小模型」](https://mp.weixin.qq.com/s/TpWJ-PckW2pN6jo87Y50Pg) | 36氪Pro 2023-03-15
 
 ### Blogs & Reviews
   * [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
