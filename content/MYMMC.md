@@ -185,7 +185,10 @@
   - [2023年02月26日：ChatGPT掀智力革命！OpenAI发布AGI路线图，最终通向超级智能世界](https://mp.weixin.qq.com/s/6Lyr2nVG5mxy1UBnOC5DAw)
     - [2023年02月27日：ChatGPT之后何去何从？LeCun新作：全面综述下一代「增强语言模型」](https://mp.weixin.qq.com/s/1Qz8D3ZKkS4jdbNiJ7MWFg)
     - [2023年03月03日：LeCun：ChatGPT无法实现通用人工智能，但ALM技术路线可以！](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)
+    - [2023年03月16日：深度剖析：ChatGPT 及其继任者会成为通用人工智能吗？](https://mp.weixin.qq.com/s/iOVHUIX8gLjAzNGWVu2W3g)
   - [2023年03月07日：仿造一个大脑，就可创造智能？](https://mp.weixin.qq.com/s/pCUOL95XmaDGONaoAdAXCA)
+    - [2023年03月16日：AI认知架构四十年：发展与挑战](https://mp.weixin.qq.com/s/gPcj9bA6iumE-faKhSd2ww) 
+    - [2023年03月16日：脑机类比特刊：寻找复杂智能系统的普遍规律](https://mp.weixin.qq.com/s/_aQlAKf5Oj2ckbdlTZ_3Gg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
