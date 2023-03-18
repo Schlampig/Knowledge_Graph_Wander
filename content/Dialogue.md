@@ -71,6 +71,7 @@
       - [80+页哈工大NLP内部《ChatGPT 调研报告》](https://mp.weixin.qq.com/s/fU85eAVnh2xZmQ5xEABYgg) | 深度学习自然语言处理 2023-03-11
       - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
       - [复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术](https://mp.weixin.qq.com/s/eg7zOxpilQuPU6Dpxf6Bow) | AI科技大本营 2023-03-16
+      - [华泰证券邱震宇：真·万字长文:可能是全网最晚的ChatGPT技术总结](https://mp.weixin.qq.com/s/QnDIZl6pYvaULcgZkXDoXQ) | AINLP 2023-03-17
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -102,6 +103,7 @@
             - [**柯基数据**宣布接入百度文心一言能力 智能知识发现平台获领先AI技术加持](https://mp.weixin.qq.com/s/PqvjbDnUAtp6oJ-1ey7IoQ) | 柯基数据 2023-02-22
             - [大语言模型沸腾：文心一言「重塑」百度丨智氪](https://mp.weixin.qq.com/s/Dkp_slAEO5rypbLowAbaNQ) | 36氪 2023-02-22
             - [Why always百度？OpenAI有的他有，OpenAI没有的他还有](https://mp.weixin.qq.com/s/Ly3H0gr6RgVRIHWKkmfFuw) | 量子位 2023-02-23
+            - [柯基数据参与编制的《医疗领域知识图谱应用能力认证技术规范》，成为产品认证依据！](https://mp.weixin.qq.com/s/njnCSsGulmWhQlUN3ZiIaw) | 柯基数据 2023-03-17
           - [**360**称计划推出的类ChatGPT产品存重大不确定性，周鸿祎曾表示搭不上这班车会被淘汰](https://baijiahao.baidu.com/s?id=1757365028429019056&wfr=spider&for=pc) | 蓝鲸财经 2023-02-09
           - [**科大讯飞**被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ) | 量子位 2023-02-10
             - [科大讯飞回应了：中国版ChatGPT可以乐观以待，有信心实现类似技术跃迁](https://mp.weixin.qq.com/s/s88HWFNwONc_6A6I9fpFFQ) | 量子位 2023-02-16
@@ -223,9 +225,10 @@
           - [OpenAI 的外包数据标注员，时薪不足2美元，称工作是“精神创伤”](https://mp.weixin.qq.com/s/xZbp35SiMbRODgt36puO-A) | 夕小瑶的卖萌屋 2023-03-09
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
-        - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
-        - Sydney人格[讨论原文](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)及[完整对话](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)。
-        - 拓展：[“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
+          - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
+          - Sydney人格[讨论原文](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)及[完整对话](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)。
+          - 拓展：[“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
+        - [GPT-4外逃计划曝光！斯坦福教授发现它正引诱人类帮助，网友：灭绝之门](https://mp.weixin.qq.com/s/ldB5oSaFkoh06K8tGbYGRw) | 量子位 2023-03-18
     - expand methods:
       - Davinci(OpenAI): [GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23 
       - youChat(You.com): [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
@@ -277,6 +280,7 @@
       - ChatGLM(智谱AI):
         -  blog:
           - [ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源](https://mp.weixin.qq.com/s/N79Sdx3K1em1EJxQZ9lcpA) | 学术头条 2023-03-14
+          - [清华系ChatGPT发布！唐杰团队打造，专对中文优化，还能把握最新新闻动态](https://mp.weixin.qq.com/s/ZUiybuj73cgBIYDM90aE3Q) | 量子位 2023-03-18
       - Alpaca(斯坦福):
         - code: https://github.com/tatsu-lab/stanford_alpaca
         - demo: https://github.com/tatsu-lab/stanford_alpaca
@@ -287,6 +291,7 @@
           - [百度生成式AI产品文心一言邀请测试，五大场景、五大能力革新生产力工具](https://mp.weixin.qq.com/s/M0PE64egXweQaRWQNfNjMw) | 百度NLP 2023-03-16 
           - [文心一言 vs GPT-4实测！百度背水一战交卷](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ) | 量子位 2023-03-16
           - [文心一言算力从哪来？自家最大智算中心：算力规模4EFLOPS，base李彦宏老家](https://mp.weixin.qq.com/s/0f51e4aUmqlXBiztfaDfeg) | 量子位 2023-03-16
+          - [文心一言「起舞」，触发云战场「变天」](https://mp.weixin.qq.com/s/k_UZpLJiNCJckmILDKHbnQ) | 雷峰网 2023-03-17
 </br>
 
   * GPT-4
