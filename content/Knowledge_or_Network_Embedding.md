@@ -9,6 +9,7 @@
 
 ### Blogs & Tutorials
   * [面向小白的知识图谱推理扫盲案例：知识推理的任务界定、主流方式以及基于TransE模型的知识推理实践](https://mp.weixin.qq.com/s/Kz_2chUeb9agIsaRGHX_Cg) | 老刘说NLP 2023-03-12
+  * [知识在大模型中如何用？中科院软件所最新《大型语言模型知识生命周期》综述，27页pdf阐述知识获取、表示、探测、编辑与应用](https://mp.weixin.qq.com/s/yNkzV3xHeB-0gvPoKDKk5w) | 专知 2023-03-18
 
 ### KRLPapers
   * link: https://github.com/thunlp/KRLPapers
