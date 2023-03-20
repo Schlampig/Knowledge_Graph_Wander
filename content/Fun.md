@@ -328,6 +328,7 @@
         - [DreamBooth](https://dreambooth.github.io/)
         - [Textual Inversion](https://textual-inversion.github.io/)
       - blog:
+        - [2023年03月20日：爆火情侣竟不是真人！新版Midjourney效果炸裂，网友：太可怕了](https://mp.weixin.qq.com/s/iqYZ5CpMzreHZgwIZUvvoQ) 
         - [2022年11月04日：diffusion新高度！可一次性生成200张图？？](https://mp.weixin.qq.com/s/k5z4d_bz1N4s9b5DzRPKzQ)
         - [2022年10月25日：靠AI六小时开发出游戏Demo，剧本绘画配音一条龙，网友：新概念3“A”大作](https://mp.weixin.qq.com/s/sNIsDGF5gwOMwQVIkOeQPA)
         - [2022年10月23日：Stable Diffusion新玩法，一句话帮你换图，网友魔改《戴珍珠耳环的少女》长这样](https://mp.weixin.qq.com/s/HhXLPDKxj-2spfQA_Nk0NQ)
