@@ -104,6 +104,8 @@
   * [LibRerank](https://github.com/LibRerank-Community/LibRerank): a toolkit for re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate.
 
 ### Contrastive Methods
+  * Blogs:
+    - [利用Contrastive Loss（对比损失）思想设计自己的loss function](https://mp.weixin.qq.com/s/F_7HtfYL0aJd_mfpc40Ycw)
   * SimCSE
     - [paper](https://arxiv.org/abs/2104.08821): SimCSE: Simple Contrastive Learning of Sentence Embeddings
     - [code](https://github.com/princeton-nlp/SimCSE)
