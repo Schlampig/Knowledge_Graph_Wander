@@ -76,6 +76,7 @@
       - [PyTorch 深度剖析：并行训练的 DP 和 DDP 分别在什么情况下使用及实例](https://blog.csdn.net/God_WeiYang/article/details/125289149)
       - [当代研究生应当掌握的并行训练方法（单机多卡）](https://mp.weixin.qq.com/s/HfE99ghT0Xv0F9pPCnNf6w)
       - [PyTorch分布式模型保存与加载并结合早停](https://mp.weixin.qq.com/s/yD_stQl798_D0W1Zj8PyJw)
+      - [NLP大规模语言模型微调实践：DeepSpeed+Transformers实现简单快捷上手百亿参数模型微调](https://mp.weixin.qq.com/s/thlnokFT495NMOzC08FInw)
 
 ### Dropout
   * R-Drop: [重新审视Dropout算法](https://mp.weixin.qq.com/s/uHkhrccuWYCLoHwIHMeSMA)
