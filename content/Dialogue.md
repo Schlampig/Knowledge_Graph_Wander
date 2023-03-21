@@ -72,6 +72,7 @@
       - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
       - [复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术](https://mp.weixin.qq.com/s/eg7zOxpilQuPU6Dpxf6Bow) | AI科技大本营 2023-03-16
       - [华泰证券邱震宇：真·万字长文:可能是全网最晚的ChatGPT技术总结](https://mp.weixin.qq.com/s/QnDIZl6pYvaULcgZkXDoXQ) | AINLP 2023-03-17
+      - [华创证券：ChatGPT：技术原理、演进路线和应用场景](https://mp.weixin.qq.com/s/KreHoJsHNcCnwMBJqFPgtg) | 专知 2023-03-20
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -227,6 +228,7 @@
           - [为什么ChatGPT被指责对印度发动“文化战争”？？](https://mp.weixin.qq.com/s/mF6JeK65DrgS-6nZYvsxQw) | 南亚研究通讯 2023-03-05
           - [大模型111人：谷歌和OpenAI的人才战争](https://mp.weixin.qq.com/s/VTeIZM9Zi9hc65z-4b_DVg) | 量子位 2023-03-06
           - [OpenAI 的外包数据标注员，时薪不足2美元，称工作是“精神创伤”](https://mp.weixin.qq.com/s/xZbp35SiMbRODgt36puO-A) | 夕小瑶的卖萌屋 2023-03-09
+          - [OpenAI重磅研究：ChatGPT可能影响80%工作岗位，收入越高影响越大](https://mp.weixin.qq.com/s/lbWsWSLoOGtzcTgzJavJAw) | 机器之心 2023-03-21
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -353,4 +355,5 @@
   * [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://mp.weixin.qq.com/s/id57rG9nN_agaE3HXkANZA) | 深度学习自然语言处理 2023-03-11
   * [开源语言模型百宝袋 (Ver. 1.0)](https://mp.weixin.qq.com/s/VGHlgX66Ql6pjSym2OxqMA) | 看个通俗理解吧 2023-03-17
   * [全面了解大语言模型，这有一份阅读清单](https://mp.weixin.qq.com/s/o4z_p0LgY-HfTUrHMwHCdw) | 机器之心 2023-03-20
+  * [一文整理GPT-3 + RL 全流程训练开源项目](https://mp.weixin.qq.com/s/QKQeUbitKDnkP2cUNB8TJA) | AI算法小喵 2023-03-21
 
