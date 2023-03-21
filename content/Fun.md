@@ -359,4 +359,5 @@
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
+    - [一句话拍大片，导演末日来了！Gen-2震撼发布，科幻日系二次元统统拿捏](https://mp.weixin.qq.com/s/up5n6ZUP6SmSfRNpRX37qQ)
 </br>
