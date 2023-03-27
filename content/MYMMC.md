@@ -35,7 +35,8 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
-    - [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://mp.weixin.qq.com/s/vfaLYPtRJH4roX1wAKno9Q) | 专知 2023-03-20 
+    - [ChatGPT中的提示工程（Prompt Engineering）怎么做？50页最新PPT下载](https://mp.weixin.qq.com/s/Y5U4PUgIxfTI8TemMS4VBg) | 深度学习自然语言处理 2023年03月24日 
+    - [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://mp.weixin.qq.com/s/vfaLYPtRJH4roX1wAKno9Q) | 专知 2023年03月20日 
     - [In-Context Learning玩法大全](https://mp.weixin.qq.com/s/5sdIMCXplt61a3-IfNlPXQ) | AINLP 2023年02月22日 转载
     - [AI取代人类，可以自动生成prompt了](https://mp.weixin.qq.com/s/gpgBPeXcWL01CSoefPv9yg) | 智商掉了一地 夕小瑶的卖萌屋 2022年11月01日
     - [Prompt+对比学习，更好地学习句子表征](https://mp.weixin.qq.com/s/q4Jww1sXrOdmqQ5fyo9Cxw) | AINLP 2022年10月22日 转载
@@ -136,6 +137,18 @@
     - [击败GPT3，刷新50个SOTA！谷歌全面统一NLP范式](https://mp.weixin.qq.com/s/oMUASBSKe3xgGVLuQz7MGg) | ZenMoore 夕小瑶的卖萌屋 2022年05月13日
     - [“统一语言学习范式”：详解50个任务达到sota的谷歌新模型](https://mp.weixin.qq.com/s/1LlezA0uhFyq0pf86iJI_Q) | LZM 数据实战派 2022年05月17日
  
+ ### Selt-Instruct
+   * [paper](https://arxiv.org/pdf/2212.10560v1.pdf): SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions.
+   * [code](https://github.com/yizhongw/self-instruct)
+   * blog:
+     - [面向大模型微调的instruction指令自动化生成技术：SELF-INSTRUCT指令自动化生成框架工作介绍](https://mp.weixin.qq.com/s/QW-dGXUsrHXFdIfGI68HXw) | 老刘说NLP 2023年03月23日
+ 
+ ### Delta Tuning
+   * [paper](https://www.nature.com/articles/s42256-023-00626-4): Parameter-efficient fine-tuning of large-scale pre-trained language models.
+   * [code](https://github.com/thunlp/OpenDelta)
+   * blog:
+     - [拨动大模型的琴弦！Delta Tuning成果登上Nature子刊封面](https://mp.weixin.qq.com/s/3LUKkovbEQssC0DgHSHILg) | PaperWeekly 2023年03月24日
+ 
 </br>
 
 ---
@@ -190,6 +203,8 @@
   - [2023年03月07日：仿造一个大脑，就可创造智能？](https://mp.weixin.qq.com/s/pCUOL95XmaDGONaoAdAXCA)
     - [2023年03月16日：AI认知架构四十年：发展与挑战](https://mp.weixin.qq.com/s/gPcj9bA6iumE-faKhSd2ww) 
     - [2023年03月16日：脑机类比特刊：寻找复杂智能系统的普遍规律](https://mp.weixin.qq.com/s/_aQlAKf5Oj2ckbdlTZ_3Gg)
+  - [2023年03月25日：摩尔定律提出者去世，他奠定了英特尔CPU黄金时代，享年94岁](https://mp.weixin.qq.com/s/z6kuEH3YBclHvdrvzp6fVg)
+  - [2023年03月27日：他自己的生命游戏结束了，留给后人的数学游戏长存](https://mp.weixin.qq.com/s/4xRGPWnibcC_IyDPwTqJAA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
