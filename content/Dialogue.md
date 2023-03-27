@@ -342,6 +342,7 @@
           - [微软推出办公“智能副驾”Microsoft 365 Copilot](https://mp.weixin.qq.com/s/tV9zEAO7Iu4mcauykX-q_A) | 微软亚洲研究院 2023-03-17 
         - [最卷一夜！Google版 ChatGPT 开放、英伟达又投下核弹显卡……一觉醒来 AI 又变天了](https://mp.weixin.qq.com/s/UowaksuKvsdz4Kly8uaLZw) | 爱范儿 2023-03-22
         - [GPT-4 Copilot X震撼来袭！AI写代码效率10倍提升，码农遭降维打击](https://mp.weixin.qq.com/s/ATxJXbXOH9cQnx6VSkTB6A) | 新智元 2023-03-23
+          - [ChatGPT王炸更新，插件系统上线！](https://mp.weixin.qq.com/s/fn3wfvVsAvPU2FYIhajcNw) | Datawhale 2023-03-24 
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
