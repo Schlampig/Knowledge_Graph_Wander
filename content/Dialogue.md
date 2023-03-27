@@ -104,6 +104,7 @@
             - [ChatGPT逼急谷歌，劈柴发全员信：别慌，迟到也能赢！](https://mp.weixin.qq.com/s/tBbDRdnFrmSv1X2ttpw6Zg) | 夕小瑶的卖萌屋 2023-02-17
           - [**阿里巴巴**：正研发“阿里版”ChatGPT，目前处于内测阶段](https://m.thepaper.cn/rss_newsDetail_21846914) | 澎湃新闻 2023-02-08
             - [揭秘阿里达摩院类ChatGPT核心团队人才地图](https://mp.weixin.qq.com/s/FZOkzJTBeX0rq4nlnb9QSQ) | 36氪 2023-03-16 
+            - [重磅！马云回来了，聊了ChatGPT](https://mp.weixin.qq.com/s/Pj5Vus7J3iDHr2gnCJ3p-g) | Datawhale 2023-03-27
           - [**百度**将推中国版ChatGPT“文心一言” 目前在做上线前冲刺](https://baijiahao.baidu.com/s?id=1757354458057769314&wfr=spider&for=pc) | 中国经营报 2023-02-09
             - [**柯基数据**宣布接入百度文心一言能力 智能知识发现平台获领先AI技术加持](https://mp.weixin.qq.com/s/PqvjbDnUAtp6oJ-1ey7IoQ) | 柯基数据 2023-02-22
             - [大语言模型沸腾：文心一言「重塑」百度丨智氪](https://mp.weixin.qq.com/s/Dkp_slAEO5rypbLowAbaNQ) | 36氪 2023-02-22
