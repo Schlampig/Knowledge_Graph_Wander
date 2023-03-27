@@ -311,7 +311,7 @@
           - [BELLE](https://github.com/LianjiaTech/BELLE): 基于Alpaca的开源中文对话大模型（70亿参数）.
           - [Luotuo](https://sota.jiqizhixin.com/project/luotuo): [中文Alpaca模型Luotuo，权重语料均开源，适用各类垂域开发；GPT-4版Copilot发布，可实时对话、语音交流代码](https://mp.weixin.qq.com/s/3QL4wK8ZAr_lztivTdoQDA) | 机器之心SOTA模型 2023-03-27
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
-          - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg).
+          - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
       - 文心一言
         - blog:
           - [百度生成式AI产品文心一言邀请测试，五大场景、五大能力革新生产力工具](https://mp.weixin.qq.com/s/M0PE64egXweQaRWQNfNjMw) | 百度NLP 2023-03-16 
