@@ -581,6 +581,7 @@
   * [Explainpaper](https://www.explainpaper.com/): 提供论文片段解释的网站，可以通过问答深入挖掘。
   * [Conference Acceptance Rates](https://aclweb.org/aclwiki/Conference_acceptance_rates): ACL, EMNLP, NAACL, EACL, CoNLL, COLING, IJCNLP, LREC, IWCS, CICLing等会议的历年接收率统计。
   * [Google Scholar Metrics](https://scholar.google.com/citations?view_op=metrics_intro&hl=en): 谷歌学术英文出版物评价排名。
+  * [CCF论文列表(2022)正式版发布！MICCAI空降B类！PRCV空降C类！ICLR继续陪跑...](https://mp.weixin.qq.com/s/aRHZLlQhKqyfFpCmouKoKQ)
 
 ---
 ## Interview
