@@ -118,3 +118,4 @@
 
 ### Othors
   * [知识图谱构建练兵数据集：常用12类实体识别、10类关系抽取数据集的梳理与思考](https://mp.weixin.qq.com/s/YJLptAgwPWP9myqH99fReA)
+  * [面向入门小白的知识图谱实践路线指南：知识图谱代表性全流程开源项目、NER/RE关键模型与公开课概述](https://mp.weixin.qq.com/s/b2Tk-eipZatWcCNiW6gXtQ)
