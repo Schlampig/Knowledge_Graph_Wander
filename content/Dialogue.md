@@ -325,6 +325,10 @@
           - [文心一言 vs GPT-4实测！百度背水一战交卷](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ) | 量子位 2023-03-16
           - [文心一言算力从哪来？自家最大智算中心：算力规模4EFLOPS，base李彦宏老家](https://mp.weixin.qq.com/s/0f51e4aUmqlXBiztfaDfeg) | 量子位 2023-03-16
           - [文心一言「起舞」，触发云战场「变天」](https://mp.weixin.qq.com/s/k_UZpLJiNCJckmILDKHbnQ) | 雷峰网 2023-03-17
+      - Dolly
+        - blog:
+          - [0门槛克隆ChatGPT！30分钟训完，60亿参数性能堪比GPT-3.5](https://mp.weixin.qq.com/s/RMrXIHGOy3cPu8ybQNWonA) | 新智元 2023-03-27
+          - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 </br>
 
   * GPT-4
