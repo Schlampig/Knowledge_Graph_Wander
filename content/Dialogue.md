@@ -129,6 +129,7 @@
           - [**果壳**发布AIGC战略，赋能人工智能时代的超级个体](https://mp.weixin.qq.com/s/E9c-z5vJkeNwWzMy24qzJw) | 果壳 2023-03-17
           - [突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg) | 量子位 2023-03-19
           - [**追一**：一家自然语言处理AI公司的末世之舞：倒在GPT大模型的狂潮到来前](https://mp.weixin.qq.com/s/niXTHG7BW1O9tQetSsKjcg) | 品玩 2023-03-22
+          - [王慧文与**一流科技OneFlow**达成并购意向，聚力做中国版OpenAI](https://mp.weixin.qq.com/s/hl4B-kvE7eJM7ZOL2-WP1Q) | 机器之心 2023-03-28
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -244,6 +245,7 @@
           - [OpenAI 的外包数据标注员，时薪不足2美元，称工作是“精神创伤”](https://mp.weixin.qq.com/s/xZbp35SiMbRODgt36puO-A) | 夕小瑶的卖萌屋 2023-03-09
           - [OpenAI重磅研究：ChatGPT可能影响80%工作岗位，收入越高影响越大](https://mp.weixin.qq.com/s/lbWsWSLoOGtzcTgzJavJAw) | 机器之心 2023-03-21
           - [从谷歌与OpenAI的战争来看AI人才的重要性](https://mp.weixin.qq.com/s/iuI9cnXu0fteh0CBdeDT0g) | 知识工场 2023-03-23
+          - [比人类便宜20倍，ChatGPT让数据标注者危矣？](https://mp.weixin.qq.com/s/ajX6EYAgG1XWtxigowqiMQ) | 学术头条 2023-03-28
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -372,6 +374,7 @@
         - [硬与软：ChatGPT带给中国科技行业的启示](https://mp.weixin.qq.com/s/Phd4is1uwhsOvr_sr-zDyA) | FT中文网 2023-03-16
         - [黄仁勋对话OpenAI首席科学家，谈GPT-4及未来大模型](https://mp.weixin.qq.com/s/iktwqlWHjI-WraucCvcUzA) | 将门创投 2023-03-25 
           - [GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A) | 机器之心 2023-03-27 
+        - [当摩根士丹利接入GPT-4——财富管理的内容生态已滑过奇点](https://mp.weixin.qq.com/s/v1xyGESOC2kZlmiYU0jW7A) | 券业星球 2023-03-15
       - 学界
         - [更强的 GPT-4，更封闭的 OpenAI](https://mp.weixin.qq.com/s/MCc_PN86zyk9G8ZbEkAoaw) | 晚点LatePost 2023-03-15
           - [GPT-4技术细节保密惹争议，OpenAI首席科学家回应了](https://mp.weixin.qq.com/s/c_K5ka40Qj3yxczBA0Xq9w) | 机器之心 2023-03-16 
@@ -379,10 +382,11 @@
           - [关于GPT-4的八点观察，多模态大模型竞赛开始](https://mp.weixin.qq.com/s/7WoGfzzEO8a_BBAtA722Ow) | AINLP 2023-03-16
           - [李宏毅：GPT-4来了！有什么特别的地方吗？](https://mp.weixin.qq.com/s/1D8ev5qQEezbkKwYLlQqaQ) | AINLP 2023-03-19, also see [here](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php).
           - [GPT-4 发布后，你的 NLP 研究发生了怎样的变化？](https://mp.weixin.qq.com/s/m-kjb5KMLwDmVZ0ia3C18Q) | AINLP 2023-03-24
-        - [GPT-4论文竟有隐藏线索：GPT-5或完成训练、OpenAI两年内接近AGI](https://mp.weixin.qq.com/s/sZATa-GGHUOlhZuCgaghhg) | 量子位 2023-03-17
+          - [GPT-4论文竟有隐藏线索：GPT-5或完成训练、OpenAI两年内接近AGI](https://mp.weixin.qq.com/s/sZATa-GGHUOlhZuCgaghhg) | 量子位 2023-03-17
         - [做完GPT-4完整测评，微软爆火论文称初版AGI就快来了](https://mp.weixin.qq.com/s/Al9Vojr3Or6s14gbiEq7sA) | 机器之心 2023-03-24
           - [GPT-4满分第一名通过大厂模拟面试！微软154页研究刷屏：与AGI的第一次接触](https://mp.weixin.qq.com/s/T_ynpytmWQHRSANUNLxj6w) | 量子位 2023-03-25
           - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1) | arXiv [v1] Wed, 22 Mar 2023 16:51:28 UTC
+        - [LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！](https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g) | 夕小瑶的卖萌屋 2023-03-28
 </br>
 
 ### Blogs & Reviews
