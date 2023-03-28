@@ -385,7 +385,7 @@
           - [GPT-4论文竟有隐藏线索：GPT-5或完成训练、OpenAI两年内接近AGI](https://mp.weixin.qq.com/s/sZATa-GGHUOlhZuCgaghhg) | 量子位 2023-03-17
         - [做完GPT-4完整测评，微软爆火论文称初版AGI就快来了](https://mp.weixin.qq.com/s/Al9Vojr3Or6s14gbiEq7sA) | 机器之心 2023-03-24
           - [GPT-4满分第一名通过大厂模拟面试！微软154页研究刷屏：与AGI的第一次接触](https://mp.weixin.qq.com/s/T_ynpytmWQHRSANUNLxj6w) | 量子位 2023-03-25
-          - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1) | arXiv [v1] Wed, 22 Mar 2023 16:51:28 UTC
+          - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1) | arXiv [v1] Wed, 22 Mar 2023 16:51:28 UTC, [中文解读：《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893) | [橘子汽水铺](https://orangeblog.notion.site/orangeblog/8db8382267f747f08ed799a8d99c73b6)
         - [LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！](https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g) | 夕小瑶的卖萌屋 2023-03-28
 </br>
 
