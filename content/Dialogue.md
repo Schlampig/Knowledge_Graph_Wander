@@ -329,6 +329,7 @@
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
           - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
       - 文心一言
+        - [demo](https://yiyan.baidu.com/welcome) 
         - blog:
           - [百度生成式AI产品文心一言邀请测试，五大场景、五大能力革新生产力工具](https://mp.weixin.qq.com/s/M0PE64egXweQaRWQNfNjMw) | 百度NLP 2023-03-16 
           - [文心一言 vs GPT-4实测！百度背水一战交卷](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ) | 量子位 2023-03-16
