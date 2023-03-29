@@ -272,7 +272,8 @@
         - blog:
           - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
           - [Sage Gpt-4 Claude+ ChatGPT Dragonfly五个AI的各自特点](https://zhuanlan.zhihu.com/p/614720305) | 春眠不觉晓 2023-03-17
-      - Glow(北京稀宇科技有限公司):
+      - Glow(北京稀宇科技有限公司(MiniMax)):
+        - [api](https://api.minimax.chat/)
         - [demo](https://www.inspo.vip/)
         - blog: 
           - [首款产品Glow已达数百万用户，前商汤科技副总裁创立AI大模型企业](https://zhuanlan.zhihu.com/p/607262463) | 知乎-科技商说 2023-02-17
