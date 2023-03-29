@@ -268,7 +268,7 @@
         - blog:
           - [谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿](https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA) | 机器之心 2023-02-09 
           - [谷歌版ChatGPT Bard开放测试！我们已经体验上了](https://mp.weixin.qq.com/s/mbxMDuPaQLt5uXGh9kDtiQ) | 机器之心 2023-03-22
-      - Sage(Qyrus):
+      - Sage([Qyrus](https://www.qyrus.com/)):
         - blog:
           - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
           - [Sage Gpt-4 Claude+ ChatGPT Dragonfly五个AI的各自特点](https://zhuanlan.zhihu.com/p/614720305) | 春眠不觉晓 2023-03-17
