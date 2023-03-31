@@ -360,6 +360,12 @@
         - code: https://github.com/nomic-ai/gpt4all
         - blog:
           - [笔记本就能运行的ChatGPT平替来了，附完整版技术报告](https://mp.weixin.qq.com/s/crpG4dtfQFe3Q7hR3oeyxQ) | 机器之心 2023-03-30 
+      - Llama-X:
+        - [paper/code](https://github.com/AetherCortex/Llama-X): Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM
+          - discord: https://discord.gg/2etwhe6GvU
+          - email: llama-x@mail.com
+        - blog:
+          - [Llama-X开源！呼吁每一位NLPer参与推动LLaMA成为最先进的LLM](https://mp.weixin.qq.com/s/HrCg6vfqq7BxBo5ATEcLrA) | PaperWeekly 2023-03-31 
 </br>
 
   * GPT-4
@@ -407,6 +413,7 @@
           - [GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A) | 机器之心 2023-03-27 
           - [LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！](https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g) | 夕小瑶的卖萌屋 2023-03-28
           - [微软CTO对话比尔·盖茨：GPT-4与人工智能的未来](https://mp.weixin.qq.com/s/SDM5ZlY_9rlpfIJPD3w8Sw) | AINLP 2023-03-30
+          - [Gary Marcus：如果ChatGPT有1%的风险伤害你，你还会用它吗？超级智能值得恐惧吗](https://mp.weixin.qq.com/s/fIXIBUQB5BOuQf2i5RES-w) | 夕小瑶的卖萌屋 2023-03-31
         - [当摩根士丹利接入GPT-4——财富管理的内容生态已滑过奇点](https://mp.weixin.qq.com/s/v1xyGESOC2kZlmiYU0jW7A) | 券业星球 2023-03-15
       - 学界
         - [更强的 GPT-4，更封闭的 OpenAI](https://mp.weixin.qq.com/s/MCc_PN86zyk9G8ZbEkAoaw) | 晚点LatePost 2023-03-15
