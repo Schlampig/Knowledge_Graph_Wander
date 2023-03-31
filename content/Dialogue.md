@@ -372,6 +372,7 @@
       - [paper](https://arxiv.org/abs/2303.17564)
       - blog:
         - [金融圈注意了！彭博研究人员刚推出BloombergGPT](https://wallstreetcn.com/articles/3685406) | 华尔街见闻 2023-03-31 
+        - [ChatGPT如何垂直化？彭博发布《BloombergGPT-500亿参数金融大型语言模型》论文，65页pdf详述模型优异性能](https://mp.weixin.qq.com/s/YmGZPjw494S90sbhw7qqqw) | 专知 2023-03-31
 </br>
 
   * GPT-4
