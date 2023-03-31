@@ -115,6 +115,7 @@
           - [**360**称计划推出的类ChatGPT产品存重大不确定性，周鸿祎曾表示搭不上这班车会被淘汰](https://baijiahao.baidu.com/s?id=1757365028429019056&wfr=spider&for=pc) | 蓝鲸财经 2023-02-09
           - [**科大讯飞**被曝加紧开发中国版ChatGPT，具体发布时间已确定](https://mp.weixin.qq.com/s/o8D9GGlkmJ_RvaDL9filEQ) | 量子位 2023-02-10
             - [科大讯飞回应了：中国版ChatGPT可以乐观以待，有信心实现类似技术跃迁](https://mp.weixin.qq.com/s/s88HWFNwONc_6A6I9fpFFQ) | 量子位 2023-02-16
+            - [中国AIGC产业峰会 | 科大讯飞研究院高建清分享讯飞AIGC布局](https://mp.weixin.qq.com/s/ZKLOtBL4OQVolud9ekbzVg) | 科大讯飞研究院 2023-03-30
           - [**京东**宣布将推出产业版ChatGPT，取名“ChatJD”](https://baijiahao.baidu.com/s?id=1757429735691373647&wfr=spider&for=pc) | 澎湃新闻 2023-02-10
           - [**美团**大佬连夜冲向ChatGPT风口！自带3.5亿进场，只有一个判断：必须参与](https://mp.weixin.qq.com/s/aFL0fLIgi78yzjqYuGzwDA) | 量子位 2023-02-11
           - [**小冰**CEO李笛：小冰链不是中国版ChatGPT](https://mp.weixin.qq.com/s/ErujYGRmvsfGSttkjCHukQ) | 新智元 2023-02-21
@@ -130,6 +131,7 @@
           - [突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg) | 量子位 2023-03-19
           - [**追一**：一家自然语言处理AI公司的末世之舞：倒在GPT大模型的狂潮到来前](https://mp.weixin.qq.com/s/niXTHG7BW1O9tQetSsKjcg) | 品玩 2023-03-22
           - [王慧文与**一流科技OneFlow**达成并购意向，聚力做中国版OpenAI](https://mp.weixin.qq.com/s/hl4B-kvE7eJM7ZOL2-WP1Q) | 机器之心 2023-03-28
+          - [**知识工场实验室**发布大模型相关的系统与原型](https://mp.weixin.qq.com/s/_YRbDjS42Hj9l3_jXx7g-g) | 知识工场 2023-03-30
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -262,9 +264,14 @@
       - youChat(You.com): [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
       - ChatYuan(元语智能): 
         - code: https://github.com/clue-ai/ChatYuan
-        - [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
-        - [部署国产ChatGPT仅需6G显存！ChatYuan模型开放下载：业内首个功能型对话开源中文大模型](https://mp.weixin.qq.com/s/1UnFUaUK7vNh9uId7XxJ2A) | 新智元 2023-02-03
-        - [ChatGPT国产化：ChatYuan元语对话大模型升级](https://mp.weixin.qq.com/s/FtXAnrhavA5u7hRyfm8j6Q) | 机器之心 2023-02-21
+          - huggingface: https://huggingface.co/ClueAI/ChatYuan-large-v2
+          - modelscope: https://modelscope.cn/models/ClueAI/ChatYuan-large-v2/summary
+        - 内侧申请: https://wj.qq.com/s2/11984341/e00b/
+        - blog:
+          - [ChatYuan: 元语功能型对话大模型](https://github.com/clue-ai/ChatYuan)
+          - [部署国产ChatGPT仅需6G显存！ChatYuan模型开放下载：业内首个功能型对话开源中文大模型](https://mp.weixin.qq.com/s/1UnFUaUK7vNh9uId7XxJ2A) | 新智元 2023-02-03
+          - [ChatGPT国产化：ChatYuan元语对话大模型升级](https://mp.weixin.qq.com/s/FtXAnrhavA5u7hRyfm8j6Q) | 机器之心 2023-02-21
+          - [ChatYuan又开源了！效果大幅升级，在手机上也可以跑](https://mp.weixin.qq.com/s/T2cGW-r_PYvumWb0JmjSuA) | AINLP 2023-03-30
       - Claude([Anthropic](https://www.anthropic.com/)): [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
       - Apprentice Bard(谷歌): 
         - [Apprentice Bard: Google's potential ChatGPT rival](https://gpt3demo.com/apps/google-apprentice-bard)
@@ -338,7 +345,6 @@
           - [Luotuo](https://sota.jiqizhixin.com/project/luotuo)/[骆驼](https://github.com/LC1332/Chinese-alpaca-lora): [中文Alpaca模型Luotuo，权重语料均开源，适用各类垂域开发；GPT-4版Copilot发布，可实时对话、语音交流代码](https://mp.weixin.qq.com/s/3QL4wK8ZAr_lztivTdoQDA) | 机器之心SOTA模型 2023-03-27
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
           - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
-          - [GPT4All](https://github.com/nomic-ai/gpt4all): a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
       - 文心一言
         - [demo](https://yiyan.baidu.com/welcome) 
         - blog:
@@ -350,6 +356,10 @@
         - blog:
           - [0门槛克隆ChatGPT！30分钟训完，60亿参数性能堪比GPT-3.5](https://mp.weixin.qq.com/s/RMrXIHGOy3cPu8ybQNWonA) | 新智元 2023-03-27
           - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
+      - GPT4All
+        - code: https://github.com/nomic-ai/gpt4all
+        - blog:
+          - [笔记本就能运行的ChatGPT平替来了，附完整版技术报告](https://mp.weixin.qq.com/s/crpG4dtfQFe3Q7hR3oeyxQ) | 机器之心 2023-03-30 
 </br>
 
   * GPT-4
@@ -374,6 +384,7 @@
         - [最卷一夜！Google版 ChatGPT 开放、英伟达又投下核弹显卡……一觉醒来 AI 又变天了](https://mp.weixin.qq.com/s/UowaksuKvsdz4Kly8uaLZw) | 爱范儿 2023-03-22
         - [GPT-4 Copilot X震撼来袭！AI写代码效率10倍提升，码农遭降维打击](https://mp.weixin.qq.com/s/ATxJXbXOH9cQnx6VSkTB6A) | 新智元 2023-03-23
           - [ChatGPT王炸更新，插件系统上线！](https://mp.weixin.qq.com/s/fn3wfvVsAvPU2FYIhajcNw) | Datawhale 2023-03-24 
+          - [OpenAI全新插件系统：代码解释器！又一款宝藏插件诞生！训模型、迷宫游戏、二维码生成](https://mp.weixin.qq.com/s/jPMC80kwl6SWgi9om45Iig) | 夕小瑶的卖萌屋 2023-03-30
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -394,6 +405,8 @@
         - [硬与软：ChatGPT带给中国科技行业的启示](https://mp.weixin.qq.com/s/Phd4is1uwhsOvr_sr-zDyA) | FT中文网 2023-03-16
         - [黄仁勋对话OpenAI首席科学家，谈GPT-4及未来大模型](https://mp.weixin.qq.com/s/iktwqlWHjI-WraucCvcUzA) | 将门创投 2023-03-25 
           - [GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A) | 机器之心 2023-03-27 
+          - [LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！](https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g) | 夕小瑶的卖萌屋 2023-03-28
+          - [微软CTO对话比尔·盖茨：GPT-4与人工智能的未来](https://mp.weixin.qq.com/s/SDM5ZlY_9rlpfIJPD3w8Sw) | AINLP 2023-03-30
         - [当摩根士丹利接入GPT-4——财富管理的内容生态已滑过奇点](https://mp.weixin.qq.com/s/v1xyGESOC2kZlmiYU0jW7A) | 券业星球 2023-03-15
       - 学界
         - [更强的 GPT-4，更封闭的 OpenAI](https://mp.weixin.qq.com/s/MCc_PN86zyk9G8ZbEkAoaw) | 晚点LatePost 2023-03-15
@@ -407,7 +420,6 @@
           - [GPT-4满分第一名通过大厂模拟面试！微软154页研究刷屏：与AGI的第一次接触](https://mp.weixin.qq.com/s/T_ynpytmWQHRSANUNLxj6w) | 量子位 2023-03-25
           - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1) | arXiv [v1] Wed, 22 Mar 2023 16:51:28 UTC, [中文解读：《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893) | [橘子汽水铺](https://orangeblog.notion.site/orangeblog/8db8382267f747f08ed799a8d99c73b6), [点燃通用人工智能的火花： GPT-4的早期实验（微软最新报告）](https://mp.weixin.qq.com/s/2tSWrb-a62LMvXwmGUSgew) | AINLP 2023-03-28
           - [微软称GPT-4已能解决数学领域困难任务；科技部启动“人工智能驱动的科学研究”专项部署｜科研圈日报](https://mp.weixin.qq.com/s/CkKkEr7gHWZwqHbVhrbpBg) | 科研圈 2023-03-29
-        - [LeCun最新演讲，痛批GPT类模型没前途，称“世界模型”是正途！](https://mp.weixin.qq.com/s/0OA7E0o89iqn_k4PVqPD0g) | 夕小瑶的卖萌屋 2023-03-28
         - [叫停GPT-4后续AI大模型！马斯克、Bengio等人发出公开信，千人响应](https://mp.weixin.qq.com/s/pGAL89rrgC2bJLDcFbOzMg) | 机器之心 2023-03-29
           - [大佬联手封印AI，号召暂停强人工智能研发（附公开信全文翻译）](https://mp.weixin.qq.com/s/Zi5roezJBX2WG0uomRfV9w) | 果壳 2023-03-29 
           - [暂停GPT-5研发呼吁引激战！吴恩达、LeCun带头反对，Bengio站队支持](https://mp.weixin.qq.com/s/hLsQvD-kPHXoUpkLTwMN1g) | 新智元 2023-03-30
