@@ -366,6 +366,10 @@
           - email: llama-x@mail.com
         - blog:
           - [Llama-X开源！呼吁每一位NLPer参与推动LLaMA成为最先进的LLM](https://mp.weixin.qq.com/s/HrCg6vfqq7BxBo5ATEcLrA) | PaperWeekly 2023-03-31 
+      - BloombergGPT(彭博):
+      - [paper](https://arxiv.org/abs/2303.17564)
+      - blog:
+        - [金融圈注意了！彭博研究人员刚推出BloombergGPT](https://wallstreetcn.com/articles/3685406) | 华尔街见闻 2023-03-31 
 </br>
 
   * GPT-4
