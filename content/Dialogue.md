@@ -326,9 +326,11 @@
           - [ChatGPT开源平替来了，开箱即用！前OpenAI团队打造，GitHub刚发布就揽获800+星](https://mp.weixin.qq.com/s/-MEOhOVut2dCvbF5N6UfyQ) | 量子位 2023-03-13
           - [Together发布首个全面开源社区版ChatGPT](https://mp.weixin.qq.com/s/awb6AyEl8QHSiv-eHpmwdw) | 机器之心SOTA模型 2023-03-13
       - ChatGLM(智谱AI):
-        -  blog:
+        - code: https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning 
+        - blog:
           - [ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源](https://mp.weixin.qq.com/s/N79Sdx3K1em1EJxQZ9lcpA) | 学术头条 2023-03-14
           - [清华系ChatGPT发布！唐杰团队打造，专对中文优化，还能把握最新新闻动态](https://mp.weixin.qq.com/s/ZUiybuj73cgBIYDM90aE3Q) | 量子位 2023-03-18
+          - [【官方教程】ChatGLM-6B微调，最低只需7GB显存](https://mp.weixin.qq.com/s/miML4PXioK5iM8UI0cTSCQ) | 学术头条 2023-03-31
       - ColossalAI(潞晨科技):
         - code: https://github.com/hpcaitech/ColossalAI
         - blog:
