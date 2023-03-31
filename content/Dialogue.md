@@ -268,10 +268,11 @@
         - blog:
           - [谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿](https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA) | 机器之心 2023-02-09 
           - [谷歌版ChatGPT Bard开放测试！我们已经体验上了](https://mp.weixin.qq.com/s/mbxMDuPaQLt5uXGh9kDtiQ) | 机器之心 2023-03-22
-      - Sage([Qyrus](https://www.qyrus.com/)):
+      - Sage(OpenAI-GPT-3.5-Turbo):
         - blog:
           - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
           - [Sage Gpt-4 Claude+ ChatGPT Dragonfly五个AI的各自特点](https://zhuanlan.zhihu.com/p/614720305) | 春眠不觉晓 2023-03-17
+      - Dragonfly(OpenAI-text-davinci-003)
       - Glow(北京稀宇科技有限公司(MiniMax)):
         - [api](https://api.minimax.chat/)
         - [demo](https://www.inspo.vip/)
@@ -308,6 +309,7 @@
         - blog:
           - [AI大牛周明发布MChat：生成可控，参数规模可负担，顺便官宣了新融资](https://mp.weixin.qq.com/s/xlmSJ7WSKgVTlr2QrK6_ow) | 量子位 2023-03-20
       - OpenChatKit(Together):
+        - website: https://www.together.xyz/blog/openchatkit 
         - blog:
           - [ChatGPT开源替代来了！参数量200亿，在4300万条指令上微调而成](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw) | 机器之心 2023-03-13
           - [ChatGPT开源平替来了，开箱即用！前OpenAI团队打造，GitHub刚发布就揽获800+星](https://mp.weixin.qq.com/s/-MEOhOVut2dCvbF5N6UfyQ) | 量子位 2023-03-13
