@@ -191,6 +191,7 @@
           - [复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw) | AI科技大本营 2023-03-06
           - [陆首群：ChatGPT不开源是说不过去的](https://mp.weixin.qq.com/s/JMYjN4wi4YSF2bFBu-CNOA) | 中国计算机学会 2023-03-23
           - [专访张亚勤：热议的“中国版ChatGPT”，如何理解其意义？](https://mp.weixin.qq.com/s/wvLj4eWCX8jdpCECLjIZmw) | 三联生活周刊 2023-03-31
+          - [中国人民大学卢志武：ChatGPT对多模态通用生成模型的重要启发](https://mp.weixin.qq.com/s/kFFPORQOz6VP9F6rZHokyw) | 机器之心 2023-04-02
         - [Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg) | 机器之心 2023-03-08
           - [ChatGPT+NLP下的Prompt模板工具：PromptSource、ChatIE代表性开源项目介绍](https://mp.weixin.qq.com/s/j2HffPnkKjuSytukOQ-ikQ) | 老刘说NLP 2023-03-14 
       - 优化 & 应用：
@@ -260,6 +261,7 @@
           - [比人类便宜20倍，ChatGPT让数据标注者危矣？](https://mp.weixin.qq.com/s/ajX6EYAgG1XWtxigowqiMQ) | 学术头条 2023-03-28
           - [ChatGPT走红后，谁的“饭碗”不保了？](https://mp.weixin.qq.com/s/VleIRv5Qkh3ZrKQgYVf4PA) | 三联生活周刊 2023-03-29
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
+        - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -267,6 +269,7 @@
           - 拓展：[“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
         - [GPT-4外逃计划曝光！斯坦福教授发现它正引诱人类帮助，网友：灭绝之门](https://mp.weixin.qq.com/s/ldB5oSaFkoh06K8tGbYGRw) | 量子位 2023-03-18
           - [GPT-4为通过人机验证，试图雇人给自己打工，还骗了对方](https://mp.weixin.qq.com/s/AsxnwVBt39DzGWPeRuk-1w) | 机器之心 2023-03-18 
+        - [比利时男子与AI聊天后，自杀身亡：Eliza，替我保护地球，我先走了！](https://mp.weixin.qq.com/s/s-cIHpRlrtq8wI9qrD_OEg) | 新智元 2023-04-02 
     - expand methods:
       - Davinci(OpenAI): [GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23 
       - youChat(You.com): [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
@@ -398,6 +401,15 @@
         - demo: http://lmflow.com/
         - blog:
           - [3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww) | 机器之心 2023-04-02
+      - HuggingGPT(微软亚研院&浙大):
+        - code(JARVIS): https://github.com/microsoft/JARVIS
+        - [paper](https://arxiv.org/pdf/2303.17580.pdf): HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
+        - blog:
+          - [ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文，HuggingGPT项目已开源](https://mp.weixin.qq.com/s/iVlc_MKSB7LFtGT-9K2hcA) | 新智元 2023-04-02 
+      - Chat-REC(复旦):
+        - [paper](https://arxiv.org/pdf/2303.14524.pdf): Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System
+        - blog:
+          - [Chat-REC: 用大语言模型增强传统推荐的全新范式](https://mp.weixin.qq.com/s/8yuAt1KVuLF3hP-9ZtgGTg) | PaperWeekly 2023-04-02
 </br>
 
   * GPT-4
@@ -450,6 +462,7 @@
       - 学界
         - [更强的 GPT-4，更封闭的 OpenAI](https://mp.weixin.qq.com/s/MCc_PN86zyk9G8ZbEkAoaw) | 晚点LatePost 2023-03-15
           - [GPT-4技术细节保密惹争议，OpenAI首席科学家回应了](https://mp.weixin.qq.com/s/c_K5ka40Qj3yxczBA0Xq9w) | 机器之心 2023-03-16 
+          - [直面GPT-4的缺陷和风险，OpenAI提出多种安全应对措施](https://mp.weixin.qq.com/s/fyjJKK_HejwFlYclSpmUFw) | 将门创投 2023-04-03
         - [张俊林：GPT-4 模型会开创哪些新的研究方向？](https://mp.weixin.qq.com/s/yPHeA79vYclYHJTv6dVVgA) | AINLP 2023-03-16, also see [here](https://mp.weixin.qq.com/s/gW-rhzxF5eeV3jd3-AR4Dw).
           - [关于GPT-4的八点观察，多模态大模型竞赛开始](https://mp.weixin.qq.com/s/7WoGfzzEO8a_BBAtA722Ow) | AINLP 2023-03-16
           - [李宏毅：GPT-4来了！有什么特别的地方吗？](https://mp.weixin.qq.com/s/1D8ev5qQEezbkKwYLlQqaQ) | AINLP 2023-03-19, also see [here](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php).
