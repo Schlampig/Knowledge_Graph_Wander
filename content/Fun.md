@@ -185,6 +185,13 @@
   * Speech Synthesis
     - [浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/VLURxAGDozFWgbr0KWGbGA)
     - [一文全面了解火山语音无监督预训练技术的落地实践](https://mp.weixin.qq.com/s/1cWkMut6e3VnPbFczVW7DA)
+  * Text-to-Speech
+    - VITS:
+      - code: https://github.com/jaywalnut310/vits
+      - project: https://jaywalnut310.github.io/vits-demo/index.html
+      - [paper](https://arxiv.org/abs/2106.06103): VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech. 
+    - [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc/blob/4.0/README_zh_CN.md)
+    - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) 
 </br>
 
 ### Recommender system
