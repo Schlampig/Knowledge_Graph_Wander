@@ -53,7 +53,7 @@
   * [Text Classification](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Classification.md)
   * [Emotion/Sentiment Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Emotion_Recognition.md)
   * [Text Generation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Generation.md)
-  * [Dialogue Methods/ChatBot](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dialogue.md):fire::fire:
+  * [Dialogue Methods/ChatBot](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dialogue.md):fire::fire::fire:
 
 ### Graph Operation
   * [Distant Supervision](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Distant_Supervision.md)
