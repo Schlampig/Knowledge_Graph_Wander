@@ -233,6 +233,12 @@
   * link: https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/?continueFlag=893a2577a04a257068ec62dd2fa7ec33
   * keywords: a collection of course material from various [courses](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) that were taught on machine learning at UBC.
 
+### 100-Days-Of-ML-Code
+  * link: https://github.com/MLEveryday/100-Days-Of-ML-Code
+  * author: [MLEveryday](https://github.com/MLEveryday)
+  * keywords: 《机器学习100天》中文版，英文版请见[此处](https://github.com/Avik-Jain/100-Days-Of-ML-Code).
+  * extra: [60_Days_RL_Challenge](https://github.com/MLEveryday/60_Days_RL_Challenge).
+
 ### 机器学习系统：设计和实现
   * link: https://github.com/openmlsys/openmlsys-zh
   * book(web): https://openmlsys.github.io/ 
