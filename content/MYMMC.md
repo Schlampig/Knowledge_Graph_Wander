@@ -30,6 +30,10 @@
 ---
 ## Prompt-Tuning
 
+### Prompt Engineering
+  * [Learning Prompt](https://learningprompt.wiki/)
+    - [code](https://github.com/thinkingjimmy/Learning-Prompt)
+
 ### PromptPapers
   * link: https://github.com/thunlp/PromptPapers
   * author: THUNLP
@@ -86,6 +90,10 @@
 
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
+  * extra:
+    - [Awesome-instruction-tuning](https://github.com/zhilizju/Awesome-instruction-tuning): a curated list of awesome instruction tuning datasets, models, papers and repositories.
+    - [awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning): awesome papers on Textual Instruction learning.
+    - [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset): a collection of open-source dataset to train instruction-following LLMs (ChatGPT, LLaMA, Alpaca).
   * blog:
     - [打开模型Zero-Shot新范式：Instruction Tuning](https://mp.weixin.qq.com/s/1qsaT0AVlNjhQJR8z8PAGA) | 避暑山庄梁朝伟 PaperWeekly 2022年08月25日
     - [Instruction Tuning｜谷歌Quoc V.Le团队提出精调新范式！香过Prompt！](https://mp.weixin.qq.com/s/DcdYRzdGkF5MaL5M3yGLTw) | rumor 李rumor 2021年9月9日
