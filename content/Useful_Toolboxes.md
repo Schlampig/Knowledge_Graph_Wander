@@ -69,6 +69,12 @@
   * author: SciSpace group
   * note: popular papers to serach and read
 
+### Hugging Papers
+  * website(example): https://huggingface.co/papers/2211.05100 
+  * website(Zapier): https://zapier.com/apps/hugging-face/integrations
+  * blog:
+    - [Hugging Papers 来啦，快来认领你的论文!](https://mp.weixin.qq.com/s/Lmjoce9bZ6OLhp37B7znKQ) | Hugging Face 2023-03-31
+
 ---
 ## Search Codes
 
