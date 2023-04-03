@@ -149,6 +149,7 @@
             - [ChatGPT的CEO共识：超级AI算力+大模型成为核心竞争力，生产力被重新定义](https://mp.weixin.qq.com/s/Zl60kIRHUBWJ3OJ55GsAqg) | 量子位 2023-03-08
             - [ChatGPT的商业前景与能力分析：中国版ChatGPT是个伪命题](https://mp.weixin.qq.com/s/oQGpVWOdUnfh4AXZQeiN9A) | 深度学习自然语言处理 2023-03-08
             - [ChatGPT三问：是什么、从哪来、去往哪？](https://mp.weixin.qq.com/s/mgxWigf5UrsAf3DIpb2AOw) | PaperWeekly 2023-03-14
+            - [中国AIGC创投现状：稀缺项目分分钟独角兽，能做大模型500万年薪，还有创业公司成了OpenAI炮灰](https://mp.weixin.qq.com/s/ZzyERYrAiHdtL4bsVeZgzw) | 量子位 2023-04-03
           - [ChatGPT 背后的经济账](https://mp.weixin.qq.com/s/oJBTJEVYbO3rgHXyNOlhmw) | 人工智能学家 2023-02-19
             - [从 ChatGPT 等生成式 AI 的算力开销及商业化潜力，26页pdf](https://mp.weixin.qq.com/s/NO0P2PXBHSMtTYJKVW-6mQ) | 专知 2023-02-22 
           - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
@@ -406,6 +407,7 @@
         - [paper](https://arxiv.org/pdf/2303.17580.pdf): HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
         - blog:
           - [ChatGPT自己会选模型了！微软亚研院+浙大爆火新论文，HuggingGPT项目已开源](https://mp.weixin.qq.com/s/iVlc_MKSB7LFtGT-9K2hcA) | 新智元 2023-04-02 
+          - [用ChatGPT「指挥」数百个模型，HuggingGPT让专业模型干专业事](https://mp.weixin.qq.com/s/tjPEFApzdLjn2Y7iz8O77A) | 机器之心 2023-04-03
       - Chat-REC(复旦):
         - [paper](https://arxiv.org/pdf/2303.14524.pdf): Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System
         - blog:
@@ -435,6 +437,7 @@
         - [GPT-4 Copilot X震撼来袭！AI写代码效率10倍提升，码农遭降维打击](https://mp.weixin.qq.com/s/ATxJXbXOH9cQnx6VSkTB6A) | 新智元 2023-03-23
           - [ChatGPT王炸更新，插件系统上线！](https://mp.weixin.qq.com/s/fn3wfvVsAvPU2FYIhajcNw) | Datawhale 2023-03-24 
           - [OpenAI全新插件系统：代码解释器！又一款宝藏插件诞生！训模型、迷宫游戏、二维码生成](https://mp.weixin.qq.com/s/jPMC80kwl6SWgi9om45Iig) | 夕小瑶的卖萌屋 2023-03-30
+        - [ChatGPT大封号，注册功能关闭！亚洲成重灾区，网友自救喊话：不要登录，不要登录](https://mp.weixin.qq.com/s/1M8JFbq9Ea29EzE9QqocPQ) | 量子位 2023-04-03
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -492,4 +495,5 @@
   * [全面了解大语言模型，这有一份阅读清单](https://mp.weixin.qq.com/s/o4z_p0LgY-HfTUrHMwHCdw) | 机器之心 2023-03-20
   * [一文整理GPT-3 + RL 全流程训练开源项目](https://mp.weixin.qq.com/s/QKQeUbitKDnkP2cUNB8TJA) | AI算法小喵 2023-03-21
   * [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
+  * [大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写](https://mp.weixin.qq.com/s/7HRr55Md2Wl6EHQMGioumw) | 机器之心 2023-04-03
 
