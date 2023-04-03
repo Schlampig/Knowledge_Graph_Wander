@@ -26,6 +26,7 @@
 
 ### Blogs
   * [技术总结：KG融合预训练语言模型中的常见知识类型及代表工作浅析](https://mp.weixin.qq.com/s/XQqjqDK1fH15c3OzH3YOdg) | AINLP 2021年12月22日 转载
+  * [OpenAI-Cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API.
 
 ---
 ## Prompt-Tuning
