@@ -84,3 +84,7 @@
   * author: KHTamim
   * note: the regexGen() function generates a regex from a single word sample.
   * extra: [autoregex](https://github.com/entrptaher/autoregex)
+
+### Regex.ai
+  * homepage: https://regex.ai/?utm_source=appinn.com
+  * blog: [Regex.ai – 让 AI 帮你写正则表达式｜再也不用学习正则了](https://www.appinn.com/regex-ai/)([原文](https://www.appinn.com/regex-ai/))
