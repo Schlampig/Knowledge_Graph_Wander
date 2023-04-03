@@ -360,6 +360,7 @@
           - [Luotuo](https://sota.jiqizhixin.com/project/luotuo)/[骆驼](https://github.com/LC1332/Chinese-alpaca-lora): [中文Alpaca模型Luotuo，权重语料均开源，适用各类垂域开发；GPT-4版Copilot发布，可实时对话、语音交流代码](https://mp.weixin.qq.com/s/3QL4wK8ZAr_lztivTdoQDA) | 机器之心SOTA模型 2023-03-27
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
           - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
+          - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
       - 文心一言
         - [demo](https://yiyan.baidu.com/welcome) 
         - blog:
