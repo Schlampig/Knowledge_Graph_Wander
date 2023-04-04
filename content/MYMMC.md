@@ -40,6 +40,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/dyKcRUKIS_HKuNQ_WZ3WCg) | AINLP 2023-04-03
     - [一文详解Prompt学习和微调（Prompt Learning & Prompt Tuning）](https://mp.weixin.qq.com/s/upVlzJ7_mweLhspg3M0TLQ) |  PaperWeekly 2023年03月30日
     - [ChatGPT中的提示工程（Prompt Engineering）怎么做？50页最新PPT下载](https://mp.weixin.qq.com/s/Y5U4PUgIxfTI8TemMS4VBg) | 深度学习自然语言处理 2023年03月24日 
     - [ChatGPT中的提示工程(Prompt)怎么做？DAIR.AI最新《提示工程指南》，全面讲述提示技术，附书册课件视频](https://mp.weixin.qq.com/s/vfaLYPtRJH4roX1wAKno9Q) | 专知 2023年03月20日 
