@@ -192,6 +192,9 @@
     - [2022年：千亿参数大模型首次被撬开！Meta复刻GPT-3“背刺”OpenAI，完整模型权重及训练代码全公布](https://mp.weixin.qq.com/s/zCgXWGUlkIQaGDE14wAATw)(OPT): [code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT), [paper](https://arxiv.org/abs/2205.01068)
     - [2022年：GPT-3回答问题不靠谱？OpenAI找来人类“调教师”，终于给教明白了](https://mp.weixin.qq.com/s/vIYDGAeDx6fi6t4xaD4GIA)
 
+### GPT-J
+  * code: https://github.com/kingoflolz/mesh-transformer-jax
+
 ### minGPT
   * code: https://github.com/karpathy/minGPT
 
