@@ -164,6 +164,9 @@
   * Unlearning
     - [模型会忘了你是谁吗？两篇Machine Unlearning顶会论文告诉你什么是模型遗忘](https://mp.weixin.qq.com/s/7J8sB5EBe_hsQqNYWyrDvg)
 
+### Pruning
+  * [LLMPruner：大语言模型裁剪工具](https://mp.weixin.qq.com/s/u0UcCxzJOkF4fO_JI6ToQA)
+
 ### Regularization
   * [如何用正则化防止模型过拟合？](https://mp.weixin.qq.com/s/5leQpMrdby5e9P6xCtE7mQ)
 
