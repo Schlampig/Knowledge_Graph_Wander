@@ -203,6 +203,7 @@
           - [GPT：Chat的计算合成与人机协同创新](https://mp.weixin.qq.com/s/fSKfJSlZJK5rHnMEvcF3cA) | 启真新论 2023-04-04
           - [田渊栋：关于GPT-4的一点感想（后一篇）](https://mp.weixin.qq.com/s/rGAYSzRJiKEkrYdeaZ_g3w) | 新智元 2023-04-04
           - [陈雨强：GPT等大模型应用落地需关注内容可信、数据安全、成本可控](https://mp.weixin.qq.com/s/aOVD1jFaj4qEBo5ZpfAcXQ) | 第四范式 2023-04-04
+          - [大厂大模型：久违的一把手工程](https://mp.weixin.qq.com/s/D_xvKGFDZFZdbUODc_tQDg) | 晚点LatePost 2023-04-06
         - [Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg) | 机器之心 2023-03-08
           - [ChatGPT+NLP下的Prompt模板工具：PromptSource、ChatIE代表性开源项目介绍](https://mp.weixin.qq.com/s/j2HffPnkKjuSytukOQ-ikQ) | 老刘说NLP 2023-03-14 
       - 优化 & 应用：
@@ -259,6 +260,7 @@
           - [你认为AI能怎样辅助自己的工作？丨问20人](https://mp.weixin.qq.com/s/O4PMIikzk4PsFOSLV0x8tw) | 触乐 2023-03-19
           - [GPT-3 在化学与材料科学任务中的应用表现如何？](https://mp.weixin.qq.com/s/-3PWjB-z9C_qKTxFvMSTbg) | ScienceAI 2023-03-24
           - [医疗ChatGPT、金融GPT都来啦！“潘多拉的魔盒”已经打开？](https://mp.weixin.qq.com/s/xSwl5DZYj_kFmJ2fguFBcA) | 夕小瑶的卖萌屋 2023-04-05
+          - [关于医疗LLM的随笔](https://mp.weixin.qq.com/s/GH3zXJMb690fx-fSMp-G8g) | AINLP 2023-04-06
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
@@ -281,6 +283,7 @@
           - [比人类便宜20倍，ChatGPT让数据标注者危矣？](https://mp.weixin.qq.com/s/ajX6EYAgG1XWtxigowqiMQ) | 学术头条 2023-03-28
           - [ChatGPT走红后，谁的“饭碗”不保了？](https://mp.weixin.qq.com/s/VleIRv5Qkh3ZrKQgYVf4PA) | 三联生活周刊 2023-03-29
           - [20个AI暴露指数最高的职业](https://mp.weixin.qq.com/s/QnsG7z5YitNe6WixhcN16g) | 三联生活周刊 2023-04-04
+          - [高盛最全AI报告来了！白领工作迎来颠覆性变革？哪些行业受益？](https://mp.weixin.qq.com/s/SD3USN7D28gv7lDd3_IXnw) | RPA全球生态 2023-04-06
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
         - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
       - 逸闻
@@ -382,7 +385,7 @@
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
           - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
           - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
-      - 文心一言
+      - 文心一言(百度):
         - [demo](https://yiyan.baidu.com/welcome) 
         - blog:
           - [百度生成式AI产品文心一言邀请测试，五大场景、五大能力革新生产力工具](https://mp.weixin.qq.com/s/M0PE64egXweQaRWQNfNjMw) | 百度NLP 2023-03-16 
@@ -445,6 +448,15 @@
         - [paper](https://arxiv.org/abs/2304.01933): LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language.
         - blog:
           - [从此告别繁琐的模型微调，LLM-Adapters助力NLP任务快速高效微调！](https://mp.weixin.qq.com/s/96FrL20w9doVfnQFO4ZaTw) | PaperWeekly 2023-04-06
+      - 流萤Firefly(Jianxin Yang):
+        - code: https://github.com/yangjianxin1/Firefly
+        - blog:
+          - [Firefly(流萤): 中文对话式大语言模型](https://mp.weixin.qq.com/s/O1QV32QRJtYjtvu6ZCDc7Q) | AINLP 2023-04-06 
+      - 通义千问(阿里):
+        - homepage: tongyi.aliyun.com
+        - blog:
+          - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
+          - [官宣：阿里云大模型开始邀请测试](https://mp.weixin.qq.com/s/Zp23VMxQiWHZzsBZNUtPwQ) | 阿里云 2023-04-07
 </br>
 
   * GPT-4
@@ -517,6 +529,7 @@
           - [知识工场实验室师生就暂停巨型AI实验发表见解](https://mp.weixin.qq.com/s/stJ9aWne2VEw0YSiTx-tVA) | 知识工场 2023-04-02
           - [GPT-4超强进化，近万人联名封杀！白宫紧急开会，ChatGPT概念股暴跌](https://mp.weixin.qq.com/s/9uBaAC_zSLjqQDYnLS9gTw) | 新智元 2023-04-05
           - [比尔·盖茨谈千名专家公开信：呼吁暂停人工智能开发不会“解决挑战”](https://mp.weixin.qq.com/s/vv-cUaLla9iPxsW7H00J0g) | 人工智能学家 2023-04-05
+          - [GPT-5停不停？Bengio痛心跳出呼吁，LeCun怒斥AI末日论者](https://mp.weixin.qq.com/s/N3kW1Vmv-QxP8ZCaMEuDCA) | 新智元 2023-04-07 
 </br>
 
 ### Blogs & Reviews
