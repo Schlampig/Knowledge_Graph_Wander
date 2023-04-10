@@ -161,6 +161,12 @@
    * blog:
      - [拨动大模型的琴弦！Delta Tuning成果登上Nature子刊封面](https://mp.weixin.qq.com/s/3LUKkovbEQssC0DgHSHILg) | PaperWeekly 2023年03月24日
  
+ ### Regeneration Learning
+   * [paper](https://arxiv.org/abs/2301.08846): Regeneration Learning: A Learning Paradigm for Data Generation.
+   * [homepage](https://ai-creation.github.io/)
+   * blog:
+     - [微软研究员联合Yoshua Bengio推出AIGC数据生成学习范式Regeneration Learning](https://mp.weixin.qq.com/s/CdshbjsSlVQmRXFqUnFFSA) | 微软亚洲研究院 2023-04-10
+ 
 </br>
 
 ---
