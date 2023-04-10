@@ -66,6 +66,7 @@
         - [复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术](https://mp.weixin.qq.com/s/eg7zOxpilQuPU6Dpxf6Bow) | AI科技大本营 2023-03-16
         - [华泰证券邱震宇：真·万字长文:可能是全网最晚的ChatGPT技术总结](https://mp.weixin.qq.com/s/QnDIZl6pYvaULcgZkXDoXQ) | AINLP 2023-03-17
         - [华创证券：ChatGPT：技术原理、演进路线和应用场景](https://mp.weixin.qq.com/s/KreHoJsHNcCnwMBJqFPgtg) | 专知 2023-03-20
+        - [【重磅】OpenAI最新解密，ChatGPT的本质是无损压缩器](https://mp.weixin.qq.com/s/1rBi3P9qiOK8lZcDGUy0jw) | 熵简科技Value Simplex 2023-04-09
       - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
         - [大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw) | 老刘说NLP 2023-02-28
         - [ChatGPT问答的生成式风格赏析：HC3比对语料库的建设及其与人类问答的差异性比对工作介绍](https://mp.weixin.qq.com/s/hETfKmr_NN1yJgU-Rat43w) | AINLP 2023-03-08
@@ -79,6 +80,8 @@
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
         - [ChatGPT成功的“秘密武器”：RLHF将怎样影响人类社会？](https://mp.weixin.qq.com/s/rgw1cFOheofQuE8mLxe32A) | 学术头条 2023-03-08
         - [在一张 24 GB 的消费级显卡上用 RLHF 微调 20B LLMs](https://mp.weixin.qq.com/s/7nmegO1UYObO0-eUDTKnMg) | Hugging Face 2023-03-22
+        - [RLHF，对齐了，又没完全对齐？](https://mp.weixin.qq.com/s/kpV3uXn4eewNeRAQadyifg) | 李rumor 2023-04-10
+        - [ChatGPT背后的技术-基于人类反馈的强化学习(RLHF) 理论篇](https://mp.weixin.qq.com/s/Ix3et0QZcd7M9CNDbpzJjQ) | AINLP 2023-04-10
       - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
         - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
         - [ChatGPT背后的指令学习是什么？PSU最新首篇《指令学习》技术全面综述，详述指令学习关键问题](https://mp.weixin.qq.com/s/ob_QcEXf3iNu-0jrKLcT2Q) | 专知 2023-03-27
@@ -101,6 +104,7 @@
         - [大模型的「狂飙时代」，以开源之力推动「新Linux底层操作系统」](https://mp.weixin.qq.com/s/lCg8uqjTZQe0jnX8sYF6MA) | 机器之心 2023-03-03
         - [ChatGPT模型参数≠1750亿，有人用反证法进行了证明](https://mp.weixin.qq.com/s/lzIQ50GCKGEPu1Yzs-7FnQ) | 机器之心 2023-03-09
         - [揭秘ChatGPT背后天价超算！上万颗英伟达A100，烧光微软数亿美元](https://mp.weixin.qq.com/s/syD74ICOlOaPATF8oxgrYg) | 新智元 2023-03-14
+        - [AI 2.0时代：黄仁勋的野心](https://mp.weixin.qq.com/s/1-7-VGFzRRT31s0CPftMNQ) | 财新网 2023-04-10
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -123,6 +127,7 @@
             - [科大讯飞回应了：中国版ChatGPT可以乐观以待，有信心实现类似技术跃迁](https://mp.weixin.qq.com/s/s88HWFNwONc_6A6I9fpFFQ) | 量子位 2023-02-16
             - [中国AIGC产业峰会 | 科大讯飞研究院高建清分享讯飞AIGC布局](https://mp.weixin.qq.com/s/ZKLOtBL4OQVolud9ekbzVg) | 科大讯飞研究院 2023-03-30
           - [**京东**宣布将推出产业版ChatGPT，取名“ChatJD”](https://baijiahao.baidu.com/s?id=1757429735691373647&wfr=spider&for=pc) | 澎湃新闻 2023-02-10
+            - [百度、阿里之后，京东大模型“ChatJD”也要来了](https://mp.weixin.qq.com/s/oH7JLnXVejDJl3iYePXtVg) | 第一财经 2023-04-09 
           - [**美团**大佬连夜冲向ChatGPT风口！自带3.5亿进场，只有一个判断：必须参与](https://mp.weixin.qq.com/s/aFL0fLIgi78yzjqYuGzwDA) | 量子位 2023-02-11
           - [**小冰**CEO李笛：小冰链不是中国版ChatGPT](https://mp.weixin.qq.com/s/ErujYGRmvsfGSttkjCHukQ) | 新智元 2023-02-21
             - [ChatGPT发疯怎么办？小冰李笛：两个关键，我可破之](https://mp.weixin.qq.com/s/pzu7ikmtxLmM9x2uLED0-w) | 量子位 2023-02-27
@@ -131,12 +136,14 @@
           - [ChatGPT上岗医疗还有多远？哈佛教授亲测表现接近医生，**云知声**被曝打造行业版](https://mp.weixin.qq.com/s/8CltdJQ0FZ9sNBGu4ZjnaA) | 量子位 2023-02-21
           - [大神李沐被曝离职！投身大模型创业，GitHub项目已开](https://mp.weixin.qq.com/s/lvqtu0XsOKe8x2tTj7pl7A) | 量子位 2023-03-07
           - [做中国版ChatGPT，还有一个「隐身」大玩家](https://mp.weixin.qq.com/s/O9Jp9JIu34TEpSNF1J_bMw) | 机器之心 2023-03-10
+            - [**华为**盘古大模型纪要](https://mp.weixin.qq.com/s/3LNCl0Q23bYobTxGKkvWuw) | 合纵投研 2023-04-08
           - [ChatGPT让**亚马逊**梦碎！微软CEO：Alexa、Siri、Cortana笨得和石头一样](https://mp.weixin.qq.com/s/D5qGJMEcGhc2wAXHWlY8yQ) | 新智元 2023-03-12
           - [科技巨头持续血拼：微软豪掷数亿造ChatGPT超算，谷歌加急测试Big Bard](https://mp.weixin.qq.com/s/jY2YLeWsNIv1jgOfbJak6Q) | 机器之心 2023-03-14
           - [**果壳**发布AIGC战略，赋能人工智能时代的超级个体](https://mp.weixin.qq.com/s/E9c-z5vJkeNwWzMy24qzJw) | 果壳 2023-03-17
           - [突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg) | 量子位 2023-03-19
           - [**追一**：一家自然语言处理AI公司的末世之舞：倒在GPT大模型的狂潮到来前](https://mp.weixin.qq.com/s/niXTHG7BW1O9tQetSsKjcg) | 品玩 2023-03-22
           - [王慧文与**一流科技OneFlow**达成并购意向，聚力做中国版OpenAI](https://mp.weixin.qq.com/s/hl4B-kvE7eJM7ZOL2-WP1Q) | 机器之心 2023-03-28
+            - [王慧文的**光年之外**开张，四家大模型抢开发布会，新科技革命如火如荼](https://mp.weixin.qq.com/s/noY4iHfYgqo7Arcr_XV_Pg) | AI科技评论 2023-04-07
           - [**知识工场实验室**发布大模型相关的系统与原型](https://mp.weixin.qq.com/s/_YRbDjS42Hj9l3_jXx7g-g) | 知识工场 2023-03-30
           - [**微软** vs **Google**：AI技术的王权更迭](https://mp.weixin.qq.com/s/9FofVXXTu30uhIKNELdoNQ) | 第一财经 2023-04-04
           - [在**知乎**，看见ChatGPT变革的第一束光](https://mp.weixin.qq.com/s/CwlOPR3nMMeC5DeIqzBbOA) | 机器之心 2023-04-04
@@ -179,6 +186,7 @@
           - [Yann LeCun：不在乎社会规范，ChatGPT离真正的人还差得远](https://mp.weixin.qq.com/s/A7jmMYiQO6xhC33PwhMcHw) | 机器之心 2023-03-12 
           - [技术专家控诉ChatGPT：到处宣扬我死了，还伪造了一份讣告](https://mp.weixin.qq.com/s/xcRtMYtCwWNk5fgXS52zHQ) | AI前线 2023-03-13
           - [肖仰华：像天使也似魔鬼：关于通用人工智能时代科学研究的71个问题](https://mp.weixin.qq.com/s/dLSmmhOvjZ8MNnz8AtHleQ) | 知识工场 2023-04-06
+          - [吴 军：ChatGPT不算新技术革命，带不来什么新机会](https://mp.weixin.qq.com/s/5t5Ffm-N88ozUvLTQsFgMQ) | 与数据同行 2023-04-09
         - [ICML征稿禁止使用大型语言模型，LeCun转发：中小型模型可以用吗？](https://mp.weixin.qq.com/s/nWc3mL4aRMM2thCc-Kgb7w) |  新智元 2023-01-04
           - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
@@ -270,6 +278,8 @@
           - [ChatGPT有自我意识吗？](https://mp.weixin.qq.com/s/POgFAxtc8gBu8-6Y_q4njw) | 果壳 2023-03-24
           - [给表情包都能猜电影，ChatGPT的「涌现」能力是哪儿来的？](https://mp.weixin.qq.com/s/RLGC2Wq6utHMIjDyHDYbNA) | 机器之心 2023-03-26
           - [自指的演化：物质、符号和语义闭包](https://mp.weixin.qq.com/s/NayP8cqa_4oGPMFsdjF1Eg) | 集智俱乐部 2023-04-04
+          - [AI大模型出现了人们不可预测的能力](https://mp.weixin.qq.com/s/KTQZO1-sGREk4M862NsexQ) | 人工智能学家 2023-04-07
+          - [ChatGPT智商155，超越99.9%的人类，但……](https://mp.weixin.qq.com/s/vK2ZtnLmbTZitL_bXO5UCQ) | 环球科学 2023-04-08
         - [ChatGPT：那些让美国伟大的俄罗斯人](https://mp.weixin.qq.com/s/GRflnsfhk3x15Bvx2IVdRw) | 量子位 2023-02-19
           - [ChatGPT背后真正的英雄：OpenAI首席科学家Ilya Sutskever的信仰之跃](https://mp.weixin.qq.com/s/9aREBfe3n8-SWs5Y0FoDfA) | CVer 2023-02-18
           - [智谱研究报告：揭秘ChatGPT背后的AI“梦之队”](https://mp.weixin.qq.com/s/Y_LjjsuoEEmhIg5WO_iQhA) | 智谱研究 2023-02-21
@@ -284,6 +294,8 @@
           - [ChatGPT走红后，谁的“饭碗”不保了？](https://mp.weixin.qq.com/s/VleIRv5Qkh3ZrKQgYVf4PA) | 三联生活周刊 2023-03-29
           - [20个AI暴露指数最高的职业](https://mp.weixin.qq.com/s/QnsG7z5YitNe6WixhcN16g) | 三联生活周刊 2023-04-04
           - [高盛最全AI报告来了！白领工作迎来颠覆性变革？哪些行业受益？](https://mp.weixin.qq.com/s/SD3USN7D28gv7lDd3_IXnw) | RPA全球生态 2023-04-06
+          - [中国1639种职业的GPT替代风险分析——5亿条招聘信息中的职业生涯密码：后篇](https://mp.weixin.qq.com/s/QAHEEkPF8baAmoWiIXfgpA) | 城市数据团 2023-04-08
+          - [AI行业升温、人才抢手 市场逐鹿GPT](https://mp.weixin.qq.com/s/nlmJwIGBp2Gw-Iuyli5M4g) | 财新网 2023-04-10
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
         - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
       - 逸闻
@@ -417,6 +429,7 @@
         - demo: https://chat.lmsys.org/
         - blog:
           - [300美元平替ChatGPT！斯坦福130亿参数「小羊驼」诞生，暴杀「草泥马」](https://mp.weixin.qq.com/s/mErCYhbAXlhSFVUuyMc9hw) | 新智元 2023-03-31
+          - [警惕不负责任的误导宣传-LLaMA微调7W数据的Vicuna达90%+ChatGPT：评测方式概述和开源微调数据介绍](https://mp.weixin.qq.com/s/whLY8wc6WMaHkx4VJ7aewg) | 老刘说NLP 2023-04-07 
       - LLM-IFT:
         - code: https://github.com/PhoebusSi/Alpaca-CoT
         - [doc](https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md): Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface.
@@ -455,8 +468,10 @@
       - 通义千问(阿里):
         - homepage: tongyi.aliyun.com
         - blog:
-          - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
           - [官宣：阿里云大模型开始邀请测试](https://mp.weixin.qq.com/s/Zp23VMxQiWHZzsBZNUtPwQ) | 阿里云 2023-04-07
+          - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
+          - [阿里版ChatGPT「通义千问」邀请测试，我们第一时间试了试](https://mp.weixin.qq.com/s/95qLhDVwNUnyJuF21jzHPw) | 机器之心 2023-04-07 
+          - [阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q) | 夕小瑶的卖萌屋 2023-04-09
 </br>
 
   * GPT-4
@@ -476,6 +491,7 @@
           - [GPT-4发布！ChatGPT大升级！太太太太强了！](https://mp.weixin.qq.com/s/6u33Xnp4oEHq26WR4W1kdg) | 量子位 2023-03-15
           - [OpenAI 发布 GPT-4，有哪些技术上的优化或突破？](https://www.zhihu.com/question/589639535) | 知乎 2023-03-15
           - [摘掉 Chat 标签，GPT-4 将释放更大生产力](https://mp.weixin.qq.com/s/7rSOEtNgL4Yqdh-jfB-MhA) | AI科技评论 2023-03-15
+          - [AIGC时代的多模态知识工程思考与展望](https://mp.weixin.qq.com/s/nYTmLT6gVwFOZuYlQUUTQA) | 知识工场 2023-04-10
         - [GPT-4接入Office全家桶！Excel到PPT动嘴就能做，微软：重新发明生产力](https://mp.weixin.qq.com/s/OsH5_WfmDxzJoiXC0WzbCg) | 量子位 2023-03-17
           - [微软推出办公“智能副驾”Microsoft 365 Copilot](https://mp.weixin.qq.com/s/tV9zEAO7Iu4mcauykX-q_A) | 微软亚洲研究院 2023-03-17 
         - [最卷一夜！Google版 ChatGPT 开放、英伟达又投下核弹显卡……一觉醒来 AI 又变天了](https://mp.weixin.qq.com/s/UowaksuKvsdz4Kly8uaLZw) | 爱范儿 2023-03-22
@@ -493,6 +509,7 @@
         - [ChatGPT超级巨大漏洞，能看别人支付聊天内容，OpenAI公布技术细节](https://mp.weixin.qq.com/s/0c00CxYAiGMTqYQ1f_VzDg) | 机器之心 2023-03-25
         - [当GPT-4反思自己错了：性能提升近30%，编程能力提升21%](https://mp.weixin.qq.com/s/b3hKPISdBboSdzUHhRGKMA) | 机器之心 2023-03-27
         - [GPT-4救了我狗的命](https://mp.weixin.qq.com/s/C4s1b_UxpCHR9VMq6p6AyA) | Datawhale 2023-03-28
+        - [GPT-4压根不会编程？有人让它露馅了](https://mp.weixin.qq.com/s/XxErNXTkddlrmqRjknvWQg) | PaperWeekly 2023-04-08
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
@@ -530,6 +547,7 @@
           - [GPT-4超强进化，近万人联名封杀！白宫紧急开会，ChatGPT概念股暴跌](https://mp.weixin.qq.com/s/9uBaAC_zSLjqQDYnLS9gTw) | 新智元 2023-04-05
           - [比尔·盖茨谈千名专家公开信：呼吁暂停人工智能开发不会“解决挑战”](https://mp.weixin.qq.com/s/vv-cUaLla9iPxsW7H00J0g) | 人工智能学家 2023-04-05
           - [GPT-5停不停？Bengio痛心跳出呼吁，LeCun怒斥AI末日论者](https://mp.weixin.qq.com/s/N3kW1Vmv-QxP8ZCaMEuDCA) | 新智元 2023-04-07 
+          - [为何不能暂停AI研发？丨杨立昆吴恩达对话实录](https://mp.weixin.qq.com/s/1qc5iF2Tbbee1ghozh5WAA) | 智源社区 2023-04-08 
 </br>
 
 ### Blogs & Reviews
@@ -545,4 +563,5 @@
   * [一文整理GPT-3 + RL 全流程训练开源项目](https://mp.weixin.qq.com/s/QKQeUbitKDnkP2cUNB8TJA) | AI算法小喵 2023-03-21
   * [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
   * [大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写](https://mp.weixin.qq.com/s/7HRr55Md2Wl6EHQMGioumw) | 机器之心 2023-04-03
+  * [194篇文献调研ChatGPT最新研究进展！最新《ChatGPT/GPT-4研究综述及对大型语言模型未来的展望》国内外研究者编著](https://mp.weixin.qq.com/s/UNpX_Uycquc05priAa5rYw) | 专知 2023-04-07
 
