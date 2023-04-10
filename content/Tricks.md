@@ -183,3 +183,4 @@
   * [PyTorch 常用 Tricks 总结](https://mp.weixin.qq.com/s/E-WXOu5hmL1ynEJlHmA0WQ)
   * [大道至简：算法工程师炼丹Trick手册](https://zhuanlan.zhihu.com/p/352971645)
   * [谷歌大脑深度学习调参（炼丹）指南出炉](https://mp.weixin.qq.com/s/X5JVsLXSJs4oCIXgmbkmmg): [code](https://github.com/google-research/tuning_playbook)
+  * [有哪些省内存的大语言模型训练/微调/推理方法？](https://mp.weixin.qq.com/s/OrZIZ6v3h_rjfBPjeeRufw)
