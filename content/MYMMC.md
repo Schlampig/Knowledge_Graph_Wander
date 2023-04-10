@@ -218,6 +218,7 @@
   - [2023年03月25日：摩尔定律提出者去世，他奠定了英特尔CPU黄金时代，享年94岁](https://mp.weixin.qq.com/s/z6kuEH3YBclHvdrvzp6fVg)
   - [2023年03月27日：他自己的生命游戏结束了，留给后人的数学游戏长存](https://mp.weixin.qq.com/s/4xRGPWnibcC_IyDPwTqJAA)
   - [2023年03月29日：当自然语言处理遇上量子计算与范畴论：人工智能开启更大想象空间](https://mp.weixin.qq.com/s/Cr8la2ShCbbAxX9pRUkEUg)
+  - [2023年04月09日：欧洲“脑奖”得主：人脑为什么比机器学得好？](https://mp.weixin.qq.com/s/NB3RHKHwGtxXGRyu8-j4zA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
