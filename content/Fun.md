@@ -212,6 +212,7 @@
   * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
   * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
   * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+  * [paper: A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
   * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
   * [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
   * [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
@@ -376,4 +377,6 @@
       - blog:
         - [CV不存在了？Meta发布CV届的GPT模型「SAM」，可以分割一切](https://mp.weixin.qq.com/s/xxkx0NbtUYOPkr0bZAkl3g) | 夕小瑶的卖萌屋 2023-04-07
         - [CV大一统模型的第一步！Segment Anything Model 最全解读！](https://mp.weixin.qq.com/s/s5TE6WAkG9u6fUUZcmrIYw) | Datawhale 2023-04-07  
+    - SALT(Segment Anything Labelling Tool):
+      - code: https://github.com/anuragxel/salt
 </br>
