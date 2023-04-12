@@ -225,6 +225,9 @@
   - [2023年03月27日：他自己的生命游戏结束了，留给后人的数学游戏长存](https://mp.weixin.qq.com/s/4xRGPWnibcC_IyDPwTqJAA)
   - [2023年03月29日：当自然语言处理遇上量子计算与范畴论：人工智能开启更大想象空间](https://mp.weixin.qq.com/s/Cr8la2ShCbbAxX9pRUkEUg)
   - [2023年04月09日：欧洲“脑奖”得主：人脑为什么比机器学得好？](https://mp.weixin.qq.com/s/NB3RHKHwGtxXGRyu8-j4zA)
+  - [2023年04月11日：爆火论文打造《西部世界》雏形：25个AI智能体，在虚拟小镇自由成长](https://mp.weixin.qq.com/s/n0I8Yisi8qNXg9qp4ic5iw)
+    - [2023年04月11日：这个低调的国人团队，做出了完全由AI驱动的“开放世界”](https://mp.weixin.qq.com/s/h9NEJuUr-EXovfx4Hz3jiA)
+  - [2023年04月12日：突破神经网络限制，量子蒙特卡洛研究新进展登Nature子刊](https://mp.weixin.qq.com/s/H-GHRfZpeh_l0LuZ8XFxGA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
