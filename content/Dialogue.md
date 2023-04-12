@@ -456,6 +456,7 @@
           - [用ChatGPT「指挥」数百个模型，HuggingGPT让专业模型干专业事](https://mp.weixin.qq.com/s/tjPEFApzdLjn2Y7iz8O77A) | 机器之心 2023-04-03
         - extra:
           - [AutoGPT](https://github.com/torantulino/auto-gpt): [AutoGPT太火了，无需人类插手自主完成任务，GitHub2.7万星](https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw) | 机器之心 2023-04-12
+          - [ChatGPT大模型如何做科学研究? CMU提出《大模型智能体系统》，高推理展现出大型语言模型的新兴自主科学研究能力](https://mp.weixin.qq.com/s/hvN3vkgMKDbyEuJ29DleZg) | 专知 2023-04-12
       - Chat-REC(复旦):
         - [paper](https://arxiv.org/pdf/2303.14524.pdf): Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System
         - blog:
