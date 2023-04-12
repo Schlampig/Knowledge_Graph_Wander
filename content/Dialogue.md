@@ -36,18 +36,25 @@
       - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
         - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey): a collection of papers and resources related to Large Language Models.
         - [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters): [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2304.01933).
+        - [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
+        - [Those Magnificent underdogs competing ChatGPT](https://toooold.com/2023/04/08/magnificient_underdogs.html): ChatGPT平替方案.
+        - [‌⁢⁣‍‍⁣⁤⁤⁣飞书 - 90 分钟学会【ChatGPT】](https://o0ldtlqz05.feishu.cn/wiki/wikcnyZct4xMFYJldnzUE7bqz2d).
       - [国内开通Chat GPT Plus保姆级教程](https://chatgpt-plus.github.io/chatgpt-plus/).
         - [POE](https://poe.com/login): 同时对比ChatGPT、Claude等机器人效果的网站. 
         - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic): 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验.
         - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms): 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具.
+        - [LLMParser](https://github.com/kyang6/llmparser): classify and extract structured data with LLMs.
       - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
         - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): [ChatGPT中文调教指南](https://chatguide.plexpt.com/).
         - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
+        - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
+        - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
       - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
         - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant): [ChatGPT训练流程复现](https://mp.weixin.qq.com/s/mCgc07H-8EeTyxxLPGmuCA) | 深度学习自然语言处理 2023-04-10
         - [单机cpu版本地搭建ChatGPT](https://zhuanlan.zhihu.com/p/617378737) | 知乎-猿小明 2023-03-27
+        - [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz)
     - technical report:
       - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
       - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
@@ -496,6 +503,10 @@
         - code: https://mp.weixin.qq.com/s/5xFwqtJINh6HwdKPdgMARw
         - blog:
           - [InstructGLM:基于ChatGLM-6B在指令数据集上进行微调](https://mp.weixin.qq.com/s/5xFwqtJINh6HwdKPdgMARw) | ChallengeHub 2023-04-10 
+      - DoctorGLM(xionghonglin):
+        - code: https://github.com/xionghonglin/DoctorGLM
+        - project page: https://xionghonglin.github.io/DoctorGLM/
+        
 </br>
 
   * GPT-4
