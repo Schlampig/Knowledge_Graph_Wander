@@ -434,6 +434,11 @@
         - blog:
           - [0门槛克隆ChatGPT！30分钟训完，60亿参数性能堪比GPT-3.5](https://mp.weixin.qq.com/s/RMrXIHGOy3cPu8ybQNWonA) | 新智元 2023-03-27
           - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
+        - extra:
+          - Dolly 2.0: 
+            - [世界首款真开源类ChatGPT大模型Dolly 2.0，可随意修改商用](https://mp.weixin.qq.com/s/_9JevS70pRqEmPRbVVM9Vw) | 机器之心 2023-04-13
+            - code: https://huggingface.co/databricks/dolly-v2-12b
+            - dataset: https://github.com/databrickslabs/dolly/tree/master/data  
       - GPT4All
         - code: https://github.com/nomic-ai/gpt4all
         - blog:
