@@ -380,5 +380,6 @@
     - SALT(Segment Anything Labelling Tool):
       - code: https://github.com/anuragxel/salt
   * Consistency models
+    - code: https://github.com/openai/consistency_models
     - blog: [图像生成终结扩散模型，OpenAI「一致性模型」加冕！GAN的速度一步生图，高达18FPS](https://mp.weixin.qq.com/s/cz4geitkodyQKyPYHCsjAw) | 新智元 2023-04-13
 </br>
