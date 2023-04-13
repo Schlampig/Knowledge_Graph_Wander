@@ -407,7 +407,9 @@
           - [0门槛克隆ChatGPT方案再升级，开源模型完整复现，在线体验无需注册](https://mp.weixin.qq.com/s/V5pCvYvkPXwiMw-FNIErXw) | 机器之心 2023-03-29
       - Alpaca(斯坦福):
         - code: https://github.com/tatsu-lab/stanford_alpaca
-        - data: [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned)
+        - data: 
+          - [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned)
+          - [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset)
         - demo: https://github.com/tatsu-lab/stanford_alpaca
         - blog:
           - [斯坦福70亿参数开源模型媲美GPT-3.5，100美元即可复现](https://mp.weixin.qq.com/s/U6ioEygg5mlVpAIb2L3cZw) | 机器之心 2023-03-15
