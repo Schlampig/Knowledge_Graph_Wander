@@ -290,6 +290,7 @@
           - [GPT-3 在化学与材料科学任务中的应用表现如何？](https://mp.weixin.qq.com/s/-3PWjB-z9C_qKTxFvMSTbg) | ScienceAI 2023-03-24
           - [医疗ChatGPT、金融GPT都来啦！“潘多拉的魔盒”已经打开？](https://mp.weixin.qq.com/s/xSwl5DZYj_kFmJ2fguFBcA) | 夕小瑶的卖萌屋 2023-04-05
           - [关于医疗LLM的随笔](https://mp.weixin.qq.com/s/GH3zXJMb690fx-fSMp-G8g) | AINLP 2023-04-06
+          - [对话Peter Lee：大模型在医疗健康领域应用的机遇与挑战](https://mp.weixin.qq.com/s/Bp8ch8-Jjwi438E4PI4TGQ) | 微软亚洲研究院 2023-04-13
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
