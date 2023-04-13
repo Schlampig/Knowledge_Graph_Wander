@@ -12,6 +12,7 @@
   * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) by SophonPlus.
   * [Chinese-NLP-Corpus](https://github.com/OYE93/Chinese-NLP-Corpus) by En Ouyang.
   * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
+  * [Word2Vec-科学空间](https://spaces.ac.cn/archives/4304) by [bojone](https://github.com/bojone).
   
 ### Multi-Languages
   * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) by Kyubyong Park.
