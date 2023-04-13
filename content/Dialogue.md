@@ -401,6 +401,8 @@
           - [ChatGLM：千亿基座的对话模型启动内测，单卡版模型已全面开源](https://mp.weixin.qq.com/s/N79Sdx3K1em1EJxQZ9lcpA) | 学术头条 2023-03-14
           - [清华系ChatGPT发布！唐杰团队打造，专对中文优化，还能把握最新新闻动态](https://mp.weixin.qq.com/s/ZUiybuj73cgBIYDM90aE3Q) | 量子位 2023-03-18
           - [【官方教程】ChatGLM-6B微调，最低只需7GB显存](https://mp.weixin.qq.com/s/miML4PXioK5iM8UI0cTSCQ) | 学术头条 2023-03-31
+        - extra:
+          - [鼷鹿Kanchil](https://github.com/vxfla/kanchil): 基于MT5的模型。
       - ColossalAI(潞晨科技):
         - code: https://github.com/hpcaitech/ColossalAI
         - blog:
