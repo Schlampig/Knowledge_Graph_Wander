@@ -317,6 +317,7 @@
           - [高盛最全AI报告来了！白领工作迎来颠覆性变革？哪些行业受益？](https://mp.weixin.qq.com/s/SD3USN7D28gv7lDd3_IXnw) | RPA全球生态 2023-04-06
           - [中国1639种职业的GPT替代风险分析——5亿条招聘信息中的职业生涯密码：后篇](https://mp.weixin.qq.com/s/QAHEEkPF8baAmoWiIXfgpA) | 城市数据团 2023-04-08
           - [AI行业升温、人才抢手 市场逐鹿GPT](https://mp.weixin.qq.com/s/nlmJwIGBp2Gw-Iuyli5M4g) | 财新网 2023-04-10
+          - [GPT- 4 标注能力直逼人类，成本大砍90%，数据众包危矣？](https://mp.weixin.qq.com/s/laQhCK9f7H_m8ayqjemLng) | AI前线 2023-04-13
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
         - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
       - 逸闻
