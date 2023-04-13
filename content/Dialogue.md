@@ -101,6 +101,7 @@
         - [ChatGPT背后的指令学习是什么？PSU最新首篇《指令学习》技术全面综述，详述指令学习关键问题](https://mp.weixin.qq.com/s/ob_QcEXf3iNu-0jrKLcT2Q) | 专知 2023-03-27
         - [GPT-4中的多模态技术是什么？斯坦福CS224N课程讲解《多模态深度学习》等核心技术，附82页Slides](https://mp.weixin.qq.com/s/UNp6_O1QMsvZa3Eh5qGjXg) | 专知 2023-03-27
         - [ChatGPT的代码生成是怎么做的？「基于深度学习的代码生成方法」最新研究进展](https://mp.weixin.qq.com/s/by8JZq_AHa0c16q5AA-y1Q) | 专知 2023-04-01
+        - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -347,6 +348,7 @@
           - [谷歌版ChatGPT首秀，第一个Demo就大翻车，市值暴跌7000亿](https://mp.weixin.qq.com/s/1mkAlJbtYCmQcz_mV9cdoA) | 机器之心 2023-02-09 
           - [谷歌版ChatGPT Bard开放测试！我们已经体验上了](https://mp.weixin.qq.com/s/mbxMDuPaQLt5uXGh9kDtiQ) | 机器之心 2023-03-22
           - [Bard是拿ChatGPT数据训练的？谷歌顶级科学家抗议无果，出走OpenAI](https://mp.weixin.qq.com/s/WeUSi5rMl9_Wu-ty30gNiw) | 机器之心 2023-03-31
+          - [ChatGPT实测全线碾压Bard！谷歌溃败，十年心血打水漂](https://mp.weixin.qq.com/s/f4FWGU4OjAHpFbav8SSnRA) | 新智元 2023-04-12
       - Sage(OpenAI-GPT-3.5-Turbo):
         - blog:
           - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
@@ -506,6 +508,16 @@
       - DoctorGLM(xionghonglin):
         - code: https://github.com/xionghonglin/DoctorGLM
         - project page: https://xionghonglin.github.io/DoctorGLM/
+      - DeepSpeed Chat(微软):
+        - code: https://github.com/microsoft/DeepSpeed
+        - homepage: https://www.deepspeed.ai/
+        - blog:
+          - [人手一个ChatGPT！微软DeepSpeed Chat震撼发布，一键RLHF训练千亿级大模型](https://mp.weixin.qq.com/s/G8W9nSQd600wesSJFE2dhw) | 新智元 2023-04-12
+      - 袋熊Wombat(阿里达摩院):
+        - code: https://github.com/GanjinZero/RRHF
+        - [paper](https://arxiv.org/abs/2304.05302): RRHF: Rank Responses to Align Language Models with Human Feedback without tears.
+        - blog:
+          - [无需强化学习的与人类偏好对齐的语言模型：Wombat袋熊](https://mp.weixin.qq.com/s/xoPKmOzjlNZ2qGdcKeGARw) | PaperWeekly 2023-04-13 
         
 </br>
 
@@ -561,6 +573,7 @@
           - [微软CTO对话比尔·盖茨：GPT-4与人工智能的未来](https://mp.weixin.qq.com/s/SDM5ZlY_9rlpfIJPD3w8Sw) | AINLP 2023-03-30
           - [Gary Marcus：如果ChatGPT有1%的风险伤害你，你还会用它吗？超级智能值得恐惧吗](https://mp.weixin.qq.com/s/fIXIBUQB5BOuQf2i5RES-w) | 夕小瑶的卖萌屋 2023-03-31
         - [当摩根士丹利接入GPT-4——财富管理的内容生态已滑过奇点](https://mp.weixin.qq.com/s/v1xyGESOC2kZlmiYU0jW7A) | 券业星球 2023-03-15
+        - [中国对于生成式人工智能监管思路的三个特点](https://mp.weixin.qq.com/s/3oJdpcdG39IoKccIUFMMRA) | 第一财经 2023-04-12
       - 学界
         - [更强的 GPT-4，更封闭的 OpenAI](https://mp.weixin.qq.com/s/MCc_PN86zyk9G8ZbEkAoaw) | 晚点LatePost 2023-03-15
           - [GPT-4技术细节保密惹争议，OpenAI首席科学家回应了](https://mp.weixin.qq.com/s/c_K5ka40Qj3yxczBA0Xq9w) | 机器之心 2023-03-16 
