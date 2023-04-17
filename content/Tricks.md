@@ -151,6 +151,7 @@
     - blog: 
       - [Huge and Efficient! 一文了解大规模预训练模型高效训练技术](https://mp.weixin.qq.com/s/tycN-nL0hPrRqtO1WuXdOw)
       - [大规模模型训练tricks集锦](https://mp.weixin.qq.com/s/p99u10YOODDmZQPN0lc03w)
+      - [大模型训练之概念篇](https://mp.weixin.qq.com/s/Y3nGFTuCOLqv9CN5kE_Swg)
 
 ### Pre-Finetune
   * Survey
