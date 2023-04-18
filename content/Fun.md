@@ -351,6 +351,7 @@
       - [AltCLIP](https://github.com/FlagAI-Open/FlagAI/examples/AltCLIP)
       - [Stable-Diffusion-Pokemon](https://github.com/svjack/Stable-Diffusion-Pokemon)
       - [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion): Run Stable Diffusion on Mac natively.
+      - [Stable Diffusion-XL](https://mp.weixin.qq.com/s/vzLkcd5ObLZ7trXyd5w0LA): [demo](https://clipdrop.co/stable-diffusion).
       - blog:
         - [2022年11月21日：本周SOTA！智源开源双语文生图模型AltDiffusion](https://mp.weixin.qq.com/s/9Wi7OE5RLEBkv_EocNyBEQ)
         - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
