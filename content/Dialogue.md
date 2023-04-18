@@ -565,6 +565,11 @@
         - code: https://github.com/FederatedAI/FATE
         - blog:
           - [首个开源联邦大模型FATE-LLM，突破数据与算力壁垒](https://mp.weixin.qq.com/s/rE51A0L0sowg-8Rk9XYyaw) | AI前线 2023-04-17
+      - OpenFlamingo(AI2&华大&哥大):
+        - code: https://github.com/mlfoundations/open_flamingo
+        - [paper](https://arxiv.org/abs/2304.06939): Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text 
+        - blog:
+          - [ANNOUNCING OPENFLAMINGO: AN OPEN-SOURCE FRAMEWORK FOR TRAINING VISION-LANGUAGE MODELS WITH IN-CONTEXT LEARNING](https://laion.ai/blog/open-flamingo/) | official blog 2023-03-28
         
 </br>
 
