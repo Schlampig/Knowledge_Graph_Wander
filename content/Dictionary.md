@@ -116,6 +116,7 @@
   * [CROSSTALK-GENERATION](https://github.com/anonNo2/crosstalk-generation): 目前为止最大的中文开源相声数据集。Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.
   * [Ancient-Chinese-WSD](https://github.com/pxm427/Ancient-Chinese-WSD): 基于《左传》的词义消歧数据集。
   * [4675-scifi](https://github.com/guhhhhaa/4675-scifi): 中文科幻小说自然语言处理语料库，目前含4675本科幻小说。
+  * [DocAI](http://www.doc-ai.cn/): [NLP大模型必备-FudanNLP开源中文图书集合CBook-150K](https://mp.weixin.qq.com/s/uGQSY9eqLCuKULLTMQVmPQ)。
 
 ### Cars
   * [Cars_Data](https://github.com/utf6/Cars_Data): 车系、品牌数据.
