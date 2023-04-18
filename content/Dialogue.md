@@ -70,6 +70,7 @@
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
         - [ChatGPT大模型work三个要点是什么？谷歌JasonWei最新《大型语言模型的缩放、涌现和推理》报告](https://mp.weixin.qq.com/s/Jv2ocHmOYzJkhDvHcLiYcA) | 专知 2023-04-14
+        - [张俊林：当前炼制“大语言模型”的两个现象](https://mp.weixin.qq.com/s/WXpOOAO2AARvmuq-ZRuwnQ) | AINLP 2023-04-18
       - [ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父](https://mp.weixin.qq.com/s/Nce2NGdj0CQZYw8t4iptzQ) | 量子位 2023-02-16
         - [ChatGPT 在做什么… 以及它为何发挥作用？](https://mp.weixin.qq.com/s/Cf9TF4OTEFoPQMOkwRNe6g) | 笑来 2023-02-15
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
@@ -124,6 +125,7 @@
         - [揭秘ChatGPT背后天价超算！上万颗英伟达A100，烧光微软数亿美元](https://mp.weixin.qq.com/s/syD74ICOlOaPATF8oxgrYg) | 新智元 2023-03-14
         - [AI 2.0时代：黄仁勋的野心](https://mp.weixin.qq.com/s/1-7-VGFzRRT31s0CPftMNQ) | 财新网 2023-04-10
         - [云创大数据发布cGPT S1000自然语言搜索一体机](https://mp.weixin.qq.com/s/jvbBG-G-Qz1QyFnyvq7aEQ) | 深度学习世界 2023-04-18
+        - [修改几行代码就让LLM应用提速100多倍！这个团队两周搭建ChatGPT缓存层，曾被老黄OpenAI点赞](https://mp.weixin.qq.com/s/MEO8hDhyrKtAAoxTveSjng) | 量子位 2023-04-18
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -173,6 +175,7 @@
             - [知乎大模型「知海图AI」上线！产品官宣即内测，为4亿用户摘取「热榜摘要」](https://mp.weixin.qq.com/s/DiYW1NJ2Kn_3pHCCB-zKeg) | 量子位 2023-04-14 
           - [DriveGPT自动驾驶大模型中国玩家首发！1200亿参数，**毫末智行**出品](https://mp.weixin.qq.com/s/qcm97NZ6l7cuFbyo4TeA9w) | 量子位 2023-04-11
           - [“心机boy”**马斯克**：明面上呼吁暂停先进AI研发，背地里悄悄买1万块GPU推进大模型项目](https://mp.weixin.qq.com/s/s3s3YPNXqc1Ya8tiyO4SJQ) | AI前线 2023-04-12
+            - [马斯克官宣！挑战微软和谷歌，将推出AI平台TruthGPT](https://mp.weixin.qq.com/s/Dyecn7vEuV4P5R2VVl8X7A) | 第一财经 2023-04-18 
           - [支持大模型研发，**第四范式**与西安智算中心达成战略合作](https://mp.weixin.qq.com/s/LArv6IPPKDeUvfM61f_wmQ) | 第四范式 2023-04-12
           - [**鹅厂**发布大模型计算集群！算力提升3倍，4天就能训完万亿规模大模型](https://mp.weixin.qq.com/s/h9PMTokBPdJawRlyGMRTmA) | 量子位 2023-04-14
           - [制造业「ChatGPT」来了，我们和「**奇智**孔明」聊了聊](https://mp.weixin.qq.com/s/TPzZjLzLPMI1jefyieV7CQ) | 机器之心 2023-04-15
