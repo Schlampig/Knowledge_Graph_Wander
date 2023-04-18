@@ -50,6 +50,7 @@
         - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
         - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
         - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
+        - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
       - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
         - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant): [ChatGPT训练流程复现](https://mp.weixin.qq.com/s/mCgc07H-8EeTyxxLPGmuCA) | 深度学习自然语言处理 2023-04-10 & [ChatGPT全球最大开源平替：回复更受欢迎，但中文对话一塌糊涂](https://mp.weixin.qq.com/s/lSNMRrmYnajsDQ2wH3_ryw) | 机器之心 2023-04-16
