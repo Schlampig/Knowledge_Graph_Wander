@@ -317,7 +317,7 @@
 
 ### :dizzy_face: Why so many huge language models?
   * 2023年03月07日（5620亿参数） **PaLM-E** by 谷歌: [news](https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA)
-  * 2022年07月28日（1760亿参数） **BLOOM** by BigScienceLLM: [news](https://mp.weixin.qq.com/s/hNcJeX7WN8V62szIDUfOaQ), [intro](https://mp.weixin.qq.com/s/JUUJQpVFQsc2j2fiwkUX2A)
+  * 2022年07月28日（1760亿参数） **BLOOM** by BigScienceLLM: [news](https://mp.weixin.qq.com/s/hNcJeX7WN8V62szIDUfOaQ), [intro](https://mp.weixin.qq.com/s/JUUJQpVFQsc2j2fiwkUX2A), [optimization](https://mp.weixin.qq.com/s/yzVqh4d6ynNROJxHycDUXg), [tutorial](https://mp.weixin.qq.com/s/4osRaxrbAGLHqO1mDz2kPQ)
   * 2022年06月13日（10亿参数） **乾元(BigBang Transformer)** by 超对称技术: [news](https://mp.weixin.qq.com/s/Ck2fDCUYlUxLrt8BM-l-SQ), [benchmark](https://github.com/ssymmetry/BBT-FinCUGE-Application)
   * 2022年05月04日（1750亿参数） **OPT-175B** by Meta AI: [paper](https://arxiv.org/pdf/2205.01068.pdf), [code](https://github.com/facebookresearch/metaseq), [model file](https://docs.google.com/forms/d/e/1FAIpQLSe4IP4N6JkCEMpCP-yY71dIUPHngVReuOmQKDEI1oHFUaVg7w/viewform), [news](https://mp.weixin.qq.com/s/qaik2nZtmptLv-51M-dmag)
   * 2022年04月05日（5400亿参数） **PaLM** by 谷歌: [news](https://mp.weixin.qq.com/s/-Annt2JkAhgv9YxYpc7pXQ)
