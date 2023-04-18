@@ -380,6 +380,10 @@
         - [CV大一统模型的第一步！Segment Anything Model 最全解读！](https://mp.weixin.qq.com/s/s5TE6WAkG9u6fUUZcmrIYw) | Datawhale 2023-04-07  
     - SALT(Segment Anything Labelling Tool):
       - code: https://github.com/anuragxel/salt
+    - Image2Paragraph:
+      - code: https://github.com/showlab/Image2Paragraph
+      - blog:
+        - [从Blip2到Segment Anything视觉语义金字塔+ChatGPT= 把图片变文本段落， 8G显存即可Run](https://mp.weixin.qq.com/s/ma5v-94aIbACZpUMvyjbHQ) | 我爱计算机视觉 2023-04-17
   * Consistency models
     - code: https://github.com/openai/consistency_models
     - blog: [图像生成终结扩散模型，OpenAI「一致性模型」加冕！GAN的速度一步生图，高达18FPS](https://mp.weixin.qq.com/s/cz4geitkodyQKyPYHCsjAw) | 新智元 2023-04-13
