@@ -342,6 +342,7 @@
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
           - Sydney人格[讨论原文](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)及[完整对话](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)。
           - 拓展：[“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
+          - [paper](https://arxiv.org/abs/2304.05197): Multi-step Jailbreaking Privacy Attacks on ChatGPT. 
         - [GPT-4外逃计划曝光！斯坦福教授发现它正引诱人类帮助，网友：灭绝之门](https://mp.weixin.qq.com/s/ldB5oSaFkoh06K8tGbYGRw) | 量子位 2023-03-18
           - [GPT-4为通过人机验证，试图雇人给自己打工，还骗了对方](https://mp.weixin.qq.com/s/AsxnwVBt39DzGWPeRuk-1w) | 机器之心 2023-03-18 
         - [比利时男子与AI聊天后，自杀身亡：Eliza，替我保护地球，我先走了！](https://mp.weixin.qq.com/s/s-cIHpRlrtq8wI9qrD_OEg) | 新智元 2023-04-02 
@@ -396,6 +397,9 @@
           - [Meta开源的ChatGPT平替到底好不好用？测试结果、加料改装方法已出炉，2天5.2k星](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg) | 机器之心 2023-03-05
           - [Meta开源的LLaMa到底好不好用？最全测评结果来了](https://mp.weixin.qq.com/s/k4mYf7ZwHWhi7dWb7gEjcQ) | 夕小瑶的卖萌屋 2023-03-06
           - [代码角度看LLaMA语言模型：Meta最新模型LLaMA细节与代码详解](https://mp.weixin.qq.com/s/kz2DpGDW-MUFLROTUk-olw) | 老刘说NLP 2023-03-06
+        - extra:
+          - [华驼HuaTuo](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese): LLaMA-7B tuned with Chinese medical knowledge. 
+          - [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): an Open Source Recipe to Reproduce LLaMA training dataset.
       - MetaLLM([秘塔科技](https://metasota.ai/#/)): 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
@@ -447,6 +451,7 @@
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
           - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
           - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
+          - [medAlpaca](https://github.com/kbressem/medAlpaca): LLM finetuned for medical question answering.
       - 文心一言(百度):
         - [demo](https://yiyan.baidu.com/welcome) 
         - blog:
