@@ -384,7 +384,21 @@
       - code: https://github.com/showlab/Image2Paragraph
       - blog:
         - [从Blip2到Segment Anything视觉语义金字塔+ChatGPT= 把图片变文本段落， 8G显存即可Run](https://mp.weixin.qq.com/s/ma5v-94aIbACZpUMvyjbHQ) | 我爱计算机视觉 2023-04-17
+    - SAM-Adapter:
+      - code: https://github.com/tianrun-chen/SAM-Adaptor-PyTorch
+      - [paper](https://arxiv.org/abs/2304.09148): SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More.
+      - [demo](https://tianrun-chen.github.io/SAM-Adaptor/)
+      - blog:
+        - [SAM无法分割一切？SAM-Adapter：首次让SAM在下游任务适应调优！](https://mp.weixin.qq.com/s/KcC7J4Toj5cVCYAhdbMHEQ) | CVer 2023-04-19
   * Consistency models
     - code: https://github.com/openai/consistency_models
     - blog: [图像生成终结扩散模型，OpenAI「一致性模型」加冕！GAN的速度一步生图，高达18FPS](https://mp.weixin.qq.com/s/cz4geitkodyQKyPYHCsjAw) | 新智元 2023-04-13
+  * LLaVA
+    - code: https://github.com/haotian-liu/LLaVA
+    - data: https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K
+    - model: https://huggingface.co/liuhaotian/LLaVA-13b-delta-v0
+    - [paper](https://arxiv.org/abs/2304.08485): Visual Instruction Tuning
+    - [demo](https://llava.hliu.cc/)
+    - blog:
+      - [Visual Instruction Tuning: 用LLaVA近似多模态GPT-4](https://mp.weixin.qq.com/s/Ygf2j-rsyLTwZx3FDK6KEQ) | PaperWeekly 2023-04-19  
 </br>
