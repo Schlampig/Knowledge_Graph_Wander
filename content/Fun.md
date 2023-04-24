@@ -366,6 +366,16 @@
       - [Atlas](https://atlas.nomic.ai/map/): 非结构化资源检索工具。
       - [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting): AI数字绘画资料汇总。
       - [CivitAL](https://civitai.com/): C站，模型分享社区。
+    - Stable LM
+      - code: https://github.com/stability-AI/stableLM/
+      - demo: https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat
+      - blog:
+        - [Stable Diffusion的开发商Stability AI开源大语言模型Stable LM](https://mp.weixin.qq.com/s/-mk6lXlcAPbl1pr7voHejw) | AI 共存派 2023-04-20  
+    - UniDiffuser
+      - code: https://github.com/thu-ml/unidiffuser
+      - [paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf): One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale.
+      - blog:
+        - [清华朱军团队开源首个基于Transformer的多模态扩散大模型，文图互生、改写全拿下](https://mp.weixin.qq.com/s/B68hXlFxA9L5jiWiMrEEiA) | 机器之心 2023-03-13
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
