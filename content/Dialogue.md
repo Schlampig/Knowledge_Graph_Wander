@@ -195,7 +195,8 @@
           - [制造业「ChatGPT」来了，我们和「**奇智**孔明」聊了聊](https://mp.weixin.qq.com/s/TPzZjLzLPMI1jefyieV7CQ) | 机器之心 2023-04-15
           - [写周报、改代码，连续互动20轮，国产类ChatGPT新玩家「**天工**」来了](https://mp.weixin.qq.com/s/p9K0OP-kVsn_eUNd6bX2UQ) | 机器之心 2023-04-19
           - [中文GPT Office来了！不造概念，**WPS AI**真落地了](https://mp.weixin.qq.com/s/iGdv90NajGw5olGyhsFjAw) | 新智元 2023-04-19
-          - [APUS发布千亿级天燕大模型AiLMe，toC应用发力，toB服务蓄力](https://mp.weixin.qq.com/s/nEM1bNiZ5s2qBNzIh66LBQ) | 36氪 2023-04-20
+          - [**APUS**发布千亿级天燕大模型AiLMe，toC应用发力，toB服务蓄力](https://mp.weixin.qq.com/s/nEM1bNiZ5s2qBNzIh66LBQ) | 36氪 2023-04-20
+          - [国产ChatGPT「**序列猴子**」全网首测！在线体验不用等，画苏联马斯克超逼真](https://mp.weixin.qq.com/s/azRrb1pSiXl3kCYyHo-xKQ) | 新智元 2023-04-24
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -364,6 +365,7 @@
           - [AI入侵我的行业：裁员30%，高手却加薪了](https://mp.weixin.qq.com/s/CZKiHMydNbf0-ReEJ2tWkg) | 36氪 2023-04-15
           - [最爱 ChatGPT，每天编码 300 行，月薪 8k-17k 占比骤减！揭晓中国开发者真实现状](https://mp.weixin.qq.com/s/MqDfmJxKw5H-8EVwR7JZHA) | AI科技大本营 2023-04-17
           - [ChatGPT 架构师、PPO算法作者、伯克利校友John Schulman的人工智能之旅](https://mp.weixin.qq.com/s/yqZmsXn5M2qyoyyleTvK6Q) | 深度强化学习实验室 2023-04-24
+          - [把做出ChatGPT的华人挖回来做大模型，这事儿可行吗？](https://mp.weixin.qq.com/s/1eDWa9rViVX7xep8tkxwFQ) | 大数据文摘 2023-04-24
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
         - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
       - 逸闻
