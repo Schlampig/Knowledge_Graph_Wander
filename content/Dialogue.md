@@ -549,6 +549,7 @@
           - [AutoGPT](https://github.com/torantulino/auto-gpt): 
             - [AutoGPT太火了，无需人类插手自主完成任务，GitHub2.7万星](https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw) | 机器之心 2023-04-12
             - [理解AutoGPT原理](https://mp.weixin.qq.com/s/dONLPpeMxd5tVkTnqv1LCg) | AINLP 2023-04-22
+            - [OpenAI官方的AutoGPT要来了！实测效果很优秀](https://mp.weixin.qq.com/s/rS5i3prVKqFDA62qpj3UPg) | 夕小瑶科技说 2023-04-24
           - [ChatGPT大模型如何做科学研究? CMU提出《大模型智能体系统》，高推理展现出大型语言模型的新兴自主科学研究能力](https://mp.weixin.qq.com/s/hvN3vkgMKDbyEuJ29DleZg) | 专知 2023-04-12
       - ChatRWKV(PENG Bo):
         - code: https://github.com/BlinkDL/ChatRWKV
