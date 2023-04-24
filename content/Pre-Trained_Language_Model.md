@@ -11,6 +11,7 @@
   * [Chinese-Minority-PLM](https://github.com/ymcui/Chinese-Minority-PLM): 少数民族语言预训练模型.
   * [ColossalAI](https://github.com/hpcaitech/ColossalAI): a unified deep learning system for big model era.
   * [OpenBMB](https://github.com/OpenBMB/BMList): a list of big models.
+  * [flagOpen](https://flagopen.baai.ac.cn/#/model): 智源(BAAI)开源项目汇总。
 
 ### Benchmark
   * [ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
