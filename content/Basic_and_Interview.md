@@ -307,6 +307,11 @@
   * author: princewen
   * keywords: deep learning knowledge collected in QA forms
 
+### The Little Book of Deep Learning
+  * link: https://fleuret.org/public/lbdl.pdf
+  * author: François Fleuret
+  * keywords: see the title :)
+
 ### ML-YouTube-Courses
   * link: https://github.com/dair-ai/ML-YouTube-Courses
   * author: DAIR.AI
@@ -662,3 +667,13 @@
   * 职级对标（中国）：https://duibiao.info/
   * 职级对标（国际）：https://www.levels.fyi/
   * 裁员信息（国际）：https://layoffs.fyi/
+
+### Company
+  * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
+  * [ShameCom](https://github.com/ShameCom/ShameCom) by [ShameCom](https://github.com/ShameCom): 校招污点公司记录。
+  * [CampusShame](https://github.com/forthespada/CampusShame) by [forthespada](https://github.com/forthespada): 校招污点与非污点公司名单。
+  * [955.WLB](https://github.com/formulahendry/955.WLB) by [Jun Han](https://github.com/formulahendry): “955”公司白名单。
+  * [Natasha](https://github.com/996-icu-avengers/Natasha) by [996-icu-avengers](https://github.com/996-icu-avengers): 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
+  * [Job-Recommend](https://github.com/CyC2018/Job-Recommend) by [CyC2018](https://github.com/CyC2018): 互联网内推信息（社招、校招、实习）。
+  * [裁员维护权益指南](https://github.com/IllegalLayoffs/layoffs) by [IllegalLayoffs](https://github.com/IllegalLayoffs)。
+  * [2022 裁员公司名单](https://github.com/dudaye11/2022caiyuan) by [dudaye11](https://github.com/dudaye11)。
