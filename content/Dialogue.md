@@ -52,6 +52,7 @@
         - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
         - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
         - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
+        - [Learning Prompt](https://learningprompt.wiki/docs): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。 
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
       - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -114,7 +115,7 @@
         - [LLM+LoRa微调加速技术原理及基于PEFT的动手实践：一些思考和mt0-large+lora完整案例](https://mp.weixin.qq.com/s/xpbJ6qjLpp1IO5WEvTwKMQ) | 老刘说NLP 2023-04-15
         - [再看大模型Lora微调加速是否有效：Full-Parameter全参数微调与LoRA低秩微调的性能对比开源实验介绍](https://mp.weixin.qq.com/s/oh42jxhMq7rU9_NUlSUoog) | 老刘说NLP 2023-04-22
         - [NLP重铸篇之LLM系列(Codex)](https://mp.weixin.qq.com/s/6nD8eJRoP4d6B6zdPWBgXQ) | AINLP 2023-04-22
-        - [大模型训练之微调篇](https://mp.weixin.qq.com/s/EH8xEb8q36H7nOHFnxJg_g) | AINLP 2023-04-23
+        - [大模型训练之微调篇](https://mp.weixin.qq.com/s/EH8xEb8q36H7nOHFnxJg_g) | AINLP 2023-04-23, [extra: How to train your own Large Language Models](https://blog.replit.com/llm-training).
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -288,7 +289,8 @@
           - [多家厂商引入ChatGPT，集成与融合生成式AI成为RPA技术新趋势](https://mp.weixin.qq.com/s/SUQm974kgA6cUD_GVOGfTg) | RPA全球生态 2023-04-02
           - [用AI帮助你思考？两名大学生一夜开发出ChatMind，这次是知识工作者的福音！](https://mp.weixin.qq.com/s/Sh5SXDlhXYI-HvjoWmhl_w) | Datawhale 2023-04-03
           - [用ChatGPT快速生成思维导图](https://mp.weixin.qq.com/s/fv5Tx4dGO0yG4rVi3vJPsQ) | Python绿色通道 2023-04-12
-          - [ChaGPT+学术研究之开源工具原理概述：ChatPaper、ChatReviewer、ChatGenTitle等项目源码实现](https://mp.weixin.qq.com/s/68XAeMcizgE3dQaTwZqLCw) | 老刘说NLP 2023-04-14
+          - [ChatGPT+学术研究之开源工具原理概述：ChatPaper、ChatReviewer、ChatGenTitle等项目源码实现](https://mp.weixin.qq.com/s/68XAeMcizgE3dQaTwZqLCw) | 老刘说NLP 2023-04-14
+          - [Chart-GPT](https://github.com/whoiskatrin/chart-gpt): 根据文本描述自动生成美观的图表。
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
         - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
@@ -417,11 +419,13 @@
           - [首款产品Glow已达数百万用户，前商汤科技副总裁创立AI大模型企业](https://zhuanlan.zhihu.com/p/607262463) | 知乎-科技商说 2023-02-17
           - [破案了！百万用户与AI交友，背后果然有大模型](https://mp.weixin.qq.com/s/k-v6hbSonrlkPrJA6wPOlQ) | 量子位 2023-02-18
       - MOSS(复旦大学): 
-        - [复旦发布中国版ChatGPT：MOSS开启测试冲上热搜，服务器挤爆](https://mp.weixin.qq.com/s/LjwSozikB6CK5zh2Nd2JHw) | 机器之心 2023-02-21
-        - [研究成果将会开源！复旦MOSS团队深度访谈来了](https://mp.weixin.qq.com/s/NCWFaTsWOPEsTu2Qs6SYwA) | 深度学习自然语言处理 2023-03-02
-        - [复旦团队大模型 MOSS 开源了，有哪些技术亮点值得关注？](https://mp.weixin.qq.com/s/LjToZVWjQ-ot5KJFCFtA3g) | 深度学习自然语言处理 2023-04-22
-        - [符尧：我想为 MOSS 正名](https://mp.weixin.qq.com/s/NicaChbg_Js3RFliHjkb2w) | 深度学习自然语言处理 2023-04-23
-        - [复旦NLP团队大模型 MOSS 开源了，有哪些技术亮点值得关注？](https://mp.weixin.qq.com/s/C68RjC3eqADaoEEKIcsMVQ) | AINLP 2023-04-23
+        - code: https://github.com/OpenLMLab/MOSS
+        - blog
+          - [复旦发布中国版ChatGPT：MOSS开启测试冲上热搜，服务器挤爆](https://mp.weixin.qq.com/s/LjwSozikB6CK5zh2Nd2JHw) | 机器之心 2023-02-21
+          - [研究成果将会开源！复旦MOSS团队深度访谈来了](https://mp.weixin.qq.com/s/NCWFaTsWOPEsTu2Qs6SYwA) | 深度学习自然语言处理 2023-03-02
+          - [复旦团队大模型 MOSS 开源了，有哪些技术亮点值得关注？](https://mp.weixin.qq.com/s/LjToZVWjQ-ot5KJFCFtA3g) | 深度学习自然语言处理 2023-04-22
+          - [符尧：我想为 MOSS 正名](https://mp.weixin.qq.com/s/NicaChbg_Js3RFliHjkb2w) | 深度学习自然语言处理 2023-04-23
+          - [复旦NLP团队大模型 MOSS 开源了，有哪些技术亮点值得关注？](https://mp.weixin.qq.com/s/C68RjC3eqADaoEEKIcsMVQ) | AINLP 2023-04-23
       - LLaMA(Meta): 
         - [paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/): LLaMA: Open and Efficient Foundation Language Models.
         - code: https://github.com/facebookresearch/llama
@@ -434,7 +438,8 @@
           - [代码角度看LLaMA语言模型：Meta最新模型LLaMA细节与代码详解](https://mp.weixin.qq.com/s/kz2DpGDW-MUFLROTUk-olw) | 老刘说NLP 2023-03-06
         - extra:
           - [华驼HuaTuo](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese): LLaMA-7B tuned with Chinese medical knowledge. 
-          - [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): an Open Source Recipe to Reproduce LLaMA training dataset.
+          - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
+          - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
       - MetaLLM([秘塔科技](https://metasota.ai/#/)): 
         - [秘塔写作猫](xiezuocat.com/chat)
         - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
@@ -467,7 +472,10 @@
           - [大模型掀起诸神之战，我们更需要人人可用的“普惠模型”](https://mp.weixin.qq.com/s/RMzZIRoSfM4rxCPQb8kXGQ) | 罗超频道 2023-04-17
         - extra:
           - [鼷鹿Kanchil](https://github.com/vxfla/kanchil): 基于MT5的模型。
+          - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
           - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
+          - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
+          - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
       - ColossalAI(潞晨科技):
         - code: https://github.com/hpcaitech/ColossalAI
         - blog:
@@ -485,6 +493,7 @@
         - extra:
           - [BELLE](https://github.com/LianjiaTech/BELLE): 基于Alpaca的开源中文对话大模型（70亿参数）, [每一个人的大模型：开源BELLE项目集训练、数据、模型、评估、APP一体](https://mp.weixin.qq.com/s/HI2VvokqYNdRZgcZwfSDqw) | 机器学习算法与自然语言处理 2023-04-23
           - [Luotuo](https://sota.jiqizhixin.com/project/luotuo)/[骆驼](https://github.com/LC1332/Chinese-alpaca-lora): [中文Alpaca模型Luotuo，权重语料均开源，适用各类垂域开发；GPT-4版Copilot发布，可实时对话、语音交流代码](https://mp.weixin.qq.com/s/3QL4wK8ZAr_lztivTdoQDA) | 机器之心SOTA模型 2023-03-27
+          - [Luotuo Embedding](https://github.com/LC1332/Luotuo-Text-Embedding): 用OpenAI的嵌入数据蒸馏得到的文本嵌入(text embedding)模型。
           - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
           - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
           - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
