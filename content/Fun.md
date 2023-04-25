@@ -216,9 +216,11 @@
   * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
   * [paper: A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
   * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
+  * [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents).
   * [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
   * [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
   * [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
+  
 </br>
 
 ### Vision
