@@ -199,6 +199,7 @@
   * [RecBole](https://github.com/RUCAIBox/RecBole): a unified, comprehensive and efficient recommendation library.
   * [AlgoNotes](https://github.com/shenweichen/AlgoNotes): “浅梦学习笔记”公众号文章汇总。
   * [推荐系统 百面百搭](https://github.com/km1994/RES-Interview-Notes): 作者们根据个人面试和经验总结出的推荐系统(RES) 面试准备的学习笔记与资料。
+  * [推荐系统设计模式：大厂框架解析](https://mp.weixin.qq.com/s/HrVv6ER3kNePAHLc_xXl0A).
 </br>
 
 ### Reinforcement Learning
