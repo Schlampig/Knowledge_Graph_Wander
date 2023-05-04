@@ -381,7 +381,7 @@
   * Segmentation
     - SAM(Segment Anything):
       - code: https://github.com/facebookresearch/segment-anything
-      - [paper](https://arxiv.org/abs/2304.02643): Segment Anything
+      - [paper](https://arxiv.org/abs/2304.02643): Segment Anything.
       - demo: https://segment-anything.com/
       - blog:
         - [CV不存在了？Meta发布CV届的GPT模型「SAM」，可以分割一切](https://mp.weixin.qq.com/s/xxkx0NbtUYOPkr0bZAkl3g) | 夕小瑶的卖萌屋 2023-04-07
@@ -398,6 +398,11 @@
       - [demo](https://tianrun-chen.github.io/SAM-Adaptor/)
       - blog:
         - [SAM无法分割一切？SAM-Adapter：首次让SAM在下游任务适应调优！](https://mp.weixin.qq.com/s/KcC7J4Toj5cVCYAhdbMHEQ) | CVer 2023-04-19
+    - SEEM:
+      - demo: https://huggingface.co/spaces/xdecoder/SEEM
+      - [paper](https://arxiv.org/pdf/2304.06718.pdf): Segment Everything Everywhere All at Once.
+      - blog:
+        - [华人团队颠覆CV！SEEM完美分割一切爆火，一键分割「瞬息全宇宙」](https://mp.weixin.qq.com/s/2KEVmje0Av3iE5TROwlGfQ) | PaperWeekly 2023-04-24
   * Consistency models
     - code: https://github.com/openai/consistency_models
     - blog: [图像生成终结扩散模型，OpenAI「一致性模型」加冕！GAN的速度一步生图，高达18FPS](https://mp.weixin.qq.com/s/cz4geitkodyQKyPYHCsjAw) | 新智元 2023-04-13
