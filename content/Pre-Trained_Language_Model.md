@@ -12,6 +12,7 @@
   * [ColossalAI](https://github.com/hpcaitech/ColossalAI): a unified deep learning system for big model era.
   * [OpenBMB](https://github.com/OpenBMB/BMList): a list of big models.
   * [flagOpen](https://flagopen.baai.ac.cn/#/model): 智源(BAAI)开源项目汇总。
+  * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf): [LeCun 70页长篇巨作！自监督学习「葵花宝典」，手把手教你学会](https://mp.weixin.qq.com/s/V8UgNKC-oeg4YR0qVp7Npw)
 
 ### Benchmark
   * [ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE): Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard.
