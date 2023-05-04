@@ -354,6 +354,8 @@
         - [2022年11月21日：本周SOTA！智源开源双语文生图模型AltDiffusion](https://mp.weixin.qq.com/s/9Wi7OE5RLEBkv_EocNyBEQ)
         - [2022年11月05日：首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/uo8gEFD9BRFmO3DBLIoIZA)
         - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
+        - [2023年04月27日：速度惊人！手机跑Stable Diffusion，12秒出图，谷歌加速扩散模型破记录](https://mp.weixin.qq.com/s/YWwDeLltZFsaHnjB5C08kg)
+        - [2023年04月30日：Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像素级出图](https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
     - [ChilloutMix](https://civitai.com/models/6424/chilloutmix) with its [huggingface page](https://huggingface.co/TASUKU2023/Chilloutmix), with [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685).
