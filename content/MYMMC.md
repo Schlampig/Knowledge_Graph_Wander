@@ -233,6 +233,9 @@
     - [2023年04月11日：这个低调的国人团队，做出了完全由AI驱动的“开放世界”](https://mp.weixin.qq.com/s/h9NEJuUr-EXovfx4Hz3jiA)
   - [2023年04月12日：突破神经网络限制，量子蒙特卡洛研究新进展登Nature子刊](https://mp.weixin.qq.com/s/H-GHRfZpeh_l0LuZ8XFxGA)
   - [2023年04月12日：人类语言能力的自然演化：乔姆斯基对阵达尔文](https://mp.weixin.qq.com/s/6fsUaGBMrk9pDTHQk5fn6A)
+  - [2023年04月30日：放弃反向传播后，Geoffrey Hinton参与的前向梯度学习重磅研究来了](https://mp.weixin.qq.com/s/xoW2DKfWYAoyPQp-b5cpTQ)
+    - [2023年05月02日：谷歌突失Hinton！深度学习之父警告AI风险，对毕生工作表示遗憾](https://mp.weixin.qq.com/s/7XLa5d-UZ16O6Ead3MCanw)
+    - [2023年05月04日：AI教父Hinton最新采访万字实录：ChatGPT和AI的过去现在与未来](https://mp.weixin.qq.com/s/e3EPx0voqz-d1Z2eZpet3Q)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
