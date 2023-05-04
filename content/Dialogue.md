@@ -32,64 +32,50 @@
   * ChatGPT
     - author: OpenAI
     - [demo(official)](https://chat.openai.com/auth/login)
-    - related projects:
-      - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
-        - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey): a collection of papers and resources related to Large Language Models.
-        - [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters): [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2304.01933).
-        - [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
-        - [Those Magnificent underdogs competing ChatGPT](https://toooold.com/2023/04/08/magnificient_underdogs.html): ChatGPT平替方案.
-        - [‌⁢⁣‍‍⁣⁤⁤⁣飞书 - 90 分钟学会【ChatGPT】](https://o0ldtlqz05.feishu.cn/wiki/wikcnyZct4xMFYJldnzUE7bqz2d).
-      - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
-        - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22 
-      - [国内开通Chat GPT Plus保姆级教程](https://chatgpt-plus.github.io/chatgpt-plus/).
+    - technique stack:
+      - Usage & Experience:
+        - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
+        - [国内开通Chat GPT Plus保姆级教程](https://chatgpt-plus.github.io/chatgpt-plus/).
         - [POE](https://poe.com/login): 同时对比ChatGPT、Claude等机器人效果的网站. 
         - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic): 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验.
         - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms): 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具.
         - [LLMParser](https://github.com/kyang6/llmparser): classify and extract structured data with LLMs.
-      - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
-        - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
-        - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): [ChatGPT中文调教指南](https://chatguide.plexpt.com/).
-        - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
-        - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
-        - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
-        - [Learning Prompt](https://learningprompt.wiki/docs): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。 
-        - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
-      - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
-        - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
-        - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant): [ChatGPT训练流程复现](https://mp.weixin.qq.com/s/mCgc07H-8EeTyxxLPGmuCA) | 深度学习自然语言处理 2023-04-10 & [ChatGPT全球最大开源平替：回复更受欢迎，但中文对话一塌糊涂](https://mp.weixin.qq.com/s/lSNMRrmYnajsDQ2wH3_ryw) | 机器之心 2023-04-16
-        - [单机cpu版本地搭建ChatGPT](https://zhuanlan.zhihu.com/p/617378737) | 知乎-猿小明 2023-03-27
-        - [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz)
-    - technical report:
-      - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
-      - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
-      - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee :thumbsup:
+      - Survey & Turtorial:
+        - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
+        - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
+        - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee :thumbsup:
         - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
         - [台大李宏毅老师关于ChatGPT原理剖析的三部曲](https://mp.weixin.qq.com/s/NCd0NeYQtCFGoTijQgfN1A) | AINLP 2023-02-25
         - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab :thumbup:
-      - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
-      - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08 
-      - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
-      - [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677) | 陈巍谈芯 2022-12-09
-      - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
+        - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
+        - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08 
+        - [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677) | 陈巍谈芯 2022-12-09
+        - [‌⁢⁣‍‍⁣⁤⁤⁣飞书 - 90 分钟学会【ChatGPT】](https://o0ldtlqz05.feishu.cn/wiki/wikcnyZct4xMFYJldnzUE7bqz2d).
+      - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
-        - [ChatGPT大模型work三个要点是什么？谷歌JasonWei最新《大型语言模型的缩放、涌现和推理》报告](https://mp.weixin.qq.com/s/Jv2ocHmOYzJkhDvHcLiYcA) | 专知 2023-04-14
-        - [张俊林：当前炼制“大语言模型”的两个现象](https://mp.weixin.qq.com/s/WXpOOAO2AARvmuq-ZRuwnQ) | AINLP 2023-04-18
-        - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
-      - [ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父](https://mp.weixin.qq.com/s/Nce2NGdj0CQZYw8t4iptzQ) | 量子位 2023-02-16
         - [ChatGPT 在做什么… 以及它为何发挥作用？](https://mp.weixin.qq.com/s/Cf9TF4OTEFoPQMOkwRNe6g) | 笑来 2023-02-15
-        - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
-        - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
-        - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
-        - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16
-        - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
-      - [80+页哈工大NLP内部《ChatGPT 调研报告》](https://mp.weixin.qq.com/s/fU85eAVnh2xZmQ5xEABYgg) | 深度学习自然语言处理 2023-03-11
+        - [ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父](https://mp.weixin.qq.com/s/Nce2NGdj0CQZYw8t4iptzQ) | 量子位 2023-02-16
         - [刘群分享ChatGPT原理](https://github.com/liuquncn/liuquncn.github.io/tree/master/talks/20230216%20ChatGPT%20Technological%20Analysis) | 刘群 github 2023-02-16
+        - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
+        - [80+页哈工大NLP内部《ChatGPT 调研报告》](https://mp.weixin.qq.com/s/fU85eAVnh2xZmQ5xEABYgg) | 深度学习自然语言处理 2023-03-11
         - [复旦邱锡鹏：深度剖析 ChatGPT 类大语言模型的关键技术](https://mp.weixin.qq.com/s/eg7zOxpilQuPU6Dpxf6Bow) | AI科技大本营 2023-03-16
         - [华泰证券邱震宇：真·万字长文:可能是全网最晚的ChatGPT技术总结](https://mp.weixin.qq.com/s/QnDIZl6pYvaULcgZkXDoXQ) | AINLP 2023-03-17
         - [华创证券：ChatGPT：技术原理、演进路线和应用场景](https://mp.weixin.qq.com/s/KreHoJsHNcCnwMBJqFPgtg) | 专知 2023-03-20
         - [【重磅】OpenAI最新解密，ChatGPT的本质是无损压缩器](https://mp.weixin.qq.com/s/1rBi3P9qiOK8lZcDGUy0jw) | 熵简科技Value Simplex 2023-04-09
-      - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
+        - [ChatGPT大模型work三个要点是什么？谷歌JasonWei最新《大型语言模型的缩放、涌现和推理》报告](https://mp.weixin.qq.com/s/Jv2ocHmOYzJkhDvHcLiYcA) | 专知 2023-04-14
+        - [张俊林：当前炼制“大语言模型”的两个现象](https://mp.weixin.qq.com/s/WXpOOAO2AARvmuq-ZRuwnQ) | AINLP 2023-04-18
+        - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
+      - Awesome Collection:
+        - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
+        - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey): a collection of papers and resources related to Large Language Models.
+        - [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters): [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2304.01933).
+        - [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
+        - [Those Magnificent underdogs competing ChatGPT](https://toooold.com/2023/04/08/magnificient_underdogs.html): ChatGPT平替方案.
+      - Dataset & Corpus:
+        - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
+        - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
+        - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
         - [大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw) | 老刘说NLP 2023-02-28
         - [ChatGPT问答的生成式风格赏析：HC3比对语料库的建设及其与人类问答的差异性比对工作介绍](https://mp.weixin.qq.com/s/hETfKmr_NN1yJgU-Rat43w) | AINLP 2023-03-08
         - [ChatGPT 标注指南来了！数据是关键](https://mp.weixin.qq.com/s/b9QnMtHj6yJfN0goBRSCXg) | Datawhale 2023-03-08
@@ -98,7 +84,43 @@
         - [GPT模型成功的背后用到了哪些以数据为中心的人工智能（Data-centric AI）技术？](https://mp.weixin.qq.com/s/ZE0wYchd-ZbmuBkr5MKI0g) | 将门创投 2023-04-06
         - [当代语言模型的评价体系](https://mp.weixin.qq.com/s/Je6YCfB2ILIhxU9Ecg5h8A) | 朴素人工智能 2023-04-10
         - [ChatGPT的真相：强泛化的秘密以及众多关键问题](https://mp.weixin.qq.com/s/HFVOWHPzva7ciRm_E4HVWQ) | 人工智能学家 2023-04-22
-      - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
+      - Prompt Engineering:
+        - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
+        - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
+        - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): [ChatGPT中文调教指南](https://chatguide.plexpt.com/).
+        - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
+        - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
+        - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
+        - [Learning Prompt](https://learningprompt.wiki/docs): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。 
+        - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
+      - Low Resource Method:
+        - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
+        - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
+        - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant): [ChatGPT训练流程复现](https://mp.weixin.qq.com/s/mCgc07H-8EeTyxxLPGmuCA) | 深度学习自然语言处理 2023-04-10 & [ChatGPT全球最大开源平替：回复更受欢迎，但中文对话一塌糊涂](https://mp.weixin.qq.com/s/lSNMRrmYnajsDQ2wH3_ryw) | 机器之心 2023-04-16
+        - [单机cpu版本地搭建ChatGPT](https://zhuanlan.zhihu.com/p/617378737) | 知乎-猿小明 2023-03-27
+        - [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz)
+      - Scaling Law:
+        - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
+      - Extended Input Length (e.g. RoPE):
+      
+      - Transformer & Attention:
+        - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
+        - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
+      - Low Rank Tech (e.g., LoRA & PEFT):
+        - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
+        - [LLM+LoRa微调加速技术原理及基于PEFT的动手实践：一些思考和mt0-large+lora完整案例](https://mp.weixin.qq.com/s/xpbJ6qjLpp1IO5WEvTwKMQ) | 老刘说NLP 2023-04-15
+        - [再看大模型Lora微调加速是否有效：Full-Parameter全参数微调与LoRA低秩微调的性能对比开源实验介绍](https://mp.weixin.qq.com/s/oh42jxhMq7rU9_NUlSUoog) | 老刘说NLP 2023-04-22
+      - Instruction Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
+        - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
+        - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
+        - [ChatGPT背后的指令学习是什么？PSU最新首篇《指令学习》技术全面综述，详述指令学习关键问题](https://mp.weixin.qq.com/s/ob_QcEXf3iNu-0jrKLcT2Q) | 专知 2023-03-27
+        - [GPT-4中的多模态技术是什么？斯坦福CS224N课程讲解《多模态深度学习》等核心技术，附82页Slides](https://mp.weixin.qq.com/s/UNp6_O1QMsvZa3Eh5qGjXg) | 专知 2023-03-27
+        - [ChatGPT的代码生成是怎么做的？「基于深度学习的代码生成方法」最新研究进展](https://mp.weixin.qq.com/s/by8JZq_AHa0c16q5AA-y1Q) | 专知 2023-04-01
+        - [NLP重铸篇之LLM系列(Codex)](https://mp.weixin.qq.com/s/6nD8eJRoP4d6B6zdPWBgXQ) | AINLP 2023-04-22
+        - [大模型训练之微调篇](https://mp.weixin.qq.com/s/EH8xEb8q36H7nOHFnxJg_g) | AINLP 2023-04-23, [extra: How to train your own Large Language Models](https://blog.replit.com/llm-training).
+      - RLHF & RLAIF:
+        - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
+        - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
         - [ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://mp.weixin.qq.com/s/hm_bbVebSF4JudctCsiRcA) | 夕小瑶的卖萌屋 2022-12-18
         - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
@@ -106,16 +128,8 @@
         - [在一张 24 GB 的消费级显卡上用 RLHF 微调 20B LLMs](https://mp.weixin.qq.com/s/7nmegO1UYObO0-eUDTKnMg) | Hugging Face 2023-03-22
         - [RLHF，对齐了，又没完全对齐？](https://mp.weixin.qq.com/s/kpV3uXn4eewNeRAQadyifg) | 李rumor 2023-04-10
         - [ChatGPT背后的技术-基于人类反馈的强化学习(RLHF) 理论篇](https://mp.weixin.qq.com/s/Ix3et0QZcd7M9CNDbpzJjQ) | AINLP 2023-04-10
-      - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
-        - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
-        - [ChatGPT背后的指令学习是什么？PSU最新首篇《指令学习》技术全面综述，详述指令学习关键问题](https://mp.weixin.qq.com/s/ob_QcEXf3iNu-0jrKLcT2Q) | 专知 2023-03-27
-        - [GPT-4中的多模态技术是什么？斯坦福CS224N课程讲解《多模态深度学习》等核心技术，附82页Slides](https://mp.weixin.qq.com/s/UNp6_O1QMsvZa3Eh5qGjXg) | 专知 2023-03-27
-        - [ChatGPT的代码生成是怎么做的？「基于深度学习的代码生成方法」最新研究进展](https://mp.weixin.qq.com/s/by8JZq_AHa0c16q5AA-y1Q) | 专知 2023-04-01
-        - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
-        - [LLM+LoRa微调加速技术原理及基于PEFT的动手实践：一些思考和mt0-large+lora完整案例](https://mp.weixin.qq.com/s/xpbJ6qjLpp1IO5WEvTwKMQ) | 老刘说NLP 2023-04-15
-        - [再看大模型Lora微调加速是否有效：Full-Parameter全参数微调与LoRA低秩微调的性能对比开源实验介绍](https://mp.weixin.qq.com/s/oh42jxhMq7rU9_NUlSUoog) | 老刘说NLP 2023-04-22
-        - [NLP重铸篇之LLM系列(Codex)](https://mp.weixin.qq.com/s/6nD8eJRoP4d6B6zdPWBgXQ) | AINLP 2023-04-22
-        - [大模型训练之微调篇](https://mp.weixin.qq.com/s/EH8xEb8q36H7nOHFnxJg_g) | AINLP 2023-04-23, [extra: How to train your own Large Language Models](https://blog.replit.com/llm-training).
+      - Decoding:
+        - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16      
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
