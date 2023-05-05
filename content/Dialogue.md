@@ -92,6 +92,7 @@
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
         - [粗看大模型ChatGLM、MOSS、Bloomz在中文垂域评测中的性能表现：医学、法律、心理学、教育等四大类试题下的测试报告介绍](https://mp.weixin.qq.com/s/Hq6bn_4vD559TMQxx806tg) | 老刘说NLP 2023-04-29
         - [清华发布首个最全大模型安全评测系统，ChatGPT登榜首！](https://mp.weixin.qq.com/s/8JtSl_tV4caZUyh1_Z6hdA) | 夕小瑶科技说 2023-05-04
+        - [UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5](https://mp.weixin.qq.com/s/ccQAyrpS3gsSNq_cYNtfpw) | 新智元 2023-05-04
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -747,6 +748,7 @@
           - [合并DeepMind和Google Brain，谷歌迎来AI新时代](https://mp.weixin.qq.com/s/Ge0msXZSG54t_ZhD-QjoNg) | 机器之心 2023-04-21 
         - [你的ChatGPT数据可以不被官方拿去训练模型了！代价是「只聊天不记录」](https://mp.weixin.qq.com/s/M0F2mJCNpiZ75a9Mos7Lcg) | 量子位 2023-04-26
         - [ChatGPT推出“联网模式”！可直接读取网页内容，网友：更好用了](https://mp.weixin.qq.com/s/kPsHd5sZGow2u1Ak9d9ZAQ) | 量子位 2023-04-28
+        - [微软Bing突然爆炸级更新！无需等待人人可用，答案图文并茂，网友：逼 ChatGPT 放大招？](https://mp.weixin.qq.com/s/BCWy8CWcZ_98xFdO8t-7Zg) | 量子位 2023-05-05
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
