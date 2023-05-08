@@ -38,6 +38,13 @@
   * author: Michael Liao (廖雪峰)
   * note: Python3教程
 
+### python3-cookbook
+  * link: https://github.com/yidao620c/python3-cookbook
+  * web: http://python3-cookbook.readthedocs.org/zh_CN/latest/
+  * download: [Simplified Chinese](https://pan.baidu.com/s/1pL1cI9d) & [Traditional Chinese](https://pan.baidu.com/s/1qX97VJI).
+  * author: XiongNeng
+  * note: 《Python Cookbook》 3rd Edition Chinese Translation.
+
 ### 100-plus-Python-programming-exercises-extended
   * link: https://github.com/darkprinx/100-plus-Python-programming-exercises-extended
   * author: Abdullah Al Masud Tushar
