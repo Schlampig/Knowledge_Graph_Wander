@@ -80,6 +80,12 @@
   * author: geekxh 
   * keywords: interview, computer science, Chinese & English version
 
+### Hello 算法
+  * link: https://github.com/krahets/hello-algo
+  * web: https://www.hello-algo.com/
+  * author: Krahets
+  * keywords: 一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+
 ### Shortest-LeetCode-Python-Solutions
   * link: https://github.com/cy69855522/Shortest-LeetCode-Python-Solutions
   * author: Knife丶
