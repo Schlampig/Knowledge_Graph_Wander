@@ -83,6 +83,7 @@
       - Dataset & Corpus:
         - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
         - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
+        - [UltraChat](github.com/thunlp/UltraChat/): Large-scale, Informative, and Diverse Multi-round Chat Data (and Models) by [THUNLP](https://github.com/thunlp).
         - [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/WU3XGn-lPV1GSx2XG1XOlg) | 机器学习算法与自然语言处理 2023-02-17
         - [大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw) | 老刘说NLP 2023-02-28
         - [ChatGPT问答的生成式风格赏析：HC3比对语料库的建设及其与人类问答的差异性比对工作介绍](https://mp.weixin.qq.com/s/hETfKmr_NN1yJgU-Rat43w) | AINLP 2023-03-08
@@ -93,6 +94,7 @@
         - [当代语言模型的评价体系](https://mp.weixin.qq.com/s/Je6YCfB2ILIhxU9Ecg5h8A) | 朴素人工智能 2023-04-10
         - [ChatGPT的真相：强泛化的秘密以及众多关键问题](https://mp.weixin.qq.com/s/HFVOWHPzva7ciRm_E4HVWQ) | 人工智能学家 2023-04-22
       - Benchmark:
+        - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
         - [粗看大模型ChatGLM、MOSS、Bloomz在中文垂域评测中的性能表现：医学、法律、心理学、教育等四大类试题下的测试报告介绍](https://mp.weixin.qq.com/s/Hq6bn_4vD559TMQxx806tg) | 老刘说NLP 2023-04-29
         - [清华发布首个最全大模型安全评测系统，ChatGPT登榜首！](https://mp.weixin.qq.com/s/8JtSl_tV4caZUyh1_Z6hdA) | 夕小瑶科技说 2023-05-04
@@ -117,6 +119,7 @@
         - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
       - Extended Input Length (e.g. RoPE):
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
+          - [paper](https://arxiv.org/abs/2304.11062): Scaling Transformer to 1M tokens and beyond with RMT.
         - [彻底解决ChatGPT健忘症！突破Transformer输入限制：实测支持200万个有效token](https://mp.weixin.qq.com/s/-24u_Zv0mWWfJia9CJwcoQ) | 新智元 2023-05-03
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
@@ -162,6 +165,9 @@
         - [斯坦福最新研究警告：别太迷信大模型涌现能力，那是度量选择的结果](https://mp.weixin.qq.com/s/tt9xYESUgw3V2c4XJu5ZVw) | 机器之心 2023-05-03
         - [符尧 | 复杂推理：大语言模型的北极星能力](https://mp.weixin.qq.com/s/JteXWBOPXYwdgZQ_1WAdBQ) | 深度学习自然语言处理 2023-05-04
         - [ChatGPT背后“推理”如何做？浙大等最新《基于语言模型提示的推理》综述，阐述大模型提示推理机制与方法体系](https://mp.weixin.qq.com/s/4_EJh2AsJexNLrRo5MELSg) | 专知 2023-05-06
+      - LangChain & LangFlow & others:
+        - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
+        - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -520,6 +526,7 @@
           - [Meta开源的ChatGPT平替到底好不好用？测试结果、加料改装方法已出炉，2天5.2k星](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg) | 机器之心 2023-03-05
           - [Meta开源的LLaMa到底好不好用？最全测评结果来了](https://mp.weixin.qq.com/s/k4mYf7ZwHWhi7dWb7gEjcQ) | 夕小瑶的卖萌屋 2023-03-06
           - [代码角度看LLaMA语言模型：Meta最新模型LLaMA细节与代码详解](https://mp.weixin.qq.com/s/kz2DpGDW-MUFLROTUk-olw) | 老刘说NLP 2023-03-06
+          - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/) | AGI Sphere 2023-04-30
         - extra:
           - [华驼HuaTuo](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese): LLaMA-7B tuned with Chinese medical knowledge. 
           - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
@@ -558,7 +565,6 @@
           - [鼷鹿Kanchil](https://github.com/vxfla/kanchil): 基于MT5的模型。
           - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
           - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
-          - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
           - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
       - ColossalAI(潞晨科技):
         - code: https://github.com/hpcaitech/ColossalAI
@@ -601,6 +607,7 @@
             - dataset: https://github.com/databrickslabs/dolly/tree/master/data  
       - GPT4All
         - code: https://github.com/nomic-ai/gpt4all
+        - source: https://gpt4all.io/index.html
         - blog:
           - [笔记本就能运行的ChatGPT平替来了，附完整版技术报告](https://mp.weixin.qq.com/s/crpG4dtfQFe3Q7hR3oeyxQ) | 机器之心 2023-03-30 
       - Llama-X:
@@ -859,6 +866,7 @@
   * [生成式AI的一小步，AGI的一大步：AIGC时代ChatGPT全盘调研](https://mp.weixin.qq.com/s/5vHxXaMCgbOCLF6xb3MmHg) | ChallengeHub 2023-04-14
   * [后GPT书：从GPT-3开始，续写Transformer庞大家族系谱](https://mp.weixin.qq.com/s/M-ToNk8SABoP2JG0xLUBxQ) | 机器之心 2023-04-16
   * [开源视角下的ChatGPT项目概述：训练、分析、检测、应用四大类ChatGPT开源项目整理报告](https://mp.weixin.qq.com/s/WeAfvtNWH94SHCTLR_BLcw) | 老刘说NLP 2023-04-19
+  * [How Replit trains Large Language Models (LLMs) using Databricks, Hugging Face, and MosaicML](https://blog.replit.com/llm-training) | Replit 2023-04-19
   * [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
   * [这可能是一份LLM实践面试宝典](https://mp.weixin.qq.com/s/abvdeMzxKSSo3DHRaojMPw) | 深度学习自然语言处理 2023-05-06
   * [综述｜如何利用LLM做多模态任务？](https://mp.weixin.qq.com/s/QnVhMS__v7WT5YiHZF-jYg) | 李rumor 2023-05-08
