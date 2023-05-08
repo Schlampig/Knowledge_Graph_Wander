@@ -92,6 +92,11 @@
   * blog: 
     - [P-tuning：自动构建模版，释放语言模型潜能](https://spaces.ac.cn/archives/8295) | 苏剑林 科学空间 2021年04月03日
 
+### In-Context-Learning_PaperList
+  * link: https://github.com/dongguanting/In-Context-Learning_PaperList
+  * author: guanting dong
+  * note: Paper List for In-context Learning.
+
 ### Instruction Tuning
   * [paper](https://arxiv.org/pdf/2109.01652v1.pdf): FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS （FLAN）.
   * extra:
