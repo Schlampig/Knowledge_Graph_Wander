@@ -388,6 +388,8 @@
       - code: https://github.com/facebookresearch/segment-anything
       - [paper](https://arxiv.org/abs/2304.02643): Segment Anything.
       - demo: https://segment-anything.com/
+      - extra:
+        - [Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything)
       - blog:
         - [CV不存在了？Meta发布CV届的GPT模型「SAM」，可以分割一切](https://mp.weixin.qq.com/s/xxkx0NbtUYOPkr0bZAkl3g) | 夕小瑶的卖萌屋 2023-04-07
         - [CV大一统模型的第一步！Segment Anything Model 最全解读！](https://mp.weixin.qq.com/s/s5TE6WAkG9u6fUUZcmrIYw) | Datawhale 2023-04-07  
