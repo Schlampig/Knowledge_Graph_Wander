@@ -771,6 +771,8 @@
     - homepage: 
       - learn about: https://openai.com/product/gpt-4
       - view research: https://openai.com/research/gpt-4
+    - project:
+      - [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9/13q28b-4164): This guide has more than 100+ resources to help you learn how to use GPT3 and GPT4 to enhance your life. 
     - blog:
       - 消息
         - [OpenAI CEO谈GPT-4：今年发不发不确定，我们没有AGI，或许让大家失望](https://mp.weixin.qq.com/s/A_WkmUL_6L-gdhIs5-HWTA) | 机器之心 2023-01-19
