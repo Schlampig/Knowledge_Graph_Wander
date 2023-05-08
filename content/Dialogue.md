@@ -76,6 +76,7 @@
         - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
       - Awesome Collection:
         - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
+        - [Awesome Chatgpt](https://github.com/sindresorhus/awesome-chatgpt): Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
         - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey): a collection of papers and resources related to Large Language Models.
         - [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters): [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2304.01933).
         - [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
@@ -107,7 +108,7 @@
         - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
         - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
         - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
-        - [Learning Prompt](https://learningprompt.wiki/docs): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。 
+        - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
@@ -125,6 +126,7 @@
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
       - Low Rank Tech (e.g., LoRA & PEFT):
+        - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
         - [LLM+LoRa微调加速技术原理及基于PEFT的动手实践：一些思考和mt0-large+lora完整案例](https://mp.weixin.qq.com/s/xpbJ6qjLpp1IO5WEvTwKMQ) | 老刘说NLP 2023-04-15
         - [再看大模型Lora微调加速是否有效：Full-Parameter全参数微调与LoRA低秩微调的性能对比开源实验介绍](https://mp.weixin.qq.com/s/oh42jxhMq7rU9_NUlSUoog) | 老刘说NLP 2023-04-22
@@ -154,6 +156,7 @@
         - [ChatGPT背后的技术-基于人类反馈的强化学习(RLHF) 理论篇](https://mp.weixin.qq.com/s/Ix3et0QZcd7M9CNDbpzJjQ) | AINLP 2023-04-10
         - [GPT-5觉醒引人类灭绝？DeepMind紧急教AI做人，论文登顶刊](https://mp.weixin.qq.com/s/mNNL0ajwtUWyFh7qjZajmA) | 新智元 2023-04-25
         - [为大语言模型建立红队对抗](https://mp.weixin.qq.com/s/oqW1WwPf381DDPS1FBmUrQ) | Hugging Face 2023-04-27
+        - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html) | [Chip Huyen](https://huyenchip.com/) 2023-05-02
         - [“StackLLaMA”: 用 RLHF 训练 LLaMA 的手把手教程](https://mp.weixin.qq.com/s/XQ2igokvbsZPKV-PK2D6ng) | Hugging Face 2023-05-04
         - [ChatGPT中的RLHF技术如何用？CMU最新《自然语言生成中的人工反馈集成》综述，详述人类反馈的格式、目标、用途和建模](https://mp.weixin.qq.com/s/F4XugdYX5xmdbNRazsZa0g) | 专知 2023-05-04
       - Decoding:
@@ -386,6 +389,7 @@
         - [AI+心理咨询时代来临，国内首篇有效性研究报告！](https://mp.weixin.qq.com/s/sl74MxelugR-AYBSleM3dg) | 聆心智能官方 2023-04-27
         - [用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？](https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw) | 夕小瑶科技说 2023-04-28
         - [AI通灵！类ChatGPT模型解码大脑信息，准确率高达82%](https://mp.weixin.qq.com/s/4KbtJ5cfur7KrWWijjQtIA) | 新智元 2023-05-03
+          - [GPT AI Enables Scientists to Passively Decode Thoughts in Groundbreaking Study](https://www.artisana.ai/articles/gpt-ai-enables-scientists-to-passively-decode-thoughts-in-groundbreaking)
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
@@ -753,6 +757,10 @@
         - [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view): StarCoder: may the source be with you!
         - blog:
           - [StarCoder: 最先进的代码大模型](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q) | Hugging Face 2023-05-08
+      - 水獭Otter(南洋理工):
+        - code: https://github.com/Luodian/otter
+        - [paper](https://arxiv.org/abs/2305.03726): Otter: A Multi-Modal Model with In-Context Instruction Tuning
+        - note: 一种基于OpenFlamingo构建的指令调优模型，已针对上下文进行了定制。
 </br>
 
   * GPT-4
