@@ -28,7 +28,8 @@
   * [the-most-complete-dictionary-ever](https://github.com/i3ef0xh4ck/the-most-complete-dictionary-ever) by i3ef0xh4ck.
   * [《成语大全》](http://www.guoxue.com/chengyu/CYML.htm) by [国学网](www.guoxue.com).
   * [DomainWordsDict](https://github.com/liuhuanyong/DomainWordsDict) by [liuhuanyong](https://github.com/liuhuanyong): 涵盖68个领域、共计916万词的专业词典知识库.
-  * [万词王](https://github.com/thunlp/WantWords) by [THUNLP] with [website](https://wantwords.thunlp.org/).
+  * [万词王(WantWords)](https://github.com/thunlp/WantWords) by [THUNLP] with [website](https://wantwords.thunlp.org/).
+    - [据意查句(WantQuotes)](https://wantquotes.net/): 根据输入的描述，找到相应的名言名句。
   * [回声(echo)](http://echo-ai.top/): [只会用绝绝子？“回声”AI期待为你发声](https://mp.weixin.qq.com/s/JragXalD5u5IO3Qq2mJJyQ), by [FudanNLP](https://github.com/FudanNLP).
   * [AutoDict](https://github.com/blcuicall/AutoDict) by [BLCU-ICALL](https://github.com/blcuicall) in [paper](https://arxiv.org/abs/1905.06512): Chinese Definition Modeling.
   * [Linggle 英文单词用例查询](https://linggle.com/)
