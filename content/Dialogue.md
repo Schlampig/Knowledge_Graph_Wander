@@ -509,9 +509,10 @@
         - [官宣，Google DeepMind 成立](https://mp.weixin.qq.com/s/ALjmH1ZjEzc4y2fl0oVHfg) | 学术头条 2023-04-21
           - [合并DeepMind和Google Brain，谷歌迎来AI新时代](https://mp.weixin.qq.com/s/Ge0msXZSG54t_ZhD-QjoNg) | 机器之心 2023-04-21 
         - [你的ChatGPT数据可以不被官方拿去训练模型了！代价是「只聊天不记录」](https://mp.weixin.qq.com/s/M0F2mJCNpiZ75a9Mos7Lcg) | 量子位 2023-04-26
-        - [ChatGPT推出“联网模式”！可直接读取网页内容，网友：更好用了](https://mp.weixin.qq.com/s/kPsHd5sZGow2u1Ak9d9ZAQ) | 量子位 2023-04-28
-        - [微软Bing突然爆炸级更新！无需等待人人可用，答案图文并茂，网友：逼 ChatGPT 放大招？](https://mp.weixin.qq.com/s/BCWy8CWcZ_98xFdO8t-7Zg) | 量子位 2023-05-05
-        - [抢先微软，Google版Copilot上线！谷歌宣布给Google全家桶开放Bard功能](https://mp.weixin.qq.com/s/O31i1--QtcJPGtxZkc5z6A) | 夕小瑶科技说 2023-05-07
+          - [ChatGPT推出“联网模式”！可直接读取网页内容，网友：更好用了](https://mp.weixin.qq.com/s/kPsHd5sZGow2u1Ak9d9ZAQ) | 量子位 2023-04-28
+          - [微软Bing突然爆炸级更新！无需等待人人可用，答案图文并茂，网友：逼 ChatGPT 放大招？](https://mp.weixin.qq.com/s/BCWy8CWcZ_98xFdO8t-7Zg) | 量子位 2023-05-05
+          - [抢先微软，Google版Copilot上线！谷歌宣布给Google全家桶开放Bard功能](https://mp.weixin.qq.com/s/O31i1--QtcJPGtxZkc5z6A) | 夕小瑶科技说 2023-05-07
+        - [谷歌内部文件泄漏：谷歌、OpenAI都没有护城河，大模型门槛正被开源踏破](https://mp.weixin.qq.com/s/XVNrEj3lQB4hMR-rZziVRQ) | 机器之心 2023-05-05
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
