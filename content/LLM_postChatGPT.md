@@ -434,6 +434,7 @@
   * 星火(科大讯飞):
     - blog:
       - [“三项能力超过ChatGPT”，科大讯飞星火大模型现场接受观众挑战，写稿制表PPT通通拿下](https://mp.weixin.qq.com/s/o-Yy2uz51_gMyEjamtkAkw) | 量子位 2023-05-06
+      - [GPT诸神之战，小巨头如何做大模型？](https://mp.weixin.qq.com/s/ZS-yiIleIVEJAsnmvS6AGg) | 雷峰网 2023-05-08
 
 </br>
 
