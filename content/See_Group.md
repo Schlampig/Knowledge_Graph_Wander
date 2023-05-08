@@ -8,6 +8,7 @@
   * [**AILab-PKU**](https://github.com/ailab-pku): [北京大学人工智能实验室](http://ai.pku.edu.cn/)
   * **AIRS**: [深圳市人工智能与机器人研究院](https://airs.cuhk.edu.cn/)
   * [**BAAI**](https://github.com/BAAI-WuDao): [北京智源人工智能研究院](https://www.baai.ac.cn/)
+  * [**BigCode Project**](https://github.com/bigcode-project): [homepage](https://www.bigcode-project.org/)
   * [**BigScience Workshop**](https://github.com/bigscience-workshop): [bigscience.io](https://bigscience.huggingface.co/)
   * [**BLCU-ICALL**](https://github.com/blcuicall): ICALL Research Group at Beijing Language and Culture University
   * [**CompVis Heidelberg**](https://github.com/CompVis): [Heidelberg Collaboratory for Image Processing (HCI)](https://hci.iwr.uni-heidelberg.de/)
