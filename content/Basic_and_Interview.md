@@ -159,6 +159,12 @@
     - [Mathematics for Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas
     - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine LearningAlgebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by Jean Gallier and Jocelyn Quaintance.
 
+### 数据科学和机器学习
+  * homepage: https://mlhowto.readthedocs.io/en/latest/
+  * link: https://github.com/llinjupt/mlhowto/tree/master
+  * author: [Red Liu](https://github.com/llinjupt)
+  * keywords: 辑录笔者在学习科学计算和机器学习过程中的总结，归纳，从基础数学和模型理论到实际编码和问题解决以及优化过程。
+
 ### 深度学习工程师生存指南
   * link: https://github.com/ypwhs/dl-engineer-guidebook
   * author: [杨培文 (Yang Peiwen)](https://github.com/ypwhs)
