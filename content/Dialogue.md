@@ -198,6 +198,7 @@
         - [都在卷大模型底座，亚马逊云科技决定给底座造底座](https://mp.weixin.qq.com/s/Qin0_0hLkVRposPJkPy1Cw) | 量子位 2023-04-19
         - [服务器液冷台湾专家交流纪要](https://mp.weixin.qq.com/s/ezNqVY_adPWUJNg-adQiZQ) | 投研驿站 2023-04-24
         - [陈天奇等人新作引爆AI界：手机原生跑大模型，算力不是问题了](https://mp.weixin.qq.com/s/uQGAu1v-6ApgZHVkZJsUdQ) | 机器之心 2023-05-01
+        - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
