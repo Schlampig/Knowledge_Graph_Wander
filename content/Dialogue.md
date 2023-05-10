@@ -111,6 +111,7 @@
         - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
         - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
+        - [OpenAI出品的ChatGPT调校指南你读了吗](https://mp.weixin.qq.com/s/zSSJ2u9Jt546McE2WVE9fA) | 朴素人工智能 2023-05-09
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -392,6 +393,7 @@
         - [用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？](https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw) | 夕小瑶科技说 2023-04-28
         - [AI通灵！类ChatGPT模型解码大脑信息，准确率高达82%](https://mp.weixin.qq.com/s/4KbtJ5cfur7KrWWijjQtIA) | 新智元 2023-05-03
           - [GPT AI Enables Scientists to Passively Decode Thoughts in Groundbreaking Study](https://www.artisana.ai/articles/gpt-ai-enables-scientists-to-passively-decode-thoughts-in-groundbreaking)
+        - [重磅！OpenAI最新研究：用GPT-4解释神经元行为，网友：AI套娃？](https://mp.weixin.qq.com/s/_XtQuuiv6JOwgCTEFMJ9gw) | 夕小瑶科技说 2023-05-10
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
@@ -459,8 +461,10 @@
           - [OpenAI竟诞生于这个饭局！38岁ChatGPT之父还想让两个男人怀上孩子](https://mp.weixin.qq.com/s/S_Ly0JS-K1riq0Cn3FP4Sw) | 新智元 2023-04-28
           - [AI在劳动节淘汰7800打工人，永久的](https://mp.weixin.qq.com/s/crPVttsbyYWhBdRyWYSNDA) | 量子位 2023-05-03
           - [GPT究竟是谁的机会？](https://mp.weixin.qq.com/s/fUnpndRp1klnXtM8oIs3fw) | 36氪Pro 2023-05-05
+          - [在 AI 时代，你会被放大一千倍的能力是什么？](https://mp.weixin.qq.com/s/tvHaodc_rR2HVizVGZ1XqQ) | Datawhale 2023-05-08
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
         - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
+        - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
