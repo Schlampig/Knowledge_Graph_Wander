@@ -1,4 +1,4 @@
-## **Large Language Models from the Post-ChatGPT-Age**
+## **Large Language Methods from the Post-ChatGPT-Age**
 
 </br>
 
@@ -87,6 +87,11 @@
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
       - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
+  
+  * ChatLLM-Web(Ryan-yang125):
+    - code: https://github.com/Ryan-yang125/ChatLLM-Web
+    - demo: https://chat-llm-web.vercel.app/
+    - note: 允许用户通过WebGPU在浏览器中使用像Vicuna这样的LLM(大型语言模型)进行聊天，保证了安全性、隐私性，且无需服务器支持。所有操作都在浏览器中完成，且由WebGPU加速。特性包括模型运行在web worker中以保证用户界面不会被阻塞、一键部署到Vercel、模型缓存支持、支持多对话聊天以及Markdown和流式响应。此应用需要支持WebGPU的浏览器，例如Chrome 113或Chrome Canary。用户的GPU需要大约6.4GB的内存。首次使用需要下载模型，目前使用的Vicuna-7b模型大小约为4GB。下载后，模型将从浏览器缓存中加载以加快使用速度。
   
   * ChatLMG(元乘象):
     - blog:
@@ -420,6 +425,13 @@
   * Visual ChatGPT(微软):
     - blog:
       - [王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ) | 夕小瑶的卖萌屋 2023-03-10
+  
+  * VPGTrans(新加坡国立&清华):
+    - code: https://github.com/VPGTrans/VPGTrans
+    - [paper](https://arxiv.org/pdf/2305.01278.pdf): VPGTrans:Transfer Visual Prompt Generator across LLMs.
+    - demo: https://vpgtrans.github.io/
+    - blog:
+      - [VPGTrans: 10%的成本定制你自己的类GPT-4多模态大模型](https://mp.weixin.qq.com/s/COByThDpn6pVICGD6dMG0Q) | 夕小瑶科技说 2023-05-10 
 
 </br>
 
