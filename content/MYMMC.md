@@ -241,6 +241,7 @@
   - [2023年04月30日：放弃反向传播后，Geoffrey Hinton参与的前向梯度学习重磅研究来了](https://mp.weixin.qq.com/s/xoW2DKfWYAoyPQp-b5cpTQ)
     - [2023年05月02日：谷歌突失Hinton！深度学习之父警告AI风险，对毕生工作表示遗憾](https://mp.weixin.qq.com/s/7XLa5d-UZ16O6Ead3MCanw)
     - [2023年05月04日：AI教父Hinton最新采访万字实录：ChatGPT和AI的过去现在与未来](https://mp.weixin.qq.com/s/e3EPx0voqz-d1Z2eZpet3Q)
+  - [2023年05月09日：“LSTM之父”谈AI威胁论：AI将超越人类智力，对人类不感兴趣，呼吁暂停AI是一种误导](https://mp.weixin.qq.com/s/lnLc_jHts762Kh_LzLKDKg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
