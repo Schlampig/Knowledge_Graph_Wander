@@ -606,4 +606,5 @@
   * [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
   * [这可能是一份LLM实践面试宝典](https://mp.weixin.qq.com/s/abvdeMzxKSSo3DHRaojMPw) | 深度学习自然语言处理 2023-05-06
   * [综述｜如何利用LLM做多模态任务？](https://mp.weixin.qq.com/s/QnVhMS__v7WT5YiHZF-jYg) | 李rumor 2023-05-08
+  * [最全的国内chatGPT大模型企业及产品整理](https://mp.weixin.qq.com/s/8OMh9lQy1thbqs3J8F6LYg) | 数据与智能 2023-05-10
 
