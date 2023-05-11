@@ -113,6 +113,7 @@
         - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
         - [OpenAI出品的ChatGPT调校指南你读了吗](https://mp.weixin.qq.com/s/zSSJ2u9Jt546McE2WVE9fA) | 朴素人工智能 2023-05-09
+        - [微软官方亲自出教程，拿捏「Prompt工程」高级玩法](https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA) | 机器之心 2023-05-11
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -124,6 +125,7 @@
       - Extended Input Length (e.g. RoPE):
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
           - [paper](https://arxiv.org/abs/2304.11062): Scaling Transformer to 1M tokens and beyond with RMT.
+          - [长文本处理大模型结构RMT工作解读与今日前沿速递：声称能处理长度超过一百万token的Transformer工作介绍](https://mp.weixin.qq.com/s/wzSryWlTgSvamKDcYSG3vg) | 老刘说NLP 2023-05-10
         - [彻底解决ChatGPT健忘症！突破Transformer输入限制：实测支持200万个有效token](https://mp.weixin.qq.com/s/-24u_Zv0mWWfJia9CJwcoQ) | 新智元 2023-05-03
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
@@ -171,9 +173,10 @@
         - [斯坦福最新研究警告：别太迷信大模型涌现能力，那是度量选择的结果](https://mp.weixin.qq.com/s/tt9xYESUgw3V2c4XJu5ZVw) | 机器之心 2023-05-03
         - [符尧 | 复杂推理：大语言模型的北极星能力](https://mp.weixin.qq.com/s/JteXWBOPXYwdgZQ_1WAdBQ) | 深度学习自然语言处理 2023-05-04
         - [ChatGPT背后“推理”如何做？浙大等最新《基于语言模型提示的推理》综述，阐述大模型提示推理机制与方法体系](https://mp.weixin.qq.com/s/4_EJh2AsJexNLrRo5MELSg) | 专知 2023-05-06
-      - LangChain & LangFlow & others:
+      - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
+        - [当大模型开始规划合作，一个模型打造软件开发团队，代码生成性能狂升](https://mp.weixin.qq.com/s/VxadbNVwKG4hOB2ZFAuJMg) | 机器之心 2023-05-11
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -370,8 +373,10 @@
           - [Chart-GPT](https://github.com/whoiskatrin/chart-gpt): 根据文本描述自动生成美观的图表。
           - [后 GPT 时代，我们应如何与 AI 一起工作？](https://mp.weixin.qq.com/s/Xqv3bD6d5s5FLAtx0HmDUQ) | 北京庖丁科技 2023-04-27
           - [parsio.io：AI 驱动的 PDF 解析器和 OCR 工具 可识别图片信息](https://mp.weixin.qq.com/s/tKohJldwuZQOLvr7-u5cZg) | AI 共存派 2023-05-06
+          - [LlamaIndex ：面向QA 系统的全新文档摘要索引](https://mp.weixin.qq.com/s/1zvXlcGfVdxU8_Pj5f2E1g) | ChallengeHub 2023-05-10
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
+          - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
         - [怎样让ChatGPT在其内部训练神经网络？先让它想象自己有4块3090](https://mp.weixin.qq.com/s/KkLddZhoLssXHxAj8dVGYw) | 机器之心 2023-02-18
         - [ChatGPT和机器人如何结合？微软最新《ChatGPT机器人:设计原则和模型能力》论文](https://mp.weixin.qq.com/s/y01_2K2-Jci83wftMIOPug) | 专知 2023-02-26
         - [chatGPT的一个不足及解决思路，抽象认知的实现思路](https://mp.weixin.qq.com/s/kdkLMm0iMn4dcqnzxh9YWQ) | 人工智能学家 2023-03-02
