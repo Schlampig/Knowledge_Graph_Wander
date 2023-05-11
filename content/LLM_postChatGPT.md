@@ -172,6 +172,8 @@
       - [文心一言 vs GPT-4实测！百度背水一战交卷](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ) | 量子位 2023-03-16
       - [文心一言算力从哪来？自家最大智算中心：算力规模4EFLOPS，base李彦宏老家](https://mp.weixin.qq.com/s/0f51e4aUmqlXBiztfaDfeg) | 量子位 2023-03-16
       - [文心一言「起舞」，触发云战场「变天」](https://mp.weixin.qq.com/s/k_UZpLJiNCJckmILDKHbnQ) | 雷峰网 2023-03-17
+    - extra:
+      - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
 
 </br>
 
@@ -366,6 +368,11 @@
 </br>
 
 ### P
+  * PaLM2(谷歌):
+    - blog:
+      - [新大模型能超GPT-4，Bard全面升级，谷歌反击ChatGPT](https://mp.weixin.qq.com/s/HsyJ272c3joHo_4EeDOrWg) | 机器之心 2023-05-11
+      - [谷歌不服输：大模型PaLM2剑指GPT-4，Bard会写20种代码，推出办公助手「Duet A​I」](https://mp.weixin.qq.com/s/2p1XVEMM-sqQJpk8a6RUVw) | 36氪 2023-05-11
+
   * PandaLM(北京大学&西湖大学):
     - code: https://github.com/WeOpenML/PandaLM
     - blog: 
