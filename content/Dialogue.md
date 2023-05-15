@@ -114,7 +114,7 @@
         - [Prompt-Engineering-Guide-Chinese](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 提示工程师指南，源自英文版，但增加了AIGC的prompt部分.
         - [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique): 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南.
         - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
-        - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分。
+        - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/), [code](https://github.com/LearnPrompt/LearnPrompt)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分, [GitHub项目免费教你提示工程，全中文教学，小白也能懂](https://mp.weixin.qq.com/s/bR73OXj022kQheTSvFVBRg) | 量子位 2023-05-15
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
         - [OpenAI出品的ChatGPT调校指南你读了吗](https://mp.weixin.qq.com/s/zSSJ2u9Jt546McE2WVE9fA) | 朴素人工智能 2023-05-09
         - [微软官方亲自出教程，拿捏「Prompt工程」高级玩法](https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA) | 机器之心 2023-05-11
@@ -131,6 +131,8 @@
           - [paper](https://arxiv.org/abs/2304.11062): Scaling Transformer to 1M tokens and beyond with RMT.
           - [长文本处理大模型结构RMT工作解读与今日前沿速递：声称能处理长度超过一百万token的Transformer工作介绍](https://mp.weixin.qq.com/s/wzSryWlTgSvamKDcYSG3vg) | 老刘说NLP 2023-05-10
         - [彻底解决ChatGPT健忘症！突破Transformer输入限制：实测支持200万个有效token](https://mp.weixin.qq.com/s/-24u_Zv0mWWfJia9CJwcoQ) | 新智元 2023-05-03
+      - Tokenization & Embeddings:
+        - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -154,6 +156,7 @@
         - [大模型训练之微调篇](https://mp.weixin.qq.com/s/EH8xEb8q36H7nOHFnxJg_g) | AINLP 2023-04-23, [extra: How to train your own Large Language Models](https://blog.replit.com/llm-training).
         - [大模型主流微调范式、性能对比与开源项目汇总：也看Freeze、P-Tuning、Lora、full-Finetune开源实现](https://mp.weixin.qq.com/s/1gvRUFZvLShxMNvP4O-XEg) | 老刘说NLP 2023-05-01
         - [大模型如何适用长尾或特定领域？微软等提出《参数知识引导的增强大型语言模型》，扩展LLM的垂直化长尾适配能力](https://mp.weixin.qq.com/s/-eIhP2B9q9FobbSq4fPBQg) | 专知 2023-05-12
+        - [如何高效微调你的 LLM](https://mp.weixin.qq.com/s/tUS8JsG28jjqGG9xrUU6Kw) | AINLP 2023-05-15
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
@@ -369,6 +372,7 @@
           - [最容易被ChatGPT抢饭碗的科学家，竟然真的是数学家？？？](https://mp.weixin.qq.com/s/uw7h_JpdIwvXe9V8yzz7iw) | 科研圈 2023-04-04
           - [北大GPT解题有数学老师内味了，用人话讲难题，从高中数学到高数都能搞定](https://mp.weixin.qq.com/s/v-3HRBa_vIeK8PcDCM82Yw) | 量子位 2023-04-25
           - [GPT-4拿下最难数学推理数据集新SOTA，新型Prompting让大模型推理能力狂升](https://mp.weixin.qq.com/s/y8u40qIXm3oWZkvgKOV17Q) | 机器之心 2023-05-14
+            - [华为诺亚提出新型Prompting (PHP)，GPT-4拿下最难数学推理数据集新SOTA](https://mp.weixin.qq.com/s/M6yRvpoyVu2tQpvE5P8hwQ) | 深度学习自然语言处理 2023-05-14
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
           - [ChatGPT「赏金猎人」招募！OpenAI悬赏2万美元，给ChatGPT找Bug](https://mp.weixin.qq.com/s/WJz0imEcMixEF1Dta6NEyA) | 大数据文摘 2023-04-12 
           - [大模型工具学习系统性综述+开源工具平台，清华、人大、北邮、UIUC、NYU、CMU等40多位研究者联合发布](https://mp.weixin.qq.com/s/arEEAm05i_9Lij4HnxJbEw) | PaperWeekly 2023-04-24
