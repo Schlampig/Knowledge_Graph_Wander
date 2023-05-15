@@ -216,6 +216,7 @@
         - [服务器液冷台湾专家交流纪要](https://mp.weixin.qq.com/s/ezNqVY_adPWUJNg-adQiZQ) | 投研驿站 2023-04-24
         - [陈天奇等人新作引爆AI界：手机原生跑大模型，算力不是问题了](https://mp.weixin.qq.com/s/uQGAu1v-6ApgZHVkZJsUdQ) | 机器之心 2023-05-01
         - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
+        - [让算力不再成为瓶颈，小红书机器学习异构硬件推理优化之道](https://mp.weixin.qq.com/s/0WpTYiMlR1UiJI2QKW6s9g) | 小红书技术REDtech 2023-05-15
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -312,6 +313,7 @@
             - [陆奇最新演讲实录：我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ) | 腾讯科技 2023-04-23
             - [陆奇关于大模型的最新演讲PPT下载《新范式、新时代、新机会》](https://mp.weixin.qq.com/s/l_D3FDoRKOUZOQxXMKfkbQ) | AI 共存派 2023-04-25
             - [Sam Altman 的创业手册](https://mp.weixin.qq.com/s/HWz7CWjJwLm6FfwgMi37sA) | Founder Park 2023-04-15
+              - [OpenAI Sam Altman对AI的最新思考：5.9 投资人峰会访谈](https://mp.weixin.qq.com/s/26T0tT1pfhghsKkDzCZ1AQ) | 人工智能学家 2023-05-15 
             - [专访高雪峰：从GPT3.5到4，年度AI对话](https://mp.weixin.qq.com/s/3IkE4PGixdlgjWElBLWQNg) | 合纵投研 2023-05-12
           - [ChatGPT开放API，价格直接打1折](https://mp.weixin.qq.com/s/S0pkSzesYzAXlJBt9ninZQ) | 量子位 2023-03-02
           - [ChatGPT之父撰文：《万物摩尔定律》出现，这场革命将创造惊人的财富](https://mp.weixin.qq.com/s/Rke9aKge955Fz85tG4Jq1g) | 人工智能学家 2023-02-28
@@ -441,6 +443,7 @@
           - [关于医疗LLM的随笔](https://mp.weixin.qq.com/s/GH3zXJMb690fx-fSMp-G8g) | AINLP 2023-04-06
           - [对话Peter Lee：大模型在医疗健康领域应用的机遇与挑战](https://mp.weixin.qq.com/s/Bp8ch8-Jjwi438E4PI4TGQ) | 微软亚洲研究院 2023-04-13
           - [也看垂直领域大模型微调落地-以医疗领域为例：从PMC-LLaMA增量预训到MedicalGPT-zh指令微调项目概述](https://mp.weixin.qq.com/s/5q6If6hhMGGWD7mZeRfNLg) | 老刘说NLP 2023-05-03
+          - [也谈大模型技术跟进的八点感悟：从拥抱变化但不丢芝麻到靠大模型但也需人工](https://mp.weixin.qq.com/s/ommvkEEZeXe7cJiAXaVVyg) | 老刘说NLP 2023-05-15
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
