@@ -105,6 +105,8 @@
   * ChatRWKV(PENG Bo):
     - code: https://github.com/BlinkDL/ChatRWKV
     - tutorial(中文): https://zhuanlan.zhihu.com/p/618011122
+    - blog:
+      - [使用RNN就能达到超越GPT的对话效果！甚至超越LLaMA？](https://mp.weixin.qq.com/s/gYW3L7YTNOCiJpu-66_l_g) | 深度学习自然语言处理 2023-05-12
   
   * ChatYuan(元语智能): 
     - code: https://github.com/clue-ai/ChatYuan
@@ -122,6 +124,7 @@
     - blog:
       - [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
       - [「ChatGPT最强竞品」爆火：不限量不要钱免注册！一手实测体验在此](https://mp.weixin.qq.com/s/QB85YPjh6DMBTPla4NDfXg) | 量子位 2023-04-14
+      - [一次10万token！GPT4最强对手史诗升级，百页资料一分钟总结完毕](https://mp.weixin.qq.com/s/h_JyYVs38lOrTmorQuoGCg) | 量子位 2023-05-12
   
   * ColossalAI(潞晨科技):
     - code: https://github.com/hpcaitech/ColossalAI
@@ -172,6 +175,7 @@
       - [文心一言 vs GPT-4实测！百度背水一战交卷](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ) | 量子位 2023-03-16
       - [文心一言算力从哪来？自家最大智算中心：算力规模4EFLOPS，base李彦宏老家](https://mp.weixin.qq.com/s/0f51e4aUmqlXBiztfaDfeg) | 量子位 2023-03-16
       - [文心一言「起舞」，触发云战场「变天」](https://mp.weixin.qq.com/s/k_UZpLJiNCJckmILDKHbnQ) | 雷峰网 2023-03-17
+      - [百度文心一言在国产模型中倒数？我看懵了](https://mp.weixin.qq.com/s/mKXw1A06Wyjznekhfuz4Hg) | 夕小瑶科技说 2023-05-12
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
 
@@ -429,6 +433,7 @@
     - blog:
       - [300美元平替ChatGPT！斯坦福130亿参数「小羊驼」诞生，暴杀「草泥马」](https://mp.weixin.qq.com/s/mErCYhbAXlhSFVUuyMc9hw) | 新智元 2023-03-31
       - [警惕不负责任的误导宣传-LLaMA微调7W数据的Vicuna达90%+ChatGPT：评测方式概述和开源微调数据介绍](https://mp.weixin.qq.com/s/whLY8wc6WMaHkx4VJ7aewg) | 老刘说NLP 2023-04-07 
+      - [大模型也内卷，Vicuna训练及推理指南，效果碾压斯坦福羊驼](https://mp.weixin.qq.com/s/tjXYrHCYhQQeRPEGBiSQWw) | AINLP 2023-05-12
   
   * Visual ChatGPT(微软):
     - blog:
