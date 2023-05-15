@@ -83,6 +83,7 @@
       - [【官方教程】ChatGLM-6B微调，最低只需7GB显存](https://mp.weixin.qq.com/s/miML4PXioK5iM8UI0cTSCQ) | 学术头条 2023-03-31
       - [文心一言 VS ChatGLM-6B对比](https://mp.weixin.qq.com/s/iK_0HCYyPAXJIUw5yuTB2w) | ArronAI 2023-03-20
       - [大模型掀起诸神之战，我们更需要人人可用的“普惠模型”](https://mp.weixin.qq.com/s/RMzZIRoSfM4rxCPQb8kXGQ) | 罗超频道 2023-04-17
+      - [ChatGLM基座：GLM（General Language Model）](https://mp.weixin.qq.com/s/B1U0GhnikrhFKozs_keM5w) | ChallengeHub 2023-05-15
     - extra:
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
@@ -460,6 +461,12 @@
 </br>
 
 ### W
+  * WebCPM(清华):
+    - code: https://github.com/thunlp/WebCPM
+    - [paper](https://arxiv.org/abs/2305.06849): WebCPM: Interactive Web Search for Chinese Long-form Question Answering.
+    - blog:
+      - [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ) | PaperWeekly 2023-05-13 
+
   * 袋熊Wombat(阿里达摩院):
     - code: https://github.com/GanjinZero/RRHF
     - [paper](https://arxiv.org/abs/2304.05302): RRHF: Rank Responses to Align Language Models with Human Feedback without tears.
