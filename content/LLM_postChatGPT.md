@@ -230,6 +230,12 @@
 </br>
 
 ### I
+  * InstructBLIP(Salesforce&港科大&南洋理工):
+    - code: https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
+    - [paper](https://arxiv.org/pdf/2305.06500.pdf): InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning.
+    - blog:
+      - [超越GPT-4！华人团队爆火InstructBLIP抢跑看图聊天，开源项目横扫多项SOTA](https://mp.weixin.qq.com/s/jI1cf7FDYJscHDZKiNvoug) | 新智元 2023-05-14 
+
   * InstructGLM(yanqiangmiffy):
     - code: https://mp.weixin.qq.com/s/5xFwqtJINh6HwdKPdgMARw
     - blog:
@@ -403,6 +409,11 @@
     - blog:
       - [商汤“日日新SenseNova”大模型超市，来了！](https://mp.weixin.qq.com/s/Y97ejN4ZeLqECvGhfUs8Gw) | 商汤科技SenseTime 2023-04-10
       - [商汤版ChatGPT「商量」来了！开放API，基于千亿参数大模型，体验实录在此](https://mp.weixin.qq.com/s/QoQwfuzttBMxLgjVZLYI4w) | 量子位 2023-04-10
+  
+  * StarChat:
+    - code: https://huggingface.co/blog/starchat-alpha
+    - blog:
+      - [秒杀自动编码Copilot！「动嘴编程」神器StarChat开源，码农狂喜](https://mp.weixin.qq.com/s/gYn33ZDqqabjagpacCsh-w) | 新智元 2023-05-14 
   
   * StarCoder(HuggingFace&ServiceNow ):
     - code: https://github.com/bigcode-project/starcoder
