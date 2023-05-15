@@ -360,7 +360,9 @@
         - [2023年04月30日：Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像素级出图](https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
+      - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
     - [ChilloutMix](https://civitai.com/models/6424/chilloutmix) with its [huggingface page](https://huggingface.co/TASUKU2023/Chilloutmix), with [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685).
+    - [Shape·E](https://github.com/openai/shap-e)([paper](https://arxiv.org/abs/2305.02463)): [OpenAI文本生成3D模型再升级，数秒完成建模，比Point·E更好用](https://mp.weixin.qq.com/s/dlOvI3YDRrQ4sXxq3V7EOg) | 机器之心 2023-05-14
     - CV-oriented Search Engine
       - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
       - [StockAI](https://www.stockai.com/): 新型AI图片库，会根据你的查询自动创建图片，可免费下载。
