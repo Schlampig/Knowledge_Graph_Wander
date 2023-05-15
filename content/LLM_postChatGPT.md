@@ -221,6 +221,7 @@
       - [用ChatGPT「指挥」数百个模型，HuggingGPT让专业模型干专业事](https://mp.weixin.qq.com/s/tjPEFApzdLjn2Y7iz8O77A) | 机器之心 2023-04-03
     - extra:
       - [HuggingChat叫板ChatGPT！300亿参数大模型免费用](https://mp.weixin.qq.com/s/oBWc42h6GeyIbyOI2jisqQ) | 新智元 2023-04-26
+      - [一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」](https://mp.weixin.qq.com/s/FaPTaMXOqCapE1mZKXnQKQ) | 机器之心 2023-05-12
 
 </br>
 
