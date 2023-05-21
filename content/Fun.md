@@ -250,6 +250,7 @@
       - [AnimeGAN](https://animegan.js.org/)
       - [Artbreeder](https://www.artbreeder.com/): [爷青回！AI把《灌篮高手》角色真人化，最帅的居然不是流川枫？](https://mp.weixin.qq.com/s/1yTLck34mdoE2xh4dSaUmQ)
       - [JoJoGAN](https://github.com/mchong6/JoJoGAN): [万物皆可JOJO：这个GAN直接让马斯克不做人啦 | Demo可玩](https://mp.weixin.qq.com/s/vlq33by6TJXp3R-WSQb8EQ)
+      - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/): [DragGAN，把大象P转身只需拖动鼠标](https://mp.weixin.qq.com/s/v8JaErniXq98G_7GrDRBDQ)
     - GAN Model
       - [awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
   * Image Caption
@@ -288,6 +289,7 @@
       - extra: [MinImagen](https://github.com/AssemblyAI-Examples/MinImagen)([doc](https://assemblyai-examples.github.io/MinImagen/)): a minimal implementation of the imagen text-to-image model.
     - [Modelverse](https://github.com/generative-intelligence-lab/modelverse): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
     - 基于GPT-2提示词训练的小项目: [code](https://huggingface.co/succinctly/text2image-prompt-generator) & [data](https://huggingface.co/datasets/succinctly/midjourney-prompts).
+    - [DreamFace](https://sites.google.com/view/dreamface): [上科大等发布DreamFace：只需文本即可生成「超写实3D数字人」](https://mp.weixin.qq.com/s/tzmSRn1xWFlNdHD8jxwy2A)
   * NeRF
     - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf)
     - [Neural Radiance Fields (NeRF，神经辐射场)介绍](https://zhuanlan.zhihu.com/p/380015071)
