@@ -75,6 +75,13 @@
 </br>
 
 ### C
+  * ChatALL(开课吧(?)孙志岗):
+    - code: https://github.com/sunner/ChatALL
+    - download: https://github.com/sunner/ChatALL/releases
+    - hub: https://chathub.gg/
+    - blog:
+      - [前哈工大教授开发的ChatALL火了！可同时提问17个聊天模型，ChatGPT/Bing/Bard/文心/讯飞都OK](https://mp.weixin.qq.com/s/1ERc9nBKMz9H_7hO02ky6w) | 量子位 2023-05-19 
+
   * ChatGLM(智谱AI):
     - code: https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning 
     - blog:
@@ -84,6 +91,11 @@
       - [文心一言 VS ChatGLM-6B对比](https://mp.weixin.qq.com/s/iK_0HCYyPAXJIUw5yuTB2w) | ArronAI 2023-03-20
       - [大模型掀起诸神之战，我们更需要人人可用的“普惠模型”](https://mp.weixin.qq.com/s/RMzZIRoSfM4rxCPQb8kXGQ) | 罗超频道 2023-04-17
       - [ChatGLM基座：GLM（General Language Model）](https://mp.weixin.qq.com/s/B1U0GhnikrhFKozs_keM5w) | ChallengeHub 2023-05-15
+    - technic:
+      - [从0到1基于ChatGLM-6B使用LoRA进行参数高效微调](https://mp.weixin.qq.com/s/ZqlOFOrDmLIzpTJm5y0Y3Q) | AINLP 2023-05-16
+      - [ChatGLM-6B V1.1：平衡微调数据，提升英文能力，加强中英互译](https://mp.weixin.qq.com/s/kkjnYQ8Mr-b_U-H0lgFi1Q) | AINLP 2023-05-17
+      - [使用DeepSpeed/P-Tuning v2对ChatGLM-6B进行微调](https://mp.weixin.qq.com/s/5Zx3I39cPzfWt-HN_e-jFw) | AINLP 2023-05-18
+      - [大模型阅读笔记：ChatGLM-6B模型结构组件源码阅读](https://mp.weixin.qq.com/s/bEBrWooUU2MuMt8DwzsDKQ) | 老刘说NLP 2023-05-19
     - extra:
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
@@ -282,6 +294,7 @@
       - [Meta开源的LLaMa到底好不好用？最全测评结果来了](https://mp.weixin.qq.com/s/k4mYf7ZwHWhi7dWb7gEjcQ) | 夕小瑶的卖萌屋 2023-03-06
       - [代码角度看LLaMA语言模型：Meta最新模型LLaMA细节与代码详解](https://mp.weixin.qq.com/s/kz2DpGDW-MUFLROTUk-olw) | 老刘说NLP 2023-03-06
       - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/) | AGI Sphere 2023-04-30
+      - [【LLM系列之LLaMA】LLaMA:Open and Efficient Foundation Language Models](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w) | ChallengeHub 2023-05-16
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
@@ -387,8 +400,15 @@
 
   * PandaLM(北京大学&西湖大学):
     - code: https://github.com/WeOpenML/PandaLM
+    - former study: https://github.com/PKU-Alignment/omnisafe
+    - dataset: https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF-10K
     - blog: 
       - [可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA) | 机器之心 2023-05-08
+  
+  * PKU-Beaver(北大):
+    - code: https://github.com/PKU-Alignment/safe-rlhf
+    - blog:
+      - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18 
 
 </br>
 
@@ -410,6 +430,13 @@
     - blog:
       - [商汤“日日新SenseNova”大模型超市，来了！](https://mp.weixin.qq.com/s/Y97ejN4ZeLqECvGhfUs8Gw) | 商汤科技SenseTime 2023-04-10
       - [商汤版ChatGPT「商量」来了！开放API，基于千亿参数大模型，体验实录在此](https://mp.weixin.qq.com/s/QoQwfuzttBMxLgjVZLYI4w) | 量子位 2023-04-10
+  
+  * SpeechGPT(复旦):
+    - code: https://github.com/0nutation/SpeechGPT
+    - [paper](https://arxiv.org/pdf/2305.11000.pdf): SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.
+    - demo: https://0nutation.github.io/SpeechGPT.github.io/
+    - blog: 
+      - [为多模态LLM指明方向，邱锡鹏团队提出具有内生跨模态能力的SpeechGPT](https://mp.weixin.qq.com/s/KpdOUdeYSVzrBtfuqFbjaQ) | 机器之心 2023-05-20  
   
   * StarChat:
     - code: https://huggingface.co/blog/starchat-alpha
@@ -450,6 +477,13 @@
   * Visual ChatGPT(微软):
     - blog:
       - [王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ) | 夕小瑶的卖萌屋 2023-03-10
+  
+  * VisualGLM(智谱AI&清华KEG):
+    - code: https://github.com/THUDM/VisualGLM-6B
+    - code2: https://huggingface.co/THUDM/visualglm-6b
+    - blog:
+      - [VisualGLM-6B：开源的多模态对话模型，最低只需8.7G显存](https://mp.weixin.qq.com/s/qXFDCz4AvgWo8oBiH-udgg) | 学术头条 2023-05-18
+      - [巧用prompt可提升解题：多模态对话语言模型VisualGLM-6B及借助多步渐进式提示PHP增强解题能力工作介绍](https://mp.weixin.qq.com/s/gGHjvqxt0E88cgAzfvejww) | 老刘说NLP 2023-05-18
   
   * VPGTrans(新加坡国立&清华):
     - code: https://github.com/VPGTrans/VPGTrans
