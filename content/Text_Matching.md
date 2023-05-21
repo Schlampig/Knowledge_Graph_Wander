@@ -106,6 +106,7 @@
 ### Contrastive Methods
   * Blogs:
     - [利用Contrastive Loss（对比损失）思想设计自己的loss function](https://mp.weixin.qq.com/s/F_7HtfYL0aJd_mfpc40Ycw)
+    - [在 Transformers 中使用对比搜索生成可媲美人类水平的文本](https://mp.weixin.qq.com/s/mydQLDlGUzFJuNBCIYc3CA)
   * SimCSE
     - [paper](https://arxiv.org/abs/2104.08821): SimCSE: Simple Contrastive Learning of Sentence Embeddings
     - [code](https://github.com/princeton-nlp/SimCSE)
