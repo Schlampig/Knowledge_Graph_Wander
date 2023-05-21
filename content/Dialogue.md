@@ -48,6 +48,7 @@
         - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
         - [Chat GPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.youtube.com/watch?v=e0aKI2GGZNg) | Hung-yi Lee :thumbsup:
         - [李宏毅：ChatGPT是怎么炼成的？](https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw) | AINLP 2022-12-08
+        - [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623) | 张俊林 2023-01-18
         - [台大李宏毅老师关于ChatGPT原理剖析的三部曲](https://mp.weixin.qq.com/s/NCd0NeYQtCFGoTijQgfN1A) | AINLP 2023-02-25
         - [台大資訊 深度學習之應用 | ADL 17.2: OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身](https://www.youtube.com/watch?v=ORHv8yKAV2Q) | Vivian NTU MiuLab :thumbup:
         - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
@@ -59,7 +60,9 @@
           - [paper](https://arxiv.org/abs/2304.13712)
           - [link](https://github.com/Mooler0410/LLMsPracticalGuide)
           - [超级详细：入门与 Follow GPT 的路径分析 - LLM 道阻且长，行则将至](https://mp.weixin.qq.com/s/C6v8CwpC9zzKu00uLjxEfA) | AINLP 2023-05-12
-        - [类ChatGPT系列开源微调模型的非最全梳理：4大类26小类开源微调模型梳理及几点感想](https://mp.weixin.qq.com/s/AVlrqFtqCDfpyhgjaHJvPg) | 老刘说NLP 2023-04-30
+        - [大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写](https://mp.weixin.qq.com/s/7HRr55Md2Wl6EHQMGioumw) | 机器之心 2023-04-03
+          - [必看！大语言模型调研汇总！！](https://mp.weixin.qq.com/s/G3OsV5SBgkMZSyp5PNqgHw) | AINLP 2023-04-11
+          - [类ChatGPT系列开源微调模型的非最全梳理：4大类26小类开源微调模型梳理及几点感想](https://mp.weixin.qq.com/s/AVlrqFtqCDfpyhgjaHJvPg) | 老刘说NLP 2023-04-30
           - [最全的国内chatGPT大模型企业及产品整理](https://mp.weixin.qq.com/s/8OMh9lQy1thbqs3J8F6LYg) | 数据与智能 2023-05-10
           -  [大模型迎来「开源季」，盘点过去一个月那些开源的LLM和数据集](https://mp.weixin.qq.com/s/VleZkQT6Vga7vqZP8pvgQQ) | 机器之心 2023-05-16
           - [大模型选型的一点思考](https://mp.weixin.qq.com/s/NOcUlNPOXZheXJ9yX4wrLQ) | 深度学习自然语言处理 2023-05-20 
@@ -182,6 +185,7 @@
         - [强化学习：PPO(Proximal Policy Optimization)在谈恋爱中的应用](https://mp.weixin.qq.com/s/J340A1feOgj7jZ01OMvzXg) | AI算法小喵 2023-02-21
         - [RLHF魔法的衍生研究方向](https://mp.weixin.qq.com/s/ZfvWr1NvOqVOu9IZd-Jt0w) | 李rumor 2023-03-08
         - [ChatGPT成功的“秘密武器”：RLHF将怎样影响人类社会？](https://mp.weixin.qq.com/s/rgw1cFOheofQuE8mLxe32A) | 学术头条 2023-03-08
+        - [一文整理GPT-3 + RL 全流程训练开源项目](https://mp.weixin.qq.com/s/QKQeUbitKDnkP2cUNB8TJA) | AI算法小喵 2023-03-21
         - [在一张 24 GB 的消费级显卡上用 RLHF 微调 20B LLMs](https://mp.weixin.qq.com/s/7nmegO1UYObO0-eUDTKnMg) | Hugging Face 2023-03-22
         - [RLHF，对齐了，又没完全对齐？](https://mp.weixin.qq.com/s/kpV3uXn4eewNeRAQadyifg) | 李rumor 2023-04-10
         - [ChatGPT背后的技术-基于人类反馈的强化学习(RLHF) 理论篇](https://mp.weixin.qq.com/s/Ix3et0QZcd7M9CNDbpzJjQ) | AINLP 2023-04-10
@@ -646,7 +650,6 @@
 
 ### Blogs & Reviews
   * [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
-  * [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623) | 张俊林 2023-01-18
   * [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
   * [从ChatGPT到生成式AI（98页PPT）](https://mp.weixin.qq.com/s/OFmrkms8lNsi9C7BpfNI2w) | 与数据同行 2023-02-19
   * [ChatGPT背后的大模型技术如何炼？MSU等最新《预训练基础模型综述》，97页pdf全面阐述BERT到ChatGPT历史脉络](https://mp.weixin.qq.com/s/yDB9VKSKIu-4spJ2hiH1JQ) | 专知 2023-02-22
@@ -654,11 +657,8 @@
   * [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://mp.weixin.qq.com/s/id57rG9nN_agaE3HXkANZA) | 深度学习自然语言处理 2023-03-11
   * [开源语言模型百宝袋 (Ver. 1.0)](https://mp.weixin.qq.com/s/VGHlgX66Ql6pjSym2OxqMA) | 看个通俗理解吧 2023-03-17
   * [全面了解大语言模型，这有一份阅读清单](https://mp.weixin.qq.com/s/o4z_p0LgY-HfTUrHMwHCdw) | 机器之心 2023-03-20
-  * [一文整理GPT-3 + RL 全流程训练开源项目](https://mp.weixin.qq.com/s/QKQeUbitKDnkP2cUNB8TJA) | AI算法小喵 2023-03-21
   * [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
-  * [大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写](https://mp.weixin.qq.com/s/7HRr55Md2Wl6EHQMGioumw) | 机器之心 2023-04-03
   * [194篇文献调研ChatGPT最新研究进展！最新《ChatGPT/GPT-4研究综述及对大型语言模型未来的展望》国内外研究者编著](https://mp.weixin.qq.com/s/UNpX_Uycquc05priAa5rYw) | 专知 2023-04-07
-  * [必看！大语言模型调研汇总！！](https://mp.weixin.qq.com/s/G3OsV5SBgkMZSyp5PNqgHw) | AINLP 2023-04-11
   * [生成式AI的一小步，AGI的一大步：AIGC时代ChatGPT全盘调研](https://mp.weixin.qq.com/s/5vHxXaMCgbOCLF6xb3MmHg) | ChallengeHub 2023-04-14
   * [后GPT书：从GPT-3开始，续写Transformer庞大家族系谱](https://mp.weixin.qq.com/s/M-ToNk8SABoP2JG0xLUBxQ) | 机器之心 2023-04-16
   * [开源视角下的ChatGPT项目概述：训练、分析、检测、应用四大类ChatGPT开源项目整理报告](https://mp.weixin.qq.com/s/WeAfvtNWH94SHCTLR_BLcw) | 老刘说NLP 2023-04-19
