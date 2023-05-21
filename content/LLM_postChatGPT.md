@@ -295,6 +295,7 @@
       - [代码角度看LLaMA语言模型：Meta最新模型LLaMA细节与代码详解](https://mp.weixin.qq.com/s/kz2DpGDW-MUFLROTUk-olw) | 老刘说NLP 2023-03-06
       - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/) | AGI Sphere 2023-04-30
       - [【LLM系列之LLaMA】LLaMA:Open and Efficient Foundation Language Models](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w) | ChallengeHub 2023-05-16
+      - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
