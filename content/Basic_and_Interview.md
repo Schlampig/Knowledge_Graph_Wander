@@ -238,6 +238,11 @@
   * author: Phillip Lippe
   * keywords: 阿姆斯特丹大学深度学习课程
 
+### 李宏毅深度学习教程(LeeDL-Tutorial)
+  * link: https://github.com/datawhalechina/leedl-tutorial
+  * homepage: https://datawhalechina.github.io/leedl-tutorial/#/
+  * blog: [《李宏毅深度学习笔记》开源了！AI界最热视频老师！新增ChatGPT内容](https://mp.weixin.qq.com/s/L2jZjJ0RUp4c9anVEgVx3Q) | Datawhale 2023-05-18
+
 ### AI SUMMER
   * link: https://github.com/The-AI-Summer
   * website: https://theaisummer.com/
