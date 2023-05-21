@@ -171,6 +171,10 @@
         - code: https://huggingface.co/databricks/dolly-v2-12b
         - dataset: https://github.com/databrickslabs/dolly/tree/master/data  
   
+  * DreamGPT(DivergentAI):
+    - code: https://github.com/DivergentAI/dreamGPT
+    - note: 首个利用大型语言模型(LLMs)产生的幻觉进行发散性思考，以创造新颖创新想法的基于GPT的解决方案。目标是尽可能探索更多的可能性，而不是解决特定的问题。
+  
   * Dromedary(IBM):
     - code: https://huggingface.co/zhiqings/dromedary-65b-lora-delta-v0
     - [paper](https://arxiv.org/pdf/2305.03047.pdf): Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision.
