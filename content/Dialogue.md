@@ -90,6 +90,7 @@
         - [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
         - [Those Magnificent underdogs competing ChatGPT](https://toooold.com/2023/04/08/magnificient_underdogs.html): ChatGPT平替方案.
         - [【LLM系列之底座模型对比】LLaMA、Palm、GLM、BLOOM、GPT模型结构对比](https://mp.weixin.qq.com/s/UkifGP2OXxGWeMV7Jm4zWQ) | ChallengeHub 2023-05-18
+        - [LLMs九层妖塔](https://github.com/km1994/LLMsNineStoryDemonTower): 分享“打怪”(ChatGLM、Chinese-LLaMA-Alpaca、MiniGPT-4、FastChat、LLaMA、gpt4all等)实战与经验。
       - Dataset & Corpus:
         - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
         - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
@@ -149,6 +150,8 @@
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
         - [【LLM系列之Tokenizer】如何科学地训练一个LLM分词器](https://mp.weixin.qq.com/s/4_P2G2Q0YmunQh7DwDas3w) | ChallengeHub 2023-05-19
+        - [NLP 中语言表示 (向量化) 的基本原理和历史演变综述](https://blog.csdn.net/u010280923/article/details/130555437) | Alexxinlu(CSDN) 2023-05-15
+        - [tokenmonster](https://github.com/alasdairforsythe/tokenmonster): Determine the tokens that optimally represents a dataset at any specific vocabulary size.
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
