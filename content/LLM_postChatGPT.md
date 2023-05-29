@@ -312,6 +312,8 @@
   * LaWGPT(南大Pengxiao Song):
     - code: https://github.com/pengxiao-song/LawGPT
     - note: 一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
+    - extra:
+      - [也读Lawyer LLaMA法律领域微调大模型：从训练数据、模型训练到实验效果研读](https://mp.weixin.qq.com/s/Oqa6qOSI7rrhQ5kx4FzvZw) | 老刘说NLP 2023-05-26
   
   * LIMA(Meta):
     - [paper](https://arxiv.org/abs/2305.11206): LIMA: Less Is More for Alignment.
@@ -533,6 +535,12 @@
     - blog:
       - [VisualGLM-6B：开源的多模态对话模型，最低只需8.7G显存](https://mp.weixin.qq.com/s/qXFDCz4AvgWo8oBiH-udgg) | 学术头条 2023-05-18
       - [巧用prompt可提升解题：多模态对话语言模型VisualGLM-6B及借助多步渐进式提示PHP增强解题能力工作介绍](https://mp.weixin.qq.com/s/gGHjvqxt0E88cgAzfvejww) | 老刘说NLP 2023-05-18
+  
+  * Voyager(英伟达):
+    - homepage: https://voyager.minedojo.org/
+    - [paper](https://arxiv.org/abs/2305.16291): Voyager: An Open-Ended Embodied Agent with Large Language Models. 
+    - blog:
+      - [英伟达AI智能体接入GPT-4，完胜AutoGPT！自主写代码独霸我的世界，无需人类插手](https://mp.weixin.qq.com/s/jaUeCl5pSs-sier89MXq1Q) | 新智元 2023-05-27 
   
   * VPGTrans(新加坡国立&清华):
     - code: https://github.com/VPGTrans/VPGTrans
