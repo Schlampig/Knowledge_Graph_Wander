@@ -245,6 +245,7 @@
    - discord community: https://discord.gg/pWeBheVY7n
    - blog:
      - [首个大规模使用工具的大模型来了：伯克利发布Gorilla](https://mp.weixin.qq.com/s/p9tx3q3Lpr4fNqdyxWhzyA) | 机器之心 2023-05-26
+     - [也读大猩猩Gorilla—面向API调用场景的微调语言模型：从训练数据、训练方法到模型效果评估](https://mp.weixin.qq.com/s/HOW8xURiThngfyuQq9RXaw) | 老刘说NLP 2023-05-28
   
   * GPT4All
     - code: https://github.com/nomic-ai/gpt4all
