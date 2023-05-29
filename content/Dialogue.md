@@ -204,6 +204,7 @@
         - [调研27个模型后，代码生成的知识增加了](https://mp.weixin.qq.com/s/ejBhtVkclcwoID3f78zteQ) | 李rumor 2023-05-19
         - [陈丹琦团队最新力作：上下文学习在上下文“学到”了什么？](https://mp.weixin.qq.com/s/KF1k3E662BFEwfDvTHD5LA) | 深度学习自然语言处理 2023-05-21
         - [数据规模缩小 200 倍！超低训练成本的指令微调，完美复刻大模型](https://mp.weixin.qq.com/s/jyiQSRKg3AXNex0YeROzZw) | 夕小瑶科技说 2023-05-22
+        - [NLP新范式：Interactive Natural Language Processing（交互式自然语言处理）](https://arxiv.org/abs/2305.13246) | 2023-05-22 
         - [大模型知识Out该怎么办？浙大团队探索大模型参数更新的方法—模型编辑](https://mp.weixin.qq.com/s/Go_lBw77ktHuHz7FsUjY-w) | 夕小瑶科技说 2023-05-25
         - [bloom_tuning: BLOOM 模型的指令微调](https://mp.weixin.qq.com/s/KyoQcKVvdKO6fkd7t7qnZQ) | AINLP 2023-05-28
       - RLHF & RLAIF & Alignment:
