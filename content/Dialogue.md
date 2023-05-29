@@ -161,6 +161,7 @@
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
         - [Transformer 估算 101](https://mp.weixin.qq.com/s/MFgTUDAOODgMDb59eZC9Cw) | Hugging Face 2023-05-18
+        - [Transformer高效训练方法一览](https://mp.weixin.qq.com/s/EY1AyYqDY6FF6fGikP-Ptw) | 深度学习自然语言处理 2023-05-24
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -312,6 +313,7 @@
           - [支持大模型研发，**第四范式**与西安智算中心达成战略合作](https://mp.weixin.qq.com/s/LArv6IPPKDeUvfM61f_wmQ) | 第四范式 2023-04-12
             - [现场拔网线！第四范式版GPT能力首秀，有点不一样](https://mp.weixin.qq.com/s/OgiHWs0Gher4MTS40rAopg) | 量子位 2023-04-26 
             - [胡时伟：关于大模型技术的三点思考](https://mp.weixin.qq.com/s/k_L3b0v5LZ5Kp2W0t-9gcQ) | 第四范式 2023-05-23
+            - [式说携手国家开放大学，终身教育平台智能学伴“白泽”上线](https://mp.weixin.qq.com/s/6nkCfudyF4CROGsWdT_7rA) | 第四范式 2023-05-24
           - [**鹅厂**发布大模型计算集群！算力提升3倍，4天就能训完万亿规模大模型](https://mp.weixin.qq.com/s/h9PMTokBPdJawRlyGMRTmA) | 量子位 2023-04-14
           - [制造业「ChatGPT」来了，我们和「**奇智**孔明」聊了聊](https://mp.weixin.qq.com/s/TPzZjLzLPMI1jefyieV7CQ) | 机器之心 2023-04-15
           - [写周报、改代码，连续互动20轮，国产类ChatGPT新玩家「**天工**」来了](https://mp.weixin.qq.com/s/p9K0OP-kVsn_eUNd6bX2UQ) | 机器之心 2023-04-19
@@ -442,6 +444,7 @@
           - [后 GPT 时代，我们应如何与 AI 一起工作？](https://mp.weixin.qq.com/s/Xqv3bD6d5s5FLAtx0HmDUQ) | 北京庖丁科技 2023-04-27
           - [parsio.io：AI 驱动的 PDF 解析器和 OCR 工具 可识别图片信息](https://mp.weixin.qq.com/s/tKohJldwuZQOLvr7-u5cZg) | AI 共存派 2023-05-06
           - [LlamaIndex ：面向QA 系统的全新文档摘要索引](https://mp.weixin.qq.com/s/1zvXlcGfVdxU8_Pj5f2E1g) | ChallengeHub 2023-05-10
+          - [对比 4 款 AI 阅读工具，我找到了「阅读文档」的最佳助手](https://mp.weixin.qq.com/s/KUNiI3Qw4fvzRJVeZaAd1w) | 少数派 2023-05-24
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
