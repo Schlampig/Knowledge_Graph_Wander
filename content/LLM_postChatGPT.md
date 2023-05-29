@@ -217,6 +217,12 @@
 </br>
 
 ### G
+  * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能实验室):
+    - code: https://github.com/OpenGVLab/GITM
+    - [paper](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf): Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory.
+    - blog:
+      - [商汤、清华发布通才智能体完全解锁《我的世界》，像人类一样生存，探索和创造](https://mp.weixin.qq.com/s/iECSXLdAasrwNwQTruLP7g) | 机器之心 2023-05-27 
+
   * Glow(北京稀宇科技有限公司(MiniMax)):
     - [api](https://api.minimax.chat/)
     - [demo](https://www.inspo.vip/)
