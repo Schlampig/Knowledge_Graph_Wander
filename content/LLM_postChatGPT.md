@@ -149,6 +149,12 @@
     - blog:
       - [0门槛克隆ChatGPT方案再升级，开源模型完整复现，在线体验无需注册](https://mp.weixin.qq.com/s/V5pCvYvkPXwiMw-FNIErXw) | 机器之心 2023-03-29
 
+  * CPM-Bee(OpenBMB):
+    - code: https://github.com/OpenBMB/CPM-Bee
+    - huggingface: https://huggingface.co/openbmb/cpm-bee-10b
+    - blog:
+      - [终于 ！中文基座模型CPM-Bee开源了](https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA) | OpenBMB开源社区 2023-05-27 
+
 </br>
 
 ### D
@@ -537,7 +543,7 @@
   
   * VisualGLM(智谱AI&清华KEG):
     - code: https://github.com/THUDM/VisualGLM-6B
-    - code2: https://huggingface.co/THUDM/visualglm-6b
+    - huggignface: https://huggingface.co/THUDM/visualglm-6b
     - blog:
       - [VisualGLM-6B：开源的多模态对话模型，最低只需8.7G显存](https://mp.weixin.qq.com/s/qXFDCz4AvgWo8oBiH-udgg) | 学术头条 2023-05-18
       - [巧用prompt可提升解题：多模态对话语言模型VisualGLM-6B及借助多步渐进式提示PHP增强解题能力工作介绍](https://mp.weixin.qq.com/s/gGHjvqxt0E88cgAzfvejww) | 老刘说NLP 2023-05-18
