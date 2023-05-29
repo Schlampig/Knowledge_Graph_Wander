@@ -153,7 +153,9 @@
     - code: https://github.com/OpenBMB/CPM-Bee
     - huggingface: https://huggingface.co/openbmb/cpm-bee-10b
     - blog:
-      - [终于 ！中文基座模型CPM-Bee开源了](https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA) | OpenBMB开源社区 2023-05-27 
+      - [终于 ！中文基座模型CPM-Bee开源了](https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA) | OpenBMB开源社区 2023-05-27
+    - extra:
+      - [面壁智能联合知乎开源 CPM-Bee 并发布智能对话助手“露卡”（Luca），联网论文查找摘要功能太炸裂了！](https://mp.weixin.qq.com/s/fowTQs7xHLS_0rEtIuLaaA) | 量子位 2023-05-29 
 
 </br>
 
