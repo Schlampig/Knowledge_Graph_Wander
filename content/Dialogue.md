@@ -127,6 +127,7 @@
         - [国内首个大模型评测数据集（MMCU）问世 加速完善国产AI产业图谱](https://mp.weixin.qq.com/s/woc2nwEXatVXFOiOwPtrxA) | 老刘说NLP 2023-05-22
         - [大模型知识&推理评估基准MMLU](https://mp.weixin.qq.com/s/P0ohd5DpwJOkL8DFVC4qoA) | 李rumor 2023-05-25
         - [大模型评测最新调研和一点思考](https://mp.weixin.qq.com/s/qrxmqGneKeKt9kI2B9iDTg) | AINLP 2023-05-28
+        - [ChatGPT时代情感分析还存在吗？一份真实调查](https://mp.weixin.qq.com/s/5pyA0rgahHESDOFKvwfsGw) | 深度学习自然语言处理 2023-05-29
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
