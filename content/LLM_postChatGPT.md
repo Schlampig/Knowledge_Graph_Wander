@@ -164,6 +164,10 @@
     - blog:
       - [GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23
   
+  * DB-GPT(magic.chen):
+    - code: https://github.com/csunny/DB-GPT
+    - note: 一个开源的以数据库为基础的GPT实验项目，使用本地化的GPT大模型与您的数据和环境进行交互，无数据泄露风险，100% 私密，100% 安全。
+  
   * DeepSpeed Chat(微软):
     - code: https://github.com/microsoft/DeepSpeed
     - homepage: https://www.deepspeed.ai/
