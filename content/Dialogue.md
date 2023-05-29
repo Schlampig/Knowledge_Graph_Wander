@@ -122,6 +122,7 @@
           - [大羊驼、羊驼、小羊驼和ChatGPT比差在哪儿？CMU副教授测评了7个类ChatGPT大模型](https://mp.weixin.qq.com/s/G6HZDf5BpPs1uom0r8qNzg) | 机器之心 2023-05-21, [code](https://zeno-ml-chatbot-report.hf.space/) 
         - [C-EVAL：上交清华搞事情！发起最全学科大模型中文知识及推理评测！GPT-4 竟然血洗所有国产模型](https://mp.weixin.qq.com/s/deKVGxf-Zrbb1Pjui5CdUg) | 夕小瑶科技说 2023-05-22
         - [国内首个大模型评测数据集（MMCU）问世 加速完善国产AI产业图谱](https://mp.weixin.qq.com/s/woc2nwEXatVXFOiOwPtrxA) | 老刘说NLP 2023-05-22
+        - [大模型知识&推理评估基准MMLU](https://mp.weixin.qq.com/s/P0ohd5DpwJOkL8DFVC4qoA) | 李rumor 2023-05-25
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -157,6 +158,7 @@
         - [NLP 中语言表示 (向量化) 的基本原理和历史演变综述](https://blog.csdn.net/u010280923/article/details/130555437) | Alexxinlu(CSDN) 2023-05-15
         - [tokenmonster](https://github.com/alasdairforsythe/tokenmonster): Determine the tokens that optimally represents a dataset at any specific vocabulary size.
         - [中文LLaMA&Alpaca大语言模型词表扩充+预训练+指令精调](https://mp.weixin.qq.com/s/ZS1w8-JLrT0U-5v2nk4w8Q) | 吃果冻不吐果冻皮 2023-05-23
+        - [大模型词表扩充必备工具SentencePiece](https://mp.weixin.qq.com/s/qQMZ1s7lt-LLkQKx7HIDMw) | AINLP 2023-05-24
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -192,6 +194,7 @@
         - [调研27个模型后，代码生成的知识增加了](https://mp.weixin.qq.com/s/ejBhtVkclcwoID3f78zteQ) | 李rumor 2023-05-19
         - [陈丹琦团队最新力作：上下文学习在上下文“学到”了什么？](https://mp.weixin.qq.com/s/KF1k3E662BFEwfDvTHD5LA) | 深度学习自然语言处理 2023-05-21
         - [数据规模缩小 200 倍！超低训练成本的指令微调，完美复刻大模型](https://mp.weixin.qq.com/s/jyiQSRKg3AXNex0YeROzZw) | 夕小瑶科技说 2023-05-22
+        - [大模型知识Out该怎么办？浙大团队探索大模型参数更新的方法—模型编辑](https://mp.weixin.qq.com/s/Go_lBw77ktHuHz7FsUjY-w) | 夕小瑶科技说 2023-05-25
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
