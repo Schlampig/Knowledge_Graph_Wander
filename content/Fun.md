@@ -4,6 +4,7 @@
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
   * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)([离线版本](https://mp.weixin.qq.com/s/yAepL7CwBIQKRlO7-ED5ag))，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
+  * [行行查](https://www.hanghangcha.com/)
 </br>
 
 ### Art & Design
