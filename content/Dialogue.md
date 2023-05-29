@@ -156,6 +156,7 @@
         - [【LLM系列之Tokenizer】如何科学地训练一个LLM分词器](https://mp.weixin.qq.com/s/4_P2G2Q0YmunQh7DwDas3w) | ChallengeHub 2023-05-19
         - [NLP 中语言表示 (向量化) 的基本原理和历史演变综述](https://blog.csdn.net/u010280923/article/details/130555437) | Alexxinlu(CSDN) 2023-05-15
         - [tokenmonster](https://github.com/alasdairforsythe/tokenmonster): Determine the tokens that optimally represents a dataset at any specific vocabulary size.
+        - [中文LLaMA&Alpaca大语言模型词表扩充+预训练+指令精调](https://mp.weixin.qq.com/s/ZS1w8-JLrT0U-5v2nk4w8Q) | 吃果冻不吐果冻皮 2023-05-23
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -171,6 +172,10 @@
       - Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
+        - [越小越好: Q8-Chat，在英特尔至强 CPU 上体验高效的生成式 AI](https://mp.weixin.qq.com/s/O55qgGeD5lDKl9tGVmBN3g) | Hugging Face 2023-05-23
+      - Parallel & Distribution
+        - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
+        - [一文详解解 DeepSpeed](https://mp.weixin.qq.com/s/NYHTsxZZ7-DN7rfYPjTogQ) | AINLP 2023-05-23
       - Instruction Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
@@ -249,7 +254,6 @@
         - [都在卷大模型底座，亚马逊云科技决定给底座造底座](https://mp.weixin.qq.com/s/Qin0_0hLkVRposPJkPy1Cw) | 量子位 2023-04-19
         - [服务器液冷台湾专家交流纪要](https://mp.weixin.qq.com/s/ezNqVY_adPWUJNg-adQiZQ) | 投研驿站 2023-04-24
         - [陈天奇等人新作引爆AI界：手机原生跑大模型，算力不是问题了](https://mp.weixin.qq.com/s/uQGAu1v-6ApgZHVkZJsUdQ) | 机器之心 2023-05-01
-        - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
         - [让算力不再成为瓶颈，小红书机器学习异构硬件推理优化之道](https://mp.weixin.qq.com/s/0WpTYiMlR1UiJI2QKW6s9g) | 小红书技术REDtech 2023-05-15
         - [面向AI大模型的智算中心网络演进白皮书，30页pdf](https://mp.weixin.qq.com/s/xHzcNKpncieBMrNl5cAFaQ) | 专知 2023-05-15
         - [大模型多机多卡训练加速比测试](https://zhuanlan.zhihu.com/p/631310545?utm_campaign=shareopn&utm_medium=social&utm_oi=807339714590949376&utm_psn=1644024552421371904&utm_source=wechat_session) | 章彦博 2023-05-24
@@ -604,6 +608,7 @@
         - [重磅内幕：OpenAI即将开源新模型！开源社区的繁荣，全靠大厂「施舍」？](https://mp.weixin.qq.com/s/9TmW5nwLLjg9eZ59nv91Qg) | 新智元 2023-05-16
         - [ChatGPT之父舌战国会山！OpenAI欲与政府联手，权力通天](https://mp.weixin.qq.com/s/dAVlsHTZNAS0EwySj0qQhw) | 新智元 2023-05-17
           - [直击OpenAI首次听证会：大模型研究不暂停，AI厂商可能要上牌照](https://mp.weixin.qq.com/s/wn7RaXhgXst2gRHzuWwlAQ) | 智能涌现 2023-05-17 
+        - [ChatGPT重塑Windows！微软王炸更新：操作系统全面接入，Bing也能用插件了](https://mp.weixin.qq.com/s/93UaOWiAQy1dlPSxDLi1Mg) | 量子位 2023-05-24
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -681,4 +686,5 @@
   * [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
   * [这可能是一份LLM实践面试宝典](https://mp.weixin.qq.com/s/abvdeMzxKSSo3DHRaojMPw) | 深度学习自然语言处理 2023-05-06
   * [综述｜如何利用LLM做多模态任务？](https://mp.weixin.qq.com/s/QnVhMS__v7WT5YiHZF-jYg) | 李rumor 2023-05-08
+  * [NLP对话系统及实战项目分享【含源码】](https://mp.weixin.qq.com/s/v1w7gxbMsANtZdGdT1Abgg) | 老刘说NLP 2023-05-23
 
