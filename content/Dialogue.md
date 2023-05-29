@@ -240,6 +240,7 @@
         - [ChatGPT的狂欢背后：短板犹在，启发甚多，2023有这些事可以做……](https://mp.weixin.qq.com/s/B_jXU3Phyx5AC7ny15fdkw) | 机器之心 2023-01-03
         - [ChatGPT会对未来5年的NLP算法从业者带来怎样的冲击？](https://mp.weixin.qq.com/s/1HZoNBovqn1FNlxghDXMFg) | AINLP 2023-01-07
         - [为什么说 ChatGPT 抢不走程序员的饭碗！](https://mp.weixin.qq.com/s/KXihukzVXnQGNeBUfWhIHg) | AI科技大本营 2023-04-24
+        - [现在读博入坑NLP做什么？UMICH这份《大模型时代NLP研究: 博士生视角》提供指南，20多位博士生倾囊相授](https://mp.weixin.qq.com/s/zoImfIlCtLUcJ2caOgfO2Q) | 专知 2023-05-25
       - 工程化 & 硬件：
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
@@ -548,6 +549,7 @@
           - [AI在劳动节淘汰7800打工人，永久的](https://mp.weixin.qq.com/s/crPVttsbyYWhBdRyWYSNDA) | 量子位 2023-05-03
           - [GPT究竟是谁的机会？](https://mp.weixin.qq.com/s/fUnpndRp1klnXtM8oIs3fw) | 36氪Pro 2023-05-05
           - [在 AI 时代，你会被放大一千倍的能力是什么？](https://mp.weixin.qq.com/s/tvHaodc_rR2HVizVGZ1XqQ) | Datawhale 2023-05-08
+          - [中国的OpenAI，藏在这几栋楼里](https://mp.weixin.qq.com/s/HpTmA9oCes8WX51UsEE73Q) | 中国企业家杂志 2023-05-25
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
           - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
           - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
