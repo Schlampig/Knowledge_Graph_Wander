@@ -107,6 +107,7 @@
         - [详谈大模型训练中的数据收集、处理与模型影响：A Survey of Large Language Models工作中的数据总结](https://mp.weixin.qq.com/s/bHsb631KA5AaulBHNT5m9w) | 老刘说NLP 2023-05-13
           - [paper](https://arxiv.org/pdf/2303.18223.pdf): A Survey of Large Language Models. 
         - [也谈大模型预训练数据的采样优化及今日模型开源速递：DoReMi最小优化的领域再加权方法及模型开源进展](https://mp.weixin.qq.com/s/hBxyCJEtqam93HNmQ_A72g) | 老刘说NLP 2023-05-20
+        - [也谈文本数据处理实践：从clean-dialog对话数据清洗、string2string字符处理到基于预训模型的PPL困惑度计算](https://mp.weixin.qq.com/s/NeLvRbCQ9oRw_AhN1HgGNA) | 老刘说NLP 2023-05-27
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
@@ -173,6 +174,7 @@
         - [让天下没有难Tuning的大模型：PEFT技术简介](https://mp.weixin.qq.com/s/E_0-skD3__w5jLGEJlDpoA) | PaperWeekly 2023-04-27
         - [LoRA：卷完图像生成领域，卷文本生成领域的东西，到底是个啥？](https://mp.weixin.qq.com/s/MsOi-j1lv8yklRc6SvraZA) | AINLP 2023-04-29
         - [Finetune LLMs：Adapter Tuning](https://mp.weixin.qq.com/s/M5DsIWGe9rc6jmDtEKbjgQ) | WGS的学习笔记 2023-05-18
+        - [调教LLaMA类模型没那么难，LoRA将模型微调缩减到几小时](https://mp.weixin.qq.com/s/1jtMvn7IlcS41Z2rGlG4Xg) | 深度学习自然语言处理 2023-05-27
       - Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
@@ -635,6 +637,7 @@
         - [拟定外逃、接管推特，20多天GPT-4创造的20件最不可思议事情](https://mp.weixin.qq.com/s/FWvZtjL73VK3RHRWAGjdgA) | 机器之心 2023-04-11
         - [当GPT-4化身主考官：与ChatGPT处于同水平的有这些](https://mp.weixin.qq.com/s/dqFQtrzkTJMs41_13x2mHw) | 量子位 2023-04-16
         - [120名顶级技术专家用GPT-4搞出的脑洞发明大赏](https://mp.weixin.qq.com/s/Q_bxec4-kV_1-Q1uNsAYXg) | 夕小瑶科技说 2023-04-23
+        - [我用GPT搭建了一个虚拟女友！](https://mp.weixin.qq.com/s/8eKNKVZuscejT1qSNIJCig) | Datawhale 2023-05-27
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
