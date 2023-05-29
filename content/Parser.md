@@ -61,6 +61,11 @@
   * author: [Thomas Roten](https://github.com/tsroten)
   * note: constants used in Chinese text processing.
 
+### fastcws
+  * link: https://github.com/fastcws/fastcws
+  * author: fastcws
+  * note: 轻量级高性能中文分词项目.
+
 ### Others
   * [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK)
   * [FudanNLP](https://github.com/FudanNLP/fnlp)
