@@ -138,6 +138,7 @@
         - [微软官方亲自出教程，拿捏「Prompt工程」高级玩法](https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA) | 机器之心 2023-05-11
         - [强过AutoGPT！微软重磅研究提出APO算法，「自动提示」淘汰提示工程师](https://mp.weixin.qq.com/s/Ryy7Yg2S3gCp11g7HMBuWw) | 新智元 2023-05-22
         - [吴恩达 x OpenAI Prompt Engineering教程中文笔记](https://mp.weixin.qq.com/s/LNPm5dk9pqN7dsx6MFDbTA) | Datawhale 2023-05-22
+        - [Prompt设计——LLMs落地的版本答案](https://mp.weixin.qq.com/s/PTiIbGc47t2PIaVQ3aZKtg) | CS的陋室 2023-05-27
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
