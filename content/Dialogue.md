@@ -66,6 +66,7 @@
           - [最全的国内chatGPT大模型企业及产品整理](https://mp.weixin.qq.com/s/8OMh9lQy1thbqs3J8F6LYg) | 数据与智能 2023-05-10
           -  [大模型迎来「开源季」，盘点过去一个月那些开源的LLM和数据集](https://mp.weixin.qq.com/s/VleZkQT6Vga7vqZP8pvgQQ) | 机器之心 2023-05-16
           - [大模型选型的一点思考](https://mp.weixin.qq.com/s/NOcUlNPOXZheXJ9yX4wrLQ) | 深度学习自然语言处理 2023-05-20 
+        - [OpenAI大神Andrej官方揭秘GPT大模型原理和训练过程](https://mp.weixin.qq.com/s/PLkwPnuVmuBtAcdQnVG-MQ) | 知识工场 2023-05-29
       - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
@@ -234,6 +235,7 @@
         - [ACL 2023长文 | 先计划再求解：提升大型语言模型的零样本链式推理](https://mp.weixin.qq.com/s/caLLfS0O7S7fbansOr-GVw) | PaperWeekly 2023-05-16
         - [AI「黑箱」被打开？谷歌找到大模型能力涌现机制](https://mp.weixin.qq.com/s/XGysD7JFnoHMpAXZd2xdNg) | 新智元 2023-05-21
         - [GPT-4推理提升1750%！普林斯顿清华姚班校友提出全新「思维树ToT」框架，让LLM反复思考](https://mp.weixin.qq.com/s/1SswD6i6lGxKAvU-pzz-6A) | 新智元 2023-05-22
+        - [大模型思维链(CoT)全新升级，多链元推理(MCR)显著提升LLM推理能力](https://mp.weixin.qq.com/s/l20PkrQzJOCvNGD0NH0r0w) | 将门创投 2023-05-29
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -249,6 +251,7 @@
         - [ChatGPT会对未来5年的NLP算法从业者带来怎样的冲击？](https://mp.weixin.qq.com/s/1HZoNBovqn1FNlxghDXMFg) | AINLP 2023-01-07
         - [为什么说 ChatGPT 抢不走程序员的饭碗！](https://mp.weixin.qq.com/s/KXihukzVXnQGNeBUfWhIHg) | AI科技大本营 2023-04-24
         - [现在读博入坑NLP做什么？UMICH这份《大模型时代NLP研究: 博士生视角》提供指南，20多位博士生倾囊相授](https://mp.weixin.qq.com/s/zoImfIlCtLUcJ2caOgfO2Q) | 专知 2023-05-25
+        - [刘知远老师高铁上回应：大模型LLM领域，有哪些可以作为学术研究方向？](https://mp.weixin.qq.com/s/vjqfOZSS_uz2MUyEycR6CA) | 深度学习自然语言处理 2023-05-28
       - 工程化 & 硬件：
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
