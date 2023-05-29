@@ -341,6 +341,12 @@
   * author: François Fleuret
   * keywords: see the title :)
 
+### Understanding Deep Learning
+  * homepage: https://udlbook.github.io/udlbook/
+  * link: https://github.com/udlbook/udlbook
+  * author: Simon J.D. Prince
+  * keywords: pdf, code, other sources about the book.
+
 ### ML-YouTube-Courses
   * link: https://github.com/dair-ai/ML-YouTube-Courses
   * author: DAIR.AI
