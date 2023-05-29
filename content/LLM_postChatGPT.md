@@ -288,6 +288,11 @@
     - code: https://github.com/pengxiao-song/LawGPT
     - note: 一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
   
+  * LIMA(Meta):
+    - [paper](https://arxiv.org/abs/2305.11206): LIMA: Less Is More for Alignment.
+    - blog:
+      - [没有RLHF，一样媲美GPT-4、Bard，Meta发布650亿参数语言模型LIMA](https://mp.weixin.qq.com/s/Oze93Brun-AQUBI5Tt1b6w) | 机器之心 2023-05-23 
+  
   * 伶荔Linly([大数据系统计算机技术国家工程实验室](http://pweb.mashuwaibao.com/public/index.html#/h5/home) & 深圳大学):
     - code: https://github.com/CVI-SZU/Linly
     - blog:
