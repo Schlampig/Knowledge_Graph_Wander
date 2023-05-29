@@ -360,6 +360,7 @@
         - [2022年11月02日:首个中文Stable Diffusion模型开源，IDEA研究院封神榜团队开启中文AI艺术时代](https://mp.weixin.qq.com/s/WrzkiJOxqNcFpdU24BKbMA)
         - [2023年04月27日：速度惊人！手机跑Stable Diffusion，12秒出图，谷歌加速扩散模型破记录](https://mp.weixin.qq.com/s/YWwDeLltZFsaHnjB5C08kg)
         - [2023年04月30日：Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像素级出图](https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg)
+        - [2023年05月26日：NLP+Diffusion=？UMN最新《NLP中的扩散模型》综述 ，全面阐述离散和嵌入扩散模型方法](https://mp.weixin.qq.com/s/czNtFbXEjPUN6klCa1SWmA)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
@@ -382,6 +383,13 @@
       - [paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf): One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale.
       - blog:
         - [清华朱军团队开源首个基于Transformer的多模态扩散大模型，文图互生、改写全拿下](https://mp.weixin.qq.com/s/B68hXlFxA9L5jiWiMrEEiA) | 机器之心 2023-03-13
+    - CoDi
+      - code: https://github.com/microsoft/i-Code/tree/main/i-Code-V3
+      - [paper](https://arxiv.org/abs/2305.11846): Any-to-Any Generation via Composable Diffusion 
+      - homepage: https://codi-gen.github.io/
+      - blog:
+        - [可组合扩散模型主打Any-to-Any生成：文本、图像、视频、音频全都行](https://mp.weixin.qq.com/s/UKLF1DE1YarBzHu43W0HwA) | 机器之心 2023-05-23
+        - [「大一统」大模型论文爆火，4种模态任意输入输出，华人本科生5篇顶会一作，网友：近期最不可思议的论文](https://mp.weixin.qq.com/s/Mg_qnawkYSWnRHk4LIEIsQ) | 量子位 2023-05-28
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
