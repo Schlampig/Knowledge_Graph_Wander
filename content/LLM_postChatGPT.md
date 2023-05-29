@@ -233,6 +233,8 @@
   * 华驼HuaTuo
     - code: https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
     - note: LLaMA-7B tuned with Chinese medical knowledge.
+    - blog:
+      - [中文医学大模型“本草”（原名华驼）：医学知识增强在中文大型语言模型指令微调上的初步探索](https://mp.weixin.qq.com/s/iuQANmwCS7AXQRik7HwQPg) | 赛尔实验室 2023-05-22
   
   * HuggingGPT(微软亚研院&浙大):
     - code(JARVIS): https://github.com/microsoft/JARVIS
@@ -406,6 +408,9 @@
     - blog:
       - [新大模型能超GPT-4，Bard全面升级，谷歌反击ChatGPT](https://mp.weixin.qq.com/s/HsyJ272c3joHo_4EeDOrWg) | 机器之心 2023-05-11
       - [谷歌不服输：大模型PaLM2剑指GPT-4，Bard会写20种代码，推出办公助手「Duet A​I」](https://mp.weixin.qq.com/s/2p1XVEMM-sqQJpk8a6RUVw) | 36氪 2023-05-11
+      - [PaLM 2重磅来袭，深挖谷歌92页技术报告亮点总结](https://mp.weixin.qq.com/s/XQE6RWz_8soyAsEfXl0NbQ) | 将门创投 2023-05-22
+    - extra:
+      - [大模型如何构建“医生级”问答？谷歌DeepMInd最新《基于大型语言模型的专家级医疗问答研究》论文，提出Med-PaLM 2](https://mp.weixin.qq.com/s/rChVy5lhFoX5dV9oPkVzfw) | 专知 2023-05-21
 
   * PandaLM(北京大学&西湖大学):
     - code: https://github.com/WeOpenML/PandaLM
