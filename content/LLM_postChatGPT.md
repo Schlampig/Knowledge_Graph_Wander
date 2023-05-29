@@ -28,6 +28,10 @@
       - [Bard是拿ChatGPT数据训练的？谷歌顶级科学家抗议无果，出走OpenAI](https://mp.weixin.qq.com/s/WeUSi5rMl9_Wu-ty30gNiw) | 机器之心 2023-03-31
       - [ChatGPT实测全线碾压Bard！谷歌溃败，十年心血打水漂](https://mp.weixin.qq.com/s/f4FWGU4OjAHpFbav8SSnRA) | 新智元 2023-04-12
   
+  * Aurora genAI(英特尔):
+    - blog:
+      - [参数是ChaGPT的近6倍！英特尔公布AI大模型Aurora genAI，具备1万亿参数](https://mp.weixin.qq.com/s/6GzWuQV-uYQqEE24nroI4g) | 人工智能学家 2023-05-25 
+  
   * AutoGPT
     - code: https://github.com/torantulino/auto-gpt
     - blog:
