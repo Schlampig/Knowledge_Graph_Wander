@@ -113,7 +113,8 @@
         - [粗看大模型ChatGLM、MOSS、Bloomz在中文垂域评测中的性能表现：医学、法律、心理学、教育等四大类试题下的测试报告介绍](https://mp.weixin.qq.com/s/Hq6bn_4vD559TMQxx806tg) | 老刘说NLP 2023-04-29
         - [清华发布首个最全大模型安全评测系统，ChatGPT登榜首！](https://mp.weixin.qq.com/s/8JtSl_tV4caZUyh1_Z6hdA) | 夕小瑶科技说 2023-05-04
         - [UC伯克利发布大语言模型排行榜！Vicuna夺冠，清华ChatGLM进前5](https://mp.weixin.qq.com/s/ccQAyrpS3gsSNq_cYNtfpw) | 新智元 2023-05-04
-          - [UC伯克利LLM准中文排行榜来了！GPT-4稳居第一，国人开源RNN模型冲进前六](https://mp.weixin.qq.com/s/czQsi614t2zuJtIhomGXSg) | 新智元 2023-05-16 
+          - [UC伯克利LLM准中文排行榜来了！GPT-4稳居第一，国人开源RNN模型冲进前六](https://mp.weixin.qq.com/s/czQsi614t2zuJtIhomGXSg) | 新智元 2023-05-16 : https://arena.lmsys.org/
+          - [Chatbot Arena：大型语言模型 (LLM) 评级平台（附最新排行榜）](https://mp.weixin.qq.com/s/QD_AHY0A9NCs5jzCwbAsKA) | AI 共存派 2023-05-26 : https://chat.lmsys.org/
         - [还能这么玩？清华给 ChatGPT 做逆向，发现了 ChatGPT 的进化轨迹！](https://mp.weixin.qq.com/s/lrnRM6m5xjYuRk1cQHByTg) | 夕小瑶科技说 2023-05-08
         - [SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE): [中文通用大模型综合性评测基准SuperCLUE正式发布](https://mp.weixin.qq.com/s/6CDnyvMsEXtmsJ9CEUn2Vw) | CLUE中文语言理解测评基准 2023-05-09
           - [中文大模型对战平台「SuperCLUE-琅琊榜」开启，首期入围近20个模型](https://mp.weixin.qq.com/s/_uoxy0VUuQdfGeipejt1lg) | CLUE中文语言理解测评基准 2023-05-19 
@@ -552,6 +553,7 @@
           - [GPT究竟是谁的机会？](https://mp.weixin.qq.com/s/fUnpndRp1klnXtM8oIs3fw) | 36氪Pro 2023-05-05
           - [在 AI 时代，你会被放大一千倍的能力是什么？](https://mp.weixin.qq.com/s/tvHaodc_rR2HVizVGZ1XqQ) | Datawhale 2023-05-08
           - [中国的OpenAI，藏在这几栋楼里](https://mp.weixin.qq.com/s/HpTmA9oCes8WX51UsEE73Q) | 中国企业家杂志 2023-05-25
+          - [阿里达摩院：GPT-4替代年薪60万的数据分析师只要几千块，论文已发](https://mp.weixin.qq.com/s/7qq5EClY4po9XAGxIJbpnw) | 量子位 2023-05-27
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
           - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
           - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
