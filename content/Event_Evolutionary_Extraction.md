@@ -20,6 +20,7 @@
 
 ### Blog
   * [2022年10月26日：“事理图谱”术语发布](https://mp.weixin.qq.com/s/s-RLF6bPivHK5RsOU5A2lw)
+  * [2023年05月24日：再谈事件图谱中的Event Schema自动生成技术：对话领域的schema构建代表工作浅析](https://mp.weixin.qq.com/s/05HdI9CHQ-mYShVCb7d0Tw)
 
 ### 首届事理图谱研讨会
   * Date: 2019-07-20
