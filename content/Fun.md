@@ -433,5 +433,7 @@
     - [paper](https://arxiv.org/abs/2304.08485): Visual Instruction Tuning
     - [demo](https://llava.hliu.cc/)
     - blog:
-      - [Visual Instruction Tuning: 用LLaVA近似多模态GPT-4](https://mp.weixin.qq.com/s/Ygf2j-rsyLTwZx3FDK6KEQ) | PaperWeekly 2023-04-19  
+      - [Visual Instruction Tuning: 用LLaVA近似多模态GPT-4](https://mp.weixin.qq.com/s/Ygf2j-rsyLTwZx3FDK6KEQ) | PaperWeekly 2023-04-19 
+    - extra:
+      - [Awesome-Visual-Instruction-Tuning - Latest Papers and Datasets on Visual Instruction Tuning](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning).
 </br>
