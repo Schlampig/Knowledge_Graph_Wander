@@ -157,6 +157,7 @@
           - [长文本处理大模型结构RMT工作解读与今日前沿速递：声称能处理长度超过一百万token的Transformer工作介绍](https://mp.weixin.qq.com/s/wzSryWlTgSvamKDcYSG3vg) | 老刘说NLP 2023-05-10
         - [彻底解决ChatGPT健忘症！突破Transformer输入限制：实测支持200万个有效token](https://mp.weixin.qq.com/s/-24u_Zv0mWWfJia9CJwcoQ) | 新智元 2023-05-03
         - [将26个token压缩成1个，新方法极致节省ChatGPT输入框空间](https://mp.weixin.qq.com/s/Tbs-9GewJD18CmNQKXR1pw) | 机器之心 2023-05-07
+        - [Unlimiformer：一个Transformers输入无限长文本思路和中文长文本摘要上的性能实验](https://mp.weixin.qq.com/s/IQtl0Z-v7rrS7FXSJTBQ5Q) | AINLP 2023-05-29
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -186,6 +187,8 @@
       - Parallel & Distribution
         - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
         - [一文详解解 DeepSpeed](https://mp.weixin.qq.com/s/NYHTsxZZ7-DN7rfYPjTogQ) | AINLP 2023-05-23
+        - [如何使用 Megatron-LM 训练语言模型](https://mp.weixin.qq.com/s/QPg6gOWGbQDezTl8OFZU3g) | Hugging Face 2023-05-29
+        - [天琴实验室发布三项开源大模型加速版本，行业最快！](https://mp.weixin.qq.com/s/QpQxXODvh-GSmklymXQ7Ew) | 专知 2023-05-29
       - Instruction Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
