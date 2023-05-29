@@ -81,7 +81,7 @@
         - [【重磅】OpenAI最新解密，ChatGPT的本质是无损压缩器](https://mp.weixin.qq.com/s/1rBi3P9qiOK8lZcDGUy0jw) | 熵简科技Value Simplex 2023-04-09
         - [ChatGPT大模型work三个要点是什么？谷歌JasonWei最新《大型语言模型的缩放、涌现和推理》报告](https://mp.weixin.qq.com/s/Jv2ocHmOYzJkhDvHcLiYcA) | 专知 2023-04-14
         - [张俊林：当前炼制“大语言模型”的两个现象](https://mp.weixin.qq.com/s/WXpOOAO2AARvmuq-ZRuwnQ) | AINLP 2023-04-18
-        - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
+        - [关于大模型技术的三点思考](https://mp.weixin.qq.com/s/T5YaS49MdnwE9-deP4826A) | 李rumor 2023-05-29
       - Awesome Collection:
         - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
         - [Awesome Chatgpt](https://github.com/sindresorhus/awesome-chatgpt): Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
@@ -125,6 +125,7 @@
         - [C-EVAL：上交清华搞事情！发起最全学科大模型中文知识及推理评测！GPT-4 竟然血洗所有国产模型](https://mp.weixin.qq.com/s/deKVGxf-Zrbb1Pjui5CdUg) | 夕小瑶科技说 2023-05-22
         - [国内首个大模型评测数据集（MMCU）问世 加速完善国产AI产业图谱](https://mp.weixin.qq.com/s/woc2nwEXatVXFOiOwPtrxA) | 老刘说NLP 2023-05-22
         - [大模型知识&推理评估基准MMLU](https://mp.weixin.qq.com/s/P0ohd5DpwJOkL8DFVC4qoA) | 李rumor 2023-05-25
+        - [大模型评测最新调研和一点思考](https://mp.weixin.qq.com/s/qrxmqGneKeKt9kI2B9iDTg) | AINLP 2023-05-28
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -199,6 +200,7 @@
         - [陈丹琦团队最新力作：上下文学习在上下文“学到”了什么？](https://mp.weixin.qq.com/s/KF1k3E662BFEwfDvTHD5LA) | 深度学习自然语言处理 2023-05-21
         - [数据规模缩小 200 倍！超低训练成本的指令微调，完美复刻大模型](https://mp.weixin.qq.com/s/jyiQSRKg3AXNex0YeROzZw) | 夕小瑶科技说 2023-05-22
         - [大模型知识Out该怎么办？浙大团队探索大模型参数更新的方法—模型编辑](https://mp.weixin.qq.com/s/Go_lBw77ktHuHz7FsUjY-w) | 夕小瑶科技说 2023-05-25
+        - [bloom_tuning: BLOOM 模型的指令微调](https://mp.weixin.qq.com/s/KyoQcKVvdKO6fkd7t7qnZQ) | AINLP 2023-05-28
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
@@ -222,6 +224,7 @@
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
         - [辅助生成: 低延迟文本生成的新方向](https://mp.weixin.qq.com/s/HSSgrJX-gNDs9VFLMKvVYQ) | Hugging Face 2023-05-25
       - Emergent Ability (e.g., CoT):
+        - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
         - [GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质](https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w) | 夕小瑶科技说 2023-04-26 
         - [幻觉？马斯克TruthGPT也搞不定！OpenAI联合创始人直言很复杂](https://mp.weixin.qq.com/s/FcI-MWFPk0ZE3p1kmTCkdA) | 新智元 2023-05-03
         - [斯坦福最新研究警告：别太迷信大模型涌现能力，那是度量选择的结果](https://mp.weixin.qq.com/s/tt9xYESUgw3V2c4XJu5ZVw) | 机器之心 2023-05-03
@@ -639,6 +642,7 @@
         - [当GPT-4化身主考官：与ChatGPT处于同水平的有这些](https://mp.weixin.qq.com/s/dqFQtrzkTJMs41_13x2mHw) | 量子位 2023-04-16
         - [120名顶级技术专家用GPT-4搞出的脑洞发明大赏](https://mp.weixin.qq.com/s/Q_bxec4-kV_1-Q1uNsAYXg) | 夕小瑶科技说 2023-04-23
         - [我用GPT搭建了一个虚拟女友！](https://mp.weixin.qq.com/s/8eKNKVZuscejT1qSNIJCig) | Datawhale 2023-05-27
+        - [GPT-4考90分全假！30年资深律师用ChatGPT打官司，6个虚假案例成笑柄](https://mp.weixin.qq.com/s/oI5ygyH6CSwzzNZ-fFtFKQ) | 新智元 2023-05-28
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
