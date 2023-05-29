@@ -241,6 +241,7 @@
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
         - [当大模型开始规划合作，一个模型打造软件开发团队，代码生成性能狂升](https://mp.weixin.qq.com/s/VxadbNVwKG4hOB2ZFAuJMg) | 机器之心 2023-05-11
+        - [LangChain and LlamaIndex Projects Lab (e-book)](https://leanpub.com/langchain/read).
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
