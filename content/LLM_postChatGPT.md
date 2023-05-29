@@ -479,6 +479,13 @@
 </br>
 
 ### R
+  * RecurrentGPT(ETH):
+    - code: https://github.com/aiwaves-cn/RecurrentGPT
+    - [paper](https://arxiv.org/abs/2305.13304): RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text.
+    - demo: https://www.aiwaves.org/recurrentgpt (长篇小说写作)
+    - demo2: https://www.aiwaves.org/interactivefiction (交互式小说)
+    - blog:
+      - [ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成](https://mp.weixin.qq.com/s/9zDyyqaHA8Ghnh96f2IOLg) | 机器之心 2023-05-28 
 
 </br>
 
