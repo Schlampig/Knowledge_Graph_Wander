@@ -265,6 +265,8 @@
     - demo: https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi
     - blog:
       - [跑分达ChatGPT的99%，人类难以分辨！开源「原驼」爆火，iPhone都能微调大模型了](https://mp.weixin.qq.com/s/1ZrPtBmgkklFk2_TvOhK_w) | 量子位 2023-05-25
+    - extra:
+      - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes) | Huggingface 2023-05-24
 </br>
 
 ### H
