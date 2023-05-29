@@ -216,6 +216,7 @@
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
+        - [辅助生成: 低延迟文本生成的新方向](https://mp.weixin.qq.com/s/HSSgrJX-gNDs9VFLMKvVYQ) | Hugging Face 2023-05-25
       - Emergent Ability (e.g., CoT):
         - [GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质](https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w) | 夕小瑶科技说 2023-04-26 
         - [幻觉？马斯克TruthGPT也搞不定！OpenAI联合创始人直言很复杂](https://mp.weixin.qq.com/s/FcI-MWFPk0ZE3p1kmTCkdA) | 新智元 2023-05-03
@@ -281,6 +282,7 @@
             - [Why always百度？OpenAI有的他有，OpenAI没有的他还有](https://mp.weixin.qq.com/s/Ly3H0gr6RgVRIHWKkmfFuw) | 量子位 2023-02-23
             - [柯基数据参与编制的《医疗领域知识图谱应用能力认证技术规范》，成为产品认证依据！](https://mp.weixin.qq.com/s/njnCSsGulmWhQlUN3ZiIaw) | 柯基数据 2023-03-17
             - [从智能云首次盈利，看百度如何在大模型时代奔流](https://mp.weixin.qq.com/s/k6U9veq5003LDFFEn5wa6Q) | 雷峰网 2023-05-16
+            - [李彦宏：大模型即将改变世界，百度要第一个把全部产品用大模型重做一遍](https://mp.weixin.qq.com/s/V0CfHfUKViCRUulrUwAGCg) | 量子位 2023-05-26
           - [**360**称计划推出的类ChatGPT产品存重大不确定性，周鸿祎曾表示搭不上这班车会被淘汰](https://baijiahao.baidu.com/s?id=1757365028429019056&wfr=spider&for=pc) | 蓝鲸财经 2023-02-09
             - [杀入GPT战场，「两翼齐飞」的360胜算有几分？](https://mp.weixin.qq.com/s/WnEcPr_-Hiz39K1VLm28OQ) | 量子位 2023-04-17 
             - [详细测完360智脑后，我们发现大模型终于被玩明白了](https://mp.weixin.qq.com/s/51GHazgZmQFoboXvSEu-Sg) | 机器之心 2023-05-23
