@@ -228,6 +228,12 @@
     - blog:
       - [笔记本就能运行的ChatGPT平替来了，附完整版技术报告](https://mp.weixin.qq.com/s/crpG4dtfQFe3Q7hR3oeyxQ) | 机器之心 2023-03-30 
 
+  * Guanaco(华盛顿大学):
+    - code: https://github.com/artidoro/qlora
+    - [paper](https://arxiv.org/abs/2305.14314): QLoRA: Efficient Finetuning of Quantized LLMs.
+    - demo: https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi
+    - blog:
+      - [跑分达ChatGPT的99%，人类难以分辨！开源「原驼」爆火，iPhone都能微调大模型了](https://mp.weixin.qq.com/s/1ZrPtBmgkklFk2_TvOhK_w) | 量子位 2023-05-25
 </br>
 
 ### H
