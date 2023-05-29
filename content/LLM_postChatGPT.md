@@ -231,6 +231,12 @@
 </br>
 
 ### H
+  * HugGPT(华师大&NUS):
+    - code: https://github.com/HugAILab/HugNLP
+    - [paper](https://arxiv.org/abs/2302.14286): HugNLP: A Unified and Comprehensive Library for Natural Language Processing
+    - blog:
+      - [可直训ChatGPT类模型！华师大、NUS开源HugNLP框架：一键刷榜，全面统一NLP训练](https://mp.weixin.qq.com/s/IpgOQJ8vrIvnjdrmGCT2FA) | 新智元 2023-05-24
+
   * 华驼HuaTuo
     - code: https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
     - note: LLaMA-7B tuned with Chinese medical knowledge.
@@ -468,6 +474,7 @@
     - [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view): StarCoder: may the source be with you!
     - blog:
       - [StarCoder: 最先进的代码大模型](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q) | Hugging Face 2023-05-08
+      - [使用 StarCoder 创建一个编程助手](https://mp.weixin.qq.com/s/-j_d0D0paFHrm4ciDFcI6Q) | Hugging Face 2023-05-24
 
 </br>
 
