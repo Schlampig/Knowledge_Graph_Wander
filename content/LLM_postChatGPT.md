@@ -226,6 +226,14 @@
     - extra:
       - [安卓版「AI乌托邦」APP上线，下载即玩！](https://mp.weixin.qq.com/s/NYbHrGLZXv8ss0QjQPPILw) | 聆心智能官方 2023-05-09
   
+  * Gorilla(UC伯克利):
+   - code: https://github.com/ShishirPatil/gorilla/
+   - [paper](arxiv.org/abs/2305.15334): Gorilla: Large Language Model Connected with Massive APIs.
+   - homepage: gorilla.cs.berkeley.edu
+   - discord community: https://discord.gg/pWeBheVY7n
+   - blog:
+     - [首个大规模使用工具的大模型来了：伯克利发布Gorilla](https://mp.weixin.qq.com/s/p9tx3q3Lpr4fNqdyxWhzyA) | 机器之心 2023-05-26
+  
   * GPT4All
     - code: https://github.com/nomic-ai/gpt4all
     - source: https://gpt4all.io/index.html
@@ -372,6 +380,10 @@
   * MChat(澜舟科技):
     - blog:
       - [AI大牛周明发布MChat：生成可控，参数规模可负担，顺便官宣了新融资](https://mp.weixin.qq.com/s/xlmSJ7WSKgVTlr2QrK6_ow) | 量子位 2023-03-20
+  
+  * MedGPT(医联):
+    - blog:
+      - [国内首个医疗大语言模型问世！多模态打通诊疗全流程，别再叫我做题家](https://mp.weixin.qq.com/s/wDVT4Z29eggGjiyKvhHoVQ) | 新智元 2023-05-26 
   
   * MetaLLM([秘塔科技](https://metasota.ai/#/)): 
     - [秘塔写作猫](xiezuocat.com/chat)
