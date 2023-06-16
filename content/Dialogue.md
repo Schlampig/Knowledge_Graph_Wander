@@ -237,6 +237,7 @@
         - [ChatGPT中的RLHF技术如何用？CMU最新《自然语言生成中的人工反馈集成》综述，详述人类反馈的格式、目标、用途和建模](https://mp.weixin.qq.com/s/F4XugdYX5xmdbNRazsZa0g) | 专知 2023-05-04
         - [为什么ChatGPT用强化学习而非监督学习？](https://mp.weixin.qq.com/s/UmlpsvTAxhAB89--1qN_0A) | 人工智能学家 2023-05-12
         - [71页ppt！指令微调和RLHF讲座(NYU CSCI 2590) 附视频](https://mp.weixin.qq.com/s/W5EByAkLlpitE3S5LepyPA) | 专知 2023-05-20
+        - [RLHF中的「RL」是必需的吗？有人用二进制交叉熵直接微调LLM，效果更好](https://mp.weixin.qq.com/s/9AYuQwTSHfW_uVXbYw1s1Q) | 机器之心 2023-06-03
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -351,6 +352,7 @@
             - [胡时伟：关于大模型技术的三点思考](https://mp.weixin.qq.com/s/k_L3b0v5LZ5Kp2W0t-9gcQ) | 第四范式 2023-05-23
             - [式说携手国家开放大学，终身教育平台智能学伴“白泽”上线](https://mp.weixin.qq.com/s/6nkCfudyF4CROGsWdT_7rA) | 第四范式 2023-05-24
           - [**鹅厂**发布大模型计算集群！算力提升3倍，4天就能训完万亿规模大模型](https://mp.weixin.qq.com/s/h9PMTokBPdJawRlyGMRTmA) | 量子位 2023-04-14
+            - [腾讯大手笔投资大模型，清华系AI公司赢麻了](https://mp.weixin.qq.com/s/vsl92IAcDmm3LGKtS7WGuA) | 量子位 2023-06-03 
           - [制造业「ChatGPT」来了，我们和「**奇智**孔明」聊了聊](https://mp.weixin.qq.com/s/TPzZjLzLPMI1jefyieV7CQ) | 机器之心 2023-04-15
           - [写周报、改代码，连续互动20轮，国产类ChatGPT新玩家「**天工**」来了](https://mp.weixin.qq.com/s/p9K0OP-kVsn_eUNd6bX2UQ) | 机器之心 2023-04-19
           - [中文GPT Office来了！不造概念，**WPS AI**真落地了](https://mp.weixin.qq.com/s/iGdv90NajGw5olGyhsFjAw) | 新智元 2023-04-19
@@ -595,6 +597,8 @@
           - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
           - [北京制定通用人工智能创新措施，这21项值得关注](https://mp.weixin.qq.com/s/DeieDNsJvWjfwJh2aOL_vg) | 人工智能学家 2023-05-16
           - [北京出手通用人工智能：产业创新伙伴计划公布，要推动大模型产业加速落地](https://mp.weixin.qq.com/s/gmclRnJvFnFIc6V-zU67ng) | 机器之心 2023-05-21
+          - [要么灭绝，要么适应：人类该好好治理AI了](https://mp.weixin.qq.com/s/utlm9wc3wlRq2pT1ZnHqUA) | 三联生活周刊 2023-06-02
+          - [OpenAI、谷歌双标玩得溜：训练大模型用他人数据，却决不允许自身数据外流](https://mp.weixin.qq.com/s/J_tdkdDwM3FZ8zpPaccbKA) | 机器之心 2023-06-04
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
