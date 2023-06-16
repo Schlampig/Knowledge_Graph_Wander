@@ -140,6 +140,7 @@
         - [大语言模型综合能力测评报告（2023），33页ppt](https://mp.weixin.qq.com/s/Sd9lsUFpLfk9t9q3saI05g) | 专知 2023-05-30
         - [用 GPT-4 评估模型，不一定靠谱](https://mp.weixin.qq.com/s/LmtO2-YiSD2n3ccH1DJAkw) | AINLP 2023-06-02
         - [一个问题区分人类和AI！「丐版」图灵测试，难住所有大模型](https://mp.weixin.qq.com/s/RZruqhLZBxCObY2o0d5XwA) | 新智元 2023-06-04
+        - [斯坦福发布LLM排行榜AlpacaEval，微软WizardLM登顶开源模型第一](https://mp.weixin.qq.com/s/7X8pRaexWJ4c0kVswawU1A) | PaperWeekly 2023-06-14
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
