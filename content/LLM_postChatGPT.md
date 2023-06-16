@@ -216,6 +216,11 @@
 </br>
 
 ### E
+  * EmbodiedGPT(香港大学MMLAB&上海人工智能实验室OpenGVLab):
+    - [paper](https://arxiv.org/abs/2305.15021): EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought.
+    - blog:
+      - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s/pwDcsvAxHm5any--1fY6qA) | 李rumor 2023-06-09
+
   * 文心一言ERNIE(百度):
     - [demo](https://yiyan.baidu.com/welcome) 
     - blog:
