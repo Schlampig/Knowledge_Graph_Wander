@@ -135,6 +135,7 @@
         - [ChatGPT时代情感分析还存在吗？一份真实调查](https://mp.weixin.qq.com/s/5pyA0rgahHESDOFKvwfsGw) | 深度学习自然语言处理 2023-05-29
         - [大语言模型综合能力测评报告（2023），33页ppt](https://mp.weixin.qq.com/s/Sd9lsUFpLfk9t9q3saI05g) | 专知 2023-05-30
         - [用 GPT-4 评估模型，不一定靠谱](https://mp.weixin.qq.com/s/LmtO2-YiSD2n3ccH1DJAkw) | AINLP 2023-06-02
+        - [一个问题区分人类和AI！「丐版」图灵测试，难住所有大模型](https://mp.weixin.qq.com/s/RZruqhLZBxCObY2o0d5XwA) | 新智元 2023-06-04
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -254,6 +255,7 @@
         - [AI「黑箱」被打开？谷歌找到大模型能力涌现机制](https://mp.weixin.qq.com/s/XGysD7JFnoHMpAXZd2xdNg) | 新智元 2023-05-21
         - [GPT-4推理提升1750%！普林斯顿清华姚班校友提出全新「思维树ToT」框架，让LLM反复思考](https://mp.weixin.qq.com/s/1SswD6i6lGxKAvU-pzz-6A) | 新智元 2023-05-22
         - [大模型思维链(CoT)全新升级，多链元推理(MCR)显著提升LLM推理能力](https://mp.weixin.qq.com/s/l20PkrQzJOCvNGD0NH0r0w) | 将门创投 2023-05-29
+        - [思想克隆！前OpenAI研究员让AI模仿人类思维，现实版「机械姬」降临](https://mp.weixin.qq.com/s/_gqfwc9bJvI7Hb4gmuibiA) | 新智元 2023-06-05
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -373,6 +375,7 @@
             - [王川: 从 chatGPT 看人工智能的投资机会和风险](https://mp.weixin.qq.com/s/8laaKxCjPMdaHyNVqFNXfg) | investguru 2023-04-20
             - [最早出发的中国大模型创业者：“贫穷限制了我们的想象力”](https://mp.weixin.qq.com/s/p42pBVyjZws8XsstDoR2Jw) | 晚点LatePost 2023-04-26
             - [从Trans Anything到Control Anything看类ChatGPT落地路线：也谈技术实现下的大模型三大应用范式](https://mp.weixin.qq.com/s/5Qt9Bm2ys8KUOGolYf4mdQ) | 老刘说NLP 2023-05-02
+            - [大模型创业潮：狂飙180天](https://mp.weixin.qq.com/s/61fUMR42vghJkajaj-MINg) | 学术头条 2023-06-03
           - [阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些](https://www.zhihu.com/question/570782945/answer/2795547780) | 知乎 2023-02-10
             - [ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？](https://www.zhihu.com/question/581806122) | 知乎 2023-02-08
             - [谁拖了中国ChatGPT的后腿？](https://mp.weixin.qq.com/s/FRN0Hvy7-12qS82IvUdNeg) | 品玩 2023-02-16
@@ -515,6 +518,7 @@
           - [科学家也要失业了？AI成为主脑科学家，AI主导的科学革命已来](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652332108&idx=4&sn=0b7cba4fc094dd848a39f9cb5fd3220b&chksm=f12414bdc6539dabeb0e3ea2436bb4811a76de410b9b8c26b6dca76ac7502bb113e26929e3f2&mpshare=1&scene=24&srcid=0522MpPrJG490gww44DYrfDT&sharer_sharetime=1684733496269&sharer_shareid=fc200d635da8347d3fea84450a0b2a87#rd) | 新智元 2023-05-22
           - [重磅！OpenAI最新研究：用GPT-4解释神经元行为，网友：AI套娃？](https://mp.weixin.qq.com/s/_XtQuuiv6JOwgCTEFMJ9gw) | 夕小瑶科技说 2023-05-10
           - [GPT-4竟然有身体，167cm！清华、北师大重磅研究：ChatGPT能像人一样感知行动](https://mp.weixin.qq.com/s/a4ECDClNs8P9NoIW0rdr7g) | 新智元 2023-05-13
+          - [GPT-4知道它是不是“胡说八道”吗？一篇关于大模型“自知之明”的研究](https://mp.weixin.qq.com/s/64eI_I-HVDigYvmBTNon9w) | 夕小瑶科技说 2023-06-05
         - [用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？](https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw) | 夕小瑶科技说 2023-04-28
           - [能听懂语音的ChatGPT来了：10小时录音扔进去，想问什么问什么](https://mp.weixin.qq.com/s/C7VzXhuG0T6Njo2pNpGRQA) | 机器之心 2023-06-02 
         - [全面了解多模态大语言模型 Multimodal Large Language Models，首个跟踪 MLLM 进展的论文集合](https://mp.weixin.qq.com/s/BuBr5OgflKLIYbjLFLGPEA) | 我爱计算机视觉 2023-06-02
