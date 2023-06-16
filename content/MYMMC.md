@@ -119,6 +119,11 @@
   * blog:
     - [Ladder Side-Tuning：预训练模型的“过墙梯”](https://spaces.ac.cn/archives/9138) | 苏剑林 科学空间 2021年06月20日
 
+### InstructPrompt
+  * link: https://github.com/ClerkieAI/instructprompt
+  * author: [Berri AI](https://github.com/ClerkieAI)
+  * note: a python package for storing, retrieving, and dynamically creating prompts for GPT models.
+
 ### OpenPrompt
   * link: https://github.com/thunlp/OpenPrompt
   * homepage: https://thunlp.github.io/OpenPrompt/
