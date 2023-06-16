@@ -108,8 +108,11 @@
         - [ChatGPT的真相：强泛化的秘密以及众多关键问题](https://mp.weixin.qq.com/s/HFVOWHPzva7ciRm_E4HVWQ) | 人工智能学家 2023-04-22
         - [详谈大模型训练中的数据收集、处理与模型影响：A Survey of Large Language Models工作中的数据总结](https://mp.weixin.qq.com/s/bHsb631KA5AaulBHNT5m9w) | 老刘说NLP 2023-05-13
           - [paper](https://arxiv.org/pdf/2303.18223.pdf): A Survey of Large Language Models. 
-        - [也谈大模型预训练数据的采样优化及今日模型开源速递：DoReMi最小优化的领域再加权方法及模型开源进展](https://mp.weixin.qq.com/s/hBxyCJEtqam93HNmQ_A72g) | 老刘说NLP 2023-05-20
-        - [也谈文本数据处理实践：从clean-dialog对话数据清洗、string2string字符处理到基于预训模型的PPL困惑度计算](https://mp.weixin.qq.com/s/NeLvRbCQ9oRw_AhN1HgGNA) | 老刘说NLP 2023-05-27
+          - [也谈大模型预训练数据的采样优化及今日模型开源速递：DoReMi最小优化的领域再加权方法及模型开源进展](https://mp.weixin.qq.com/s/hBxyCJEtqam93HNmQ_A72g) | 老刘说NLP 2023-05-20
+          - [也谈文本数据处理实践：从clean-dialog对话数据清洗、string2string字符处理到基于预训模型的PPL困惑度计算](https://mp.weixin.qq.com/s/NeLvRbCQ9oRw_AhN1HgGNA) | 老刘说NLP 2023-05-27
+          - [大模型微调究竟需要多少数据：从三个现有代表工作看几组结论及一点思考](https://mp.weixin.qq.com/s/1JBArQ93PMqaF41CXHqzqg) | 老刘说NLP 2023-05-30
+        - [谷歌训了28个15亿参数模型，说明数据对大模型训练的影响](https://mp.weixin.qq.com/s/dDUeRHAQiIPLqOKq-zgySg) | 夕小瑶科技说 2023-05-31
+        - [总结当前开源可用的Instruct/Prompt Tuning数据](https://mp.weixin.qq.com/s/vDbTJo3F7sy3-NY8xxg8jw) | PaperWeekly 2023-05-31
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
@@ -144,6 +147,7 @@
         - [强过AutoGPT！微软重磅研究提出APO算法，「自动提示」淘汰提示工程师](https://mp.weixin.qq.com/s/Ryy7Yg2S3gCp11g7HMBuWw) | 新智元 2023-05-22
         - [吴恩达 x OpenAI Prompt Engineering教程中文笔记](https://mp.weixin.qq.com/s/LNPm5dk9pqN7dsx6MFDbTA) | Datawhale 2023-05-22
         - [Prompt设计——LLMs落地的版本答案](https://mp.weixin.qq.com/s/PTiIbGc47t2PIaVQ3aZKtg) | CS的陋室 2023-05-27
+        - [一个技巧，让ChatGPT学会复杂编程，编程水平逼近人类程序员！](https://mp.weixin.qq.com/s/QgL5-fTA99InHsoI7hJ8lw) | 夕小瑶科技说 2023-05-31
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -174,6 +178,7 @@
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
         - [Transformer 估算 101](https://mp.weixin.qq.com/s/MFgTUDAOODgMDb59eZC9Cw) | Hugging Face 2023-05-18
         - [Transformer高效训练方法一览](https://mp.weixin.qq.com/s/EY1AyYqDY6FF6fGikP-Ptw) | 深度学习自然语言处理 2023-05-24
+        - [基于 Transformers 的编码器-解码器模型](https://mp.weixin.qq.com/s/HRAYh8JFOvqW7iUZTYHBcA) | Hugging Face 2023-05-31
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -210,6 +215,7 @@
         - [NLP新范式：Interactive Natural Language Processing（交互式自然语言处理）](https://arxiv.org/abs/2305.13246) | 2023-05-22 
         - [大模型知识Out该怎么办？浙大团队探索大模型参数更新的方法—模型编辑](https://mp.weixin.qq.com/s/Go_lBw77ktHuHz7FsUjY-w) | 夕小瑶科技说 2023-05-25
         - [bloom_tuning: BLOOM 模型的指令微调](https://mp.weixin.qq.com/s/KyoQcKVvdKO6fkd7t7qnZQ) | AINLP 2023-05-28
+        - [炼丹不易，用丹有趣：State of GPT的番外解读](https://mp.weixin.qq.com/s/R-pnXIxtC5Zk1cxWuNvjtg) | AINLP 2023-05-31
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
@@ -452,6 +458,8 @@
           - [北大GPT解题有数学老师内味了，用人话讲难题，从高中数学到高数都能搞定](https://mp.weixin.qq.com/s/v-3HRBa_vIeK8PcDCM82Yw) | 量子位 2023-04-25
           - [GPT-4拿下最难数学推理数据集新SOTA，新型Prompting让大模型推理能力狂升](https://mp.weixin.qq.com/s/y8u40qIXm3oWZkvgKOV17Q) | 机器之心 2023-05-14
             - [华为诺亚提出新型Prompting (PHP)，GPT-4拿下最难数学推理数据集新SOTA](https://mp.weixin.qq.com/s/M6yRvpoyVu2tQpvE5P8hwQ) | 深度学习自然语言处理 2023-05-14
+          - [GPT-4数学能力大蹦极！OpenAI爆火研究「过程监督」突破78.2%难题，干掉幻觉](https://mp.weixin.qq.com/s/PiVLFHRBLFD5Xj_mzCDsLg) | 新智元 2023-06-01
+            - [OpenAI要为GPT-4解决数学问题了：奖励模型指错，解题水平达到新高度](https://mp.weixin.qq.com/s/rzm5jdwgc4mMzTZhirHOxQ) | 机器之心 2023-06-01 
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
           - [ChatGPT「赏金猎人」招募！OpenAI悬赏2万美元，给ChatGPT找Bug](https://mp.weixin.qq.com/s/WJz0imEcMixEF1Dta6NEyA) | 大数据文摘 2023-04-12 
           - [大模型工具学习系统性综述+开源工具平台，清华、人大、北邮、UIUC、NYU、CMU等40多位研究者联合发布](https://mp.weixin.qq.com/s/arEEAm05i_9Lij4HnxJbEw) | PaperWeekly 2023-04-24
@@ -471,6 +479,7 @@
           - [parsio.io：AI 驱动的 PDF 解析器和 OCR 工具 可识别图片信息](https://mp.weixin.qq.com/s/tKohJldwuZQOLvr7-u5cZg) | AI 共存派 2023-05-06
           - [LlamaIndex ：面向QA 系统的全新文档摘要索引](https://mp.weixin.qq.com/s/1zvXlcGfVdxU8_Pj5f2E1g) | ChallengeHub 2023-05-10
           - [对比 4 款 AI 阅读工具，我找到了「阅读文档」的最佳助手](https://mp.weixin.qq.com/s/KUNiI3Qw4fvzRJVeZaAd1w) | 少数派 2023-05-24
+          - [ChatGPT能解决信息抽取吗？一份关于性能、评估标准、鲁棒性和错误的分析](https://mp.weixin.qq.com/s/TeFxseHyqZ96aL6eN6X64g) | 深度学习自然语言处理 2023-06-01
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
@@ -642,6 +651,7 @@
           - [直击OpenAI首次听证会：大模型研究不暂停，AI厂商可能要上牌照](https://mp.weixin.qq.com/s/wn7RaXhgXst2gRHzuWwlAQ) | 智能涌现 2023-05-17 
         - [ChatGPT重塑Windows！微软王炸更新：操作系统全面接入，Bing也能用插件了](https://mp.weixin.qq.com/s/93UaOWiAQy1dlPSxDLi1Mg) | 量子位 2023-05-24
         - [搜索引擎变天了！谷歌宣布开放「生成式搜索平台」！AI 大模型颠覆搜索体验](https://mp.weixin.qq.com/s/sbwIHJMGcwWTEz6w1wMh1g) | 夕小瑶科技说 2023-05-30
+        - [GPT-4变笨引爆舆论！文本代码质量都下降，OpenAI刚刚回应了降本减料质疑](https://mp.weixin.qq.com/s/K8W5Wy95YsDo8gfFyIUmvA) | 量子位 2023-06-02
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -701,6 +711,7 @@
           - [为何不能暂停AI研发？丨杨立昆吴恩达对话实录](https://mp.weixin.qq.com/s/1qc5iF2Tbbee1ghozh5WAA) | 智源社区 2023-04-08 
           - [OpenAI CEO Sam Altman：巨型 AI 模型时代即将终结！](https://mp.weixin.qq.com/s/R8YojFDVxX060m10QroxBA) | AI科技大本营 2023-04-18
           - [暂缓大模型：担忧的科学家，失控的AI](https://mp.weixin.qq.com/s/P2TiceWiYnxWfDms1nSZJg) | 36氪 2023-04-19
+          - [字少事大！OpenAI 创始人等超350名大牛再签联名信，一句话声明简短有力：AI或引发灭绝风险](https://mp.weixin.qq.com/s/R8DZXVGqxL7qJsZe2ngbRg) | AI前线 2023-05-31
 </br>
 
 ### Blogs & Reviews
