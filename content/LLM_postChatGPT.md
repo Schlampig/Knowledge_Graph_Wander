@@ -45,6 +45,13 @@
 </br>
 
 ### B
+  * Baichuan(王小川团队):
+    - code: https://github.com/baichuan-inc/baichuan-7B
+    - code(HuggingFace): https://huggingface.co/baichuan-inc/baichuan-7B
+    - code(ModelScope): https://modelscope.cn/models/baichuan-inc/baichuan-7B/summary
+    - blog:
+      - [王小川大模型首亮相！70亿参数霸榜，清北抢先用｜独家专访](https://mp.weixin.qq.com/s/qA_E_3dUe1sSOUM87ZgHdQ) | 新智元 2023-06-15
+
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
     - [paper](https://arxiv.org/abs/2304.01196): Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data.
@@ -327,9 +334,12 @@
 
 ### I
   * I-JEPA(Meta):
+    - code: https://github.com/facebookresearch/ijepa
     - [paper](https://arxiv.org/abs/2301.08243): Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture. 
     - blog:
       - [LeCun世界模型出场！Meta震撼发布首个「类人」模型，理解世界后补全半张图，自监督学习众望所归](https://mp.weixin.qq.com/s/Mqgc6t8UXhoc-tdeKer-Fg) | 新智元 2023-06-14
+      - [LeCun世界模型首项研究来了：自监督视觉，像人一样学习和推理，已开源](https://mp.weixin.qq.com/s/md84LwT2M_e3-QmAx0H9Kg) | 机器之心 2023-06-14
+      - [LeCun高徒超详笔记曝光，Meta世界模型首揭秘！首个「类人」模型怎么来的？](https://mp.weixin.qq.com/s/we1pIQfq9tHXR8UNoYw1DQ) | 新智元 2023-06-15
 
   * InstructBLIP(Salesforce&港科大&南洋理工):
     - code: https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
