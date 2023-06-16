@@ -39,6 +39,8 @@
       - [理解AutoGPT原理](https://mp.weixin.qq.com/s/dONLPpeMxd5tVkTnqv1LCg) | AINLP 2023-04-22
       - [OpenAI官方的AutoGPT要来了！实测效果很优秀](https://mp.weixin.qq.com/s/rS5i3prVKqFDA62qpj3UPg) | 夕小瑶科技说 2023-04-24
       - [ChatGPT大模型如何做科学研究? CMU提出《大模型智能体系统》，高推理展现出大型语言模型的新兴自主科学研究能力](https://mp.weixin.qq.com/s/hvN3vkgMKDbyEuJ29DleZg) | 专知 2023-04-12
+    - extra:
+      - [GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了](https://mp.weixin.qq.com/s/HD8XYv9-U0q6YAU6-jFEmg) | 机器之心 2023-05-30
 
 </br>
 
