@@ -244,6 +244,8 @@
     - [2023年05月26日：「AI教父」Geoffrey Hinton：智能进化的下一个阶段](https://mp.weixin.qq.com/s/KwuIQIM59D75kW_avYBnXw)
   - [2023年05月09日：“LSTM之父”谈AI威胁论：AI将超越人类智力，对人类不感兴趣，呼吁暂停AI是一种误导](https://mp.weixin.qq.com/s/lnLc_jHts762Kh_LzLKDKg)
   - [2023年05月26日：马斯克脑机接口公司获批开展首例人体实验](https://mp.weixin.qq.com/s/9z_yI6Zb4ISHNWFh5xSGkw)
+  - [2023年06月12日：75岁Hinton中国大会最新演讲「通往智能的两种道路」，最后感慨：我已经老了，未来交给年轻人](https://mp.weixin.qq.com/s/DDUfYkIpcRc_2TTZ0eclGA)
+  - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
