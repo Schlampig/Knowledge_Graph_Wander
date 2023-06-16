@@ -169,6 +169,7 @@
         - [将26个token压缩成1个，新方法极致节省ChatGPT输入框空间](https://mp.weixin.qq.com/s/Tbs-9GewJD18CmNQKXR1pw) | 机器之心 2023-05-07
         - [Unlimiformer：一个Transformers输入无限长文本思路和中文长文本摘要上的性能实验](https://mp.weixin.qq.com/s/IQtl0Z-v7rrS7FXSJTBQ5Q) | AINLP 2023-05-29
         - [Transformer升级之路：一种全局长度外推的新思路](https://mp.weixin.qq.com/s/YJ647EUfzWaJsGoMdgsguA) | PaperWeekly 2023-05-29
+        - [ICLR 2023 | 大模型上下文学习的无限扩展方法：kNN Prompting](https://mp.weixin.qq.com/s/SnwqkXCCAv3QwN8-NmoWPw) | PaperWeekly 2023-06-08
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -261,6 +262,7 @@
         - [GPT-4推理提升1750%！普林斯顿清华姚班校友提出全新「思维树ToT」框架，让LLM反复思考](https://mp.weixin.qq.com/s/1SswD6i6lGxKAvU-pzz-6A) | 新智元 2023-05-22
         - [大模型思维链(CoT)全新升级，多链元推理(MCR)显著提升LLM推理能力](https://mp.weixin.qq.com/s/l20PkrQzJOCvNGD0NH0r0w) | 将门创投 2023-05-29
         - [思想克隆！前OpenAI研究员让AI模仿人类思维，现实版「机械姬」降临](https://mp.weixin.qq.com/s/_gqfwc9bJvI7Hb4gmuibiA) | 新智元 2023-06-05
+        - [本周机器学习领域五篇重磅论文(含Verify Step-by-Step)](https://mp.weixin.qq.com/s/yuKQ3-sSJn2qH39hPavf_w) | 泛函的范 2023-06-08
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -526,6 +528,7 @@
           - [重磅！OpenAI最新研究：用GPT-4解释神经元行为，网友：AI套娃？](https://mp.weixin.qq.com/s/_XtQuuiv6JOwgCTEFMJ9gw) | 夕小瑶科技说 2023-05-10
           - [GPT-4竟然有身体，167cm！清华、北师大重磅研究：ChatGPT能像人一样感知行动](https://mp.weixin.qq.com/s/a4ECDClNs8P9NoIW0rdr7g) | 新智元 2023-05-13
           - [GPT-4知道它是不是“胡说八道”吗？一篇关于大模型“自知之明”的研究](https://mp.weixin.qq.com/s/64eI_I-HVDigYvmBTNon9w) | 夕小瑶科技说 2023-06-05
+          - [在口袋妖怪世界中理解ChatGPT的思维](https://mp.weixin.qq.com/s/9kBctmWpWtdbFztQBnmWnw) | 深度学习自然语言处理 2023-06-08
         - [用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？](https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw) | 夕小瑶科技说 2023-04-28
           - [能听懂语音的ChatGPT来了：10小时录音扔进去，想问什么问什么](https://mp.weixin.qq.com/s/C7VzXhuG0T6Njo2pNpGRQA) | 机器之心 2023-06-02 
         - [全面了解多模态大语言模型 Multimodal Large Language Models，首个跟踪 MLLM 进展的论文集合](https://mp.weixin.qq.com/s/BuBr5OgflKLIYbjLFLGPEA) | 我爱计算机视觉 2023-06-02
@@ -736,7 +739,8 @@
           - [为何不能暂停AI研发？丨杨立昆吴恩达对话实录](https://mp.weixin.qq.com/s/1qc5iF2Tbbee1ghozh5WAA) | 智源社区 2023-04-08 
           - [OpenAI CEO Sam Altman：巨型 AI 模型时代即将终结！](https://mp.weixin.qq.com/s/R8YojFDVxX060m10QroxBA) | AI科技大本营 2023-04-18
           - [暂缓大模型：担忧的科学家，失控的AI](https://mp.weixin.qq.com/s/P2TiceWiYnxWfDms1nSZJg) | 36氪 2023-04-19
-          - [字少事大！OpenAI 创始人等超350名大牛再签联名信，一句话声明简短有力：AI或引发灭绝风险](https://mp.weixin.qq.com/s/R8DZXVGqxL7qJsZe2ngbRg) | AI前线 2023-05-31
+        - [字少事大！OpenAI 创始人等超350名大牛再签联名信，一句话声明简短有力：AI或引发灭绝风险](https://mp.weixin.qq.com/s/R8DZXVGqxL7qJsZe2ngbRg) | AI前线 2023-05-31
+          - [Sam Altman谈OpenAI：面临GPU短缺恐慌，GPT-3或将开源](https://mp.weixin.qq.com/s/ujI7BEKEMqt-sTKDmmLI7g) | 机器之心 2023-06-08 
 </br>
 
 ### Blogs & Reviews
