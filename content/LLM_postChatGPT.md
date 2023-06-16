@@ -152,6 +152,11 @@
     - blog:
       - [0门槛克隆ChatGPT方案再升级，开源模型完整复现，在线体验无需注册](https://mp.weixin.qq.com/s/V5pCvYvkPXwiMw-FNIErXw) | 机器之心 2023-03-29
 
+  * Control-GPT(微软):
+    - [paper](https://arxiv.org/abs/2305.18583): Controllable Text-to-Image Generation with GPT-4.
+    - blog:
+      - [微软提出Control-GPT：用GPT-4实现可控文本到图像生成！](https://mp.weixin.qq.com/s/U3eWeGOEt9nhW-Xwbuah9w) | CVer 2023-06-02  
+
   * CPM-Bee(OpenBMB):
     - code: https://github.com/OpenBMB/CPM-Bee
     - huggingface: https://huggingface.co/openbmb/cpm-bee-10b
