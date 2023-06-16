@@ -433,6 +433,12 @@
     - extra:
       - RAFT: [玩不起RLHF？港科大开源高效对齐算法RAFT「木筏」，GPT扩散模型都能用](https://mp.weixin.qq.com/s/rhO0bE8CCQsQzsH3kdTbCA) | 量子位 2023-04-17 
   
+  * LTM-1(Magic):
+    - [paper](https://arxiv.org/pdf/2109.00301.pdf): $\infty$-former: Infinite Memory Transformer
+    - demo: https://magic.dev/waitlist
+    - blog:
+      - [500万token巨兽，一次读完全套「哈利波特」！比ChatGPT长1000多倍](https://mp.weixin.qq.com/s/p4JfnUE5cbRZtiIJPRr2LQ) | 新智元 2023-06-09 
+  
   * Luotuo:
     - code: https://sota.jiqizhixin.com/project/luotuo
     - extra:
