@@ -549,6 +549,8 @@
     - blog:
       - [商汤“日日新SenseNova”大模型超市，来了！](https://mp.weixin.qq.com/s/Y97ejN4ZeLqECvGhfUs8Gw) | 商汤科技SenseTime 2023-04-10
       - [商汤版ChatGPT「商量」来了！开放API，基于千亿参数大模型，体验实录在此](https://mp.weixin.qq.com/s/QoQwfuzttBMxLgjVZLYI4w) | 量子位 2023-04-10
+    - extra:
+      - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07, [code](https://github.com/InternLM/InternLM-techreport) 
   
   * SpeechGPT(复旦):
     - code: https://github.com/0nutation/SpeechGPT
@@ -572,6 +574,12 @@
 </br>
 
 ### T
+  * TigerBot(虎博科技):
+    - code: https://github.com/TigerResearch/TigerBot
+    - homepage: https://www.tigerbot.com/chat
+    - blog:
+      - [效果达OpenAI同规模模型96%，发布即开源！国内团队新发大模型，CEO上阵写代码](https://mp.weixin.qq.com/s/mj8cWkYNQPAobA1ybUzWYg) | 量子位 2023-06-07 
+
   * 通义千问(阿里):
     - homepage: tongyi.aliyun.com
     - blog:
