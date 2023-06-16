@@ -158,6 +158,7 @@
         - [彻底解决ChatGPT健忘症！突破Transformer输入限制：实测支持200万个有效token](https://mp.weixin.qq.com/s/-24u_Zv0mWWfJia9CJwcoQ) | 新智元 2023-05-03
         - [将26个token压缩成1个，新方法极致节省ChatGPT输入框空间](https://mp.weixin.qq.com/s/Tbs-9GewJD18CmNQKXR1pw) | 机器之心 2023-05-07
         - [Unlimiformer：一个Transformers输入无限长文本思路和中文长文本摘要上的性能实验](https://mp.weixin.qq.com/s/IQtl0Z-v7rrS7FXSJTBQ5Q) | AINLP 2023-05-29
+        - [Transformer升级之路：一种全局长度外推的新思路](https://mp.weixin.qq.com/s/YJ647EUfzWaJsGoMdgsguA) | PaperWeekly 2023-05-29
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -569,6 +570,7 @@
           - [在 AI 时代，你会被放大一千倍的能力是什么？](https://mp.weixin.qq.com/s/tvHaodc_rR2HVizVGZ1XqQ) | Datawhale 2023-05-08
           - [中国的OpenAI，藏在这几栋楼里](https://mp.weixin.qq.com/s/HpTmA9oCes8WX51UsEE73Q) | 中国企业家杂志 2023-05-25
           - [阿里达摩院：GPT-4替代年薪60万的数据分析师只要几千块，论文已发](https://mp.weixin.qq.com/s/7qq5EClY4po9XAGxIJbpnw) | 量子位 2023-05-27
+          - [「问题少年」逆袭成资产350亿美元CEO！60岁黄仁勋或成LLM爆发背后最大赢家](https://mp.weixin.qq.com/s/muRFWtHt3PAUTIebK3UYfA) | 新智元 2023-05-30 
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
           - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
           - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
@@ -636,6 +638,7 @@
         - [ChatGPT之父舌战国会山！OpenAI欲与政府联手，权力通天](https://mp.weixin.qq.com/s/dAVlsHTZNAS0EwySj0qQhw) | 新智元 2023-05-17
           - [直击OpenAI首次听证会：大模型研究不暂停，AI厂商可能要上牌照](https://mp.weixin.qq.com/s/wn7RaXhgXst2gRHzuWwlAQ) | 智能涌现 2023-05-17 
         - [ChatGPT重塑Windows！微软王炸更新：操作系统全面接入，Bing也能用插件了](https://mp.weixin.qq.com/s/93UaOWiAQy1dlPSxDLi1Mg) | 量子位 2023-05-24
+        - [搜索引擎变天了！谷歌宣布开放「生成式搜索平台」！AI 大模型颠覆搜索体验](https://mp.weixin.qq.com/s/sbwIHJMGcwWTEz6w1wMh1g) | 夕小瑶科技说 2023-05-30
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
