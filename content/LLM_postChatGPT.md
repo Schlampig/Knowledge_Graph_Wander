@@ -127,6 +127,7 @@
     - blog:
       - [使用RNN就能达到超越GPT的对话效果！甚至超越LLaMA？](https://mp.weixin.qq.com/s/gYW3L7YTNOCiJpu-66_l_g) | 深度学习自然语言处理 2023-05-12
       - [RWKV论文燃爆！将RNN崛起进行到底！可扩百亿级参数，与Transformer表现相当！](https://mp.weixin.qq.com/s/JokJttEBlXm2b8Zew4m1mw) | 深度学习自然语言处理 2023-05-24
+      - [RWKV – transformer 与 RNN 的强强联合](https://mp.weixin.qq.com/s/0It3q5vgpuR_Sgk34Vce9g) | Hugging Face 2023-05-30
   
   * ChatYuan(元语智能): 
     - code: https://github.com/clue-ai/ChatYuan
