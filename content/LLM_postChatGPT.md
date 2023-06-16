@@ -461,6 +461,12 @@
 </br>
 
 ### O
+  * OlaGPT():
+    - code: https://github.com/oladata-team/OlaGPT
+    - [paper](https://arxiv.org/abs/2305.16334): OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities.
+    - blog:
+      - [首个模拟人类认知的思维框架OlaGPT：六大模块增强语言模型，推理能力最高提升85%](https://mp.weixin.qq.com/s/pb8aIkda9IMAKeE36qgpEQ) | 新智元 2023-06-05 
+
   * OpenChatKit(Together):
     - website: https://www.together.xyz/blog/openchatkit 
     - blog:
