@@ -403,6 +403,12 @@
     - blog:
       - [特制自己的ChatGPT：多接口统一的轻量级LLM-IFT平台](https://mp.weixin.qq.com/s/Q5Q3RpQ80XmpbfhSxq2R1Q) | PaperWeekly 2023-04-01
   
+  * LLM-Pruner(新加坡国立):
+    - code: https://github.com/horseee/LLM-Pruner
+    - [paper](https://arxiv.org/abs/2305.11627): LLM-Pruner: On the Structural Pruning of Large Language Models.
+    - blog:
+      - [LLM-Pruner: 剪枝+少量数据+少量训练 = 高效的LLM压缩](https://mp.weixin.qq.com/s/feqFfy4n31eztoZfodMieQ) | PaperWeekly 2023-06-06 
+  
   * LMFlow(港科大):
     - code: https://github.com/OptimalScale/LMFlow
     - demo: http://lmflow.com/
