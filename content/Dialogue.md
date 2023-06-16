@@ -97,6 +97,7 @@
         - [Those Magnificent underdogs competing ChatGPT](https://toooold.com/2023/04/08/magnificient_underdogs.html): ChatGPT平替方案.
         - [【LLM系列之底座模型对比】LLaMA、Palm、GLM、BLOOM、GPT模型结构对比](https://mp.weixin.qq.com/s/UkifGP2OXxGWeMV7Jm4zWQ) | ChallengeHub 2023-05-18
         - [LLMs九层妖塔](https://github.com/km1994/LLMsNineStoryDemonTower): 分享“打怪”(ChatGLM、Chinese-LLaMA-Alpaca、MiniGPT-4、FastChat、LLaMA、gpt4all等)实战与经验。
+        - [LLM-Action](https://github.com/liguodongiot/llm-action): LLM实战。
       - Dataset & Corpus:
         - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
         - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
