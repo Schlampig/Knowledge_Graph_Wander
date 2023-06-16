@@ -700,6 +700,7 @@
         - [GPT-4变笨引爆舆论！文本代码质量都下降，OpenAI刚刚回应了降本减料质疑](https://mp.weixin.qq.com/s/K8W5Wy95YsDo8gfFyIUmvA) | 量子位 2023-06-02
         - [“AI春晚”北京召开：发布国产开源可商用大模型，OpenAI CEO做主题演讲，LeCun、Hinton都来了](https://mp.weixin.qq.com/s/3nfhtXwmKTZKLmRh58zytQ) | 量子位 2023-06-09
           - [Sam Altman、Hinton中国首秀！国内最硬核AI内行盛会圆满闭幕，国产大模型「悟道3.0」全面开源](https://mp.weixin.qq.com/s/YF72Qpe6XNjOcAuosOxI0Q) | 新智元 2023-06-10 
+        - [ChatGPT凌晨重磅更新！GPT-3.5/4双升级：上下文飙升4倍，用API自己造插件](https://mp.weixin.qq.com/s/iUxsUUn8Dk2LbLXB9bMWYg) | 新智元 2023-06-14
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
