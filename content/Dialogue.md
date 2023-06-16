@@ -247,6 +247,7 @@
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
         - [辅助生成: 低延迟文本生成的新方向](https://mp.weixin.qq.com/s/HSSgrJX-gNDs9VFLMKvVYQ) | Hugging Face 2023-05-25
+        - [在Transformers 中使用约束波束搜索引导文本生成](https://mp.weixin.qq.com/s/7sXKMWQ3AYVMm79yTt69gA) | Hugging Face 2023-06-07
       - Emergent Ability (e.g., CoT):
         - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
         - [GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质](https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w) | 夕小瑶科技说 2023-04-26 
@@ -466,6 +467,7 @@
           - [鸡兔同笼都能算错的ChatGPT，陶哲轩发现了它的价值](https://mp.weixin.qq.com/s/Pbcm6pOe9r4cxJazj4q8_Q) | 机器之心 2023-03-06
           - [陶哲轩：ChatGPT已加入我的数学工作流](https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA) | 量子位 2023-03-11
             - [陶哲轩宣布主持白宫生成式AI工作组，李飞飞、Hassabis发表演讲](https://mp.weixin.qq.com/s/ye6YFlSq3cqtQQDFL_U_MQ) | 机器学习算法与自然语言处理 2023-05-17 
+          - [AI重写排序算法，速度快70%：DeepMind AlphaDev革新计算基础，每天调用万亿次的库更新了](https://mp.weixin.qq.com/s/ygNWU5T9GUOfcTHOXjXrtA) | 机器之心 2023-06-08
           - [ChatGPT如何影响高等教育？德国霍恩海姆大学等最新《生成式AI模型和系统：GPT-4和ChatGPT》白皮书，47页pdf](https://mp.weixin.qq.com/s/mphYxNeoX0h7DzfbRQR7vg) | 专知 2023-03-27
           - [北大“韦神”出了道数学题，有老师用ChatGPT做答，结果出乎意料](https://mp.weixin.qq.com/s/ruzkyvY9XeGqjcjaai8EkA) | 夕小瑶的卖萌屋 2023-03-29
           - [最容易被ChatGPT抢饭碗的科学家，竟然真的是数学家？？？](https://mp.weixin.qq.com/s/uw7h_JpdIwvXe9V8yzz7iw) | 科研圈 2023-04-04
@@ -610,6 +612,7 @@
           - [要么灭绝，要么适应：人类该好好治理AI了](https://mp.weixin.qq.com/s/utlm9wc3wlRq2pT1ZnHqUA) | 三联生活周刊 2023-06-02
           - [OpenAI、谷歌双标玩得溜：训练大模型用他人数据，却决不允许自身数据外流](https://mp.weixin.qq.com/s/J_tdkdDwM3FZ8zpPaccbKA) | 机器之心 2023-06-04
           - [上海强攻算力高地，打响大模型商用基建第一枪](https://mp.weixin.qq.com/s/L3eEdC7rEMjVIjio0ww4ZA) | 量子位 2023-06-05
+          - [重磅! 之江实验室发布《生成式大模型安全与隐私白皮书》,60页pdf](https://mp.weixin.qq.com/s/eAUhAg1iKB8DCYumiTzqLw) | 专知 2023-06-07
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
