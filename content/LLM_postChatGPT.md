@@ -327,10 +327,10 @@
       - [超越GPT-4！华人团队爆火InstructBLIP抢跑看图聊天，开源项目横扫多项SOTA](https://mp.weixin.qq.com/s/jI1cf7FDYJscHDZKiNvoug) | 新智元 2023-05-14 
 
   * InstructGLM(yanqiangmiffy):
-    - code: https://mp.weixin.qq.com/s/5xFwqtJINh6HwdKPdgMARw
+    - code: https://github.com/yanqiangmiffy/InstructGLM
     - blog:
       - [InstructGLM:基于ChatGLM-6B在指令数据集上进行微调](https://mp.weixin.qq.com/s/5xFwqtJINh6HwdKPdgMARw) | ChallengeHub 2023-04-10 
-
+      
 </br>
 
 ### J
@@ -572,7 +572,9 @@
       - [商汤“日日新SenseNova”大模型超市，来了！](https://mp.weixin.qq.com/s/Y97ejN4ZeLqECvGhfUs8Gw) | 商汤科技SenseTime 2023-04-10
       - [商汤版ChatGPT「商量」来了！开放API，基于千亿参数大模型，体验实录在此](https://mp.weixin.qq.com/s/QoQwfuzttBMxLgjVZLYI4w) | 量子位 2023-04-10
     - extra:
-      - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07, [code](https://github.com/InternLM/InternLM-techreport) 
+      - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07
+        - code: https://github.com/InternLM/InternLM-techreport
+        - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09 
   
   * SpeechGPT(复旦):
     - code: https://github.com/0nutation/SpeechGPT
@@ -670,6 +672,13 @@
     - [paper](https://arxiv.org/abs/2304.05302): RRHF: Rank Responses to Align Language Models with Human Feedback without tears.
     - blog:
       - [无需强化学习的与人类偏好对齐的语言模型：Wombat袋熊](https://mp.weixin.qq.com/s/xoPKmOzjlNZ2qGdcKeGARw) | PaperWeekly 2023-04-13 
+
+  * 悟道(智源):
+    - code(天鹰座(Aquila)): https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila
+    - homepage(天秤(FlagEval)): http://flageval.baai.ac.cn
+    - homepage(飞智大模型技术开源(FlagOpen)): https://flagopen.baai.ac.cn/#/home
+    - blog:
+      - [智源「悟道3.0」大模型系列问世，这次不拼参数，开源开放成为主角](https://mp.weixin.qq.com/s/kKqSa0sQOuRuQF7gDy7tIw) | 机器之心 2023-06-09 
 
 </br>
 
