@@ -244,6 +244,7 @@
     - blog: 
       - [首款产品Glow已达数百万用户，前商汤科技副总裁创立AI大模型企业](https://zhuanlan.zhihu.com/p/607262463) | 知乎-科技商说 2023-02-17
       - [破案了！百万用户与AI交友，背后果然有大模型](https://mp.weixin.qq.com/s/k-v6hbSonrlkPrJA6wPOlQ) | 量子位 2023-02-18
+      - [腾讯首次投资大模型！Minimax被曝完成2.5亿美元新融资](https://mp.weixin.qq.com/s/rqKYUJrgksYz9eS2DQfHJQ) | 量子位 2023-06-02
     - extra:
       - [安卓版「AI乌托邦」APP上线，下载即玩！](https://mp.weixin.qq.com/s/NYbHrGLZXv8ss0QjQPPILw) | 聆心智能官方 2023-05-09
   
