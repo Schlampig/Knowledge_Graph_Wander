@@ -490,6 +490,14 @@
     - extra:
       - [大模型如何构建“医生级”问答？谷歌DeepMInd最新《基于大型语言模型的专家级医疗问答研究》论文，提出Med-PaLM 2](https://mp.weixin.qq.com/s/rChVy5lhFoX5dV9oPkVzfw) | 专知 2023-05-21
 
+  * PandaGPT(剑桥&腾讯AI Lab):
+    - code: https://github.com/yxuansu/PandaGPT
+    - [paper](http://arxiv.org/abs/2305.16355): PandaGPT: One Model To Instruction-Follow Them All.
+    - homepage: https://panda-gpt.github.io/
+    - demo: https://huggingface.co/spaces/GMFTBY/PandaGPT
+    - blog:
+      - [剑桥、腾讯AI Lab等提出大语言模型PandaGPT：一个模型统一六种模态](https://mp.weixin.qq.com/s/DU-JLF4_ncA-aDcZ9W2-FQ) | 机器之心 2023-06-04
+
   * PandaLM(北京大学&西湖大学):
     - code: https://github.com/WeOpenML/PandaLM
     - former study: https://github.com/PKU-Alignment/omnisafe
