@@ -538,6 +538,11 @@
     - blog:
       - [ANNOUNCING OPENFLAMINGO: AN OPEN-SOURCE FRAMEWORK FOR TRAINING VISION-LANGUAGE MODELS WITH IN-CONTEXT LEARNING](https://laion.ai/blog/open-flamingo/) | official blog 2023-03-28
   
+  * ORCA(微软):
+    - [paper](https://arxiv.org/pdf/2306.02707.pdf): Orca: Progressive Learning from Complex Explanation Traces of GPT-4.
+    - blog:
+      - [「模仿学习」只会套话？解释微调+130亿参数Orca：推理能力打平ChatGPT](https://mp.weixin.qq.com/s/yKntugVl8Fhmd3PqoQB9Hw) | 新智元 2023-06-16 
+  
   * 水獭Otter(南洋理工):
     - code: https://github.com/Luodian/otter
     - [paper](https://arxiv.org/abs/2305.03726): Otter: A Multi-Modal Model with In-Context Instruction Tuning
