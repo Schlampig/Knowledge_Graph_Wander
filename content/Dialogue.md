@@ -281,6 +281,7 @@
         - [现在读博入坑NLP做什么？UMICH这份《大模型时代NLP研究: 博士生视角》提供指南，20多位博士生倾囊相授](https://mp.weixin.qq.com/s/zoImfIlCtLUcJ2caOgfO2Q) | 专知 2023-05-25
         - [刘知远老师高铁上回应：大模型LLM领域，有哪些可以作为学术研究方向？](https://mp.weixin.qq.com/s/vjqfOZSS_uz2MUyEycR6CA) | 深度学习自然语言处理 2023-05-28
           - [刘知远：大模型值得探索的十个研究方向](https://mp.weixin.qq.com/s/YD1skOQmsW8U_Xfw_Km7Tw) | OpenBMB开源社区 2023-06-01
+        - [只给大模型LeetCode编号，也能解题！大模型表现好是源于对训练数据的记忆吗？请不要迷信大模型](https://mp.weixin.qq.com/s/ZzmPAv4A9U5qSkNT3a1Psg) | 夕小瑶科技说 2023-06-09
       - 工程化 & 硬件：
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
@@ -303,6 +304,7 @@
         - [面向AI大模型的智算中心网络演进白皮书，30页pdf](https://mp.weixin.qq.com/s/xHzcNKpncieBMrNl5cAFaQ) | 专知 2023-05-15
         - [大模型多机多卡训练加速比测试](https://zhuanlan.zhihu.com/p/631310545?utm_campaign=shareopn&utm_medium=social&utm_oi=807339714590949376&utm_psn=1644024552421371904&utm_source=wechat_session) | 章彦博 2023-05-24
         - [陈丹琦团队提出低内存高效零阶优化器MeZO，单卡A100可训练300亿参数模型](https://mp.weixin.qq.com/s/JteUpY4fEbENQFvReRLPJg) | 深度学习自然语言处理 2023-05-31
+          - [陈丹琦团队新作：单卡A100可训300亿参数模型啦！](https://mp.weixin.qq.com/s/3RLCVQg2QJGSiDUtx9DgPg) | 夕小瑶科技说 2023-06-09 
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
