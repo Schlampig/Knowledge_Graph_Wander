@@ -194,7 +194,8 @@
         - [LoRA：卷完图像生成领域，卷文本生成领域的东西，到底是个啥？](https://mp.weixin.qq.com/s/MsOi-j1lv8yklRc6SvraZA) | AINLP 2023-04-29
         - [Finetune LLMs：Adapter Tuning](https://mp.weixin.qq.com/s/M5DsIWGe9rc6jmDtEKbjgQ) | WGS的学习笔记 2023-05-18
         - [调教LLaMA类模型没那么难，LoRA将模型微调缩减到几小时](https://mp.weixin.qq.com/s/1jtMvn7IlcS41Z2rGlG4Xg) | 深度学习自然语言处理 2023-05-27
-        - [【QLoRA实战】使用单卡高效微调bloom-7b1，效果惊艳](https://mp.weixin.qq.com/s/94Cf7e8OZ9GX-TGBmqWwKA) | AINLP 2023-06-05
+        - [QLoRA实战：使用单卡高效微调bloom-7b1，效果惊艳](https://mp.weixin.qq.com/s/94Cf7e8OZ9GX-TGBmqWwKA) | AINLP 2023-06-05
+        - [SpQR：将330亿参数大模型「塞进」单个消费级GPU，加速15%、性能不减](https://mp.weixin.qq.com/s/iOv3VYw6-OYYAaPFYRfZqQ) | 我爱计算机视觉 2023-06-09
       - Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
@@ -471,7 +472,6 @@
           - [鸡兔同笼都能算错的ChatGPT，陶哲轩发现了它的价值](https://mp.weixin.qq.com/s/Pbcm6pOe9r4cxJazj4q8_Q) | 机器之心 2023-03-06
           - [陶哲轩：ChatGPT已加入我的数学工作流](https://mp.weixin.qq.com/s/p8xPnTdkYr3HbJrKaS3pNA) | 量子位 2023-03-11
             - [陶哲轩宣布主持白宫生成式AI工作组，李飞飞、Hassabis发表演讲](https://mp.weixin.qq.com/s/ye6YFlSq3cqtQQDFL_U_MQ) | 机器学习算法与自然语言处理 2023-05-17 
-          - [AI重写排序算法，速度快70%：DeepMind AlphaDev革新计算基础，每天调用万亿次的库更新了](https://mp.weixin.qq.com/s/ygNWU5T9GUOfcTHOXjXrtA) | 机器之心 2023-06-08
           - [ChatGPT如何影响高等教育？德国霍恩海姆大学等最新《生成式AI模型和系统：GPT-4和ChatGPT》白皮书，47页pdf](https://mp.weixin.qq.com/s/mphYxNeoX0h7DzfbRQR7vg) | 专知 2023-03-27
           - [北大“韦神”出了道数学题，有老师用ChatGPT做答，结果出乎意料](https://mp.weixin.qq.com/s/ruzkyvY9XeGqjcjaai8EkA) | 夕小瑶的卖萌屋 2023-03-29
           - [最容易被ChatGPT抢饭碗的科学家，竟然真的是数学家？？？](https://mp.weixin.qq.com/s/uw7h_JpdIwvXe9V8yzz7iw) | 科研圈 2023-04-04
@@ -479,7 +479,9 @@
           - [GPT-4拿下最难数学推理数据集新SOTA，新型Prompting让大模型推理能力狂升](https://mp.weixin.qq.com/s/y8u40qIXm3oWZkvgKOV17Q) | 机器之心 2023-05-14
             - [华为诺亚提出新型Prompting (PHP)，GPT-4拿下最难数学推理数据集新SOTA](https://mp.weixin.qq.com/s/M6yRvpoyVu2tQpvE5P8hwQ) | 深度学习自然语言处理 2023-05-14
           - [GPT-4数学能力大蹦极！OpenAI爆火研究「过程监督」突破78.2%难题，干掉幻觉](https://mp.weixin.qq.com/s/PiVLFHRBLFD5Xj_mzCDsLg) | 新智元 2023-06-01
-            - [OpenAI要为GPT-4解决数学问题了：奖励模型指错，解题水平达到新高度](https://mp.weixin.qq.com/s/rzm5jdwgc4mMzTZhirHOxQ) | 机器之心 2023-06-01 
+            - [OpenAI要为GPT-4解决数学问题了：奖励模型指错，解题水平达到新高度](https://mp.weixin.qq.com/s/rzm5jdwgc4mMzTZhirHOxQ) | 机器之心 2023-06-01
+          - [AI重写排序算法，速度快70%：DeepMind AlphaDev革新计算基础，每天调用万亿次的库更新了](https://mp.weixin.qq.com/s/ygNWU5T9GUOfcTHOXjXrtA) | 机器之心 2023-06-08
+            - [GPT-4把DeepMind整尴尬了：你登上Nature的排序优化算法，我两段话就找出来了](https://mp.weixin.qq.com/s/I3-22VHty96wMWNNcfQd-Q) | 量子位 2023-06-09
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
           - [ChatGPT「赏金猎人」招募！OpenAI悬赏2万美元，给ChatGPT找Bug](https://mp.weixin.qq.com/s/WJz0imEcMixEF1Dta6NEyA) | 大数据文摘 2023-04-12 
           - [大模型工具学习系统性综述+开源工具平台，清华、人大、北邮、UIUC、NYU、CMU等40多位研究者联合发布](https://mp.weixin.qq.com/s/arEEAm05i_9Lij4HnxJbEw) | PaperWeekly 2023-04-24
@@ -682,6 +684,7 @@
         - [ChatGPT重塑Windows！微软王炸更新：操作系统全面接入，Bing也能用插件了](https://mp.weixin.qq.com/s/93UaOWiAQy1dlPSxDLi1Mg) | 量子位 2023-05-24
         - [搜索引擎变天了！谷歌宣布开放「生成式搜索平台」！AI 大模型颠覆搜索体验](https://mp.weixin.qq.com/s/sbwIHJMGcwWTEz6w1wMh1g) | 夕小瑶科技说 2023-05-30
         - [GPT-4变笨引爆舆论！文本代码质量都下降，OpenAI刚刚回应了降本减料质疑](https://mp.weixin.qq.com/s/K8W5Wy95YsDo8gfFyIUmvA) | 量子位 2023-06-02
+        - [“AI春晚”北京召开：发布国产开源可商用大模型，OpenAI CEO做主题演讲，LeCun、Hinton都来了](https://mp.weixin.qq.com/s/3nfhtXwmKTZKLmRh58zytQ) | 量子位 2023-06-09
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
