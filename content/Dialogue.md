@@ -282,6 +282,7 @@
         - [让算力不再成为瓶颈，小红书机器学习异构硬件推理优化之道](https://mp.weixin.qq.com/s/0WpTYiMlR1UiJI2QKW6s9g) | 小红书技术REDtech 2023-05-15
         - [面向AI大模型的智算中心网络演进白皮书，30页pdf](https://mp.weixin.qq.com/s/xHzcNKpncieBMrNl5cAFaQ) | 专知 2023-05-15
         - [大模型多机多卡训练加速比测试](https://zhuanlan.zhihu.com/p/631310545?utm_campaign=shareopn&utm_medium=social&utm_oi=807339714590949376&utm_psn=1644024552421371904&utm_source=wechat_session) | 章彦博 2023-05-24
+        - [陈丹琦团队提出低内存高效零阶优化器MeZO，单卡A100可训练300亿参数模型](https://mp.weixin.qq.com/s/JteUpY4fEbENQFvReRLPJg) | 深度学习自然语言处理 2023-05-31
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
