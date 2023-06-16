@@ -300,6 +300,7 @@
     - [计图：5秒训好NeRF！已开源](https://mp.weixin.qq.com/s/pF9S4IvO9EJiBlBCP3LiBQ)
     - [从点云到NeRF，多伦多大学CSC 2547课程全面讲解3D计算机视觉](https://mp.weixin.qq.com/s/ihhtZWTI9LsxtoPFz0x_Hg)
     - [浅谈如何基于深度方法进行三维重建](https://mp.weixin.qq.com/s/FUURFaMQRja6PxS-SPTFeg)
+    - [大卫复活！英伟达再造「神经朗基罗」，3D重建肌肉纹理肉眼可见](https://mp.weixin.qq.com/s/H0BnFExCRahcrkVwe6zzWg) | 新智元 2023-06-02
   * ViT(Vision in Transformer)
     - [简单实现 ViT](https://mp.weixin.qq.com/s/sXNI2oSZH6AaSJuqbAwF8Q)
     - [CVPR 2022 | 道高一尺，魔高一丈，ConvNet还是ViT？](https://mp.weixin.qq.com/s/png0UhkNyb1VqrRJAPyD0Q)
@@ -350,6 +351,7 @@
         - [2022年10月20日：从多篇论文看扩散模型在文本生成领域的应用](https://mp.weixin.qq.com/s/kDshGJcdpbjtXg9O1Y17EQ)
         - [2022年10月20日：最时髦的AI画画，一文包教包会](https://mp.weixin.qq.com/s/hiuGo4Qj1xYiePzab-nd3A)
         - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
+        - [2023年06月04日：Midjourney劲敌来了！ 谷歌StyleDrop王牌「定制大师」引爆AI艺术圈](https://mp.weixin.qq.com/s/jWeeuRaRjKgWoiXuq7Fq_A)
     - Stable-Diffusion(Chinese ver.)
       - [太乙](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html)
       - [AltDiffusion](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion)
