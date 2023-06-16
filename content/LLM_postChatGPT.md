@@ -164,6 +164,12 @@
       - [终于 ！中文基座模型CPM-Bee开源了](https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA) | OpenBMB开源社区 2023-05-27
     - extra:
       - [面壁智能联合知乎开源 CPM-Bee 并发布智能对话助手“露卡”（Luca），联网论文查找摘要功能太炸裂了！](https://mp.weixin.qq.com/s/fowTQs7xHLS_0rEtIuLaaA) | 量子位 2023-05-29 
+  
+  * CRATE(UC伯克利):
+    - code: https://github.com/Ma-Lab-Berkeley/CRATE
+    - [paper](https://arxiv.org/abs/2306.01129): White-Box Transformers via Sparse Rate Reduction
+    - blog:
+      - [LeCun力挺，马毅教授五年集大成之作：完全数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s/pUU5j1DEuViK9WblcQ6YHg) | 新智元 2023-06-08 
 
 </br>
 
