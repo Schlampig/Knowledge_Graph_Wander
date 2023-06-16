@@ -33,6 +33,7 @@
   * [一文详解文本语义相似度的研究脉络和最新进展](https://mp.weixin.qq.com/s/qxYz_n_UM2lWhaz1YBhXYw)
   * [搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/emYOMZKE8jX0UaorwalPug)
   * [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/fBsDPiU1y78XLbvxrPs6xQ)
+  * [综述 | 《面向推荐的大型语言模型》](https://mp.weixin.qq.com/s/TOe_b5r9zYTlqrJFWO-3OA)
 
 ### Searching / Recommending Matching Methods
   * Model Collections
