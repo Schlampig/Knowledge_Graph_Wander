@@ -349,6 +349,12 @@
     - blog:
       - [国产开源大模型： 百亿参数“伶荔”，填补中文基础模型空白！](https://mp.weixin.qq.com/s/XD63CRzTKrM2I2uPQrLTTQ) | Datawhale 2023-04-28 
   
+  * Lion(港科大):
+    - code: https://github.com/YJiangcm/Lion
+    - [paper](https://arxiv.org/abs/2305.12870): Lion: Adversarial Distillation of Closed-Source Large Language Model.
+    - blog:
+      - [7B LLaMA模型接近ChatGPT 95%的能力！港科大提出全新对抗蒸馏框架Lion](https://mp.weixin.qq.com/s/UPPkMbnkG1BZhE0nctNvhQ) | PaperWeekly 2023-05-30 
+  
   * LLaMA(Meta): 
     - [paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/): LLaMA: Open and Efficient Foundation Language Models.
     - code: https://github.com/facebookresearch/llama
