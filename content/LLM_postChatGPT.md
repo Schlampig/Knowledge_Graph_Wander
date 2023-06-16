@@ -326,6 +326,11 @@
 </br>
 
 ### I
+  * I-JEPA(Meta):
+    - [paper](https://arxiv.org/abs/2301.08243): Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture. 
+    - blog:
+      - [LeCun世界模型出场！Meta震撼发布首个「类人」模型，理解世界后补全半张图，自监督学习众望所归](https://mp.weixin.qq.com/s/Mqgc6t8UXhoc-tdeKer-Fg) | 新智元 2023-06-14
+
   * InstructBLIP(Salesforce&港科大&南洋理工):
     - code: https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
     - [paper](https://arxiv.org/pdf/2305.06500.pdf): InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning.
@@ -471,6 +476,10 @@
   * MetaLLM([秘塔科技](https://metasota.ai/#/)): 
     - [秘塔写作猫](xiezuocat.com/chat)
     - [立即体验！直接可用的中文版ChatGPT来了](https://mp.weixin.qq.com/s/uV4rjy3aBaHLnT5RsLqbZA) | 机器之心 2023-02-28
+  
+  * MetaMate(Meta):
+    - blog:
+      - [知道员工所有秘密，Meta版AI聊天机器人来了：使用公司内部数据训练，能写代码、调试，还能总结会议](https://mp.weixin.qq.com/s/QU1LtriTqK6bVS3Vap-WZQ) | AI前线 2023-06-13
   
   * MiniGPT(KAUST):
     - code: https://github.com/Vision-CAIR/MiniGPT-4
