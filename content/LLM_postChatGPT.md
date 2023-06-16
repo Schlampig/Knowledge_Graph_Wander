@@ -602,6 +602,14 @@
       - [警惕不负责任的误导宣传-LLaMA微调7W数据的Vicuna达90%+ChatGPT：评测方式概述和开源微调数据介绍](https://mp.weixin.qq.com/s/whLY8wc6WMaHkx4VJ7aewg) | 老刘说NLP 2023-04-07 
       - [大模型也内卷，Vicuna训练及推理指南，效果碾压斯坦福羊驼](https://mp.weixin.qq.com/s/tjXYrHCYhQQeRPEGBiSQWw) | AINLP 2023-05-12
   
+  * Video-LLaMA(阿里达摩院):
+    - code: https://github.com/DAMO-NLP-SG/Video-LLaMA
+    - [paper](https://arxiv.org/abs/2306.02858): Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.
+    - demo(Modelscope): https://modelscope.cn/studios/damo/video-llama/summary
+    - demo(Huggingface): https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA 
+    - blog:
+      - [给语言大模型加上综合视听能力，达摩院开源Video-LLaMA](https://mp.weixin.qq.com/s/fU_21S5huOJDhrMRcqDcBQ) | 机器之心 2023-06-08
+  
   * Visual ChatGPT(微软):
     - blog:
       - [王炸！微软发布Visual ChatGPT：视觉模型加持ChatGPT实现丝滑聊天](https://mp.weixin.qq.com/s/cd7g7l01V5poP41hRt1IPQ) | 夕小瑶的卖萌屋 2023-03-10
