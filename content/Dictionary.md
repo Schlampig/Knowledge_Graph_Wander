@@ -99,6 +99,7 @@
   * [Geocoding](https://github.com/casuallyName/Geocoding) by casuallyName.
   * [chinese-address-segment](https://github.com/yihenglu/chinese-address-segment) by yihenglu: 中文地址分词（地址元素识别与抽取），通过序列标注进行NER.
   * [python地理编码服务Geocoder](https://mp.weixin.qq.com/s/iEMbL3Ucxv1Z_WhwSJSz_A) | 我不爱机器学习 2023-05-15
+  * [Nominatim](https://nominatim.org/): Open-source geocoding with OpenStreetMap data.
 
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
