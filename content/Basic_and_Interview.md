@@ -621,6 +621,11 @@
   * author: NiuTrans
   * keywords: 本项目整理了《中文信息学报》、《计算机学报》、《软件学报》、《自动化学报》、《电子学报》、《计算机研究与发展》、《中国科学：信息科学》近年来在自然语言处理和机器学习领域的综述论文（共350篇），将其按照不同研究领域进行分类，并提供论文的获取网址。
 
+### 高等院校三千所·助力考生选大学
+  * link: https://laosheng.top/fuwu/yuanxiao
+  * homepage: [老生常谈](https://laosheng.top/)
+  * keywords: 以‘大规模集成网页(LSIP)’形式收录中国高校名单全集和网址，按照 中管、部本、省本、专科 的顺序形成中国高校层级图谱。针对普通高考录取，本页收录网址排除了成人高校，增补了港澳台高校，总院校链接数仍维持在三千左右。
+
 ### Blog
   * [AI算法工程师的笔记本环境配置](https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A)
   * [陈天奇、王威廉等人推荐：ACL最佳论文奖得主给新入行研究者的一点建议](https://mp.weixin.qq.com/s/nDj_m1Cq1qi3Qo4E--EhpA)
