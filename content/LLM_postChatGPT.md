@@ -231,6 +231,12 @@
       - [百度文心一言在国产模型中倒数？我看懵了](https://mp.weixin.qq.com/s/mKXw1A06Wyjznekhfuz4Hg) | 夕小瑶科技说 2023-05-12
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
+  
+  * ExpertLLaMA(中科大&阿里达摩院):
+    - code: https://github.com/OFA-Sys/ExpertLLaMA
+    - [paper](https://arxiv.org/abs/2305.14688): ExpertPrompting: Instructing Large Language Models to be Distinguished Experts.
+    - blog:
+      - [ExpertLLaMA：超越Vicuna，通过角色扮演增强指令，显著提升回答质量](https://mp.weixin.qq.com/s/w2DTt-ktX_J7HNvClXOGPw) | PaperWeekly 2023-06-12
 
 </br>
 
@@ -412,6 +418,11 @@
     - [paper](https://arxiv.org/abs/2304.01933): LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language.
     - blog:
       - [从此告别繁琐的模型微调，LLM-Adapters助力NLP任务快速高效微调！](https://mp.weixin.qq.com/s/96FrL20w9doVfnQFO4ZaTw) | PaperWeekly 2023-04-06
+  
+  * LLM-BLENDER(AllenAI&南加大&浙大):
+    - [paper](https://arxiv.org/pdf/2306.02561): LLM-BLENDER: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion.
+    - blog:
+      - [博采众长！我全都要！Allen AI推出集成主流大语言模型的LLM-BLENDER框架](https://mp.weixin.qq.com/s/-S6vBTRSyibJBVVFoasO7g) | 深度学习自然语言处理 2023-06-10
   
   * LLM-IFT:
     - code: https://github.com/PhoebusSi/Alpaca-CoT
@@ -598,6 +609,11 @@
 </br>
 
 ### T
+  * 桃李Taoli:
+    - code: https://github.com/blcuicall/taoli 
+    - blog:
+      - [国际中文教育大模型“桃李” 1.0发布](https://mp.weixin.qq.com/s/eXxlPyLkCTTBsiyTNz7VcQ) | 深度学习自然语言处理 2023-06-10
+
   * TigerBot(虎博科技):
     - code: https://github.com/TigerResearch/TigerBot
     - homepage: https://www.tigerbot.com/chat
@@ -687,6 +703,7 @@
     - blog:
       - [“三项能力超过ChatGPT”，科大讯飞星火大模型现场接受观众挑战，写稿制表PPT通通拿下](https://mp.weixin.qq.com/s/o-Yy2uz51_gMyEjamtkAkw) | 量子位 2023-05-06
       - [GPT诸神之战，小巨头如何做大模型？](https://mp.weixin.qq.com/s/ZS-yiIleIVEJAsnmvS6AGg) | 雷峰网 2023-05-08
+      - [讯飞星火大模型抢先进入​「升级战」：中国版ChatGPT来了](https://mp.weixin.qq.com/s/r3gXhifZAbRHyVfggizbOg) | 36氪 2023-06-09
 
   * 轩辕(度小满):
     - blog:
