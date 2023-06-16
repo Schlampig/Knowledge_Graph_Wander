@@ -67,6 +67,7 @@
           -  [大模型迎来「开源季」，盘点过去一个月那些开源的LLM和数据集](https://mp.weixin.qq.com/s/VleZkQT6Vga7vqZP8pvgQQ) | 机器之心 2023-05-16
           - [大模型选型的一点思考](https://mp.weixin.qq.com/s/NOcUlNPOXZheXJ9yX4wrLQ) | 深度学习自然语言处理 2023-05-20 
         - [OpenAI大神Andrej官方揭秘GPT大模型原理和训练过程](https://mp.weixin.qq.com/s/PLkwPnuVmuBtAcdQnVG-MQ) | 知识工场 2023-05-29
+        - [【2023新书】《ChatGPT入门》，179页pdf](https://mp.weixin.qq.com/s/zPU6zUddW3ekcPIn3nTpsQ) | 专知 2023-05-30
       - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
@@ -128,6 +129,7 @@
         - [大模型知识&推理评估基准MMLU](https://mp.weixin.qq.com/s/P0ohd5DpwJOkL8DFVC4qoA) | 李rumor 2023-05-25
         - [大模型评测最新调研和一点思考](https://mp.weixin.qq.com/s/qrxmqGneKeKt9kI2B9iDTg) | AINLP 2023-05-28
         - [ChatGPT时代情感分析还存在吗？一份真实调查](https://mp.weixin.qq.com/s/5pyA0rgahHESDOFKvwfsGw) | 深度学习自然语言处理 2023-05-29
+        - [大语言模型综合能力测评报告（2023），33页ppt](https://mp.weixin.qq.com/s/Sd9lsUFpLfk9t9q3saI05g) | 专知 2023-05-30
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
