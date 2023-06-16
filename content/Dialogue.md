@@ -85,6 +85,7 @@
         - [ChatGPT大模型work三个要点是什么？谷歌JasonWei最新《大型语言模型的缩放、涌现和推理》报告](https://mp.weixin.qq.com/s/Jv2ocHmOYzJkhDvHcLiYcA) | 专知 2023-04-14
         - [张俊林：当前炼制“大语言模型”的两个现象](https://mp.weixin.qq.com/s/WXpOOAO2AARvmuq-ZRuwnQ) | AINLP 2023-04-18
         - [关于大模型技术的三点思考](https://mp.weixin.qq.com/s/T5YaS49MdnwE9-deP4826A) | 李rumor 2023-05-29
+        - [GPT总设计师：大型语言模型的未来](https://mp.weixin.qq.com/s/wXH5Irz9hImeYQVhj_RjXQ) | AINLP 2023-06-09
       - Awesome Collection:
         - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
         - [Awesome Chatgpt](https://github.com/sindresorhus/awesome-chatgpt): Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
