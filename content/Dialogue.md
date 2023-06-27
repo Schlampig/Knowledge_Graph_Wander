@@ -171,6 +171,7 @@
         - [提示工程七巧板：让ChatGPT发挥出最佳性能](https://mp.weixin.qq.com/s/kQuCCG-RdTEF77xotz2rvA) | 脚本之家 2023-06-10
         - [13条咒语挖掘GPT-4最大潜力，Github万星AI导师火了，网友：隔行再也不隔山了](https://mp.weixin.qq.com/s/BJpGQE4SWPBC8Ncha8XaIA) | 量子位 2023-06-11
         - [10种实用的Prompt技巧图解](https://mp.weixin.qq.com/s/0tctnn-3cLWSjQWq8EjEPQ) | AINLP 2023-06-19
+        - [提示工程和提示构造技巧](https://mp.weixin.qq.com/s/l0mLbXHVVvlWXoR7PqqaBQ) | CS的陋室 2023-06-25
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -279,6 +280,7 @@
         - [71页ppt！指令微调和RLHF讲座(NYU CSCI 2590) 附视频](https://mp.weixin.qq.com/s/W5EByAkLlpitE3S5LepyPA) | 专知 2023-05-20
         - [RLHF中的「RL」是必需的吗？有人用二进制交叉熵直接微调LLM，效果更好](https://mp.weixin.qq.com/s/9AYuQwTSHfW_uVXbYw1s1Q) | 机器之心 2023-06-03
         - [10行代码媲美RLHF，用社交游戏数据训练社会对齐模型](https://mp.weixin.qq.com/s/ee_GqiJtnJwgWS-3zw0qmA) | 机器之心 2023-06-06
+        - [ICLR 2023 Spotlight | 节省95%训练开销，清华黄隆波团队提出强化学习专用稀疏训练框架RLx2](https://mp.weixin.qq.com/s/_AaucAv7RG4ZZM7l4n0fmw) | 将门创投 2023-06-25
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -682,6 +684,7 @@
         - [大模型跨界研究：计算精神病学发现，大模型居然比人类更焦虑](https://mp.weixin.qq.com/s/uESytlnKnwsIA0JtrfiTyA) | 夕小瑶科技说 2023-04-26
         - [ChatGPT宣布建国做女王！网友灵魂拷问：谁来给女王写prompt？](https://mp.weixin.qq.com/s/tU5ZNovcAyswKma3201_Mw) | 新智元 2023-05-02
         - [人工智能会率先发现外星生命吗？](https://mp.weixin.qq.com/s/-s6eIwSFOHF7BsIDoOqGrw) | 人工智能学家 2023-05-05
+        - [ChatGPT 讲的笑话90%是重复的？归纳出来只有这25个？](https://mp.weixin.qq.com/s/ErXWbgCXUpSG3dTuW_ORMQ) | 夕小瑶科技说 2023-06-25
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
@@ -756,6 +759,7 @@
           - [GPT-4满分通过MIT本科数学考试！这套提示词火了](https://mp.weixin.qq.com/s/yn08fo-h5QWB9grPR-K4_A) | 量子位 2023-06-17
             - [爆火的「GPT-4 MIT本科数学满分」论文作弊，数据集本身有问题](https://mp.weixin.qq.com/s/GxRfWKIWDzqfqJbjkdeBkA) | 机器之心 2023-06-18 
           - [陶哲轩自曝用了「满血」GPT-4：人类对信息技术的期待全部需要校准](https://mp.weixin.qq.com/s/w27J9nA6Tea4RDn-_j_ibg) | 量子位 2023-06-17
+            - [陶哲轩甩出调教GPT-4聊天记录，点击领取大佬的研究助理](https://mp.weixin.qq.com/s/27tec1cbVTmTcuJkZqmClg) | 量子位 2023-06-25 
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
