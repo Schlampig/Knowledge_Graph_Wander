@@ -34,6 +34,7 @@
   * [搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/emYOMZKE8jX0UaorwalPug)
   * [京东推荐算法精排技术实践](https://mp.weixin.qq.com/s/fBsDPiU1y78XLbvxrPs6xQ)
   * [综述 | 《面向推荐的大型语言模型》](https://mp.weixin.qq.com/s/TOe_b5r9zYTlqrJFWO-3OA)
+  * [When RS Meets LLM：推荐系统如何从大语言模型中取长补短？面向应用视角的全面综述](https://mp.weixin.qq.com/s/SssrkpZ7OSggTHCcTkiyzQ)
 
 ### Searching / Recommending Matching Methods
   * Model Collections
