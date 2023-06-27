@@ -183,6 +183,13 @@
 </br>
 
 ### D
+  * Data-Copilot(浙大):
+     - code: https://github.com/zwq2018/Data-Copilot
+    - [paper](https://arxiv.org/abs/2306.07209): Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow.
+    - demo: https://huggingface.co/spaces/zwq2018/Data-Copilot
+    - blog:
+      - [Data-Copilot: 大语言模型做你最贴心省事的数据助手](https://mp.weixin.qq.com/s/3f4KKNW_Y_GSBjvAreLuXQ) | PaperWeekly 2023-06-21
+    
   * Davinci(OpenAI): 
     - blog:
       - [GPT-3新模型Davinci，将AI写作提升到新水平！网友惊呼：GPT-4要来了？](https://mp.weixin.qq.com/s/FEeNn-_LhJLf-xqMaSlLNg) | 夕小瑶的卖萌屋 2022-12-23
@@ -691,6 +698,11 @@
     - blog:
       - [VisualGLM-6B：开源的多模态对话模型，最低只需8.7G显存](https://mp.weixin.qq.com/s/qXFDCz4AvgWo8oBiH-udgg) | 学术头条 2023-05-18
       - [巧用prompt可提升解题：多模态对话语言模型VisualGLM-6B及借助多步渐进式提示PHP增强解题能力工作介绍](https://mp.weixin.qq.com/s/gGHjvqxt0E88cgAzfvejww) | 老刘说NLP 2023-05-18
+
+  * vLLM(UC伯克利):
+    - code: https://github.com/vllm-project/vllm
+    - blog:
+      - [比HuggingFace快24倍！伯克利神级LLM推理系统开源，碾压SOTA，让GPU砍半](https://mp.weixin.qq.com/s/e0jcROf5bz-vaxEKILnqLw) | 新智元 2023-06-21 
   
   * Voyager(英伟达):
     - homepage: https://voyager.minedojo.org/
@@ -718,7 +730,9 @@
      - code: https://github.com/nlpxucan/WizardLM 
      - [paper](https://arxiv.org/abs/2304.12244): WizardLM: Empowering Large Language Models to Follow Complex Instructions.
      - blog:
-       - [如何构造复杂多样的微调指令数据：WizardLM复杂指令构造思想与实验分析工作总结](https://mp.weixin.qq.com/s/M7gmaHJuWTVI35H3dmmeVA) | 老刘说NLP 2023-06-20 
+       - [如何构造复杂多样的微调指令数据：WizardLM复杂指令构造思想与实验分析工作总结](https://mp.weixin.qq.com/s/M7gmaHJuWTVI35H3dmmeVA) | 老刘说NLP 2023-06-20
+     - extra:
+       - WizardCoder: [超越所有开源模型，击败 Claude、Bard，专门用于编程任务的大模型来了](https://mp.weixin.qq.com/s/MvxGyEuz506_uI7QRsw8_w) | 机器学习算法与自然语言处理 2023-06-20 
 
   * 袋熊Wombat(阿里达摩院):
     - code: https://github.com/GanjinZero/RRHF
