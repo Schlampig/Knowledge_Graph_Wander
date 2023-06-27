@@ -115,6 +115,11 @@
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
       - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
+
+  * ChatGLM2(智谱AI):
+    - code: https://github.com/THUDM/ChatGLM2-6B
+    - blog:
+      - [【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA) | GLM大模型 2023-06-25 
   
   * ChatLLM-Web(Ryan-yang125):
     - code: https://github.com/Ryan-yang125/ChatLLM-Web
@@ -621,6 +626,11 @@
     - blog:
       - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
       - [Sage Gpt-4 Claude+ ChatGPT Dragonfly五个AI的各自特点](https://zhuanlan.zhihu.com/p/614720305) | 春眠不觉晓 2023-03-17
+
+  * SEEChat(360):
+    - code: https://github.com/360CVGroup/SEEChat
+    - blog:
+      - [赋予LLM视觉理解能力，360人工智能研究院开源中文多模态对话模型SEEChat](https://mp.weixin.qq.com/s/08rRnJGSZR36fTYNHzgrBA) | 机器之心 2023-06-25  
   
   * 商量SenseChat(商汤科技):
     - blog:
