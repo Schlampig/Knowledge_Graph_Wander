@@ -155,6 +155,12 @@
       - [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
       - [「ChatGPT最强竞品」爆火：不限量不要钱免注册！一手实测体验在此](https://mp.weixin.qq.com/s/QB85YPjh6DMBTPla4NDfXg) | 量子位 2023-04-14
       - [一次10万token！GPT4最强对手史诗升级，百页资料一分钟总结完毕](https://mp.weixin.qq.com/s/h_JyYVs38lOrTmorQuoGCg) | 量子位 2023-05-12
+
+  * Code T5+(Salesforce):
+    - code: https://github.com/salesforce/CodeT5/tree/main/CodeT5+
+    - [paper](https://arxiv.org/pdf/2305.07922.pdf): CodeT5+: Open Code Large Language Models for Code Understanding and Generation.
+    - blog:
+      - [刷新20项代码任务SOTA，Salesforce提出新型基础LLM系列编码器-解码器Code T5+](https://mp.weixin.qq.com/s/xKD2GhdLzsyTCsZ-5HzJsQ) | 机器之心 2023-06-24 
   
   * ColossalAI(潞晨科技):
     - code: https://github.com/hpcaitech/ColossalAI
@@ -720,11 +726,22 @@
 </br>
 
 ### W
+  * WastonX(IBM):
+    - [paper](https://arxiv.org/abs/2306.04640): ModuleFormer: Learning Modular Large Language Models From Uncurated Data.
+    - blog:
+      - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s/EaptzYnOtf2K_Wfb2rb5Ow) | 量子位 2023-06-24 
+
   * WebCPM(清华):
     - code: https://github.com/thunlp/WebCPM
     - [paper](https://arxiv.org/abs/2305.06849): WebCPM: Interactive Web Search for Chinese Long-form Question Answering.
     - blog:
-      - [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ) | PaperWeekly 2023-05-13 
+      - [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ) | PaperWeekly 2023-05-13
+
+  * WebGLM(清华):
+    - code: https://github.com/THUDM/WebGLM
+    - [paper](https://arxiv.org/abs//2306.07906): WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences. 
+    - blog:
+      - [清华唐杰新作WebGLM：参数100亿、主打联网搜索，性能超OpenAI WebGPT](https://mp.weixin.qq.com/s/k8eZicII2xtOH-yfILwPow) | 量子位 2023-06-23
 
   * WizardLM(微软):
      - code: https://github.com/nlpxucan/WizardLM 
