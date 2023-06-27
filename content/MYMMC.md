@@ -218,13 +218,14 @@
   - [2022年06月13日：又一篇超百名作者的 AI 论文问世！442位作者耗时两年发布大模型新基准 BIG-bench……](https://mp.weixin.qq.com/s/N_XYh04y92psPk9h1ISxzQ)
   - [2022年06月29日：李飞飞划重点的「具身智能」，走到哪一步了？](https://mp.weixin.qq.com/s/fQgIHv78Q1AG5bF6fQYbGg)
     - [2022年07月14日：下一站，Embodied AI](https://mp.weixin.qq.com/s/iePasFauFjAziXU8u0PcTg)
+    - [2022年10月22日：Bengio、LeCun 等人联名上书，呼吁美国投资神经AI，攻破「具身图灵测试」](https://mp.weixin.qq.com/s/FrhFb5RxGGDi2DC6UJMvpw)
+    - [2023年06月20日：具身智能与强化学习前沿进展 | 2023智源大会精彩回顾](https://mp.weixin.qq.com/s/ZmbR-CTxdeWYufTmCcg65w)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
   - [2022年08月02日：DeepMind 首席科学家 Oriol Vinyals 最新访谈：通用 AI 的未来是强交互式元学习](https://mp.weixin.qq.com/s/srWdDW461vQYD735Gi8Tbg)
     - [2022年08月15日：DeepMind创始人Demis Hassabis：AI 的强大，超乎我们的想象](https://mp.weixin.qq.com/s/D5DzLqlizHaURNHOqs5GnQ)
   - [2022年09月27日：【前沿报告】Richard Sutton 直言卷积反向传播已经落后，AI 突破要有新思路：持续反向传播](https://mp.weixin.qq.com/s/P3gArNbpBwVlAAoh0qIOMw)
-  - [2022年10月22日：Bengio、LeCun 等人联名上书，呼吁美国投资神经AI，攻破「具身图灵测试」](https://mp.weixin.qq.com/s/FrhFb5RxGGDi2DC6UJMvpw)
   - [2022年12月02日：近万人围观Hinton最新演讲：前向-前向神经网络训练算法，论文已公开](https://mp.weixin.qq.com/s/oxS57R8lZGAQga2AbvYnRw)
   - [2023年01月19日：超详超硬Jeff Dean万字总结火热出炉！图解谷歌2022年AIGC、LLM、CV三大领域成就](https://mp.weixin.qq.com/s/mYhSFtZZMRv5dDMnYcruJg)
   - [2023年01月27日：Transformer模仿大脑，在预测大脑成像上超越42个模型，还能够模拟感官与大脑之间的传输](https://mp.weixin.qq.com/s/O-gCHzTL4lAJ8bQDZtzPDQ)
@@ -251,6 +252,8 @@
   - [2023年05月26日：马斯克脑机接口公司获批开展首例人体实验](https://mp.weixin.qq.com/s/9z_yI6Zb4ISHNWFh5xSGkw)
   - [2023年06月12日：75岁Hinton中国大会最新演讲「通往智能的两种道路」，最后感慨：我已经老了，未来交给年轻人](https://mp.weixin.qq.com/s/DDUfYkIpcRc_2TTZ0eclGA)
   - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
+    - [2023年06月19日：Nature封面：量子计算机离实际应用还有两年](https://mp.weixin.qq.com/s/MqWh7N42Fmo9JqjlFFvLxQ)
+  - [2023年06月20日：我们能够量化机器意识吗？](https://mp.weixin.qq.com/s/cfapcLc26_QFsmjCdAnrUg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
