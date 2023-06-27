@@ -292,6 +292,11 @@
    - blog:
      - [首个大规模使用工具的大模型来了：伯克利发布Gorilla](https://mp.weixin.qq.com/s/p9tx3q3Lpr4fNqdyxWhzyA) | 机器之心 2023-05-26
      - [也读大猩猩Gorilla—面向API调用场景的微调语言模型：从训练数据、训练方法到模型效果评估](https://mp.weixin.qq.com/s/HOW8xURiThngfyuQq9RXaw) | 老刘说NLP 2023-05-28
+
+* GPT-Engineer(Depict.AI):
+  - code: https://github.com/AntonOsika/gpt-engineer
+  - blog:
+    - [GPT-Engineer一夜爆火！一个提示生成整个代码库，GitHub狂飙19k星](https://mp.weixin.qq.com/s/fjrKWsjgsiCXBar9r9F4XQ) | 新智元 2023-06-20 
   
   * GPT4All
     - code: https://github.com/nomic-ai/gpt4all
@@ -708,6 +713,12 @@
     - [paper](https://arxiv.org/abs/2305.06849): WebCPM: Interactive Web Search for Chinese Long-form Question Answering.
     - blog:
       - [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ) | PaperWeekly 2023-05-13 
+
+  * WizardLM(微软):
+     - code: https://github.com/nlpxucan/WizardLM 
+     - [paper](https://arxiv.org/abs/2304.12244): WizardLM: Empowering Large Language Models to Follow Complex Instructions.
+     - blog:
+       - [如何构造复杂多样的微调指令数据：WizardLM复杂指令构造思想与实验分析工作总结](https://mp.weixin.qq.com/s/M7gmaHJuWTVI35H3dmmeVA) | 老刘说NLP 2023-06-20 
 
   * 袋熊Wombat(阿里达摩院):
     - code: https://github.com/GanjinZero/RRHF
