@@ -190,7 +190,10 @@
       - project: https://jaywalnut310.github.io/vits-demo/index.html
       - [paper](https://arxiv.org/abs/2106.06103): VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech. 
     - [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc/blob/4.0/README_zh_CN.md)
-    - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) 
+    - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
+    - VoiceBox:
+      - [paper](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/): Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale.
+      - [语音领域的GPT时刻：Meta 发布「突破性」生成式语音系统，一个通用模型解决多项任务](https://mp.weixin.qq.com/s/xrLfu4qf05NlENOe6xpvkg) | 机器之心 2023-06-17
 </br>
 
 ### Recommender system
@@ -206,19 +209,22 @@
 </br>
 
 ### Reinforcement Learning
-  * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-  * [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
-  * [reinforcement-learning-an-introduction-chinese](https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese)
-  * [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-  * [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
-  * [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-  * [paper: A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
-  * [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
-  * [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents).
-  * [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
-  * [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
-  * [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
-  * [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
+  * Survey & Tutorial:
+    - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+    - [Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
+    - [reinforcement-learning-an-introduction-chinese](https://github.com/qiwihui/reinforcement-learning-an-introduction-chinese)
+    - [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+    - [圣经书||《强化学习导论(2nd)》原书、代码、习题答案、课程视频大全](https://mp.weixin.qq.com/s/K2eis60o9Yc63IFBRKJT6g)
+    - [github: reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+    - [paper: A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
+    - [github: easy-rl](https://github.com/datawhalechina/easy-rl): 强化学习基础教程，来自[Datawhale](https://github.com/datawhalechina)。
+    - [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents).
+    - [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
+    - [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
+    - [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
+  * Agent Intelligence:
+    - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
+    - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
   
 </br>
 
@@ -396,6 +402,8 @@
       - blog:
         - [可组合扩散模型主打Any-to-Any生成：文本、图像、视频、音频全都行](https://mp.weixin.qq.com/s/UKLF1DE1YarBzHu43W0HwA) | 机器之心 2023-05-23
         - [「大一统」大模型论文爆火，4种模态任意输入输出，华人本科生5篇顶会一作，网友：近期最不可思议的论文](https://mp.weixin.qq.com/s/Mg_qnawkYSWnRHk4LIEIsQ) | 量子位 2023-05-28
+    - World-from-Eyes:
+      - [眼球反射解锁3D世界，黑镜成真！马里兰华人新作炸翻科幻迷](https://mp.weixin.qq.com/s/Oaa_8gxRoFGfWV19xc2Vew) | 新智元 2023-06-17 
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
