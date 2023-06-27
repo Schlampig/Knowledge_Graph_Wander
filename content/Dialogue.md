@@ -262,6 +262,7 @@
         - [ACL 2023 | 复旦邱锡鹏组提出模块化Prompt多任务预训练，可快速适应下游任务](https://mp.weixin.qq.com/s/AXUSyg3CxBHSuPhnB2cD9Q) | PaperWeekly 2023-06-19
         - [LOMO: 650亿参数，8块GPU就能全参数微调：邱锡鹏团队把大模型门槛打下来了](https://mp.weixin.qq.com/s/339iXf2bimusfq6zQmFpWw) | 机器之心 2023-06-20
         - [贫穷让我预训练](https://mp.weixin.qq.com/s/v3Jplgz-fwnVFAHGi7SJsg) | 李rumor 2023-06-22
+        - [Instruction Tuning 阶段性总结(至2023年6月)](https://yaofu.notion.site/2023-06-Instruction-Tuning-935b48e5f26448e6868320b9327374a1) | 符尧 2023-06-26
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
