@@ -563,6 +563,10 @@
     - [paper](https://arxiv.org/abs/2304.06939): Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text 
     - blog:
       - [ANNOUNCING OPENFLAMINGO: AN OPEN-SOURCE FRAMEWORK FOR TRAINING VISION-LANGUAGE MODELS WITH IN-CONTEXT LEARNING](https://laion.ai/blog/open-flamingo/) | official blog 2023-03-28
+
+  * OpenLLaMA-Chinese(FittenTech):
+    - code: https://github.com/FittenTech/OpenLLaMA-Chinese
+    - note: 免费的中文大型语言模型，基于OpenLLaMA，可用于非商业和商业目的。OpenLLaMA-Chinese是在RedPajama数据集上训练的Meta AI的LLaMA 7B和13B模型的开源实现。使用OpenLLaMA基础模型对中文和英文指令进行了微调，并公开了权重。使用了中文-LLaMA-Alpaca项目的alpaca_data_zh_51k.json进行中文微调，使用了StanfordAlpaca项目的alpaca_data.json进行英文微调。
   
   * ORCA(微软):
     - [paper](https://arxiv.org/pdf/2306.02707.pdf): Orca: Progressive Learning from Complex Explanation Traces of GPT-4.
