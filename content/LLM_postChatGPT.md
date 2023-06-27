@@ -115,6 +115,7 @@
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
       - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
+      - [ChatGLM.cpp ](https://github.com/li-plus/chatglm.cpp): C++ implementation of ChatGLM-6B.
 
   * ChatGLM2(智谱AI):
     - code: https://github.com/THUDM/ChatGLM2-6B
@@ -607,7 +608,12 @@
   * PKU-Beaver(北大):
     - code: https://github.com/PKU-Alignment/safe-rlhf
     - blog:
-      - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18 
+      - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18
+
+  * 貔貅PIXIU(武汉大学):
+    - code: https://github.com/chancefocus/PIXIU
+    - [paper](https://arxiv.org/abs/2306.05443): PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance
+    - note: 整合现有多个任务的中文金融大模型数据集。
 
 </br>
 
