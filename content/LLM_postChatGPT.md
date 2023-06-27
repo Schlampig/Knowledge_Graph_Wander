@@ -119,7 +119,8 @@
   * ChatGLM2(智谱AI):
     - code: https://github.com/THUDM/ChatGLM2-6B
     - blog:
-      - [【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA) | GLM大模型 2023-06-25 
+      - [【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA) | GLM大模型 2023-06-25
+      - [也看支持32K上下文的ChatGLM2-6B模型：优化点简读及现有开源模型主流训练优化点概述](https://mp.weixin.qq.com/s/Y9jnHBkWRTMXQPMCCIMfTw) | 老刘说NLP 2023-06-25
   
   * ChatLLM-Web(Ryan-yang125):
     - code: https://github.com/Ryan-yang125/ChatLLM-Web
