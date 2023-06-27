@@ -346,7 +346,8 @@
         - [服务器液冷台湾专家交流纪要](https://mp.weixin.qq.com/s/ezNqVY_adPWUJNg-adQiZQ) | 投研驿站 2023-04-24
         - [陈天奇等人新作引爆AI界：手机原生跑大模型，算力不是问题了](https://mp.weixin.qq.com/s/uQGAu1v-6ApgZHVkZJsUdQ) | 机器之心 2023-05-01
         - [让算力不再成为瓶颈，小红书机器学习异构硬件推理优化之道](https://mp.weixin.qq.com/s/0WpTYiMlR1UiJI2QKW6s9g) | 小红书技术REDtech 2023-05-15
-        - [面向AI大模型的智算中心网络演进白皮书，30页pdf](https://mp.weixin.qq.com/s/xHzcNKpncieBMrNl5cAFaQ) | 专知 2023-05-15 
+        - [面向AI大模型的智算中心网络演进白皮书，30页pdf](https://mp.weixin.qq.com/s/xHzcNKpncieBMrNl5cAFaQ) | 专知 2023-05-15
+        - [四插槽庞大体积、功耗最高600W，英伟达RTX 4090 Ti谍照再现身](https://mp.weixin.qq.com/s/kik_bF9u95IL8AcW4xZFTQ) | 机器之心 2023-06-27
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -539,7 +540,6 @@
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
           - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01
           - [你的 ChatGPT 文件阅读助手来了！无需通读，知晓万千](https://mp.weixin.qq.com/s/M-0ueeFyIIUk5psqJX3Sow) | 北京庖丁科技 2023-03-03
-           - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [ChatPDF也来了！一键上传文件即可解读，复制粘贴都省了](https://mp.weixin.qq.com/s/XINHbYX-K6v0J7Zu3W3swQ) | 量子位 2023-03-07
           - [ChatIE：通过与ChatGPT对话实现零样本信息抽取](https://mp.weixin.qq.com/s/PM_xgHPLitBhh6Gd5DhU7w) | AINLP 2023-03-11
           - [ChatGPT遇上文档搜索：ChatPDF、ChatWeb、DocumentQA等开源项目算法思想与源码解析](https://mp.weixin.qq.com/s/z1sfZpl__YkaXw76Sf3lmg) | 老刘说NLP 2023-03-15
@@ -619,7 +619,9 @@
           - [五问「ChatGPT+医学影像」：新一代的 AI 能否成为放射科医生的一把利器？](https://mp.weixin.qq.com/s/K4ulEEuTTOttFHppTehVAA) | AI科技评论 2023-05-16
           - [他们用AI，救助一群「特殊」的人](https://mp.weixin.qq.com/s/TvZistrSr7fAqS5limQNsw) | 雷峰网 2023-05-18
           - [LLM in Medical Domain: 一文速览大语言模型在医学领域的应用](https://mp.weixin.qq.com/s/6pycDfOo5qtC0H0BLbeOZg) | 深度学习自然语言处理 2023-06-15
+        - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
+          - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
@@ -839,4 +841,5 @@
   * [NLP对话系统及实战项目分享【含源码】](https://mp.weixin.qq.com/s/v1w7gxbMsANtZdGdT1Abgg) | 老刘说NLP 2023-05-23
   * [LLM 全景图 （The Landscape of LLM）](https://mp.weixin.qq.com/s/RaBxQfBlwyNZIAYdL_A75A) | 李rumor 2023-06-16
   * [190页清华大学：AIGC发展研究报告1.0版](https://mp.weixin.qq.com/s/CoW0dtuP9lSS8WfuJHiJxg) | Datawhale 2023-06-17
+  * [中科大腾讯最新《多模态大型语言模型》综述，详述多模态指令微调、上下文学习、思维链和辅助视觉推理技术](https://mp.weixin.qq.com/s/G9x_RO08VVhsS8YTi55oHQ) | 专知 2023-06-27
 
