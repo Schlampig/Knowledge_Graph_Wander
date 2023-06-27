@@ -52,6 +52,7 @@
     - code(ModelScope): https://modelscope.cn/models/baichuan-inc/baichuan-7B/summary
     - blog:
       - [王小川大模型首亮相！70亿参数霸榜，清北抢先用｜独家专访](https://mp.weixin.qq.com/s/qA_E_3dUe1sSOUM87ZgHdQ) | 新智元 2023-06-15
+      - [近期2大国产可商用大模型推介：baichuan-7B及AquilaChat-7B模型的数据、结构以及所需成本介绍](https://mp.weixin.qq.com/s/XkoLnFycG1jPWrNT3w_p-g) | 老刘说NLP 2023-06-18
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
