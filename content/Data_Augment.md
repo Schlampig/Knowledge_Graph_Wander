@@ -10,6 +10,12 @@
   * author: Elise Landman
   * note: python package for automated data preprocessing & cleaning.
 
+### AutoLabel
+  * link: https://github.com/refuel-ai/autolabel
+  * discord: https://discord.com/invite/fweVnRx6CU
+  * author: refuel-ai
+  * note: label, clean and enrich text datasets with LLMs.
+
 ### NLPCDA
   * link: https://github.com/425776024/nlpcda
   * pypi: https://pypi.org/project/nlpcda/
