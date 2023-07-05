@@ -125,6 +125,7 @@
         - [GPT-5将死于GPT-4背刺？牛津剑桥研究警告：AI训AI成「剧毒」，会让模型崩溃！](https://mp.weixin.qq.com/s/cLgL0zNB3dsbMBfxAGyCpQ) | 新智元 2023-06-16
         - [无需人力标注！悉尼大学华人团队提出「GPT自监督标注」范式，完美解决标注成本、偏见、评估问题](https://mp.weixin.qq.com/s/8661PcsHCprNdRKhucstIw) | 新智元 2023-06-16
         - [教科书级数据is all you need：1.3B小模型逆袭大模型的秘密](https://mp.weixin.qq.com/s/vj6_nIVCThhVRgK0HqVl1w) | 机器之心 2023-06-23
+        - [浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://mp.weixin.qq.com/s/wC7H1r0EwSqouRIDcCuYzw) | PaperWeekly 2023-06-30
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
@@ -413,6 +414,7 @@
             - [王慧文的**光年之外**开张，四家大模型抢开发布会，新科技革命如火如荼](https://mp.weixin.qq.com/s/noY4iHfYgqo7Arcr_XV_Pg) | AI科技评论 2023-04-07
             - [王慧文再融16亿！大模型创业百天成独角兽，腾讯押注，快手创始人入股](https://mp.weixin.qq.com/s/DJPqZqOMqUgUWtjFPc-svw) | 量子位 2023-06-05
             - [大模型创业4个月，44岁王慧文因「健康问题」辞任美团董事！](https://mp.weixin.qq.com/s/O8de-kh2sgp6eM_KifPRWg) | 新智元 2023-06-26
+            - [王慧文中场休息，光年之外火种尚存｜智涌分析](https://mp.weixin.qq.com/s/b8SqZ5ndJ3L3a5OW4KY7Jw) | 智能涌现 2023-06-30
           - [**知识工场实验室**发布大模型相关的系统与原型](https://mp.weixin.qq.com/s/_YRbDjS42Hj9l3_jXx7g-g) | 知识工场 2023-03-30
           - [**微软** vs **Google**：AI技术的王权更迭](https://mp.weixin.qq.com/s/9FofVXXTu30uhIKNELdoNQ) | 第一财经 2023-04-04
           - [在**知乎**，看见ChatGPT变革的第一束光](https://mp.weixin.qq.com/s/CwlOPR3nMMeC5DeIqzBbOA) | 机器之心 2023-04-04
@@ -577,6 +579,7 @@
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
         - [关于ChatGPT解锁NLP任务的一次总结汇报：从应用变化、14类NLP任务使用案例看选型思考](https://mp.weixin.qq.com/s/XJ3lIJm3iKKsezG-V1FeVQ) | 老刘说NLP 2023-03-05
         - [ChatGPT再出“王炸”，客服都要下岗了？](https://mp.weixin.qq.com/s/Sqj3B4IOKU99WuE27mHysA) | 大数据文摘 2023-03-06
+          - [用AIGC重构后的智能客服，能否淘到大模型时代的第一桶金？](https://mp.weixin.qq.com/s/Kec1XGV64G1UsJh1zc6qOw) | AI前线 2023-06-30 
         - [利用ChatGPT 和Milvus快速搭建智能问答机器人](https://mp.weixin.qq.com/s/TB-c1uXTQ6oiT46-hBaAAw) | 分布式应用运行时 2023-03-05
           - [源码“聊天人”：正经回答关于源码的“一切”](https://mp.weixin.qq.com/s/AEQ7ce6F_8U7BfHiA78qfA) | 源码资本 2023-03-07 
           - [记一次ChatGPT的应用探索与实践](https://mp.weixin.qq.com/s/LXS2B6bBzbCWF35E5uK93A) | AINLP 2023-03-11
@@ -638,6 +641,7 @@
           - [五问「ChatGPT+医学影像」：新一代的 AI 能否成为放射科医生的一把利器？](https://mp.weixin.qq.com/s/K4ulEEuTTOttFHppTehVAA) | AI科技评论 2023-05-16
           - [他们用AI，救助一群「特殊」的人](https://mp.weixin.qq.com/s/TvZistrSr7fAqS5limQNsw) | 雷峰网 2023-05-18
           - [LLM in Medical Domain: 一文速览大语言模型在医学领域的应用](https://mp.weixin.qq.com/s/6pycDfOo5qtC0H0BLbeOZg) | 深度学习自然语言处理 2023-06-15
+          - [【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/S4kTnOI6n00-7hTkf1X9pg) | AINLP 2023-06-30
         - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
           - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
