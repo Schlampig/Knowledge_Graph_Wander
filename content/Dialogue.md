@@ -40,6 +40,7 @@
         - [POE](https://poe.com/login): 同时对比ChatGPT、Claude等机器人效果的网站. 
           - [Poe正式向开发者推出 Poe API ！](https://mp.weixin.qq.com/s/ZFNRXd7RGbaXS5ie6WgS4Q) | AI 共存派 2023-05-17 
         - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic): 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验.
+        - [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing): this list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
         - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms): 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具.
         - [LLMParser](https://github.com/kyang6/llmparser): classify and extract structured data with LLMs.
         - [新项目又火了，已开源！gpt4免费了...:PandasAI, gpt4free](https://mp.weixin.qq.com/s/7Q8m-t6OBlKwSz6LZo-JEA) | 程序员小灰 2023-05-06
