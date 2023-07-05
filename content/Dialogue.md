@@ -154,6 +154,7 @@
         - [史上最大图灵测试实验完成！150万人类参与1000万次对话，判断对面是人还是AI](https://mp.weixin.qq.com/s/k7CllluETA-OEtbPgmVPjA) | 新智元 2023-06-18
           - [大模型能否通过图灵测试呢，AI21 Labs做了一个百万级在线游戏《human or not》](https://mp.weixin.qq.com/s/9FzjvXY2_3dkxPFDE6cBVQ) | 将门创投 2023-06-21 
         - [清华发布 KoLA 评测集，分4个认知层级评测LLM，GPT-4竟不是第一？](https://mp.weixin.qq.com/s/xVj1blhRtpO-Y1HgQ8Wl-A) | 夕小瑶科技说 2023-06-20
+        - [腾讯厦大发布多模态大模型评测排行榜](https://mp.weixin.qq.com/s/vV-r72EwU3-Dy1gRxrSS7g) | 我爱计算机视觉 2023-06-28
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -191,6 +192,7 @@
         - [Unlimiformer：一个Transformers输入无限长文本思路和中文长文本摘要上的性能实验](https://mp.weixin.qq.com/s/IQtl0Z-v7rrS7FXSJTBQ5Q) | AINLP 2023-05-29
         - [Transformer升级之路：一种全局长度外推的新思路](https://mp.weixin.qq.com/s/YJ647EUfzWaJsGoMdgsguA) | PaperWeekly 2023-05-29
         - [ICLR 2023 | 大模型上下文学习的无限扩展方法：kNN Prompting](https://mp.weixin.qq.com/s/SnwqkXCCAv3QwN8-NmoWPw) | PaperWeekly 2023-06-08
+        - [羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://mp.weixin.qq.com/s/e8bLx43NNSIKuyomVq2SZA) | 量子位 2023-06-28
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -351,6 +353,11 @@
         - [让算力不再成为瓶颈，小红书机器学习异构硬件推理优化之道](https://mp.weixin.qq.com/s/0WpTYiMlR1UiJI2QKW6s9g) | 小红书技术REDtech 2023-05-15
         - [面向AI大模型的智算中心网络演进白皮书，30页pdf](https://mp.weixin.qq.com/s/xHzcNKpncieBMrNl5cAFaQ) | 专知 2023-05-15
         - [四插槽庞大体积、功耗最高600W，英伟达RTX 4090 Ti谍照再现身](https://mp.weixin.qq.com/s/kik_bF9u95IL8AcW4xZFTQ) | 机器之心 2023-06-27
+        - [成本直降70%的秘密：这些企业找到了一种高性价比的AI打开方式](https://mp.weixin.qq.com/s/XUjNFwafXtlMvb_ZWhQvXQ) | 机器之心 2023-06-28
+        - [火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://mp.weixin.qq.com/s/wL6VuAXEerbUy598cFsOcg) | 量子位 2023-06-28
+        - [CFFF: 1天训完45亿参数大模型！高校计算能力首次比肩科技巨头](https://mp.weixin.qq.com/s/TPLzCV_IvVY3EIGOvPD-pQ) | 量子位 2023-06-28
+        - [11分钟训完GPT-3！英伟达H100 横扫MLPerf 8项基准测试，下一代显卡25年发布](https://mp.weixin.qq.com/s/6IFCVVR6S9oA_ESZd86QvA) | 新智元 2023-06-28
+        - [美商务部7月初要禁A800？AI芯片及云服务出口限制再加码](https://mp.weixin.qq.com/s/UF_Mx1zVLRQJbIp_sGbLag) | 新智元 2023-06-28
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
