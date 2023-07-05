@@ -609,6 +609,13 @@
   * author: [Dou Sun](https://www.myhuiban.com/researcher/1)
   * keywords: 查询各种会议级别与时间。
 
+### LetPub
+  * homepage: https://www.letpub.com.cn/
+  * keywords: 第三方机构，实时查看期刊详细信息（不需要登录）
+  * extra:
+    - 小程序“[中科院文献情报中心分区表](https://mp.weixin.qq.com/s/dUC8EiDt0arCjOcyGbKVzA)”也可查中科院分区
+    - JCR官网（没有所谓Top，能查到大小类分区）: https://jcr.clarivate.com
+
 ### arXiv LaTeX Cleaner
   * link: https://github.com/google-research/arxiv-latex-cleaner
   * author: google-research
@@ -702,6 +709,10 @@
   * edabit.com
   * codeforces.com
   * hackerearth.com 
+
+### CodeTop企业题库
+  * link: https://codetop.cc/home
+  * keywords: 针对国内互联网企业、可按照按岗位、部门进行热度分类的题库。
 
 ### Job Info website (薪酬待遇裁员查询网站)
   * 职级对标（中国）：https://duibiao.info/
