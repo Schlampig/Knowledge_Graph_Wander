@@ -88,6 +88,10 @@
       - [金融GPT来了：500亿参数，但用来投资还是跑不赢大盘](https://mp.weixin.qq.com/s/4ZOjbFD47M-GzklWYQH-YQ) | 机器之心 2023-04-01
       - [再谈垂直领域大模型及今日前沿速递：金融领域FinBERT、BloombergGPT以及法律领域微调模型LawGPT_zh](https://mp.weixin.qq.com/s/g5BYXnOHUTMpmKIUK4IlHg) | 老刘说NLP 2023-05-04
 
+  * BondGPT(Broadridge):
+    - blog:
+      - [ChatGPT当债券分析师！金融科技巨头发布BondGPT，服务10万亿美元市场！](https://mp.weixin.qq.com/s/B-EIQqrDXGion84bipld8Q) | AIGC开放社区 2023-06-12 
+    
 </br>
 
 ### C
@@ -413,7 +417,9 @@
     - code: https://github.com/luogen1996/LaVIN
     - [paper](https://arxiv.org/pdf/2305.15023.pdf): Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models.
     - blog:
-      - [LaVIN—多模态对话模型的高效指令微调](https://mp.weixin.qq.com/s/h7N3wgC7apzxqEM5R4_hFw) | 深度学习自然语言处理 2023-05-31 
+      - [LaVIN—多模态对话模型的高效指令微调](https://mp.weixin.qq.com/s/h7N3wgC7apzxqEM5R4_hFw) | 深度学习自然语言处理 2023-05-31
+    - extra:
+      - [LaVIN-lite：单张消费级显卡微调多模态大模型](https://mp.weixin.qq.com/s/JZqd6wmvpagDIqU7vBhahA) | 深度学习自然语言处理 2023-06-29
   
   * LaWGPT(南大Pengxiao Song):
     - code: https://github.com/pengxiao-song/LawGPT
