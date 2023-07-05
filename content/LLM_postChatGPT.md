@@ -435,7 +435,9 @@
   * 伶荔Linly([大数据系统计算机技术国家工程实验室](http://pweb.mashuwaibao.com/public/index.html#/h5/home) & 深圳大学):
     - code: https://github.com/CVI-SZU/Linly
     - blog:
-      - [国产开源大模型： 百亿参数“伶荔”，填补中文基础模型空白！](https://mp.weixin.qq.com/s/XD63CRzTKrM2I2uPQrLTTQ) | Datawhale 2023-04-28 
+      - [国产开源大模型： 百亿参数“伶荔”，填补中文基础模型空白！](https://mp.weixin.qq.com/s/XD63CRzTKrM2I2uPQrLTTQ) | Datawhale 2023-04-28
+    - extra:
+      - [“伶荔（Linly）”项目团队全新发布中文Falcon基础模型](https://mp.weixin.qq.com/s/AuAG3tw4JI8lHyLkSdM18g) | PaperWeekly 2023-07-03 
   
   * Lion(港科大):
     - code: https://github.com/YJiangcm/Lion
@@ -456,6 +458,7 @@
       - [A brief history of LLaMA models](https://agi-sphere.com/llama-models/) | AGI Sphere 2023-04-30
       - [【LLM系列之LLaMA】LLaMA:Open and Efficient Foundation Language Models](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w) | ChallengeHub 2023-05-16
       - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
+      - [我想学大模型，应该从哪个模型开始？LLaMA生态家谱整理和分析](https://mp.weixin.qq.com/s/pNs45q6PoaWrbqM383FgpA) | 深度学习自然语言处理 2023-07-03
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
@@ -555,6 +558,11 @@
     - homepage: https://www.mosaicml.com/blog/mpt-7b
     - blog: 
       - [两大可商用开源大模型同时发布！性能不输LLaMA，羊驼家族名字都不够用了](https://mp.weixin.qq.com/s/cOKCElMEWgjkACA_pG78RQ) | 量子位 2023-05-07
+
+  * Multi-CLS BERT(亚马逊):
+    - [paper](https://arxiv.org/abs/2210.05043): Multi-CLS BERT: An Efficient Alternative to Traditional Ensembling.
+    - blog:
+      - [ACL2023 | Multi-CLS BERT：传统集成的有效替代方案](https://mp.weixin.qq.com/s/XDfCFtGSlYBqXr2frRlC7A) | 深度学习自然语言处理 2023-07-03 
 
 </br>
 
