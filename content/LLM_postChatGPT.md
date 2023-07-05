@@ -668,6 +668,12 @@
       - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07
         - code: https://github.com/InternLM/InternLM-techreport
         - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09 
+
+  * Shikra(商汤&北航):
+    - code: https://github.com/shikras/shikra
+    - [paper](http://arxiv.org/abs/2306.15195): Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic.
+    - blog:
+      - [Shikra：新一代多模态大语言模型，理解指向，说出坐标](https://mp.weixin.qq.com/s/KO-AUW-81MIOX0yTZpwfxQ) | AINLP 2023-07-01
   
   * SpeechGPT(复旦):
     - code: https://github.com/0nutation/SpeechGPT
@@ -713,7 +719,13 @@
 </br>
 
 ### U
-
+  * UltraLM(清华):
+    - code: https://github.com/thunlp/UltraChat
+    - code(huggingface): https://huggingface.co/openbmb/UltraLM-13b
+    - blog:
+      - [OpenBMB 对齐技术 UltraLM 登顶斯坦福 Alpaca-Eval 开源模型榜单](https://mp.weixin.qq.com/s/zBhq7k7teT4LY-CJDTtRbw) | OpenBMB开源社区 2023-07-01
+      - [成果 | 本组研发领先对齐技术 UltraLM登顶Stanford Alpaca-Eval开源模型榜首](https://mp.weixin.qq.com/s/qnZsKoqgekPBFSpcDegvcA) | TsinghuaNLP 2023-07-01
+    
 </br>
 
 ### V
@@ -731,6 +743,12 @@
     - demo(Huggingface): https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA 
     - blog:
       - [给语言大模型加上综合视听能力，达摩院开源Video-LLaMA](https://mp.weixin.qq.com/s/fU_21S5huOJDhrMRcqDcBQ) | 机器之心 2023-06-08
+
+  * VisCPM(清华大学&面壁智能&知乎):
+    - code: https://github.com/OpenBMB/VisCPM
+    - code(基座CPM-Bee): https://github.com/OpenBMB/CPM-Bee
+    - blog:
+      - [能「说」会「画」， VisCPM：SOTA 开源中文多模态大模型](https://mp.weixin.qq.com/s/AYaM5Z5SKnRYMguM1N7abQ) | OpenBMB开源社区 2023-06-30 
   
   * Visual ChatGPT(微软):
     - blog:
