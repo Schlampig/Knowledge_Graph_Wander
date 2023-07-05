@@ -194,6 +194,12 @@
     - VoiceBox:
       - [paper](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/): Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale.
       - [语音领域的GPT时刻：Meta 发布「突破性」生成式语音系统，一个通用模型解决多项任务](https://mp.weixin.qq.com/s/xrLfu4qf05NlENOe6xpvkg) | 机器之心 2023-06-17
+    - Branchformer:
+      - [上海声通团队在WeNet中开源Branchformer](https://mp.weixin.qq.com/s/oJd3dT1a5oQ4pULxbDKGow) | WeNet步行街 2023-06-27
+    - kNN-VC:
+      - code: https://bshall.github.io/knn-vc/
+      - [paper](https://arxiv.org/pdf/2305.18975.pdf): Voice Conversion With Just Nearest Neighbors
+      - [支持跨语言、人声狗吠互换，仅利用最近邻的简单语音转换模型有多神奇](https://mp.weixin.qq.com/s/Lx1U-ECGVpzfCluX8lqzdg) | 机器之心 2023-07-02
 </br>
 
 ### Recommender system
@@ -225,6 +231,7 @@
   * Agent Intelligence:
     - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
     - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
+    - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
   
 </br>
 
@@ -403,7 +410,9 @@
         - [可组合扩散模型主打Any-to-Any生成：文本、图像、视频、音频全都行](https://mp.weixin.qq.com/s/UKLF1DE1YarBzHu43W0HwA) | 机器之心 2023-05-23
         - [「大一统」大模型论文爆火，4种模态任意输入输出，华人本科生5篇顶会一作，网友：近期最不可思议的论文](https://mp.weixin.qq.com/s/Mg_qnawkYSWnRHk4LIEIsQ) | 量子位 2023-05-28
     - World-from-Eyes:
-      - [眼球反射解锁3D世界，黑镜成真！马里兰华人新作炸翻科幻迷](https://mp.weixin.qq.com/s/Oaa_8gxRoFGfWV19xc2Vew) | 新智元 2023-06-17 
+      - [眼球反射解锁3D世界，黑镜成真！马里兰华人新作炸翻科幻迷](https://mp.weixin.qq.com/s/Oaa_8gxRoFGfWV19xc2Vew) | 新智元 2023-06-17
+    - DragDiffusion:
+      - [DragGAN重磅开源！扩散模型版的DragDiffusion也来了！](https://mp.weixin.qq.com/s/1nrJF12V-19oaQbTX71ZVA) | CVer 2023-06-29 
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
