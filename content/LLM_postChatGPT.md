@@ -127,6 +127,14 @@
     - blog:
       - [【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA) | GLM大模型 2023-06-25
       - [也看支持32K上下文的ChatGLM2-6B模型：优化点简读及现有开源模型主流训练优化点概述](https://mp.weixin.qq.com/s/Y9jnHBkWRTMXQPMCCIMfTw) | 老刘说NLP 2023-06-25
+
+  * ChatLaw(北大深圳&兔展智能):
+    - code: https://github.com/PKU-YuanGroup/ChatLaw
+    - [paper](https://arxiv.org/pdf/2306.16092.pdf): ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases.
+    - demo: https://www.chatlaw.cloud/?
+    - blog:
+      - [大模型中的「罗翔老师」！北大兔展联合团队搞出ChatLaw，发布即登顶热榜，可提供法律咨询](https://mp.weixin.qq.com/s/xYjT0MYP3b3nmozzX3EwLw) | 量子位 2023-07-04
+      - [对话丨ChatLaw 团队袁粒：做普通人也能用的法律大模型](https://mp.weixin.qq.com/s/OCyvEr-DiNhUh-VxG6coig) | AI科技评论 2023-07-03
   
   * ChatLLM-Web(Ryan-yang125):
     - code: https://github.com/Ryan-yang125/ChatLLM-Web
@@ -831,6 +839,12 @@
 </br>
 
 ### X
+  * 獬豸XIEZHI(知识工厂):
+    - code: https://github.com/MikeGu721/XiezhiBenchmark
+    - [paper](https://arxiv.org/abs/2306.05783): Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation
+    - blog:
+      - [知识工场实验室发布通用大模型KW-CuteGPT-13B和大模型学科知识评测基准獬豸（XIEZHI）](https://mp.weixin.qq.com/s/meQgzDcMZYq8LDryURENXg) | 知识工场 2023-07-04
+
   * 星火(科大讯飞):
     - blog:
       - [“三项能力超过ChatGPT”，科大讯飞星火大模型现场接受观众挑战，写稿制表PPT通通拿下](https://mp.weixin.qq.com/s/o-Yy2uz51_gMyEjamtkAkw) | 量子位 2023-05-06
