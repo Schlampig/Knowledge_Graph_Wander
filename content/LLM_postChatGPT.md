@@ -452,6 +452,11 @@
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
+
+  * LLaMA-Adapter(上海人工智能研究院&港中文):
+    - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
+    - blog:
+      - [微调7B模型只用单GPU！通用多模态工具LLaMA-Adapter拆掉门槛，效果惊人](https://mp.weixin.qq.com/s/9ILz8wdi_i6W1oTqAkp_Fg) | 新智元 2023-06-28
   
   * Llama-X:
     - [paper/code](https://github.com/AetherCortex/Llama-X): Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM
