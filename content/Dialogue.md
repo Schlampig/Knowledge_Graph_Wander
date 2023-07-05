@@ -158,6 +158,7 @@
         - [清华发布 KoLA 评测集，分4个认知层级评测LLM，GPT-4竟不是第一？](https://mp.weixin.qq.com/s/xVj1blhRtpO-Y1HgQ8Wl-A) | 夕小瑶科技说 2023-06-20
         - [腾讯厦大发布多模态大模型评测排行榜](https://mp.weixin.qq.com/s/vV-r72EwU3-Dy1gRxrSS7g) | 我爱计算机视觉 2023-06-28
         - [利用GPT4等进行大模型自动打分是否靠谱：3种评价方法、4大缺陷及4大应对方案工作解读](https://mp.weixin.qq.com/s/df-mQHifxzoN_ZOTmysICw) | 老刘说NLP 2023-07-02
+        - [达摩院发布大模型测试基准：GPT-4勉强及格，其他模型悉数落败](https://mp.weixin.qq.com/s/3YJzwq25DLw3D2Hd6ZU8Xg) | 机器之心 2023-07-04
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -318,6 +319,8 @@
         - [ACL 2023 | 我把GPT 的学习轨迹可视化了！竟和人类十分类似](https://mp.weixin.qq.com/s/3kNqhdfZz6FEFvWey1lPIQ) | 夕小瑶科技说 2023-06-22
         - [大语言模型的涌现能力（Emergent）](https://mp.weixin.qq.com/s/tuhQ3mDh2279jxLDYfzhUQ) | OpenBMB开源社区 2023-06-21
         - [ICLR 2023 | Self-Consistency: Google超简单方法改善大模型推理能力](https://mp.weixin.qq.com/s/9m4TAUKhv9rUr1ockJU-Rg) | AINLP 2023-07-02
+        - [0代码训练GPT-5？MIT微软证实GPT-4涌现自我纠错能力，智能体循环根据反馈让代码迭代！](https://mp.weixin.qq.com/s/XiyAwtOiEv2WHke-MDR6lg) | 新智元 2023-07-04
+        - [只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://mp.weixin.qq.com/s/aEcQAJF7Y4-QtUWy6kTE6Q) | 机器之心 2023-07-04
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -459,6 +462,7 @@
             - [最早出发的中国大模型创业者：“贫穷限制了我们的想象力”](https://mp.weixin.qq.com/s/p42pBVyjZws8XsstDoR2Jw) | 晚点LatePost 2023-04-26
             - [从Trans Anything到Control Anything看类ChatGPT落地路线：也谈技术实现下的大模型三大应用范式](https://mp.weixin.qq.com/s/5Qt9Bm2ys8KUOGolYf4mdQ) | 老刘说NLP 2023-05-02
             - [大模型创业潮：狂飙180天](https://mp.weixin.qq.com/s/61fUMR42vghJkajaj-MINg) | 学术头条 2023-06-03
+            - [朱啸虎：ChatGPT对创业公司很不友好，未来两三年内请大家放弃融资幻想](https://mp.weixin.qq.com/s/C3dmJrQtgcRH14OWCtiBgw) | 夕小瑶科技说 2023-07-04
           - [阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些](https://www.zhihu.com/question/570782945/answer/2795547780) | 知乎 2023-02-10
             - [ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？](https://www.zhihu.com/question/581806122) | 知乎 2023-02-08
             - [谁拖了中国ChatGPT的后腿？](https://mp.weixin.qq.com/s/FRN0Hvy7-12qS82IvUdNeg) | 品玩 2023-02-16
@@ -540,6 +544,7 @@
           - [田渊栋：关于GPT-4的一点感想（后一篇）](https://mp.weixin.qq.com/s/rGAYSzRJiKEkrYdeaZ_g3w) | 新智元 2023-04-04
           - [陈雨强：GPT等大模型应用落地需关注内容可信、数据安全、成本可控](https://mp.weixin.qq.com/s/aOVD1jFaj4qEBo5ZpfAcXQ) | 第四范式 2023-04-04
           - [大厂大模型：久违的一把手工程](https://mp.weixin.qq.com/s/D_xvKGFDZFZdbUODc_tQDg) | 晚点LatePost 2023-04-06
+          - [清华人工智能研究院「基础模型研究中心」成立！唐杰任研究中心主任，孙茂松任首席科学家](https://mp.weixin.qq.com/s/oL3BF7EgxxkDSz5MP1ikBw) | 新智元 2023-07-04
         - [Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg) | 机器之心 2023-03-08
           - [ChatGPT+NLP下的Prompt模板工具：PromptSource、ChatIE代表性开源项目介绍](https://mp.weixin.qq.com/s/j2HffPnkKjuSytukOQ-ikQ) | 老刘说NLP 2023-03-14 
       - 优化 & 应用：
@@ -883,3 +888,4 @@
   * [中科大腾讯最新《多模态大型语言模型》综述，详述多模态指令微调、上下文学习、思维链和辅助视觉推理技术](https://mp.weixin.qq.com/s/G9x_RO08VVhsS8YTi55oHQ) | 专知 2023-06-27
   * [大模型如何决策？上交大等最新《面向序列决策的大序列模型》综述](https://mp.weixin.qq.com/s/YXu1In7wj94Y7a8HgtHiEA) | 专知 2023-06-28
   * [论文浅尝 | 大语言模型综述](https://mp.weixin.qq.com/s/-co8XXN2HNNeQg-81DLIJw) | 开放知识图谱 2023-07-03
+  * [图解 72 个机器学习基础知识点](https://mp.weixin.qq.com/s/6rlwP5OF-QocuZ8RZS1Dsw) | 我不爱机器学习 2023-07-04
