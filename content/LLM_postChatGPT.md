@@ -155,6 +155,11 @@
       - [部署国产ChatGPT仅需6G显存！ChatYuan模型开放下载：业内首个功能型对话开源中文大模型](https://mp.weixin.qq.com/s/1UnFUaUK7vNh9uId7XxJ2A) | 新智元 2023-02-03
       - [ChatGPT国产化：ChatYuan元语对话大模型升级](https://mp.weixin.qq.com/s/FtXAnrhavA5u7hRyfm8j6Q) | 机器之心 2023-02-21
       - [ChatYuan又开源了！效果大幅升级，在手机上也可以跑](https://mp.weixin.qq.com/s/T2cGW-r_PYvumWb0JmjSuA) | AINLP 2023-03-30
+
+  * Chinese-DocuGPT(华理):
+    - code: http://chat.ecustnlplab.com/
+    - blog:
+      - [刘井平团队推出医疗领域AI对话大模型Chinese-DocuGPT](https://mp.weixin.qq.com/s/RgOPQy5CxlziCFsSmQVE2w) | 知识工场 2023-06-28 
   
   * Claude([Anthropic](https://www.anthropic.com/)): 
     - homepage: https://www.anthropic.com/claude-in-slack
