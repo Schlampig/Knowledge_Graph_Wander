@@ -73,6 +73,11 @@
     - note: 基于Alpaca的开源中文对话大模型（70亿参数）
     - blog:
       - [每一个人的大模型：开源BELLE项目集训练、数据、模型、评估、APP一体](https://mp.weixin.qq.com/s/HI2VvokqYNdRZgcZwfSDqw) | 机器学习算法与自然语言处理 2023-04-23
+
+  * 扁鹊BIANQUE(华工):
+    - code: https://github.com/scutcyr/BianQue
+    - code(huggingface): https://huggingface.co/spaces/scutcyr/BianQue
+    - note: 中文医疗对话模型。基于主动健康的主动性、预防性、精确性、个性化、共建共享、自律性六大特征，华南理工大学未来技术学院-广东省数字孪生人重点实验室开源了中文领域生活空间主动健康大模型基座ProactiveHealthGPT，包括：1）经过千万规模中文健康对话数据指令微调的生活空间健康大模型扁鹊（BianQue）；2）经过百万规模心理咨询领域中文长文本指令与多轮共情对话数据联合指令微调的心理健康大模型灵心（SoulChat）。
   
   * BioMedGPT(清华):
     - code: https://github.com/BioFM/OpenBioMed 
