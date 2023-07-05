@@ -254,6 +254,8 @@
   - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
     - [2023年06月19日：Nature封面：量子计算机离实际应用还有两年](https://mp.weixin.qq.com/s/MqWh7N42Fmo9JqjlFFvLxQ)
   - [2023年06月20日：我们能够量化机器意识吗？](https://mp.weixin.qq.com/s/cfapcLc26_QFsmjCdAnrUg)
+  - [2023年06月28日：没脑子也能学习？](https://mp.weixin.qq.com/s/kDTA0H507ciJTy2yVMbC-w)
+  - [2023年07月03日：13万个注释神经元，5300万个突触，普林斯顿大学等发布首个完整「成年果蝇」大脑连接组](https://mp.weixin.qq.com/s/PqMRxAIF9MENNq9SAQDeIg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
