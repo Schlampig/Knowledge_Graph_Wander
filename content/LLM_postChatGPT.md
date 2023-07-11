@@ -287,6 +287,7 @@
       - [文心一言算力从哪来？自家最大智算中心：算力规模4EFLOPS，base李彦宏老家](https://mp.weixin.qq.com/s/0f51e4aUmqlXBiztfaDfeg) | 量子位 2023-03-16
       - [文心一言「起舞」，触发云战场「变天」](https://mp.weixin.qq.com/s/k_UZpLJiNCJckmILDKHbnQ) | 雷峰网 2023-03-17
       - [百度文心一言在国产模型中倒数？我看懵了](https://mp.weixin.qq.com/s/mKXw1A06Wyjznekhfuz4Hg) | 夕小瑶科技说 2023-05-12
+      - [文心大模型升级3.5版本，有多强？我们帮你试了试](https://mp.weixin.qq.com/s/4SZgvv_I3iwb0IMDsSWO0A) | 机器之心 2023-07-06
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
   
