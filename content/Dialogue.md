@@ -127,6 +127,7 @@
         - [无需人力标注！悉尼大学华人团队提出「GPT自监督标注」范式，完美解决标注成本、偏见、评估问题](https://mp.weixin.qq.com/s/8661PcsHCprNdRKhucstIw) | 新智元 2023-06-16
         - [教科书级数据is all you need：1.3B小模型逆袭大模型的秘密](https://mp.weixin.qq.com/s/vj6_nIVCThhVRgK0HqVl1w) | 机器之心 2023-06-23
         - [浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://mp.weixin.qq.com/s/wC7H1r0EwSqouRIDcCuYzw) | PaperWeekly 2023-06-30
+        - [基础大模型能像人类一样标注数据吗？](https://mp.weixin.qq.com/s/X8eQiDUx5ShhArcOaFTJkA) | Hugging Face 2023-07-06
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
