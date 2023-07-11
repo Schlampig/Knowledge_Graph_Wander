@@ -216,6 +216,10 @@
     - blog:
       - [微软提出Control-GPT：用GPT-4实现可控文本到图像生成！](https://mp.weixin.qq.com/s/U3eWeGOEt9nhW-Xwbuah9w) | CVer 2023-06-02  
 
+  * Cornucopia(yuyangmu):
+    - code: https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
+    - note: 基于中文金融知识的LLaMA微调模型，涉及SFT、RLHF、GPU训练部署等步骤。通过中文金融公开问答数据+爬取的金融问答数据构建指令数据集，并在此基础上对 LLaMA 系模型进行了指令微调，提高了 LLaMA 在金融领域的问答效果。
+
   * CPM-Bee(OpenBMB):
     - code: https://github.com/OpenBMB/CPM-Bee
     - huggingface: https://huggingface.co/openbmb/cpm-bee-10b
