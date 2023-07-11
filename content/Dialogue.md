@@ -164,6 +164,9 @@
         - [还在对大模型做刷榜优化吗，错了！专业考试不是唯一基准](https://mp.weixin.qq.com/s/Tus_DBD9q9wM6eJzLxhuXA) | 夕小瑶科技说 2023-07-05
         - [全新中文大模型多任务基准CMMLU：评估中文多任务语言理解能力](https://mp.weixin.qq.com/s/44erWz3RD-M7sSWtzbOW3g) | PaperWeekly 2023-07-05
         - [ACL 2023 | GLUE-X：基于分布外泛化的自然语言理解模型测试集](https://mp.weixin.qq.com/s/xnjfLKDLcbFEDIvo0PXGhw) | PaperWeekly 2023-07-05
+        - [LLMs评估综述-A Survey on Evaluation of Large Language Models](https://mp.weixin.qq.com/s/EhipbRs6mTFaaYgOIsaG7g) | NLP工作站 2023-07-07
+          - [众多高校和研究机构联合发表：LLMs评估综述](https://mp.weixin.qq.com/s/HKqKgF0vvRrk4O08OAoJiw) | 深度学习自然语言处理 2023-07-07 
+        - [“千模千测”——针对大语言模型认知能力的高效测试方法](https://mp.weixin.qq.com/s/9aWgvFGaSesu4JzEHE4Ncw) | PaperWeekly 2023-07-07
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -492,6 +495,7 @@
           - [ChatGPT 背后的经济账](https://mp.weixin.qq.com/s/oJBTJEVYbO3rgHXyNOlhmw) | 人工智能学家 2023-02-19
             - [从 ChatGPT 等生成式 AI 的算力开销及商业化潜力，26页pdf](https://mp.weixin.qq.com/s/NO0P2PXBHSMtTYJKVW-6mQ) | 专知 2023-02-22 
             - [部署像ChatGPT这样的大语言模型，到底要花多少钱？](https://mp.weixin.qq.com/s/1F4fQzhQh5sVlP2uGBNlJw) | AI前线 2023-04-27
+            - [ACL2023 | 赔了？引入GPT-3大模型到智能客服，竟要赔钱？](https://mp.weixin.qq.com/s/PO-Jt2PkA5VAv-g_hUleQQ) | 机器学习算法与自然语言处理 2023-07-07
           - [Gartner：ChatGPT只是开始，企业生成式AI的未来](https://mp.weixin.qq.com/s/-kt5OQHtNskHR48YH-QWbA) | RPA全球生态 2023-02-19
             - [专访复旦教授张军平：国内想超越ChatGPT，要在编程、硬件、数据上同时使力](https://mp.weixin.qq.com/s/jEJna2eyZ55VfRyfnCecuA) | 搜狐科技 2023-02-16
             - [ChatGPT +RPA=？——对话ALBERT蓝振忠&实在智能孙林君](https://mp.weixin.qq.com/s/h4kadKYFUrlEDjGhmsXClg) | RPA全球生态 2023-02-23
@@ -636,7 +640,8 @@
         - [用 AudioGPT 输入自然语言，可以让 ChatGPT 唱歌了？](https://mp.weixin.qq.com/s/9UvPGrM9bWtnkjqGBV3oDw) | 夕小瑶科技说 2023-04-28
           - [能听懂语音的ChatGPT来了：10小时录音扔进去，想问什么问什么](https://mp.weixin.qq.com/s/C7VzXhuG0T6Njo2pNpGRQA) | 机器之心 2023-06-02 
         - [全面了解多模态大语言模型 Multimodal Large Language Models，首个跟踪 MLLM 进展的论文集合](https://mp.weixin.qq.com/s/BuBr5OgflKLIYbjLFLGPEA) | 我爱计算机视觉 2023-06-02
-          - [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549) 
+          - [综述一下多模态大语言模型](https://mp.weixin.qq.com/s/SFr6EGjtbzQFS6KR7cFiSA) | 李rumor 2023-07-07
+          - [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
@@ -807,6 +812,9 @@
         - [黑客曝ChatGPT三大新功能：记住你是谁/上传文件/切换工作区，客户端源代码已被扒光](https://mp.weixin.qq.com/s/lK9WehXfmi62zf60itQdiQ) | 量子位 2023-06-24
         - [碾压GPT-4！谷歌DeepMind CEO自曝：下一代大模型将与AlphaGo合体](https://mp.weixin.qq.com/s/2NTwHdwpgD76tW4tXRZdag) | 新智元 2023-06-27
         - [OpenAI预言：超级智能10年内降临！正集结算力拯救人类，4年彻底攻克对齐](https://mp.weixin.qq.com/s/X2HfzAxaoSg-28k7BRLvqA) | 新智元 2023-07-06
+          - [刚刚！OpenAI宣布，斥巨资建立「超级对齐」团队！向人类意图看齐](https://mp.weixin.qq.com/s/mEolDHco4u7OK0xSE5jbPw) | 大数据文摘 2023-07-07
+        - [重磅，GPT-4 API 全面开放使用！](https://mp.weixin.qq.com/s/0PUwp8lc6B_ffehp_fKI1g) | AI科技大本营 2023-07-07
+        - [OpenAI王炸！「代码解释器」下周正式上线，GPT-4 API全面开放](https://mp.weixin.qq.com/s/IBbMc6NhAL__AZliYe29-w) | 新智元 2023-07-07
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -878,7 +886,7 @@
           - [Sam Altman 2023首次中国演讲：十年内将出现超级人工智能，再呼吁AI监管国际合作｜智涌要闻](https://mp.weixin.qq.com/s/UhPiV-n4Tj529zuRJGda4A) | 智能涌现 2023-06-10
 </br>
 
-### Blogs & Reviews
+### LLM Blogs & Reviews
   * [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
   * [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
   * [从ChatGPT到生成式AI（98页PPT）](https://mp.weixin.qq.com/s/OFmrkms8lNsi9C7BpfNI2w) | 与数据同行 2023-02-19
