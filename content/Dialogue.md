@@ -161,6 +161,8 @@
         - [利用GPT4等进行大模型自动打分是否靠谱：3种评价方法、4大缺陷及4大应对方案工作解读](https://mp.weixin.qq.com/s/df-mQHifxzoN_ZOTmysICw) | 老刘说NLP 2023-07-02
         - [达摩院发布大模型测试基准：GPT-4勉强及格，其他模型悉数落败](https://mp.weixin.qq.com/s/3YJzwq25DLw3D2Hd6ZU8Xg) | 机器之心 2023-07-04
         - [还在对大模型做刷榜优化吗，错了！专业考试不是唯一基准](https://mp.weixin.qq.com/s/Tus_DBD9q9wM6eJzLxhuXA) | 夕小瑶科技说 2023-07-05
+        - [全新中文大模型多任务基准CMMLU：评估中文多任务语言理解能力](https://mp.weixin.qq.com/s/44erWz3RD-M7sSWtzbOW3g) | PaperWeekly 2023-07-05
+        - [ACL 2023 | GLUE-X：基于分布外泛化的自然语言理解模型测试集](https://mp.weixin.qq.com/s/xnjfLKDLcbFEDIvo0PXGhw) | PaperWeekly 2023-07-05
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -467,6 +469,7 @@
             - [从Trans Anything到Control Anything看类ChatGPT落地路线：也谈技术实现下的大模型三大应用范式](https://mp.weixin.qq.com/s/5Qt9Bm2ys8KUOGolYf4mdQ) | 老刘说NLP 2023-05-02
             - [大模型创业潮：狂飙180天](https://mp.weixin.qq.com/s/61fUMR42vghJkajaj-MINg) | 学术头条 2023-06-03
             - [朱啸虎：ChatGPT对创业公司很不友好，未来两三年内请大家放弃融资幻想](https://mp.weixin.qq.com/s/C3dmJrQtgcRH14OWCtiBgw) | 夕小瑶科技说 2023-07-04
+            - [大模型最新调研：AI产业人士看大模型发展趋势](https://mp.weixin.qq.com/s/GSvk_Ey_JLEq2SdGcCtPYQ) | 水木人工智能学堂 2023-07-05
           - [阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些](https://www.zhihu.com/question/570782945/answer/2795547780) | 知乎 2023-02-10
             - [ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？](https://www.zhihu.com/question/581806122) | 知乎 2023-02-08
             - [谁拖了中国ChatGPT的后腿？](https://mp.weixin.qq.com/s/FRN0Hvy7-12qS82IvUdNeg) | 品玩 2023-02-16
@@ -661,6 +664,7 @@
           - [他们用AI，救助一群「特殊」的人](https://mp.weixin.qq.com/s/TvZistrSr7fAqS5limQNsw) | 雷峰网 2023-05-18
           - [LLM in Medical Domain: 一文速览大语言模型在医学领域的应用](https://mp.weixin.qq.com/s/6pycDfOo5qtC0H0BLbeOZg) | 深度学习自然语言处理 2023-06-15
           - [【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/S4kTnOI6n00-7hTkf1X9pg) | AINLP 2023-06-30
+          - [医疗领域「百模大战」：BATH和医疗IT玩家，谁更适合做垂类大模型？](https://mp.weixin.qq.com/s/vmwbm3YHcOvXj0_Uzgc_jA) | 医健AI掘金志 2023-07-05
         - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
           - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
@@ -799,6 +803,7 @@
         - [ChatGPT凌晨重磅更新！GPT-3.5/4双升级：上下文飙升4倍，用API自己造插件](https://mp.weixin.qq.com/s/iUxsUUn8Dk2LbLXB9bMWYg) | 新智元 2023-06-14
         - [黑客曝ChatGPT三大新功能：记住你是谁/上传文件/切换工作区，客户端源代码已被扒光](https://mp.weixin.qq.com/s/lK9WehXfmi62zf60itQdiQ) | 量子位 2023-06-24
         - [碾压GPT-4！谷歌DeepMind CEO自曝：下一代大模型将与AlphaGo合体](https://mp.weixin.qq.com/s/2NTwHdwpgD76tW4tXRZdag) | 新智元 2023-06-27
+        - [OpenAI预言：超级智能10年内降临！正集结算力拯救人类，4年彻底攻克对齐](https://mp.weixin.qq.com/s/X2HfzAxaoSg-28k7BRLvqA) | 新智元 2023-07-06
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -895,3 +900,4 @@
   * [大模型如何决策？上交大等最新《面向序列决策的大序列模型》综述](https://mp.weixin.qq.com/s/YXu1In7wj94Y7a8HgtHiEA) | 专知 2023-06-28
   * [论文浅尝 | 大语言模型综述](https://mp.weixin.qq.com/s/-co8XXN2HNNeQg-81DLIJw) | 开放知识图谱 2023-07-03
   * [图解 72 个机器学习基础知识点](https://mp.weixin.qq.com/s/6rlwP5OF-QocuZ8RZS1Dsw) | 我不爱机器学习 2023-07-04
+  * [人大发表迄今为止最大最全的大模型综述](https://mp.weixin.qq.com/s/yTS4qbmmJ02y-otVO3twxg) | 深度学习自然语言处理 2023-07-06
