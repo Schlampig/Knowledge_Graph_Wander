@@ -342,6 +342,7 @@
         - [LangChain and LlamaIndex Projects Lab (e-book)](https://leanpub.com/langchain/read).
         - [也谈langchain大模型外挂知识库问答系统核心部件：如何更好地解析、分割复杂非结构化文本](https://mp.weixin.qq.com/s/rOWfCQuUPohatMF_dU2nIA) | 老刘说NLP 2023-06-28
         - [技术动态 | LangChain已经添加了Cypher Search](https://mp.weixin.qq.com/s/F7tFdPLocJIwkK_84RrTkw) | 开放知识图谱 2023-07-01
+        - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满](https://mp.weixin.qq.com/s/i8gzx-rnB7-kR2M3QeZYhA) | 量子位 2023-07-10
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -471,6 +472,7 @@
           - [**字节**的大模型野心，藏在一艘「方舟」里](https://mp.weixin.qq.com/s/d7ofAmhEApInYWtXzvcMJA) | 雷峰网 2023-06-29
           - [坚持做行业大模型，**竹间**智能给大模型造了一座「模型工厂」](https://mp.weixin.qq.com/s/QWbuCxatg2D-6eKKXonEcw) | 机器之心 2023-07-03
           - [**MiniMax**：「AGI」之路，我们不走「捷径」](https://mp.weixin.qq.com/s/HCwIRfYtSxzqgUl0DilnIQ) | 雷峰网 2023-07-04
+          - [陪伴10亿人的AI！**西湖心辰**再获汤姆猫战略投资，打造超高情商通用大模型](https://mp.weixin.qq.com/s/kFC4CB8jlH7L9UFrMDiWJQ) | 新智元 2023-07-10
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -499,6 +501,7 @@
             - [对不起，AI大模型不是风口](https://mp.weixin.qq.com/s/dbSQyYAmIUPhxYivW8XxQA) | 与数据同行 2023-06-21
             - [人人都去研究大模型而不关注自身的业务和数据，这很危险！](https://mp.weixin.qq.com/s/V_I_Nxk-XxcB8kKfHS2L4w) | 与数据同行 2023-06-26
             - [一丝清凉、或喜或悲：对当前大模型落地的几个有趣观点推介](https://mp.weixin.qq.com/s/Tp8qGr07Jog_c3orha1n_Q) | 老刘说NLP 2023-06-27
+            - [“如果大模型是答案，能解决的问题是什么？”](https://mp.weixin.qq.com/s/cNqp8CeSBq2KsN5JoMgB7A) | 晚点LatePost 2023-07-10
           - [ChatGPT 背后的经济账](https://mp.weixin.qq.com/s/oJBTJEVYbO3rgHXyNOlhmw) | 人工智能学家 2023-02-19
             - [从 ChatGPT 等生成式 AI 的算力开销及商业化潜力，26页pdf](https://mp.weixin.qq.com/s/NO0P2PXBHSMtTYJKVW-6mQ) | 专知 2023-02-22 
             - [部署像ChatGPT这样的大语言模型，到底要花多少钱？](https://mp.weixin.qq.com/s/1F4fQzhQh5sVlP2uGBNlJw) | AI前线 2023-04-27
@@ -683,6 +686,7 @@
           - [LLM in Medical Domain: 一文速览大语言模型在医学领域的应用](https://mp.weixin.qq.com/s/6pycDfOo5qtC0H0BLbeOZg) | 深度学习自然语言处理 2023-06-15
           - [【中文医疗大模型】训练全流程源码剖析](https://mp.weixin.qq.com/s/S4kTnOI6n00-7hTkf1X9pg) | AINLP 2023-06-30
           - [医疗领域「百模大战」：BATH和医疗IT玩家，谁更适合做垂类大模型？](https://mp.weixin.qq.com/s/vmwbm3YHcOvXj0_Uzgc_jA) | 医健AI掘金志 2023-07-05
+          - [手机里的心理医生，ChatGPT能胜任吗？|《自然》长文](https://mp.weixin.qq.com/s/fb677wO2hwVQPOVTtHUuQw) | Nature Portfolio 2023-07-10
         - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
           - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
@@ -737,6 +741,7 @@
           - [阿里达摩院：GPT-4替代年薪60万的数据分析师只要几千块，论文已发](https://mp.weixin.qq.com/s/7qq5EClY4po9XAGxIJbpnw) | 量子位 2023-05-27
           - [「问题少年」逆袭成资产350亿美元CEO！60岁黄仁勋或成LLM爆发背后最大赢家](https://mp.weixin.qq.com/s/muRFWtHt3PAUTIebK3UYfA) | 新智元 2023-05-30 
           - [向AI提问，这个新职业火了](https://mp.weixin.qq.com/s/yqLWlTfjZrc6VW2D-AADBA) | 36氪 2023-06-06
+          - [这些部门要开始裁员了…](https://mp.weixin.qq.com/s/TqGQVF52Bpd7M86aocA6NA) | 很帅的投资客 2023-07-10
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
           - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
           - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
