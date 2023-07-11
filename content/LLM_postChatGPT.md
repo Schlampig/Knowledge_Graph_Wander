@@ -879,6 +879,7 @@
     - [paper](https://arxiv.org/abs/2306.05783): Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation
     - blog:
       - [知识工场实验室发布通用大模型KW-CuteGPT-13B和大模型学科知识评测基准獬豸（XIEZHI）](https://mp.weixin.qq.com/s/meQgzDcMZYq8LDryURENXg) | 知识工场 2023-07-04
+      - [复旦肖仰华团队推出最全语言模型领域知识评估Benchmark——獬豸：包含了516门学科、13学科门类、240w条数据](https://mp.weixin.qq.com/s/-UC1qUbpFEmMfBMTNHTajg) | 将门创投 2023-07-11
 
   * 星火(科大讯飞):
     - blog:
