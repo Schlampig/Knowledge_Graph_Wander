@@ -54,6 +54,7 @@
       - [王小川大模型首亮相！70亿参数霸榜，清北抢先用｜独家专访](https://mp.weixin.qq.com/s/qA_E_3dUe1sSOUM87ZgHdQ) | 新智元 2023-06-15
       - [近期2大国产可商用大模型推介：baichuan-7B及AquilaChat-7B模型的数据、结构以及所需成本介绍](https://mp.weixin.qq.com/s/XkoLnFycG1jPWrNT3w_p-g) | 老刘说NLP 2023-06-18
       - [百川大模型(baichuan-7B)微调实战 - GPT 模型微调实战指南](https://mp.weixin.qq.com/s/KiYpLITXhK9RZ1tgg1fBVQ) | AINLP 2023-06-28
+      - [王小川的大模型打造秘籍首次曝光：五步走，两个月炼成](https://mp.weixin.qq.com/s/FN1eDL6y2SK3FIPJJeW0_Q) | 量子位 2023-07-05
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -541,7 +542,8 @@
   
   * MedGPT(医联):
     - blog:
-      - [国内首个医疗大语言模型问世！多模态打通诊疗全流程，别再叫我做题家](https://mp.weixin.qq.com/s/wDVT4Z29eggGjiyKvhHoVQ) | 新智元 2023-05-26 
+      - [国内首个医疗大语言模型问世！多模态打通诊疗全流程，别再叫我做题家](https://mp.weixin.qq.com/s/wDVT4Z29eggGjiyKvhHoVQ) | 新智元 2023-05-26
+      - [医疗版ChatGPT直播评测！治疗方案与真人医生96%一致](https://mp.weixin.qq.com/s/wfPMNcDP-gQeEnBPgZY9Vw) | 量子位 2023-07-05
   
   * MetaLLM([秘塔科技](https://metasota.ai/#/)): 
     - [秘塔写作猫](xiezuocat.com/chat)
