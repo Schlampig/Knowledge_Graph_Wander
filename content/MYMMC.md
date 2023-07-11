@@ -40,6 +40,7 @@
   * author: THUNLP
   * note: must-read papers on prompt-based tuning for pre-trained language models.
   * blog:
+    - [大型视觉模型和视觉提示工程](https://mp.weixin.qq.com/s/wFQ3eTXw7SyhBZe80E6gsQ) | 专知 2023-07-06
     - [In-Context Learning中的示例选择及效果](https://mp.weixin.qq.com/s/SsGmta7Ethx_rSchcKUioA) |  李rumor 2023年04月24日 
     - [关于Prompt Engineering你该了解啥？OpenAI应用研究负责人帮你梳理了](https://mp.weixin.qq.com/s/010srTP8w-GV-SUXcVz94g) | 机器之心 2023年04月22日 
     - [五万字综述！Prompt Tuning：深度解读一种新的微调范式](https://mp.weixin.qq.com/s/dyKcRUKIS_HKuNQ_WZ3WCg) | AINLP 2023年04月03日
