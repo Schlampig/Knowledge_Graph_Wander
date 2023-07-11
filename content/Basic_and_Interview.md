@@ -464,6 +464,11 @@
 ---
 ## Learn Python Engineering
 
+### AI System & Deep Learning System (AI系统 & 深度学习系统)
+  * homepage: https://chenzomi12.github.io/
+  * link: https://github.com/chenzomi12/DeepLearningSystem
+  * keywords: 探讨和学习人工智能、深度学习的计算机系统设计，而整个系统是围绕着 ZOMI 在华为昇腾工作当中所积累、梳理、构建 AI 系统全栈的内容。
+
 ### RoadPython
   * link: https://github.com/zhangziliang04/RoadPython
   * author: 张子良
