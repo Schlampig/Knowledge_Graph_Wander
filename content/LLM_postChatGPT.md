@@ -526,6 +526,14 @@
       - [3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://mp.weixin.qq.com/s/LCGQyNA6sHcdfIIARSNlww) | 机器之心 2023-04-02
     - extra:
       - RAFT: [玩不起RLHF？港科大开源高效对齐算法RAFT「木筏」，GPT扩散模型都能用](https://mp.weixin.qq.com/s/rhO0bE8CCQsQzsH3kdTbCA) | 量子位 2023-04-17 
+
+  * LongLLaMA(IDEAS NCBR & DeepMind等):
+    - code: https://github.com/CStanKonrad/long_llama
+    - code(huggingface): https://huggingface.co/syzymon/long_llama_3b
+    - [paper](https://arxiv.org/pdf/2307.03170.pdf): Focused Transformer: Contrastive Training for Context Scaling
+    - blog:
+      - [羊驼再度进化，“长颈鹿版”LongLLaMA 来啦，上下文长度冲向 100K ，性能不减](https://mp.weixin.qq.com/s/XzaET7WfrNpOf-zdiSxrig) | 夕小瑶科技说 2023-07-09
+      - [将上下文长度扩展到256k，无限上下文版本的LongLLaMA来了？](https://mp.weixin.qq.com/s/U6rhEUrMAHVGykZcxaXfkg) | 机器之心 2023-07-10
   
   * LTM-1(Magic):
     - [paper](https://arxiv.org/pdf/2109.00301.pdf): $\infty$-former: Infinite Memory Transformer
