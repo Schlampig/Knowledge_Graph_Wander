@@ -62,6 +62,11 @@
     - demo: https://huggingface.co/spaces/project-baize/baize-lora-7B
     - blog:
       - [用ChatGPT训练羊驼：「白泽」开源，轻松构建专属模型，可在线试玩](https://mp.weixin.qq.com/s/zxElGfclNbBwTuDG4Qrxnw) | 机器之心 2023-04-04
+
+  * BatGPT(武大&上交):
+    - [paper](https://arxiv.org/pdf/2307.00360.pdf): BATGPT: A Bidirectional Autoregessive Talker from Generative Pre-trained Transformer.
+    - blog:
+      - [BatGPT：创新性采用双向自回归架构，可预测前后token](https://mp.weixin.qq.com/s/bY5x03BAh2rO1Y-65IOhWQ) | 深度学习自然语言处理 2023-07-06
   
   * BBT(超对称&知识工厂):
     - code: https://github.com/ssymmetry
