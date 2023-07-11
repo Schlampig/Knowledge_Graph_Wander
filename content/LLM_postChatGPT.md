@@ -596,7 +596,8 @@
       - [文心一言和MOSS相比，竟然在这些方面完败！](https://mp.weixin.qq.com/s/tbb-__9UiHYm3HJjjuvGjQ) | 深度学习自然语言处理 2023-04-29
   
   * MPT(MosaicML):
-    - homepage: https://www.mosaicml.com/blog/mpt-7b
+    - homepage(7B): https://www.mosaicml.com/blog/mpt-7b
+    - homepage(30B): https://www.mosaicml.com/blog/mpt-30b
     - blog: 
       - [两大可商用开源大模型同时发布！性能不输LLaMA，羊驼家族名字都不够用了](https://mp.weixin.qq.com/s/cOKCElMEWgjkACA_pG78RQ) | 量子位 2023-05-07
 
