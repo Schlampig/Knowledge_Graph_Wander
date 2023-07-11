@@ -1,6 +1,22 @@
 ## **Fun**
 
 
+### Agent Intelligence:
+  * 多智能体
+    - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
+    - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
+    - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
+    - [大模型自主智能体爆火，OpenAI也在暗中观察、发力，这是内部人的分析博客](https://mp.weixin.qq.com/s/_IkpIIqeKbAj-shvnCV8rg) | 机器之心 2023-07-05
+      - [AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？](https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw) | 新智元 2023-07-06
+    - [刚刚，国内的自主智能体OmBot发布了](https://mp.weixin.qq.com/s/_l-jmhGgJ6ITdVmWoqu3rg) | 机器之心 2023-07-07
+  * 智能决策
+    - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
+  * 集群智慧
+    - [集群概念和蜂群无人机系统](https://mp.weixin.qq.com/s/cM9kghfk6DM8Z0qhsZIqiA) | 专知 2023-07-06
+  * 集成，其它
+    - [大模型时代，解析周志华教授的「学件」思想：小模型也可做大事](https://mp.weixin.qq.com/s/liYW0OSQk8RSX_0TwT3ROw) | 机器之心 2023-07-08
+</br>
+
 ### Arbeits
   * [qdaily_backup](https://github.com/LampScript/qdaily_backup) by [LampScript](https://github.com/LampScript): 好奇心日报备份计划。
   * [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) by [WorkerLivesMatter](https://github.com/WorkerLivesMatter): 公司作息表，[文档链接](https://docs.qq.com/sheet/DVmhnRG15TG1Tb2Js?scene=363321ed5b30ef4c7b8e9256yc6km1&_t=1633793724845&tab=BB08J2)([离线版本](https://mp.weixin.qq.com/s/yAepL7CwBIQKRlO7-ED5ag))，[如何看待近期在互联网人之间流传的「公司作息表」？各大公司上下班时间的真实情况是怎样的？](https://www.zhihu.com/question/491803439)。
@@ -228,11 +244,6 @@
     - [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
     - [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
     - [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
-  * Agent Intelligence:
-    - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
-    - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
-    - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
-  
 </br>
 
 ### Vision
@@ -458,4 +469,9 @@
       - [Visual Instruction Tuning: 用LLaVA近似多模态GPT-4](https://mp.weixin.qq.com/s/Ygf2j-rsyLTwZx3FDK6KEQ) | PaperWeekly 2023-04-19 
     - extra:
       - [Awesome-Visual-Instruction-Tuning - Latest Papers and Datasets on Visual Instruction Tuning](https://github.com/BradyFU/Awesome-Visual-Instruction-Tuning).
+  * SPAE
+    - code: https://github.com/google-research/magvit/
+    - [paper](https://arxiv.org/abs/2306.17842): SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs.
+    - blog:
+      - [谷歌新作SPAE：GPT等大语言模型可以通过上下文学习解决视觉任务](https://mp.weixin.qq.com/s/aDtv0rV2oMZZhL7SAuo3Tw) | CVer 2023-07-08
 </br>
