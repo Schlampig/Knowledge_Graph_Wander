@@ -162,6 +162,7 @@
     - [DL4MATH - Reading List](https://github.com/lupantech/dl4math): reading list for research topics in mathematical reasoning and artificial intelligence.
   * Tutorial
     - [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by Brendan W. Sullivan.
+    - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) by Kenji Hiranabe: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
   * Research
     - [「深度学习数学推理」最新研究综述](https://mp.weixin.qq.com/s/uFbF04nrVxPpQfA0Bkr8oA)
     - [中山大学HCP Lab团队：AI解题新突破，神经网络推开数学推理大门](https://mp.weixin.qq.com/s/8y8ASoc469TOCFtP7MymFQ)
