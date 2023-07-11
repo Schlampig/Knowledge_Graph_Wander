@@ -221,6 +221,8 @@
     - [2022年07月14日：下一站，Embodied AI](https://mp.weixin.qq.com/s/iePasFauFjAziXU8u0PcTg)
     - [2022年10月22日：Bengio、LeCun 等人联名上书，呼吁美国投资神经AI，攻破「具身图灵测试」](https://mp.weixin.qq.com/s/FrhFb5RxGGDi2DC6UJMvpw)
     - [2023年06月20日：具身智能与强化学习前沿进展 | 2023智源大会精彩回顾](https://mp.weixin.qq.com/s/ZmbR-CTxdeWYufTmCcg65w)
+    - [2023年7月10日：零样本操控机器人，李飞飞团队新作！](https://mp.weixin.qq.com/s/N8qmjfz3_cOvhRdKr35vbQ)
+    - [2023年7月10日：李飞飞「具身智能」新成果！机器人接入大模型直接听懂人话，0预训练就能完成复杂指令](https://mp.weixin.qq.com/s/XleXS_5shzZNiOSxUFZfgQ)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
