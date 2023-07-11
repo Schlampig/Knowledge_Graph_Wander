@@ -113,6 +113,13 @@
     - blog:
       - [前哈工大教授开发的ChatALL火了！可同时提问17个聊天模型，ChatGPT/Bing/Bard/文心/讯飞都OK](https://mp.weixin.qq.com/s/1ERc9nBKMz9H_7hO02ky6w) | 量子位 2023-05-19 
 
+  * ChatDB(清华):
+    - code: https://github.com/huchenxucs/ChatDB
+    - [paper](https://arxiv.org/abs/2306.03901): ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory
+    - demo: https://chatdatabase.github.io/
+    - blog:
+      - [结合符号性记忆，清华等提出ChatDB，提升大模型的复杂推理能力](https://mp.weixin.qq.com/s/BQVzyXn8PQilIbVvPQWL9Q) | 将门创投 2023-07-10 
+
   * ChatGLM(智谱AI):
     - code: https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning 
     - blog:
