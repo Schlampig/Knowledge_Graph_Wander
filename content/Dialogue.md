@@ -102,6 +102,7 @@
         - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM): [Awesome-Chinese-LLM：收集和梳理中文LLM相关的开源模型、应用、数据集及教程等资料](https://mp.weixin.qq.com/s/Oy6XZNyN3kpsC6TfQYQb7A)。
         - [LLMs-In-China](https://github.com/wgwang/LLMs-In-China): 中国大模型列表，旨在记录中国大模型发展情况。
         - [Tuning LLMs with no tears](github.com/beyondguo/LLM-Tuning): 分享对大模型微调的工具和方法，把预训练模型微调为可对话的模型。
+        - [LMDeploy](https://github.com/InternLM/lmdeploy): 涵盖了LLM任务的全套轻量化、部署和服务解决方案。
       - Dataset & Corpus:
         - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
         - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
