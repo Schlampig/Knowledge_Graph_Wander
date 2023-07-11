@@ -191,6 +191,7 @@
       - Scaling Law:
         - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
         - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
+        - [Nature：大模型越大越好吗](https://mp.weixin.qq.com/s/D1F0fIBP8jDGBD9YF-XmVA) | OpenBMB开源社区 2023-07-06
       - Extended Input Length (e.g. RoPE):
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
           - [paper](https://arxiv.org/abs/2304.11062): Scaling Transformer to 1M tokens and beyond with RMT.
@@ -201,6 +202,7 @@
         - [Transformer升级之路：一种全局长度外推的新思路](https://mp.weixin.qq.com/s/YJ647EUfzWaJsGoMdgsguA) | PaperWeekly 2023-05-29
         - [ICLR 2023 | 大模型上下文学习的无限扩展方法：kNN Prompting](https://mp.weixin.qq.com/s/SnwqkXCCAv3QwN8-NmoWPw) | PaperWeekly 2023-06-08
         - [羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://mp.weixin.qq.com/s/e8bLx43NNSIKuyomVq2SZA) | 量子位 2023-06-28
+        - [微软新出热乎论文：Transformer扩展到10亿token](https://mp.weixin.qq.com/s/cLbs3vLITK-nxq-A4aY6DA) | 机器之心 2023-07-06
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
