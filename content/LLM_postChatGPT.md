@@ -127,6 +127,7 @@
       - [ChatGLM-6B V1.1：平衡微调数据，提升英文能力，加强中英互译](https://mp.weixin.qq.com/s/kkjnYQ8Mr-b_U-H0lgFi1Q) | AINLP 2023-05-17
       - [使用DeepSpeed/P-Tuning v2对ChatGLM-6B进行微调](https://mp.weixin.qq.com/s/5Zx3I39cPzfWt-HN_e-jFw) | AINLP 2023-05-18
       - [大模型阅读笔记：ChatGLM-6B模型结构组件源码阅读](https://mp.weixin.qq.com/s/bEBrWooUU2MuMt8DwzsDKQ) | 老刘说NLP 2023-05-19
+      - [ChatGLM-6B模型训练完整流程详解](https://mp.weixin.qq.com/s/w-9-l3XnB5Ty6DeeyojoIg) | AINLP 2023-07-08
     - extra:
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
