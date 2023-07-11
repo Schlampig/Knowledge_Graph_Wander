@@ -650,6 +650,11 @@
     - dataset: https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF-10K
     - blog: 
       - [可复现、自动化、低成本、高评估水平，首个自动化评估大模型的大模型PandaLM来了](https://mp.weixin.qq.com/s/CNODZmTW7QJAJ42ZSCWqrA) | 机器之心 2023-05-08
+
+  * 盘古PanGu(华为):
+    - blog:
+      - [华为最新大模型来了！盘古3.0问世，千亿参数规模3万亿tokens，放话「不作诗只做事」](https://mp.weixin.qq.com/s/r9vHX_TLY7lUd6TmWQcFxA) | 量子位 2023-07-07
+      - [华为的大模型终于来了，我的评价是：相当震撼。](https://mp.weixin.qq.com/s/0BDOziIYX0a-SDAvIpHkCg) | 差评 2023-07-08
   
   * PKU-Beaver(北大):
     - code: https://github.com/PKU-Alignment/safe-rlhf
@@ -693,6 +698,7 @@
     - blog:
       - [商汤“日日新SenseNova”大模型超市，来了！](https://mp.weixin.qq.com/s/Y97ejN4ZeLqECvGhfUs8Gw) | 商汤科技SenseTime 2023-04-10
       - [商汤版ChatGPT「商量」来了！开放API，基于千亿参数大模型，体验实录在此](https://mp.weixin.qq.com/s/QoQwfuzttBMxLgjVZLYI4w) | 量子位 2023-04-10
+      - [商汤大模型全面升级！「商量SenseChat 2.0」大语言模型疯狂上分](https://mp.weixin.qq.com/s/vQQyIcedk3Zs6chxTCMyug) | 新智元 2023-07-07
     - extra:
       - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07
         - code: https://github.com/InternLM/InternLM-techreport
