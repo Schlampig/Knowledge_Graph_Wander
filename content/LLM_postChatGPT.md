@@ -151,6 +151,7 @@
       - [【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA) | GLM大模型 2023-06-25
       - [也看支持32K上下文的ChatGLM2-6B模型：优化点简读及现有开源模型主流训练优化点概述](https://mp.weixin.qq.com/s/Y9jnHBkWRTMXQPMCCIMfTw) | 老刘说NLP 2023-06-25
       - [ChatGLM2-6B，免费商用了！](https://mp.weixin.qq.com/s/Bo9svsFx0hoEYxPU8LCwJg) | 夕小瑶科技说 2023-07-15
+      - [单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/a7ua-8onn-o-549PS4AAkw) | 深度学习自然语言处理 2023-07-18
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -221,6 +222,7 @@
     - code: https://github.com/hpcaitech/ColossalAI
     - blog:
       - [0门槛克隆ChatGPT方案再升级，开源模型完整复现，在线体验无需注册](https://mp.weixin.qq.com/s/V5pCvYvkPXwiMw-FNIErXw) | 机器之心 2023-03-29
+      - [一个开源方案，极速预训练650亿参数LLaMA](https://mp.weixin.qq.com/s/NG-SNAGLvNeYx33tVkkWQA) | 机器之心 2023-07-18
 
   * Control-GPT(微软):
     - [paper](https://arxiv.org/abs/2305.18583): Controllable Text-to-Image Generation with GPT-4.
@@ -345,6 +347,20 @@
     - blog:
       - [Firefly(流萤): 中文对话式大语言模型](https://mp.weixin.qq.com/s/O1QV32QRJtYjtvu6ZCDc7Q) | AINLP 2023-04-06
       - [Firefly-13B开源，QLoRA+百万数据，单卡可训百亿大模型](https://mp.weixin.qq.com/s/yDDC8FZWLeHY9imUukmHqw) | AINLP 2023-07-11
+
+  * FLACUNA(新加坡科技设计大学):
+    - code: https://github.com/declare-lab/flacuna
+    - [paper](https://arxiv.org/pdf/2307.02053.pdf): FLACUNA: Unleashing the Problem Solving Power of VICUNA using FLAN Fine-Tuning.
+    - mode: https://huggingface.co/declare-lab/flacuna-13b-v1.0
+    - dataset: https://huggingface.co/declare-lab/flan-mini
+    - blog:
+      - [新加坡科技设计大学提出FLACUNA：提高LLMs问题解决能力!](https://mp.weixin.qq.com/s/QwLs9mdfyIwdTtCOwptkbA) | 深度学习自然语言处理 2023-07-17
+
+  * FlashAttention v2(斯坦福):
+    - code: https://github.com/Dao-AILab/flash-attention
+    - [paper](https://tridao.me/publications/flash2/flash2.pdf): FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning.
+    - blog:
+      - [比标准Attention提速5-9倍，大模型都在用的FlashAttention v2来了](https://mp.weixin.qq.com/s/2xi-cdj5COv1gzfBGCyUMQ) | 机器之心 2023-07-18 
 
 </br>
 
@@ -746,7 +762,13 @@
     - demo: https://www.aiwaves.org/recurrentgpt (长篇小说写作)
     - demo2: https://www.aiwaves.org/interactivefiction (交互式小说)
     - blog:
-      - [ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成](https://mp.weixin.qq.com/s/9zDyyqaHA8Ghnh96f2IOLg) | 机器之心 2023-05-28 
+      - [ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成](https://mp.weixin.qq.com/s/9zDyyqaHA8Ghnh96f2IOLg) | 机器之心 2023-05-28
+
+  * RetNet(微软):
+    - [paper](https://arxiv.org/pdf/2307.08621.pdf): Retentive Network: A Successor to Transformer for Large Language Models.
+    - blog:
+      - [Transformer取代者登场！微软、清华刚推出RetNet：成本低、速度快、性能强](https://mp.weixin.qq.com/s/H8HxdkZqY31UPcfwJ8ArVg) | 机器之心 2023-07-18
+      - [微软亚洲研究院提出全新大模型基础架构RetNet，或将成为Transformer有力继承者！](https://mp.weixin.qq.com/s/cFlJoMWCwRCHIuhBGAKFAw) | 微软亚洲研究院 2023-07-18
 
 </br>
 
@@ -800,6 +822,11 @@
 </br>
 
 ### T
+  * TableGPT(浙大):
+    - [paper](https://arxiv.org/abs/2307.08674): TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT.
+    - blog:
+      - [浙大推出TableGPT，插入、删除、查询、修改表格，AI一键搞定](https://mp.weixin.qq.com/s/Fj6jr_awedio6g08xJO4ag) | 学术头条 2023-07-18
+
   * 桃李Taoli:
     - code: https://github.com/blcuicall/taoli 
     - blog:
