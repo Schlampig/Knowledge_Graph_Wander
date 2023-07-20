@@ -9,8 +9,10 @@
     - [大模型自主智能体爆火，OpenAI也在暗中观察、发力，这是内部人的分析博客](https://mp.weixin.qq.com/s/_IkpIIqeKbAj-shvnCV8rg) | 机器之心 2023-07-05
       - [AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？](https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw) | 新智元 2023-07-06
     - [刚刚，国内的自主智能体OmBot发布了](https://mp.weixin.qq.com/s/_l-jmhGgJ6ITdVmWoqu3rg) | 机器之心 2023-07-07
+    - [大模型(LLM)后的热点,AI"智能体(Agent)"，OpenAI的新方向。](https://mp.weixin.qq.com/s/JINf2gRGMq6T3KRTDJX1lA) | 深度强化学习实验室 2023-07-13
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
+    - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
   * 集群智慧
     - [集群概念和蜂群无人机系统](https://mp.weixin.qq.com/s/cM9kghfk6DM8Z0qhsZIqiA) | 专知 2023-07-06
   * 集成，其它
