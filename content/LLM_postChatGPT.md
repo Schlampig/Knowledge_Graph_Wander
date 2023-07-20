@@ -39,6 +39,7 @@
       - [理解AutoGPT原理](https://mp.weixin.qq.com/s/dONLPpeMxd5tVkTnqv1LCg) | AINLP 2023-04-22
       - [OpenAI官方的AutoGPT要来了！实测效果很优秀](https://mp.weixin.qq.com/s/rS5i3prVKqFDA62qpj3UPg) | 夕小瑶科技说 2023-04-24
       - [ChatGPT大模型如何做科学研究? CMU提出《大模型智能体系统》，高推理展现出大型语言模型的新兴自主科学研究能力](https://mp.weixin.qq.com/s/hvN3vkgMKDbyEuJ29DleZg) | 专知 2023-04-12
+      - [下一代语言模型范式LAM崛起！AutoGPT模式席卷LLM，三大组件全面综述：规划、记忆和工具](https://mp.weixin.qq.com/s/6gu_m739yOKhRBl_2rvWhg) | 新智元 2023-07-11
     - extra:
       - [GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了](https://mp.weixin.qq.com/s/HD8XYv9-U0q6YAU6-jFEmg) | 机器之心 2023-05-30
       - [WorkGPT](https://github.com/team-openpm/workgpt): A GPT agent framework for invoking APIs.
@@ -55,6 +56,8 @@
       - [近期2大国产可商用大模型推介：baichuan-7B及AquilaChat-7B模型的数据、结构以及所需成本介绍](https://mp.weixin.qq.com/s/XkoLnFycG1jPWrNT3w_p-g) | 老刘说NLP 2023-06-18
       - [百川大模型(baichuan-7B)微调实战 - GPT 模型微调实战指南](https://mp.weixin.qq.com/s/KiYpLITXhK9RZ1tgg1fBVQ) | AINLP 2023-06-28
       - [王小川的大模型打造秘籍首次曝光：五步走，两个月炼成](https://mp.weixin.qq.com/s/FN1eDL6y2SK3FIPJJeW0_Q) | 量子位 2023-07-05
+      - [百川开源最强中英文百亿参数模型！超越LLaMA，中国开源大模型开启商用新纪元](https://mp.weixin.qq.com/s/tVc2zvW3JHJbxln-tCuxIQ) | 新智元 2023-07-11
+      - [王小川大模型25天再升级！13B版本开源免费可商用，3090即可部署](https://mp.weixin.qq.com/s/sFVAgypEptxa6qCYcHix9g) | 量子位 2023-07-11
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -325,7 +328,8 @@
   * 流萤Firefly(Jianxin Yang):
     - code: https://github.com/yangjianxin1/Firefly
     - blog:
-      - [Firefly(流萤): 中文对话式大语言模型](https://mp.weixin.qq.com/s/O1QV32QRJtYjtvu6ZCDc7Q) | AINLP 2023-04-06 
+      - [Firefly(流萤): 中文对话式大语言模型](https://mp.weixin.qq.com/s/O1QV32QRJtYjtvu6ZCDc7Q) | AINLP 2023-04-06
+      - [Firefly-13B开源，QLoRA+百万数据，单卡可训百亿大模型](https://mp.weixin.qq.com/s/yDDC8FZWLeHY9imUukmHqw) | AINLP 2023-07-11
 
 </br>
 
