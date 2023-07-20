@@ -27,6 +27,7 @@
       - [谷歌版ChatGPT Bard开放测试！我们已经体验上了](https://mp.weixin.qq.com/s/mbxMDuPaQLt5uXGh9kDtiQ) | 机器之心 2023-03-22
       - [Bard是拿ChatGPT数据训练的？谷歌顶级科学家抗议无果，出走OpenAI](https://mp.weixin.qq.com/s/WeUSi5rMl9_Wu-ty30gNiw) | 机器之心 2023-03-31
       - [ChatGPT实测全线碾压Bard！谷歌溃败，十年心血打水漂](https://mp.weixin.qq.com/s/f4FWGU4OjAHpFbav8SSnRA) | 新智元 2023-04-12
+      - [谷歌Bard支持中文了！十级过关，看懂梗图，直接上手免费体验](https://mp.weixin.qq.com/s/-z5G4KO7wWR721yxyQ1_sQ) | 新智元 2023-07-14
   
   * Aurora genAI(英特尔):
     - blog:
@@ -149,6 +150,7 @@
     - blog:
       - [【发布】ChatGLM2-6B：性能大幅提升，8-32k上下文，推理提速42%](https://mp.weixin.qq.com/s/_h9ls_gHIgHho1RBwUlhsA) | GLM大模型 2023-06-25
       - [也看支持32K上下文的ChatGLM2-6B模型：优化点简读及现有开源模型主流训练优化点概述](https://mp.weixin.qq.com/s/Y9jnHBkWRTMXQPMCCIMfTw) | 老刘说NLP 2023-06-25
+      - [ChatGLM2-6B，免费商用了！](https://mp.weixin.qq.com/s/Bo9svsFx0hoEYxPU8LCwJg) | 夕小瑶科技说 2023-07-15
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -299,6 +301,13 @@
     - [paper](https://arxiv.org/abs/2305.15021): EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought.
     - blog:
       - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s/pwDcsvAxHm5any--1fY6qA) | 李rumor 2023-06-09
+
+  * Emu(智源研究院):
+    - code: https://github.com/baaivision/Emu
+    - [paper](https://arxiv.org/pdf/2307.05222.pdf): Generative Pretraining in Multimodality.
+    - demo: https://emu.ssi.plus/
+    - blog:
+      - [智源Emu开源！超越DeepMind，刷新8项SOTA，首个「多模态-to-多模态」全能高手](https://mp.weixin.qq.com/s/wTd8VssmZFrVPD0Dwd_jjg) | 新智元 2023-07-14
 
   * 文心一言ERNIE(百度):
     - [demo](https://yiyan.baidu.com/welcome) 
@@ -678,6 +687,7 @@
       - [PaLM 2重磅来袭，深挖谷歌92页技术报告亮点总结](https://mp.weixin.qq.com/s/XQE6RWz_8soyAsEfXl0NbQ) | 将门创投 2023-05-22
     - extra:
       - [大模型如何构建“医生级”问答？谷歌DeepMInd最新《基于大型语言模型的专家级医疗问答研究》论文，提出Med-PaLM 2](https://mp.weixin.qq.com/s/rChVy5lhFoX5dV9oPkVzfw) | 专知 2023-05-21
+      - [谷歌医疗大模型登Nature，Med-PaLM重磅揭秘！AI医生成绩比肩人类](https://mp.weixin.qq.com/s/EJmmuxEoXVq3ZPw1b-VmOg) | 夕小瑶科技说 2023-07-15
 
   * PandaGPT(剑桥&腾讯AI Lab):
     - code: https://github.com/yxuansu/PandaGPT
