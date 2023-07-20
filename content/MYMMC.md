@@ -223,6 +223,7 @@
     - [2023年06月20日：具身智能与强化学习前沿进展 | 2023智源大会精彩回顾](https://mp.weixin.qq.com/s/ZmbR-CTxdeWYufTmCcg65w)
     - [2023年7月10日：零样本操控机器人，李飞飞团队新作！](https://mp.weixin.qq.com/s/N8qmjfz3_cOvhRdKr35vbQ)
     - [2023年7月10日：李飞飞「具身智能」新成果！机器人接入大模型直接听懂人话，0预训练就能完成复杂指令](https://mp.weixin.qq.com/s/XleXS_5shzZNiOSxUFZfgQ)
+    - [2023年7月15日：大模型让智能体学会与人类合作，具身智能新成果来了](https://mp.weixin.qq.com/s/GQakrTo5CWA-umL7FXoOkg)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
@@ -256,9 +257,11 @@
   - [2023年06月12日：75岁Hinton中国大会最新演讲「通往智能的两种道路」，最后感慨：我已经老了，未来交给年轻人](https://mp.weixin.qq.com/s/DDUfYkIpcRc_2TTZ0eclGA)
   - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
     - [2023年06月19日：Nature封面：量子计算机离实际应用还有两年](https://mp.weixin.qq.com/s/MqWh7N42Fmo9JqjlFFvLxQ)
+    - [2023年07月16日：量子霸权里程碑！谷歌量子计算机6秒内完成47年计算，超越世界第一超算](https://mp.weixin.qq.com/s/0Zfri8AR2iNuqxqgI_ttWw)
   - [2023年06月20日：我们能够量化机器意识吗？](https://mp.weixin.qq.com/s/cfapcLc26_QFsmjCdAnrUg)
   - [2023年06月28日：没脑子也能学习？](https://mp.weixin.qq.com/s/kDTA0H507ciJTy2yVMbC-w)
   - [2023年07月03日：13万个注释神经元，5300万个突触，普林斯顿大学等发布首个完整「成年果蝇」大脑连接组](https://mp.weixin.qq.com/s/PqMRxAIF9MENNq9SAQDeIg)
+    - [2023年07月13日：登顶刊Cell：中国科学家领衔发布猕猴大脑皮层细胞三维「地图」](https://mp.weixin.qq.com/s/GnaK6rpp_ULnIAnAiTGTrQ)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
