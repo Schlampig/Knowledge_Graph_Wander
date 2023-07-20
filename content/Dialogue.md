@@ -209,6 +209,7 @@
         - [ICLR 2023 | 大模型上下文学习的无限扩展方法：kNN Prompting](https://mp.weixin.qq.com/s/SnwqkXCCAv3QwN8-NmoWPw) | PaperWeekly 2023-06-08
         - [羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://mp.weixin.qq.com/s/e8bLx43NNSIKuyomVq2SZA) | 量子位 2023-06-28
         - [微软新出热乎论文：Transformer扩展到10亿token](https://mp.weixin.qq.com/s/cLbs3vLITK-nxq-A4aY6DA) | 机器之心 2023-07-06
+        - [也看ACL2023外挂知识库大模型开放报告及大模型使用输入长文本的有趣发现：关注头尾位置而忽视中间位置的选择偏置研究](https://mp.weixin.qq.com/s/9Bi0mUuJDWweGq4WwFhsOw) | 老刘说NLP 2023-07-11
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -311,6 +312,7 @@
         - [10行代码媲美RLHF，用社交游戏数据训练社会对齐模型](https://mp.weixin.qq.com/s/ee_GqiJtnJwgWS-3zw0qmA) | 机器之心 2023-06-06
         - [ICLR 2023 Spotlight | 节省95%训练开销，清华黄隆波团队提出强化学习专用稀疏训练框架RLx2](https://mp.weixin.qq.com/s/_AaucAv7RG4ZZM7l4n0fmw) | 将门创投 2023-06-25
         - [ICLR 2023 | ReAct：首次结合Thought和Action提升大模型解决问题的能力](https://mp.weixin.qq.com/s/rKGaiyMiGatckcdOh83gpA) | AINLP 2023-07-05
+        - [FudanNLP团队最新成果，借助RLHF实现人类对齐的MOSS-RLHF来了](https://mp.weixin.qq.com/s/uI-hX3tU5Q9hdgJwQrdNuw) | 李rumor 2023-07-11
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -337,6 +339,7 @@
         - [ICLR 2023 | Self-Consistency: Google超简单方法改善大模型推理能力](https://mp.weixin.qq.com/s/9m4TAUKhv9rUr1ockJU-Rg) | AINLP 2023-07-02
         - [0代码训练GPT-5？MIT微软证实GPT-4涌现自我纠错能力，智能体循环根据反馈让代码迭代！](https://mp.weixin.qq.com/s/XiyAwtOiEv2WHke-MDR6lg) | 新智元 2023-07-04
         - [只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://mp.weixin.qq.com/s/aEcQAJF7Y4-QtUWy6kTE6Q) | 机器之心 2023-07-04
+        - [大模型幻觉问题调研-LLM Hallucination Survey](https://mp.weixin.qq.com/s/jCGxrn_Mt9_2W_RcfBtAOQ) | NLP工作站 2023-07-11
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -475,6 +478,7 @@
           - [坚持做行业大模型，**竹间**智能给大模型造了一座「模型工厂」](https://mp.weixin.qq.com/s/QWbuCxatg2D-6eKKXonEcw) | 机器之心 2023-07-03
           - [**MiniMax**：「AGI」之路，我们不走「捷径」](https://mp.weixin.qq.com/s/HCwIRfYtSxzqgUl0DilnIQ) | 雷峰网 2023-07-04
           - [陪伴10亿人的AI！**西湖心辰**再获汤姆猫战略投资，打造超高情商通用大模型](https://mp.weixin.qq.com/s/kFC4CB8jlH7L9UFrMDiWJQ) | 新智元 2023-07-10
+          - [多场景落地！**商汤**打造“医疗大模型工厂”引领智慧医疗持续创新](https://mp.weixin.qq.com/s/zx2gLB-DxDo5qseEacpMlg) | 商汤科技SenseTime 2023-07-11
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -861,6 +865,8 @@
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
         - [后 ChatGPT时代，问自己25个问题](https://mp.weixin.qq.com/s/2FEqlAKaQWe4L-x5nHwH4A) | 学术头条 2023-04-22
         - [GPT-4参数最新爆料！1.76万亿参数，8个2200亿MoE模型，PyTorch创始人深信不疑](https://mp.weixin.qq.com/s/r8Ve0acNtqPM_OUg1S6Qqg) | 新智元 2023-06-21
+        - [GPT-4内幕大泄露！1.8万亿巨量参数，13万亿token训练，斥资6300万美元](https://mp.weixin.qq.com/s/iqvdcnwl4pR4jDXn57Yg8Q) | 新智元 2023-07-11
+          - [终极「揭秘」：GPT-4模型架构、训练成本、数据集信息都被扒出来了](https://mp.weixin.qq.com/s/E_V5r-KrZf-wdTZye7mrsQ) | 机器之心 2023-07-11
       - 业界
         - [GPT-4震惊四座，中国创业者激战「小模型」](https://mp.weixin.qq.com/s/TpWJ-PckW2pN6jo87Y50Pg) | 36氪Pro 2023-03-15
         - [文心一言发布前夜：GPT-4的「抢跑」与中国版ChatGPT的「长跑」](https://mp.weixin.qq.com/s/SgJdx55OWWxI77l35nAUUg) | 雷峰网 2023-03-15
