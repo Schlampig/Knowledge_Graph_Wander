@@ -16,8 +16,13 @@
     - extra:
       - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
       - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
+        - [中文羊驼大模型项目v5.0发布](https://mp.weixin.qq.com/s/PjTDYZK7a9md0MiFSyFnLQ) | HFL实验室 2023-07-19
       - [medAlpaca](https://github.com/kbressem/medAlpaca): LLM finetuned for medical question answering.
       - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
+
+  * Apple GPT(苹果):
+    - blog:
+      - [Apple GPT明年上iPhone！苹果被爆秘密研发Ajax框架，Siri大升级，市值几秒暴增千亿](https://mp.weixin.qq.com/s/4r3nR-_AeJXee8j9Tj6bXQ) | 新智元 2023-07-20
   
   * Apprentice Bard(谷歌): 
     - [Apprentice Bard: Google's potential ChatGPT rival](https://gpt3demo.com/apps/google-apprentice-bard)
@@ -464,6 +469,8 @@
     - code(封神榜系列模型主页): https://github.com/IDEA-CCNL/Fengshenbang-LM
     - blog:
       - [姜子牙大模型系列 | 代码模型ziya-coding发布！低成本微调即可学会在专有场景编程](https://mp.weixin.qq.com/s/tWaRF1wL3HM87ZDEawd2UA) | 模思空间 2023-07-14
+    - extra:
+      - [姜子牙大模型系列 | 写作模型ziya-writing开源！开箱即用，快来认领专属你的写作小助手吧](https://mp.weixin.qq.com/s/3Z7i4uIxx_u-Peu8iUX7EQ) | 模思空间 2023-07-19
 
 </br>
 
@@ -534,6 +541,15 @@
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
+
+  * LLaMA 2(Meta):
+    - code: https://github.com/facebookresearch/llama
+    - [paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/): Llama 2: Open Foundation and Fine-Tuned Chat Models.
+    - homepage: https://ai.meta.com/llama/
+    - blog:
+      - [更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/klFWFXCbjGaWZ7HO1KFZag) | 机器之心 2023-07-19
+      - [LLaMA 2技术细节详细介绍！](https://mp.weixin.qq.com/s/zGQpxp865xuOIKD6e6dBVQ) | ChallengeHub 2023-07-19
+      - [也谈凌晨刷屏的Llama2开源可商用模型：从其数据构造、模型架构和评估方式等方面的一些总结与发现](https://mp.weixin.qq.com/s/qTJp_hBDiIvJ-ymxLr-Pmg) | 老刘说NLP 2023-07-19
 
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
@@ -769,6 +785,7 @@
     - blog:
       - [Transformer取代者登场！微软、清华刚推出RetNet：成本低、速度快、性能强](https://mp.weixin.qq.com/s/H8HxdkZqY31UPcfwJ8ArVg) | 机器之心 2023-07-18
       - [微软亚洲研究院提出全新大模型基础架构RetNet，或将成为Transformer有力继承者！](https://mp.weixin.qq.com/s/cFlJoMWCwRCHIuhBGAKFAw) | 微软亚洲研究院 2023-07-18
+      - [Transformer取代者登场！微软MSRA提出RetNet，推理速度提升8倍](https://mp.weixin.qq.com/s/5J6GmEZ4hPzbBF_ZRYtTrw) | 夕小瑶科技说 2023-07-19
 
 </br>
 
