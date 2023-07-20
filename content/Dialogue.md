@@ -1002,3 +1002,4 @@
   * [人大发表迄今为止最大最全的大模型综述](https://mp.weixin.qq.com/s/yTS4qbmmJ02y-otVO3twxg) | 深度学习自然语言处理 2023-07-06
   * [NLP对话系统及实战项目分享【含源码】](https://mp.weixin.qq.com/s/4qbYPUL7yrFd9UXzvOglCg) | 老刘说NLP 2023-07-14
   * [大语言模型综述全新出炉：51页论文带你盘点LLM领域专业化技术](https://mp.weixin.qq.com/s/0DrowrTIgXsBhj3sYu6Aog) | 机器之心 2023-07-16
+  * [On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models](https://arxiv.org/abs/2307.09793)
