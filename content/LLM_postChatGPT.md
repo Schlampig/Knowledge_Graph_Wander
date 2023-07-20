@@ -765,6 +765,10 @@
     - [paper](https://arxiv.org/abs/2306.05443): PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance
     - note: 整合现有多个任务的中文金融大模型数据集。
 
+  * PULSE(OpenMEDLab):
+    - code: https://github.com/openmedlab/PULSE
+    - note: 中文医疗大语言模型，使用约4,000,000个中文医学领域和通用领域的指令微调数据进行进一步调优，支持医学领域的各种自然语言处理任务。
+
 </br>
 
 ### Q
