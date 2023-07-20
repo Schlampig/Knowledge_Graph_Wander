@@ -583,6 +583,13 @@
       - [Luotuo Embedding](https://github.com/LC1332/Luotuo-Text-Embedding): 用OpenAI的嵌入数据蒸馏得到的文本嵌入(text embedding)模型。
       - [Luotuo-QA](https://github.com/LC1332/Luotuo-QA): [骆驼QA：基于陈丹琦CoQA数据集的中文阅读理解模型，可给定知识文本进行问答](https://mp.weixin.qq.com/s/C4tZ7jtZ1KidGK27FSqhuQ) | 深度学习自然语言处理 2023-04-27
 
+  * Lynx(字节):
+    - code: https://github.com/bytedance/lynx-llm
+    - [paper](https://arxiv.org/abs/2307.02469): What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?
+    - demo: https://lynx-llm.github.io/
+    - blog:
+      - [字节团队提出猞猁Lynx模型：多模态LLMs理解认知生成类榜单SoTA](https://mp.weixin.qq.com/s/FbToXiAEF3j9m4Ets1RU8Q) | 机器之心 2023-07-15
+
 </br>
 
 ### M
@@ -713,6 +720,13 @@
     - code: https://github.com/PKU-Alignment/safe-rlhf
     - blog:
       - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18
+
+  * PICA(东北大学):
+    - code: https://github.com/NEU-DataMining/PICA
+    - code(huggingface): https://github.com/NEU-DataMining/PICA
+    - dataset: https://github.com/ZhangYiqun018/self-chat
+    - blog:
+      - [情感大模型PICA：一个具有共情和情感共鸣能力的对话模型](https://mp.weixin.qq.com/s/E37EFe10185THHa3pSqBig) | AINLP 2023-07-14
 
   * 貔貅PIXIU(武汉大学):
     - code: https://github.com/chancefocus/PIXIU
