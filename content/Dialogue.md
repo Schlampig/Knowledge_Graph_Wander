@@ -454,7 +454,8 @@
             - [百度、阿里之后，京东大模型“ChatJD”也要来了](https://mp.weixin.qq.com/s/oH7JLnXVejDJl3iYePXtVg) | 第一财经 2023-04-09
             - [京东大模型交卷：天生离产业更近一步](https://mp.weixin.qq.com/s/DIppjjG6gy3LhybZspAQ5Q) | 量子位 2023-07-13
           - [**美团**大佬连夜冲向ChatGPT风口！自带3.5亿进场，只有一个判断：必须参与](https://mp.weixin.qq.com/s/aFL0fLIgi78yzjqYuGzwDA) | 量子位 2023-02-11
-            - [王兴入局大模型！美团耗资21亿拿下光年之外100%股权](https://mp.weixin.qq.com/s/Fd2uoALmqGG3WCWqNTonrA) | 新智元 2023-06-29 
+            - [王兴入局大模型！美团耗资21亿拿下光年之外100%股权](https://mp.weixin.qq.com/s/Fd2uoALmqGG3WCWqNTonrA) | 新智元 2023-06-29
+            - [美团再出手大模型，独家投资「智谱AI」](https://mp.weixin.qq.com/s/SaNBy5-31PCel8g0A1SJRw) | 智能涌现 2023-07-20
           - [**小冰**CEO李笛：小冰链不是中国版ChatGPT](https://mp.weixin.qq.com/s/ErujYGRmvsfGSttkjCHukQ) | 新智元 2023-02-21
             - [ChatGPT发疯怎么办？小冰李笛：两个关键，我可破之](https://mp.weixin.qq.com/s/pzu7ikmtxLmM9x2uLED0-w) | 量子位 2023-02-27
           - [**Opera**跟进引入ChatGPT，侧边栏生成文章简短摘要](https://mp.weixin.qq.com/s/eY_dJfPtYpjarUvNm2ocQg) | 机器之心 2023-02-12
@@ -526,6 +527,7 @@
             - [大模型创业潮：狂飙180天](https://mp.weixin.qq.com/s/61fUMR42vghJkajaj-MINg) | 学术头条 2023-06-03
             - [朱啸虎：ChatGPT对创业公司很不友好，未来两三年内请大家放弃融资幻想](https://mp.weixin.qq.com/s/C3dmJrQtgcRH14OWCtiBgw) | 夕小瑶科技说 2023-07-04
             - [大模型最新调研：AI产业人士看大模型发展趋势](https://mp.weixin.qq.com/s/GSvk_Ey_JLEq2SdGcCtPYQ) | 水木人工智能学堂 2023-07-05
+            - [深度解读首份IDC大模型报告：技术只是门槛，落地才是赛点](https://mp.weixin.qq.com/s/XPeWVpF9jtkOPy0DCFR0vA) | 雷峰网 2023-07-20
           - [阻碍国内团队研究 ChatGPT 这样产品的障碍有哪些](https://www.zhihu.com/question/570782945/answer/2795547780) | 知乎 2023-02-10
             - [ChatGPT 有多高的技术壁垒？国内外除了 OpenAI 还有谁可以做到类似程度？](https://www.zhihu.com/question/581806122) | 知乎 2023-02-08
             - [谁拖了中国ChatGPT的后腿？](https://mp.weixin.qq.com/s/FRN0Hvy7-12qS82IvUdNeg) | 品玩 2023-02-16
