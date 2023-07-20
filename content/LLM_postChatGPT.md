@@ -166,6 +166,10 @@
   * ChatLMG(元乘象):
     - blog:
       - [会看图的「ChatGPT」来了！给张图就能聊天、讲故事、写广告](https://mp.weixin.qq.com/s/uZiYpKQOxyXaVX_3wNq1DQ) | 机器之心 2023-03-11
+
+  * ChatPaper(AMiner):
+    - blog:
+      - [ChatPaper：论文综述细节一问即答，还能构建专属文献库](https://mp.weixin.qq.com/s/u3UuMmyLcKlBRs0ZMbwCew) | 学术头条 2023-07-12
   
   * Chat-REC(复旦):
     - [paper](https://arxiv.org/pdf/2303.14524.pdf): Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System
@@ -202,6 +206,8 @@
       - [ChatGPT被超越了？OpenAI核心成员出走，打造Claude模型](https://mp.weixin.qq.com/s/GT6BNVH8lt7CtLfCpKLSNg) | 夕小瑶的卖萌屋 2023-01-30
       - [「ChatGPT最强竞品」爆火：不限量不要钱免注册！一手实测体验在此](https://mp.weixin.qq.com/s/QB85YPjh6DMBTPla4NDfXg) | 量子位 2023-04-14
       - [一次10万token！GPT4最强对手史诗升级，百页资料一分钟总结完毕](https://mp.weixin.qq.com/s/h_JyYVs38lOrTmorQuoGCg) | 量子位 2023-05-12
+    - extra:
+      - [ChatGPT最强竞品Claude2来了：代码、GRE成绩超越GPT-4，免费可用](https://mp.weixin.qq.com/s/cpiUVIkfNGYY-EM8NJ27Gg) | 机器之心 2023-07-12
 
   * Code T5+(Salesforce):
     - code: https://github.com/salesforce/CodeT5/tree/main/CodeT5+
@@ -727,7 +733,8 @@
     - extra:
       - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07
         - code: https://github.com/InternLM/InternLM-techreport
-        - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09 
+        - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09
+        - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
 
   * Shikra(商汤&北航):
     - code: https://github.com/shikras/shikra
