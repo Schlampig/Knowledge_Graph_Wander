@@ -434,6 +434,11 @@
 </br>
 
 ### J
+  * 姜子牙ziya-coding(IDEA):
+    - code: https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1
+    - code(封神榜系列模型主页): https://github.com/IDEA-CCNL/Fengshenbang-LM
+    - blog:
+      - [姜子牙大模型系列 | 代码模型ziya-coding发布！低成本微调即可学会在专有场景编程](https://mp.weixin.qq.com/s/tWaRF1wL3HM87ZDEawd2UA) | 模思空间 2023-07-14
 
 </br>
 
@@ -604,6 +609,13 @@
       - [复旦NLP团队大模型 MOSS 开源了，有哪些技术亮点值得关注？](https://mp.weixin.qq.com/s/C68RjC3eqADaoEEKIcsMVQ) | AINLP 2023-04-23
       - [MOSS国产大模型问答原理与插件式SFT数据概述：一个类HuggingGPT思想的精彩工作简单总结](https://mp.weixin.qq.com/s/9cD2-4gIMIz9j6d3xapQhg) | 老刘说NLP 2023-04-26
       - [文心一言和MOSS相比，竟然在这些方面完败！](https://mp.weixin.qq.com/s/tbb-__9UiHYm3HJjjuvGjQ) | 深度学习自然语言处理 2023-04-29
+
+  * mPLUG-DocOwl(达摩院):
+    - code: https://github.com/X-PLUG/mPLUG-DocOwl
+    - [paper](https://arxiv.org/abs/2307.02499): mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+    - demo: https://modelscope.cn/studios/damo/mPLUG-DocOwl/summary 
+    - blog:
+      - [GPT4平替？业界首个公开使用的通用文档理解多模态大语言模型mPLUG-DocOwl尝鲜报告](https://mp.weixin.qq.com/s/ouhGomTyL9F1ekLJtvw5vg) | 我爱计算机视觉 2023-07-13 
   
   * MPT(MosaicML):
     - homepage(7B): https://www.mosaicml.com/blog/mpt-7b
@@ -859,6 +871,7 @@
     - [paper](https://arxiv.org/abs/2305.06849): WebCPM: Interactive Web Search for Chinese Long-form Question Answering.
     - blog:
       - [清华ACL 2023最新长文 | WebCPM：首个联网支持中文问答开源模型](https://mp.weixin.qq.com/s/WSzJpQBxQQKdMRRrDObICQ) | PaperWeekly 2023-05-13
+      - [交互式网页搜索中文问答模型（WebCPM）](https://mp.weixin.qq.com/s/lVuk7TrcEZAvftkBU9YHEg) | OpenBMB开源社区 2023-07-14
 
   * WebGLM(清华):
     - code: https://github.com/THUDM/WebGLM
