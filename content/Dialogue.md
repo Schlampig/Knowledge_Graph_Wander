@@ -169,6 +169,7 @@
         - [LLMs评估综述-A Survey on Evaluation of Large Language Models](https://mp.weixin.qq.com/s/EhipbRs6mTFaaYgOIsaG7g) | NLP工作站 2023-07-07
           - [众多高校和研究机构联合发表：LLMs评估综述](https://mp.weixin.qq.com/s/HKqKgF0vvRrk4O08OAoJiw) | 深度学习自然语言处理 2023-07-07 
         - [“千模千测”——针对大语言模型认知能力的高效测试方法](https://mp.weixin.qq.com/s/9aWgvFGaSesu4JzEHE4Ncw) | PaperWeekly 2023-07-07
+        - [Open LLM 排行榜近况](https://mp.weixin.qq.com/s/tDDx3lZz_nyAcf9bnB5hnA) | Hugging Face 2023-07-11
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -194,6 +195,7 @@
         - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant): [ChatGPT训练流程复现](https://mp.weixin.qq.com/s/mCgc07H-8EeTyxxLPGmuCA) | 深度学习自然语言处理 2023-04-10 & [ChatGPT全球最大开源平替：回复更受欢迎，但中文对话一塌糊涂](https://mp.weixin.qq.com/s/lSNMRrmYnajsDQ2wH3_ryw) | 机器之心 2023-04-16
         - [单机cpu版本地搭建ChatGPT](https://zhuanlan.zhihu.com/p/617378737) | 知乎-猿小明 2023-03-27
         - [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz)
+        - [CAME: 大模型训练成本降低近一半！新加坡国立大学最新优化器已投入使用](https://mp.weixin.qq.com/s/iUXu_Pfsop0bq7ktoXTY4A) | 量子位 2023-07-11
       - Scaling Law:
         - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
         - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -290,6 +292,7 @@
         - [ACL2023 | 大模型如何快速构建指令遵循数据集？Self-Instruct：只需175条种子数据追上InstructGPT](https://mp.weixin.qq.com/s/Rxs4SCmMP22GWBGl0Y98Dg) | 深度学习自然语言处理 2023-06-27
         - [过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://mp.weixin.qq.com/s/NXzeQzX9AJkkpK4OsC7Sbw) | 机器学习算法与自然语言处理 2023-06-30
         - [大模型训练太难了！](https://mp.weixin.qq.com/s/NCJIiWhxqCFSH7ovRngDCQ) | 吃果冻不吐果冻皮 2023-07-08
+        - [ACL 2023 | 持续进化中的语言基础模型](https://mp.weixin.qq.com/s/eeFL6wk_HMYEB9sHTxrROg) | 微软亚洲研究院 2023-07-12
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
@@ -313,6 +316,7 @@
         - [ICLR 2023 Spotlight | 节省95%训练开销，清华黄隆波团队提出强化学习专用稀疏训练框架RLx2](https://mp.weixin.qq.com/s/_AaucAv7RG4ZZM7l4n0fmw) | 将门创投 2023-06-25
         - [ICLR 2023 | ReAct：首次结合Thought和Action提升大模型解决问题的能力](https://mp.weixin.qq.com/s/rKGaiyMiGatckcdOh83gpA) | AINLP 2023-07-05
         - [FudanNLP团队最新成果，借助RLHF实现人类对齐的MOSS-RLHF来了](https://mp.weixin.qq.com/s/uI-hX3tU5Q9hdgJwQrdNuw) | 李rumor 2023-07-11
+        - [万字长文概览大语言模型对齐（欺骗性对齐、可扩展的监管、机械可解释性、工具性目标趋同）](https://mp.weixin.qq.com/s/II7yeAlKwDSFluxGKyVrJA) | TJUNLP 2023-07-12
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -479,6 +483,7 @@
           - [**MiniMax**：「AGI」之路，我们不走「捷径」](https://mp.weixin.qq.com/s/HCwIRfYtSxzqgUl0DilnIQ) | 雷峰网 2023-07-04
           - [陪伴10亿人的AI！**西湖心辰**再获汤姆猫战略投资，打造超高情商通用大模型](https://mp.weixin.qq.com/s/kFC4CB8jlH7L9UFrMDiWJQ) | 新智元 2023-07-10
           - [多场景落地！**商汤**打造“医疗大模型工厂”引领智慧医疗持续创新](https://mp.weixin.qq.com/s/zx2gLB-DxDo5qseEacpMlg) | 商汤科技SenseTime 2023-07-11
+          - [AI大模型“国家队”定了](https://mp.weixin.qq.com/s/hBaCyr52_4s-N0-DhEpo-w) | 人工智能学家 2023-07-12
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -562,6 +567,7 @@
           - [ChatGPT之后，教育向何处去？](https://mp.weixin.qq.com/s/45m0zHERb1E8TRaj4RqP0Q) | 量子学派 2023-03-31
           - [LeCun力荐！哈佛博士分享用GPT-4搞科研，细到每个工作流程](https://mp.weixin.qq.com/s/mufDanJvcj-jE1LZatyAfA) | 新智元 2023-04-03
           - [教育领域预训语言模型及基于高考试题的能力评估：TAL-EduBERT模型及GAOKAO-Bench评估框架](https://mp.weixin.qq.com/s/kDDdqy8HgtG_pLmImezmXA) | 老刘说NLP 2023-05-06
+          - [牛津剑桥「打脸」允许使用ChatGPT，还手把手教授教程](https://mp.weixin.qq.com/s/Ma6MooVh5o-VWx0u0DN7Lw) | 量子位 2023-07-12
         - [打造中国版 ChatGPT，国内有哪些学术力量能抢滩？](https://mp.weixin.qq.com/s/8Pmr8ubZdMkmMsQRg1i-uA) | AI科技评论 2023-02-20
           - [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/dsOhsFNrc_-Qyw5XlXRuxQ) | 机器学习算法与自然语言处理 2023-02-22
           - [清华大学孙茂松：打造中国版ChatGPT并推动其在更多场景应用落地是目前的主要挑战](https://mp.weixin.qq.com/s/rDYb-8E7quwdUr4nNcPiLg) | TsinghuaNLP 2023-02-26
@@ -660,6 +666,7 @@
           - [能听懂语音的ChatGPT来了：10小时录音扔进去，想问什么问什么](https://mp.weixin.qq.com/s/C7VzXhuG0T6Njo2pNpGRQA) | 机器之心 2023-06-02 
         - [全面了解多模态大语言模型 Multimodal Large Language Models，首个跟踪 MLLM 进展的论文集合](https://mp.weixin.qq.com/s/BuBr5OgflKLIYbjLFLGPEA) | 我爱计算机视觉 2023-06-02
           - [综述一下多模态大语言模型](https://mp.weixin.qq.com/s/SFr6EGjtbzQFS6KR7cFiSA) | 李rumor 2023-07-07
+          - [MLLM首篇综述 | 一文全览多模态大模型的前世、今生和未来](https://mp.weixin.qq.com/s/Kt502_Thi0aRRJJrR0TlRw) | 将门创投 2023-07-12
           - [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
@@ -748,6 +755,7 @@
           - [「问题少年」逆袭成资产350亿美元CEO！60岁黄仁勋或成LLM爆发背后最大赢家](https://mp.weixin.qq.com/s/muRFWtHt3PAUTIebK3UYfA) | 新智元 2023-05-30 
           - [向AI提问，这个新职业火了](https://mp.weixin.qq.com/s/yqLWlTfjZrc6VW2D-AADBA) | 36氪 2023-06-06
           - [这些部门要开始裁员了…](https://mp.weixin.qq.com/s/TqGQVF52Bpd7M86aocA6NA) | 很帅的投资客 2023-07-10
+          - [Transformer八子全部叛逃谷歌！最后一位共同作者月底离职创业](https://mp.weixin.qq.com/s/ltQsq6Z36nvPSRa4IC8a_A) | 新智元 2023-07-12
         - [ChatGPT的第一份政府审查，或将来自美联邦贸易委员会，OpenAI：尚未训练GPT5](https://mp.weixin.qq.com/s/dNIcE5w_r45DbkE5pzi_yg) | 大数据文摘 2023-03-31
           - [三星被曝因ChatGPT泄露芯片机密！韩媒惊呼数据「原封不动」直传美国，软银已禁止员工使用](https://mp.weixin.qq.com/s/vkLtBbvpLFpk7GLnSuOGLg) | 量子位 2023-04-02
           - [最高层会议：重视通用人工智能发展](https://mp.weixin.qq.com/s/_L011fgPwBS9FRH76sujcQ) | 人工智能学家 2023-05-08
