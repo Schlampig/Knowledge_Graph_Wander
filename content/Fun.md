@@ -32,6 +32,7 @@
     - [Live2D](https://www.live2d.com/en/): a software technology that allows you to create dynamic expressions that breathe life into an original 2D illustration.
     - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) by [layn](https://github.com/laynH)
     - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB): Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~, [homepage](https://www.v2fy.com/p/000readme-chinesebqb/)
+    - [SCOTT PARTRIDGE](https://jevaart.com/artworkave.htm): 美国艺术家©Scott Partridge 创作的世界鸟类平面化图鉴。
   * Art and Design
     - [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
     - [ArtStation](https://www.artstation.com/): [新年重磅！Artstation 大师级艺术课程全部免费开放](https://www.uisdc.com/artstation-learning)
