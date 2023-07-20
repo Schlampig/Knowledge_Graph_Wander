@@ -172,6 +172,9 @@
         - [“千模千测”——针对大语言模型认知能力的高效测试方法](https://mp.weixin.qq.com/s/9aWgvFGaSesu4JzEHE4Ncw) | PaperWeekly 2023-07-07
         - [Open LLM 排行榜近况](https://mp.weixin.qq.com/s/tDDx3lZz_nyAcf9bnB5hnA) | Hugging Face 2023-07-11
         - [对大模型各方测评的总结综述](https://mp.weixin.qq.com/s/UFOpsJ6Gv9vvvtCcGEqlbg) | 吃果冻不吐果冻皮 2023-07-13
+        - [引证生成让大模型问答结果更为可信：也看大型语言模型生成带引证的文本方法与评估基准ALCE](https://mp.weixin.qq.com/s/HFuerrV5l7h7YB7y_HzY9w) | 老刘说NLP 2023-07-16
+        - [大模型评测，也太难了吧](https://mp.weixin.qq.com/s/56D4KzgE3_kYE01g6n_qfg) | 吃果冻不吐果冻皮 2023-07-16
+        - [LLMs如何评估？看这里就够了！](https://mp.weixin.qq.com/s/65vHY7NP9KS3-OSBJWNQ-g) | 泛函的范 2023-07-16
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -198,6 +201,7 @@
         - [单机cpu版本地搭建ChatGPT](https://zhuanlan.zhihu.com/p/617378737) | 知乎-猿小明 2023-03-27
         - [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz)
         - [CAME: 大模型训练成本降低近一半！新加坡国立大学最新优化器已投入使用](https://mp.weixin.qq.com/s/iUXu_Pfsop0bq7ktoXTY4A) | 量子位 2023-07-11
+          - [新加坡国立大学提出最新优化器：CAME，大模型训练成本降低近一半！](https://mp.weixin.qq.com/s/1CzsQZCBYA0M5LGj5aCZZA) | 我爱计算机视觉 2023-07-14
         - [谁动了我的显存？——深度学习训练过程显存占用分析及优化](https://mp.weixin.qq.com/s/3zhF8aCFMH4E3GvvDSITDg) | 深度学习自然语言处理 2023-07-12
       - Scaling Law:
         - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
@@ -216,6 +220,7 @@
         - [微软新出热乎论文：Transformer扩展到10亿token](https://mp.weixin.qq.com/s/cLbs3vLITK-nxq-A4aY6DA) | 机器之心 2023-07-06
         - [也看ACL2023外挂知识库大模型开放报告及大模型使用输入长文本的有趣发现：关注头尾位置而忽视中间位置的选择偏置研究](https://mp.weixin.qq.com/s/9Bi0mUuJDWweGq4WwFhsOw) | 老刘说NLP 2023-07-11
         - [RoPE可能是LLM时代的Resnet](https://mp.weixin.qq.com/s/BVm1XC7r1yzOiWIrEbWg3A) | 深度学习自然语言处理 2023-07-13
+        - [一文看懂 LLaMA 中的旋转式位置编码（Rotary Position Embedding）](https://mp.weixin.qq.com/s/0_l5NTRJzlXaYN5cLTI0jQ) | AINLP 2023-07-14
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -350,6 +355,7 @@
         - [只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://mp.weixin.qq.com/s/aEcQAJF7Y4-QtUWy6kTE6Q) | 机器之心 2023-07-04
         - [大模型幻觉问题调研-LLM Hallucination Survey](https://mp.weixin.qq.com/s/jCGxrn_Mt9_2W_RcfBtAOQ) | NLP工作站 2023-07-11
         - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
+        - [消除了幻觉，我们就能信任机器吗？](https://mp.weixin.qq.com/s/pPySsvZJaSAEU2j4bfweLg) | 环球科学 2023-07-15
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -358,6 +364,7 @@
         - [也谈langchain大模型外挂知识库问答系统核心部件：如何更好地解析、分割复杂非结构化文本](https://mp.weixin.qq.com/s/rOWfCQuUPohatMF_dU2nIA) | 老刘说NLP 2023-06-28
         - [技术动态 | LangChain已经添加了Cypher Search](https://mp.weixin.qq.com/s/F7tFdPLocJIwkK_84RrTkw) | 开放知识图谱 2023-07-01
         - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满](https://mp.weixin.qq.com/s/i8gzx-rnB7-kR2M3QeZYhA) | 量子位 2023-07-10
+        - [mini-langchain-chatglm：五分钟实现基于知识的问答](https://mp.weixin.qq.com/s/0wmQ4NKSGAnuQ39yExdwlw) | AINLP 2023-07-14
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -376,6 +383,7 @@
         - [百万奖金悬赏大模型不擅长的任务！这 11 个任务模型越大，效果越差！](https://mp.weixin.qq.com/s/9PFBqxeUkYEh5RK2GFaM6Q) | 夕小瑶科技说 2023-06-27
         - [ChatGPT「奶奶漏洞」又火了！扮演过世祖母讲睡前故事，骗出Win11序列号](https://mp.weixin.qq.com/s/bYRmusvMXCqUIySFUX8WHQ) | 新智元 2023-06-27
         - [「5年内，人类程序员没了」，Stability AI老板大胆预测，一众大佬狂怼：大错特错，都懒得解释](https://mp.weixin.qq.com/s/angb-iUQNwKfwQFroEGDmA) | 量子位 2023-07-09
+        - [ChatGPT时代程序员生存指南，这四步很关键｜IEEE Spectrum](https://mp.weixin.qq.com/s/glsWAV68p6tIDfwkdnPBdQ) | 量子位 2023-07-15
       - 工程化 & 硬件(芯片)：
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
@@ -467,6 +475,8 @@
             - [不要叫我程序员，我是「AI工程师」，马斯克：开始卷自然语言编程](https://mp.weixin.qq.com/s/ZZZOAVHAoPyIYJthEVM6hw) | 机器之心 2023-07-01
             - [OpenAI又一劲敌！马斯克宣布成立xAI，称要「了解宇宙本质」](https://mp.weixin.qq.com/s/7VyCcOTJ1IuRl81YMp7dkg) | 智能涌现 2023-07-13
             - [马斯克高调官宣AI公司，华人成创始团队主力：吴宇怀、Jimmy Ba、杨格、张国栋、戴子航加盟](https://mp.weixin.qq.com/s/jJtRMPPvOo7D6Tj5ImtsdQ) | 机器之心 2023-07-13
+            - [马斯克披露xAI细节：6年实现AGI，特斯拉推特资源都能用！2万块N卡被曝已到位](https://mp.weixin.qq.com/s/_ilWbYd3kisHHiSD09vmvw) | 量子位 2023-07-15
+            - [马斯克的 xAI 想干啥？进来看信息要点和八卦](https://mp.weixin.qq.com/s/H9K0Zrx2XR1DRGzJMzHAtg) | 果壳 2023-07-15
           - [支持大模型研发，**第四范式**与西安智算中心达成战略合作](https://mp.weixin.qq.com/s/LArv6IPPKDeUvfM61f_wmQ) | 第四范式 2023-04-12
             - [现场拔网线！第四范式版GPT能力首秀，有点不一样](https://mp.weixin.qq.com/s/OgiHWs0Gher4MTS40rAopg) | 量子位 2023-04-26 
             - [胡时伟：关于大模型技术的三点思考](https://mp.weixin.qq.com/s/k_L3b0v5LZ5Kp2W0t-9gcQ) | 第四范式 2023-05-23
@@ -634,6 +644,7 @@
           - [对比 4 款 AI 阅读工具，我找到了「阅读文档」的最佳助手](https://mp.weixin.qq.com/s/KUNiI3Qw4fvzRJVeZaAd1w) | 少数派 2023-05-24
           - [ChatGPT能解决信息抽取吗？一份关于性能、评估标准、鲁棒性和错误的分析](https://mp.weixin.qq.com/s/TeFxseHyqZ96aL6eN6X64g) | 深度学习自然语言处理 2023-06-01
           - [大模型遇上文档智能：如何用大模型与python-pptx自动生成PPT](https://mp.weixin.qq.com/s/aVVfYw20PEa96Mls5gECQw) | 老刘说NLP 2023-06-30
+          - [评估大模型在中文语法纠错上的能力](https://mp.weixin.qq.com/s/zGCPT_cq5kDAMGGO7YS6zQ) | 吃果冻不吐果冻皮 2023-07-14
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
@@ -656,6 +667,8 @@
           - [也看面向知识图谱构建的垂直微调大模型：KnowLM、TechGPT看指令数据生成方式及开放信息抽取数据集](https://mp.weixin.qq.com/s/Ub22ksWgOUia1dGVzDw1tg) | 老刘说NLP 2023-06-26
           - [大型语言模型与知识图谱协同研究综述：两大技术优势互补](https://mp.weixin.qq.com/s/HMCMyT0FKV5fGo4NRKSa5g) | 机器之心 2023-07-03
           - [也谈如何利用关键词缓解LLM文档问答缺陷及微调大模型生成图数据库执行语句：几个代表工作介绍与总结](https://mp.weixin.qq.com/s/-8yPjBpcPitZFyB95Zi2hQ) | 老刘说NLP 2023-07-07
+          - [肖仰华丨大模型与知识图谱的深度融合，是实现领域认知智能的关键](https://mp.weixin.qq.com/s/_IY8KQUU2vhBCDs2PpknIQ) | 知识工场 2023-07-15
+          - [再看大模型用于事件演化模式自动生成：NCSCHEMA开放域分层事件模式归纳方案解析](https://mp.weixin.qq.com/s/DuFHWUuSqdRrPSAyeYBYxg) | 老刘说NLP 2023-07-15
         - [ChatGPT喜欢的秘密提示（附证据）](https://mp.weixin.qq.com/s/uC1xADTiNkpejtSEKF5nMQ) | 大数据文摘 2023-03-16
         - [ChatGPT用于数据标注是否可行：基于推特分类、生成内容排序任务的代表性实验报告介绍](https://mp.weixin.qq.com/s/laHpV38S-HsYEQ84ngTTrA) | 老刘说NLP 2023-03-29
         - [浏览器增强版ChatGPT无敌了？超强插件Monica，能聊能写效率Max](https://mp.weixin.qq.com/s/-ffD2LRwW-M9vPOXgWsnkA) | 新智元 2023-04-17
@@ -836,7 +849,8 @@
         - [GPT-5根本不存在！ChatGPT之父Sam Altman首次公开表态，最新视频流出](https://mp.weixin.qq.com/s/F0yU5J32d3sN5Y08-rTnYw) | 新智元 2023-04-15
           - [OpenAI CEO 亲自辟谣「GPT-5传闻」：目前没有训练，短期内也不会训练](https://mp.weixin.qq.com/s/1PUjG_5RcRuisWh2TNyg6Q) | 机器之心 2023-04-15
         - [官宣，Google DeepMind 成立](https://mp.weixin.qq.com/s/ALjmH1ZjEzc4y2fl0oVHfg) | 学术头条 2023-04-21
-          - [合并DeepMind和Google Brain，谷歌迎来AI新时代](https://mp.weixin.qq.com/s/Ge0msXZSG54t_ZhD-QjoNg) | 机器之心 2023-04-21 
+          - [合并DeepMind和Google Brain，谷歌迎来AI新时代](https://mp.weixin.qq.com/s/Ge0msXZSG54t_ZhD-QjoNg) | 机器之心 2023-04-21
+          - [Google DeepMind掌舵人Demis Hassabis专访：合并后「超级单元」内幕，以及如何开展下一代模型研究](https://mp.weixin.qq.com/s/_4XcofFrrZiSxjYiubbb7w) | 大数据文摘 2023-07-16
         - [你的ChatGPT数据可以不被官方拿去训练模型了！代价是「只聊天不记录」](https://mp.weixin.qq.com/s/M0F2mJCNpiZ75a9Mos7Lcg) | 量子位 2023-04-26
           - [ChatGPT推出“联网模式”！可直接读取网页内容，网友：更好用了](https://mp.weixin.qq.com/s/kPsHd5sZGow2u1Ak9d9ZAQ) | 量子位 2023-04-28
           - [微软Bing突然爆炸级更新！无需等待人人可用，答案图文并茂，网友：逼 ChatGPT 放大招？](https://mp.weixin.qq.com/s/BCWy8CWcZ_98xFdO8t-7Zg) | 量子位 2023-05-05
@@ -883,6 +897,7 @@
           - [陶哲轩自曝用了「满血」GPT-4：人类对信息技术的期待全部需要校准](https://mp.weixin.qq.com/s/w27J9nA6Tea4RDn-_j_ibg) | 量子位 2023-06-17
             - [陶哲轩甩出调教GPT-4聊天记录，点击领取大佬的研究助理](https://mp.weixin.qq.com/s/27tec1cbVTmTcuJkZqmClg) | 量子位 2023-06-25
         - [用 Notion 搭建高能效率系统，我们给你准备了一份 Notion 终极指南](https://mp.weixin.qq.com/s/EElCGTozMkAORhXcOCniHw) | 少数派 2023-06-27
+        - [大模型惨遭人类大范围攻击！国内各领域专家组团投毒，GPT-4也Hold不住](https://mp.weixin.qq.com/s/l3zwXBBoQPaLCoynGGnevA) | 量子位 2023-07-15
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
@@ -914,6 +929,7 @@
           - [GPT-4 发布后，你的 NLP 研究发生了怎样的变化？](https://mp.weixin.qq.com/s/m-kjb5KMLwDmVZ0ia3C18Q) | AINLP 2023-03-24
           - [GPT-4论文竟有隐藏线索：GPT-5或完成训练、OpenAI两年内接近AGI](https://mp.weixin.qq.com/s/sZATa-GGHUOlhZuCgaghhg) | 量子位 2023-03-17
           - [GPT4 对计算机视觉行业有何影响](https://mp.weixin.qq.com/s/nvnPe5B7NpaulED1e16Euw) | AINLP 2023-04-05
+          - [WAIC 2023 | 张俊林：大语言模型带来的交互方式变革](https://mp.weixin.qq.com/s/YDB0J-O9JHuDYHBYH-9-Ww) | 机器之心 2023-07-15
         - [做完GPT-4完整测评，微软爆火论文称初版AGI就快来了](https://mp.weixin.qq.com/s/Al9Vojr3Or6s14gbiEq7sA) | 机器之心 2023-03-24
           - [GPT-4满分第一名通过大厂模拟面试！微软154页研究刷屏：与AGI的第一次接触](https://mp.weixin.qq.com/s/T_ynpytmWQHRSANUNLxj6w) | 量子位 2023-03-25
           - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1) | arXiv [v1] Wed, 22 Mar 2023 16:51:28 UTC, [中文解读：《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893) | [橘子汽水铺](https://orangeblog.notion.site/orangeblog/8db8382267f747f08ed799a8d99c73b6), [点燃通用人工智能的火花： GPT-4的早期实验（微软最新报告）](https://mp.weixin.qq.com/s/2tSWrb-a62LMvXwmGUSgew) | AINLP 2023-03-28
@@ -963,3 +979,4 @@
   * [图解 72 个机器学习基础知识点](https://mp.weixin.qq.com/s/6rlwP5OF-QocuZ8RZS1Dsw) | 我不爱机器学习 2023-07-04
   * [人大发表迄今为止最大最全的大模型综述](https://mp.weixin.qq.com/s/yTS4qbmmJ02y-otVO3twxg) | 深度学习自然语言处理 2023-07-06
   * [NLP对话系统及实战项目分享【含源码】](https://mp.weixin.qq.com/s/4qbYPUL7yrFd9UXzvOglCg) | 老刘说NLP 2023-07-14
+  * [大语言模型综述全新出炉：51页论文带你盘点LLM领域专业化技术](https://mp.weixin.qq.com/s/0DrowrTIgXsBhj3sYu6Aog) | 机器之心 2023-07-16
