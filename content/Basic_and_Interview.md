@@ -552,6 +552,12 @@
   * link: https://yeasy.gitbook.io/docker_practice/
   * keywords: 1至6章为基础内容，供用户理解Docker的基本概念和操作；7至9章介绍包括数据管理、网络等高级操作；10至12章介绍容器生态中的几个核心项目；13与14章讨论关于Docker安全和实现技术等高级话题。后续章节则分别介绍包括Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
+### 精益副业：程序员如何优雅地做副业
+  * link: https://github.com/easychen/lean-side-bussiness
+  * author: easychen
+  * homepage: http://r.ftqq.com/lean-side-bussiness/index.html
+  * keywords: 本书扩展了《程序员如何优雅地挣零花钱》的基本内容，将其放到更大的副业视角；同时，引入经过互联网行业验证的「精益创业」流程，并优化为副业专用的「精益副业」流程。
+
 ---
 ## Research
 
