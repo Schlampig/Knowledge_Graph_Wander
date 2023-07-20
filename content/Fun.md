@@ -10,6 +10,8 @@
       - [AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？](https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw) | 新智元 2023-07-06
     - [刚刚，国内的自主智能体OmBot发布了](https://mp.weixin.qq.com/s/_l-jmhGgJ6ITdVmWoqu3rg) | 机器之心 2023-07-07
     - [大模型(LLM)后的热点,AI"智能体(Agent)"，OpenAI的新方向。](https://mp.weixin.qq.com/s/JINf2gRGMq6T3KRTDJX1lA) | 深度强化学习实验室 2023-07-13
+    - [56个AI Agents一览图](https://mp.weixin.qq.com/s/ad9WSJMfZG950lPEGyTHYw) | AI 共存派 2023-07-16
+    - [清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://mp.weixin.qq.com/s/GKHD6M74rqC42u2w8EFjJw) | 量子位 2023-07-19
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
@@ -394,6 +396,7 @@
         - [2023年04月27日：速度惊人！手机跑Stable Diffusion，12秒出图，谷歌加速扩散模型破记录](https://mp.weixin.qq.com/s/YWwDeLltZFsaHnjB5C08kg)
         - [2023年04月30日：Stability AI连扔两个王炸！首个开源RLHF模型登基，DeepFloyd IF像素级出图](https://mp.weixin.qq.com/s/h39ZjVg_9XA8jl3fIIAEfg)
         - [2023年05月26日：NLP+Diffusion=？UMN最新《NLP中的扩散模型》综述 ，全面阐述离散和嵌入扩散模型方法](https://mp.weixin.qq.com/s/czNtFbXEjPUN6klCa1SWmA)
+        - [2023年07月19日：在英特尔 CPU 上微调 Stable Diffusion 模型](https://mp.weixin.qq.com/s/YmznHA811TqCrqHOwL2D0Q)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
