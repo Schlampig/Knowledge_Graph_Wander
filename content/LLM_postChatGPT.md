@@ -517,6 +517,10 @@
       - [国产开源大模型： 百亿参数“伶荔”，填补中文基础模型空白！](https://mp.weixin.qq.com/s/XD63CRzTKrM2I2uPQrLTTQ) | Datawhale 2023-04-28
     - extra:
       - [“伶荔（Linly）”项目团队全新发布中文Falcon基础模型](https://mp.weixin.qq.com/s/AuAG3tw4JI8lHyLkSdM18g) | PaperWeekly 2023-07-03 
+
+  * 灵心SoulChat(scutcyr):
+    - code: https://github.com/scutcyr/SoulChat
+    - note: 中文领域心理健康对话大模型，基于主动健康的主动性、预防性、精确性、个性化、共建共享、自律性六大特征。
   
   * Lion(港科大):
     - code: https://github.com/YJiangcm/Lion
