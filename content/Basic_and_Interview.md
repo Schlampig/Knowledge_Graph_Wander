@@ -425,6 +425,10 @@
   * blog: [推荐一个时序机器学习网站](https://mp.weixin.qq.com/s/7LDnjoGEM6yl2FWvZErDMQ) | 我不爱机器学习 2023-07-13
   * keywords: time series machine learning including codes, data, results, papers.
 
+### 通往AGI之路
+  * link: https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+  * author: 公众号：通往AGI之路
+  * keywords: 一份非常棒的AI资料库，包括输入提示词、AI绘画、AI音乐、AI网站、AI插件、AI课程……你可以把这份文档看做是一个AI学习路径，可以按照文档的章节来学习和了解AI行业，也可以用它来查找一些资料。 
 
 ---
 ## Competition
