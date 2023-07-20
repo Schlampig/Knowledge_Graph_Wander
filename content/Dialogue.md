@@ -185,6 +185,7 @@
         - [AI Prompt Generators & Prompt Library](https://hero.page/ai-prompts)
         - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/), [code](https://github.com/LearnPrompt/LearnPrompt)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分, [GitHub项目免费教你提示工程，全中文教学，小白也能懂](https://mp.weixin.qq.com/s/bR73OXj022kQheTSvFVBRg) | 量子位 2023-05-15
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
+        - [Prompts Royale](https://github.com/meistrari/prompts-royale): automatically create prompts and make them fight each other to know which is the best.
         - [OpenAI出品的ChatGPT调校指南你读了吗](https://mp.weixin.qq.com/s/zSSJ2u9Jt546McE2WVE9fA) | 朴素人工智能 2023-05-09
         - [微软官方亲自出教程，拿捏「Prompt工程」高级玩法](https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA) | 机器之心 2023-05-11
         - [强过AutoGPT！微软重磅研究提出APO算法，「自动提示」淘汰提示工程师](https://mp.weixin.qq.com/s/Ryy7Yg2S3gCp11g7HMBuWw) | 新智元 2023-05-22
