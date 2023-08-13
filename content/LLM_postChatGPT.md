@@ -17,6 +17,7 @@
       - [Alpaca-Lora](https://github.com/tloen/alpaca-lora): [可以微调类ChatGPT模型啦！开源Alpaca-LoRA+RTX 4090就能搞定](https://mp.weixin.qq.com/s/vzIm-fOxxPEU69ArAowoIg) | 夕小瑶的卖萌屋 2023-03-27
       - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
         - [中文羊驼大模型项目v5.0发布](https://mp.weixin.qq.com/s/PjTDYZK7a9md0MiFSyFnLQ) | HFL实验室 2023-07-19
+        - [中文羊驼大模型二期项目v1.0隆重发布](https://mp.weixin.qq.com/s/s8bOcwRYiRA88kPlJKeAKA) | HFL实验室 2023-07-31
       - [medAlpaca](https://github.com/kbressem/medAlpaca): LLM finetuned for medical question answering.
       - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
 
@@ -64,6 +65,7 @@
       - [王小川的大模型打造秘籍首次曝光：五步走，两个月炼成](https://mp.weixin.qq.com/s/FN1eDL6y2SK3FIPJJeW0_Q) | 量子位 2023-07-05
       - [百川开源最强中英文百亿参数模型！超越LLaMA，中国开源大模型开启商用新纪元](https://mp.weixin.qq.com/s/tVc2zvW3JHJbxln-tCuxIQ) | 新智元 2023-07-11
       - [王小川大模型25天再升级！13B版本开源免费可商用，3090即可部署](https://mp.weixin.qq.com/s/sFVAgypEptxa6qCYcHix9g) | 量子位 2023-07-11
+      - [首批Llama2汉化版测评揭晓，不敌原生Baichuan-13B | SuperCLUE](https://mp.weixin.qq.com/s/tz8Kz0OJTHj4royC9gZpBg) | CLUE中文语言理解测评基准 2023-07-31
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -530,7 +532,8 @@
     - blog:
       - [国产开源大模型： 百亿参数“伶荔”，填补中文基础模型空白！](https://mp.weixin.qq.com/s/XD63CRzTKrM2I2uPQrLTTQ) | Datawhale 2023-04-28
     - extra:
-      - [“伶荔（Linly）”项目团队全新发布中文Falcon基础模型](https://mp.weixin.qq.com/s/AuAG3tw4JI8lHyLkSdM18g) | PaperWeekly 2023-07-03 
+      - [“伶荔（Linly）”项目团队全新发布中文Falcon基础模型](https://mp.weixin.qq.com/s/AuAG3tw4JI8lHyLkSdM18g) | PaperWeekly 2023-07-03
+      - [“伶荔”(Linly) 项目发布中文LLaMA2模型](https://mp.weixin.qq.com/s/4m2NaOEn7ah1WmFWOy97nA) | AINLP 2023-07-29
 
   * 灵心SoulChat(scutcyr):
     - code: https://github.com/scutcyr/SoulChat
