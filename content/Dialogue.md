@@ -177,6 +177,7 @@
         - [引证生成让大模型问答结果更为可信：也看大型语言模型生成带引证的文本方法与评估基准ALCE](https://mp.weixin.qq.com/s/HFuerrV5l7h7YB7y_HzY9w) | 老刘说NLP 2023-07-16
         - [大模型评测，也太难了吧](https://mp.weixin.qq.com/s/56D4KzgE3_kYE01g6n_qfg) | 吃果冻不吐果冻皮 2023-07-16
         - [LLMs如何评估？看这里就够了！](https://mp.weixin.qq.com/s/65vHY7NP9KS3-OSBJWNQ-g) | 泛函的范 2023-07-16
+        - [UIUC 李博：GPT-4 比你想象的更「傲慢」](https://mp.weixin.qq.com/s/qcJ-4byvp9f2HcG91Fg7PA) | 将门创投 2023-07-22
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -198,6 +199,7 @@
         - [10种实用的Prompt技巧图解](https://mp.weixin.qq.com/s/0tctnn-3cLWSjQWq8EjEPQ) | AINLP 2023-06-19
         - [提示工程和提示构造技巧](https://mp.weixin.qq.com/s/l0mLbXHVVvlWXoR7PqqaBQ) | CS的陋室 2023-06-25
         - [放弃评测大模型，普林斯顿大学已经开始评估Prompt了，提出Prompt评估框架](https://mp.weixin.qq.com/s/UxrBcPFPn8gvT6tKmLS7CQ) | 夕小瑶科技说 2023-07-19
+        - [是我们在训练大模型，还是大模型在训练我们？](https://mp.weixin.qq.com/s/EflkdGbKyiavs2klxPuVLg) | NLP工作站 2023-07-22
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -708,6 +710,7 @@
           - [综述一下多模态大语言模型](https://mp.weixin.qq.com/s/SFr6EGjtbzQFS6KR7cFiSA) | 李rumor 2023-07-07
           - [MLLM首篇综述 | 一文全览多模态大模型的前世、今生和未来](https://mp.weixin.qq.com/s/Kt502_Thi0aRRJJrR0TlRw) | 将门创投 2023-07-12
           - [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
+          - [从零训练一个多模态LLM：预训练+指令微调+对齐+融合多模态+链接外部系统](https://mp.weixin.qq.com/s/cI-KDcW8H_xGxbBedUSFGw) | 深度学习自然语言处理 2023-07-22
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
