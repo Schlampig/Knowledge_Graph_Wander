@@ -224,6 +224,7 @@
     - [2023年7月10日：零样本操控机器人，李飞飞团队新作！](https://mp.weixin.qq.com/s/N8qmjfz3_cOvhRdKr35vbQ)
     - [2023年7月10日：李飞飞「具身智能」新成果！机器人接入大模型直接听懂人话，0预训练就能完成复杂指令](https://mp.weixin.qq.com/s/XleXS_5shzZNiOSxUFZfgQ)
     - [2023年7月15日：大模型让智能体学会与人类合作，具身智能新成果来了](https://mp.weixin.qq.com/s/GQakrTo5CWA-umL7FXoOkg)
+    - [2023年07月22日：具身智能 | CCF专家谈术语](https://mp.weixin.qq.com/s/lA9q6-hCIBldaEbWYHvkRQ)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
@@ -262,6 +263,8 @@
   - [2023年06月28日：没脑子也能学习？](https://mp.weixin.qq.com/s/kDTA0H507ciJTy2yVMbC-w)
   - [2023年07月03日：13万个注释神经元，5300万个突触，普林斯顿大学等发布首个完整「成年果蝇」大脑连接组](https://mp.weixin.qq.com/s/PqMRxAIF9MENNq9SAQDeIg)
     - [2023年07月13日：登顶刊Cell：中国科学家领衔发布猕猴大脑皮层细胞三维「地图」](https://mp.weixin.qq.com/s/GnaK6rpp_ULnIAnAiTGTrQ)
+    - [2023年07月24日：人鼠混合大脑出现了！斯坦福大学7年研究登Nature](https://mp.weixin.qq.com/s/Xtu-9KOOG01LcKQT4R7Vqg)
+  - [2023年07月24日：大脑如何产生意识？神经科学家的预言输给了哲学家](https://mp.weixin.qq.com/s/7Xvfx0-1KM3V63AV1vNQBQ)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
