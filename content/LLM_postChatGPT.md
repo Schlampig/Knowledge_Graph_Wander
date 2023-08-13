@@ -455,6 +455,10 @@
       - [HuggingChat叫板ChatGPT！300亿参数大模型免费用](https://mp.weixin.qq.com/s/oBWc42h6GeyIbyOI2jisqQ) | 新智元 2023-04-26
       - [一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」](https://mp.weixin.qq.com/s/FaPTaMXOqCapE1mZKXnQKQ) | 机器之心 2023-05-12
 
+  * 活字Huozi(哈工大):
+    - code: https://github.com/HIT-SCIR/huozi
+    - blog:
+      - [哈工大开源“活字”对话大模型](https://mp.weixin.qq.com/s/WEitgZjOxZpp7KIbRU0ewg) | 赛尔实验室 2023-08-06
 </br>
 
 ### I
@@ -577,6 +581,7 @@
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
+        - [中文版开源Llama 2同时有了语言、多模态大模型，完全可商用](https://mp.weixin.qq.com/s/_TbBKKRhqMv66GGyyW74XQ) | 机器之心 2023-08-04
       - llama2.c:
         - code: https://github.com/karpathy/llama2.c
         - [OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ) | 机器之心 2023-07-24
@@ -903,6 +908,7 @@
       - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
       - [阿里版ChatGPT「通义千问」邀请测试，我们第一时间试了试](https://mp.weixin.qq.com/s/95qLhDVwNUnyJuF21jzHPw) | 机器之心 2023-04-07 
       - [阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q) | 夕小瑶的卖萌屋 2023-04-09
+      - [通义千问Qwen-7B效果如何？Firefly微调实践，效果出色](https://mp.weixin.qq.com/s/ETpwfDO0KKWq6_YFaAj3tg) | AINLP 2023-08-05
 
   * ToolLLM(清华&人大&耶鲁&腾讯&知乎):
     - code: https://github.com/OpenBMB/ToolBench
