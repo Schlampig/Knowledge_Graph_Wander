@@ -270,6 +270,7 @@
         - [ChatGPT危了！「注意力公式」8年神秘bug首曝光，Transformer模型恐大受冲击](https://mp.weixin.qq.com/s/Sp4cWO3XMMiNTwHD9lKbhA) | 新智元 2023-07-25
           - [Attention机制竟有bug，Softmax是罪魁祸首，影响所有Transformer](https://mp.weixin.qq.com/s/cSwWapqFhxu9zafzPUeVEw) | 机器之心 2023-07-25
         - [Transformer深入浅出](https://mp.weixin.qq.com/s/rWIKppjyityypFwoeJiczA) | AINLP 2023-08-03
+        - [为什么现在大家都在用 MQA 和 GQA？](https://mp.weixin.qq.com/s/B3Uv0tD4y-zCvclxx0_mOA) | 李rumor 2023-08-03
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -1064,6 +1065,7 @@
 
 ### LLM Blogs & Reviews
   * [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
+    - [一文看懂：如何充分高效训练多轮对话大模型](https://mp.weixin.qq.com/s/WG_YCk6DM8nWvLfpw1OmoA) | 吃果冻不吐果冻皮 2023-08-08
   * [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
   * [从ChatGPT到生成式AI（98页PPT）](https://mp.weixin.qq.com/s/OFmrkms8lNsi9C7BpfNI2w) | 与数据同行 2023-02-19
   * [ChatGPT背后的大模型技术如何炼？MSU等最新《预训练基础模型综述》，97页pdf全面阐述BERT到ChatGPT历史脉络](https://mp.weixin.qq.com/s/yDB9VKSKIu-4spJ2hiH1JQ) | 专知 2023-02-22
