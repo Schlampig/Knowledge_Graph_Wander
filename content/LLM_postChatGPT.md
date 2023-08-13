@@ -595,6 +595,8 @@
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
     - blog:
       - [微调7B模型只用单GPU！通用多模态工具LLaMA-Adapter拆掉门槛，效果惊人](https://mp.weixin.qq.com/s/9ILz8wdi_i6W1oTqAkp_Fg) | 新智元 2023-06-28
+    - extra:
+      - [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory): 一个开源的工具包,用于预训练、微调和部署大语言模型(LLMs)和多模态大语言模型。这个仓库主要继承自LLaMA-Adapter,具有更多高级功能。
   
   * Llama-X:
     - [paper/code](https://github.com/AetherCortex/Llama-X): Llama-X: Open Academic Research on Improving LLaMA to SOTA LLM
