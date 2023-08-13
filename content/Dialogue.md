@@ -135,6 +135,7 @@
         - [浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://mp.weixin.qq.com/s/wC7H1r0EwSqouRIDcCuYzw) | PaperWeekly 2023-06-30
         - [基础大模型能像人类一样标注数据吗？](https://mp.weixin.qq.com/s/X8eQiDUx5ShhArcOaFTJkA) | Hugging Face 2023-07-06
         - [7月末关于大模型微调数据工程与评估的技术综述：从数据构造方案到模型评估范式的论文梳理指引](https://mp.weixin.qq.com/s/QlJSJZp02Qz15TAtVyVsEQ) | 老刘说NLP 2023-07-31
+        - [中文版 Llama2 模型及中英文 SFT 数据集](https://huggingface.co/LinkSoul/Chinese-Llama-2-7b)
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
@@ -347,6 +348,7 @@
         - [姚期智团队新作：“累积推理”让大模型更聪明；Stability AI发布全新StableCode模型](https://mp.weixin.qq.com/s/9HIm1cz9XZRmUiO5tjCcHw) | 学术头条 2023-08-09
         - [模型越大越爱拍马屁！谷歌大神Quoc Le团队新作：用简单合成数据微调即可解决](https://mp.weixin.qq.com/s/nt0IB7goeNSDI4MNp68c2g) | 量子位 2023-08-11
       - RLHF & RLAIF & Alignment:
+        - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
         - [ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://mp.weixin.qq.com/s/hm_bbVebSF4JudctCsiRcA) | 夕小瑶的卖萌屋 2022-12-18
