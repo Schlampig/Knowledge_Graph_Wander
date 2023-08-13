@@ -749,6 +749,7 @@
           - [复旦：2023人工智能与营销新纪元白皮书（附下载，63页）](https://mp.weixin.qq.com/s/pjsWHKmZgl2b-WEeq4aYHg) | 水木人工智能学堂 2023-07-03
           - [三张脑图直观了解医疗、金融、法律领域微调模型：从训练数据、模型基座、算力耗费到开源协议](https://mp.weixin.qq.com/s/9ukwAoTDwRoGam1lT5Nj3w) | 老刘说NLP 2023-07-03
         - [解决法律领域大模型幻觉问题](https://mp.weixin.qq.com/s/od6Ijs2hHLl2jOrYndprVw) | 深度学习自然语言处理 2023-06-27
+        - [14个机构63位学者合作 AI for Science 重磅综述：用于量子、原子和连续体系科学的人工智能](https://mp.weixin.qq.com/s/bCjU7Am5fb32gGJdQTFcFg) | 集智俱乐部 2023-07-20
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
@@ -817,6 +818,7 @@
           - [事关生成式人工智能，七部门重磅发文！](https://mp.weixin.qq.com/s/xw1-lv27Hw2X_UcOtwSOLQ) | 中国财经报 2023-07-13
           - [AI监管新思路：为每个AI注入「灵魂」，让AI监管AI](https://mp.weixin.qq.com/s/VRBtlTeKlMWJmg_w0r62lQ) | 智能涌现 2023-07-18
           - [通用人工智能AGI等级保护白皮书2023（附下载，84页）](https://mp.weixin.qq.com/s/BlnFPDUuR2o5W1WZ8O9efA) | 水木人工智能学堂 2023-07-19
+          - [Llama2重仓大模型安全下的思考：SafetyPrompts、CVALUES、ToxiGen等大模型安全性评估工作总结](https://mp.weixin.qq.com/s/N0G8q_CZE6lcwqE5wNlTLw) | 老刘说NLP 2023-07-21
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -899,6 +901,7 @@
           - [今天，ChatGPT「代码解释器」正式解禁！30秒图片变视频，动嘴做表 | 十大惊人魔法全集](https://mp.weixin.qq.com/s/006r019hVPUxZpHzczsPsQ) | 新智元 2023-07-09
           - [ChatGPT神器Code Interpreter终于开放，到底怎么用？这里有一份保姆级教程](https://mp.weixin.qq.com/s/VFApvnH1yCxsWCcUP6cSEg) | 机器之心 2023-07-09
         - [微软Office全家桶版GPT-4定价每月30美元，Azure牵手Llama 2](https://mp.weixin.qq.com/s/izrZYPcUFFUWUfJmF4ICIg) | 机器之心 2023-07-19
+        - [ChatGPT支持个人定制！告别大段提示词，只需先和它做好自我介绍](https://mp.weixin.qq.com/s/uH-cFymSxRa3R2WS0WvRfg) | 量子位 2023-07-21
       - 体验
         - [GPT-4 比你聪明，比你有趣，还比你会做题，你怎么看？](https://mp.weixin.qq.com/s/UN8gLUryQ9Ds6qrEJuSh6A) | 果壳 2023-03-15
         - [上手ChatGPT威力加强版后，我发现它很强，但也有点拉。。。](https://mp.weixin.qq.com/s/nXDosBgDvREsn1paGyRfdg) | 差评 2023-03-16
@@ -919,6 +922,7 @@
             - [爆火的「GPT-4 MIT本科数学满分」论文作弊，数据集本身有问题](https://mp.weixin.qq.com/s/GxRfWKIWDzqfqJbjkdeBkA) | 机器之心 2023-06-18 
           - [陶哲轩自曝用了「满血」GPT-4：人类对信息技术的期待全部需要校准](https://mp.weixin.qq.com/s/w27J9nA6Tea4RDn-_j_ibg) | 量子位 2023-06-17
             - [陶哲轩甩出调教GPT-4聊天记录，点击领取大佬的研究助理](https://mp.weixin.qq.com/s/27tec1cbVTmTcuJkZqmClg) | 量子位 2023-06-25
+            - [GPT-4计算能力差怎么破？把它当小学生，保证结果跟计算器一样准](https://mp.weixin.qq.com/s/fBM-XsHPCqOE93u2l9E4yQ) | 量子位 2023-07-21
         - [用 Notion 搭建高能效率系统，我们给你准备了一份 Notion 终极指南](https://mp.weixin.qq.com/s/EElCGTozMkAORhXcOCniHw) | 少数派 2023-06-27
         - [大模型惨遭人类大范围攻击！国内各领域专家组团投毒，GPT-4也Hold不住](https://mp.weixin.qq.com/s/l3zwXBBoQPaLCoynGGnevA) | 量子位 2023-07-15
       - 分析
