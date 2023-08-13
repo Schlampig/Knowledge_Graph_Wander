@@ -66,6 +66,7 @@
       - [百川开源最强中英文百亿参数模型！超越LLaMA，中国开源大模型开启商用新纪元](https://mp.weixin.qq.com/s/tVc2zvW3JHJbxln-tCuxIQ) | 新智元 2023-07-11
       - [王小川大模型25天再升级！13B版本开源免费可商用，3090即可部署](https://mp.weixin.qq.com/s/sFVAgypEptxa6qCYcHix9g) | 量子位 2023-07-11
       - [首批Llama2汉化版测评揭晓，不敌原生Baichuan-13B | SuperCLUE](https://mp.weixin.qq.com/s/tz8Kz0OJTHj4royC9gZpBg) | CLUE中文语言理解测评基准 2023-07-31
+      - [王小川第三个大模型发布！530亿参数、服务B端、文科更强](https://mp.weixin.qq.com/s/b2HWqSkv6TULcng3JQCg5A) | 智东西 2023-08-08
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -329,6 +330,7 @@
       - [百度文心一言在国产模型中倒数？我看懵了](https://mp.weixin.qq.com/s/mKXw1A06Wyjznekhfuz4Hg) | 夕小瑶科技说 2023-05-12
       - [文心大模型升级3.5版本，有多强？我们帮你试了试](https://mp.weixin.qq.com/s/4SZgvv_I3iwb0IMDsSWO0A) | 机器之心 2023-07-06
       - [大模型华山论剑！百度文心大模型3.5拿下7个满分，3个绝对第一！](https://mp.weixin.qq.com/s/b-mkrY37EcbEG_f5SJkSUQ) | 我爱计算机视觉 2023-07-24
+      - [重磅！清华最新报告：文心一言超越ChatGPT 3.5](https://mp.weixin.qq.com/s/gyVtLSvQuwkFu7ZmHuzypw) | CVer 2023-08-08
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
   
