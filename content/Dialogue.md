@@ -405,6 +405,7 @@
         - [召唤GPT4多重人格，实力超群大幅减少幻觉！微软UIUC新工作释放大模型认知协同能力](https://mp.weixin.qq.com/s/vRexQOpTIrUwrONjvzoHpA) | 夕小瑶科技说 2023-07-18
         - [AI「心灵之眼」被看透！大改神经网络，模型生成背后逻辑首现](https://mp.weixin.qq.com/s/D04weUY4ThLq7BR5wFSiwg) | 新智元 2023-07-24
         - [量化因果涌现表明：宏观可以战胜微观](https://mp.weixin.qq.com/s/XVe-ENJtRgwQ6sWCcnZRhA) | 集智俱乐部 2023-07-24
+        - [大模型老是胡说八道怎么办？哈佛大学提出推理干预ITI技术有效缓解模型幻觉现象](https://mp.weixin.qq.com/s/IrL7tVb__VJMFaigJM538A) | 将门创投 2023-08-07
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
