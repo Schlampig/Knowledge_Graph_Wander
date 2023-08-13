@@ -691,6 +691,10 @@
     - homepage: https://mp.weixin.qq.com/s/VQsOhQhfhWG4SoFnuzU0SQ
     - blog:
       - [12种模态，一个学习框架，Meta-Transformer实现骨干网络大一统](https://mp.weixin.qq.com/s/VQsOhQhfhWG4SoFnuzU0SQ) | PaperWeekly 2023-07-26
+
+  * MiLM(小米):
+    - code: https://github.com/XiaoMi/MiLM-6B
+    - note: MiLM-6B 是由小米开发的一个大规模预训练语言模型，参数规模为64亿。在 C-Eval 和 CMMLU 上均取得同尺寸最好的效果。
   
   * MiniGPT(KAUST):
     - code: https://github.com/Vision-CAIR/MiniGPT-4
