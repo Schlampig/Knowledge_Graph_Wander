@@ -576,6 +576,7 @@
       - [人人玩转Llama 2！Meta正式官宣免费用，微调羊驼指南大全集](https://mp.weixin.qq.com/s/eKAjuVSi00p33plIb0hsag) | 新智元 2023-07-25
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
+        - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
       - llama2.c:
         - code: https://github.com/karpathy/llama2.c
         - [OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ) | 机器之心 2023-07-24
@@ -903,6 +904,12 @@
       - [阿里版ChatGPT「通义千问」邀请测试，我们第一时间试了试](https://mp.weixin.qq.com/s/95qLhDVwNUnyJuF21jzHPw) | 机器之心 2023-04-07 
       - [阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q) | 夕小瑶的卖萌屋 2023-04-09
 
+  * ToolLLM(清华&人大&耶鲁&腾讯&知乎):
+    - code: https://github.com/OpenBMB/ToolBench
+    - [paper](https://arxiv.org/abs/2307.16789): ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
+    - blog:
+      - [刘知远等众多机构提出ToolLLM：促进大型语言模型掌握16000+真实世界的APIs](https://mp.weixin.qq.com/s/6lBuiUfjymf-vzY13dK8yQ) | 深度学习自然语言处理 2023-08-01
+
   * TransGPT·致远(北交大):
     - code: https://github.com/DUOMO/TransGPT
     - blog:
@@ -913,6 +920,7 @@
     - [paper](https://arxiv.org/abs/2307.14995): Scaling TransNormer to 175 Billion Parameters
     - blog:
       - [放弃Softmax，首个线性注意力Transformer大模型：1750亿参数，速度、精度更优](https://mp.weixin.qq.com/s/QUxEQtKiYmPePoFLcSrrRw) | 机器之心 2023-07-28
+      - [TransNormerLLM：第一个基于线性注意力的大模型](https://mp.weixin.qq.com/s/SHHt97Zf1Jl_wcziXThTZQ) | 吃果冻不吐果冻皮 2023-08-03
 
 </br>
 
