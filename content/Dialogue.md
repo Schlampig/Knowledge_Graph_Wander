@@ -185,6 +185,7 @@
         - [ChatGPT打破了图灵测试——评估人工智能新方法的竞赛正在进行](https://mp.weixin.qq.com/s/1RzF_yWKnVRiNOcOz4L3mA) | 人工智能学家 2023-07-27
         - [再谈大模型的事实性幻觉如何评估：事实性评估的界定及FACTOOL事实性检测框架原理介绍](https://mp.weixin.qq.com/s/2ynnp2hTRWHhYYD_ZaakiA) | 老刘说NLP 2023-07-27
         - [「真实网络世界」测试场上线：基于GPT-4的智能体也只能跑10.59%成功率](https://mp.weixin.qq.com/s/DdUXXwrBQsd8evU7icQ3VA) | 机器之心 2023-07-28
+        - [陈丹琦重新定义了文本相似性问题，提出C-STS，GPT-4也不能很好解决](https://mp.weixin.qq.com/s/o-70NRSeONQ4TJ9s3ulA9A) | 深度学习自然语言处理 2023-08-02
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -497,7 +498,8 @@
             - [**华为**盘古大模型纪要](https://mp.weixin.qq.com/s/3LNCl0Q23bYobTxGKkvWuw) | 合纵投研 2023-04-08
             - [150亿参数、一次通过率超60％，华为代码能力超GPT3.5的大模型来了](https://mp.weixin.qq.com/s/wkBX4yDEvpOJ6miUfW2X6A) | 机器之心 2023-07-28
           - [ChatGPT让**亚马逊**梦碎！微软CEO：Alexa、Siri、Cortana笨得和石头一样](https://mp.weixin.qq.com/s/D5qGJMEcGhc2wAXHWlY8yQ) | 新智元 2023-03-12
-            - [亚马逊高调入局ChatGPT大战，发布Titan大模型、AI编程助手全免费，CEO：改变所有体验](https://mp.weixin.qq.com/s/yHLIaPIME2vg-ZgCORFJLQ) | 机器之心 2023-04-14 
+            - [亚马逊高调入局ChatGPT大战，发布Titan大模型、AI编程助手全免费，CEO：改变所有体验](https://mp.weixin.qq.com/s/yHLIaPIME2vg-ZgCORFJLQ) | 机器之心 2023-04-14
+            - [从「生成式AI」转化为「生产力」，亚马逊云科技划出重点](https://mp.weixin.qq.com/s/Akd4GfxnfUwzuKKWfUFDeg) | 机器之心 2023-08-01
           - [**果壳**发布AIGC战略，赋能人工智能时代的超级个体](https://mp.weixin.qq.com/s/E9c-z5vJkeNwWzMy24qzJw) | 果壳 2023-03-17
           - [突发！李开复宣布筹办新公司：不仅是中国版ChatGPT，全球招英才](https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg) | 量子位 2023-03-19
           - [**追一**：一家自然语言处理AI公司的末世之舞：倒在GPT大模型的狂潮到来前](https://mp.weixin.qq.com/s/niXTHG7BW1O9tQetSsKjcg) | 品玩 2023-03-22
@@ -779,7 +781,9 @@
           - [手机里的心理医生，ChatGPT能胜任吗？|《自然》长文](https://mp.weixin.qq.com/s/fb677wO2hwVQPOVTtHUuQw) | Nature Portfolio 2023-07-10
           - [闲谈最近大模型的一些新发现和新思考：从大模型兴趣趋势、GPT4组合模型到面向医学术语标准化的微调大模型](https://mp.weixin.qq.com/s/NNig930mWO_FvuY_AIh_Lg) | 老刘说NLP 2023-07-13
           - [关于抑郁症：给9个AI大模型的140瓶毒药](https://mp.weixin.qq.com/s/-M9Yc-1SlsiStbr5D9fzeQ) | 神经现实 2023-07-14
-            - [阿里100瓶毒药解马斯克难题？国内首个大模型价值对齐数据集开源，15万评测题上线！](https://mp.weixin.qq.com/s/tZSxLU_iJ-OIqoAR1Ig2YA) | 新智元 2023-07-14 
+            - [阿里100瓶毒药解马斯克难题？国内首个大模型价值对齐数据集开源，15万评测题上线！](https://mp.weixin.qq.com/s/tZSxLU_iJ-OIqoAR1Ig2YA) | 新智元 2023-07-14
+          - [哈工大赛尔实验室开源“巧板”儿童情感陪伴大模型](https://mp.weixin.qq.com/s/8Tq7hF9USLkWF6umnN52zw) | 赛尔实验室 2023-08-02
+          - [中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据](https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ) | 量子位 2023-08-01 
         - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
           - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
