@@ -917,6 +917,7 @@
     - [paper](https://arxiv.org/abs/2307.16789): ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
     - blog:
       - [刘知远等众多机构提出ToolLLM：促进大型语言模型掌握16000+真实世界的APIs](https://mp.weixin.qq.com/s/6lBuiUfjymf-vzY13dK8yQ) | 深度学习自然语言处理 2023-08-01
+      - [我组联合面壁智能给大模型接入16000+真实API，效果直逼ChatGPT！](https://mp.weixin.qq.com/s/PMQMGnpvuyzGM_OgPTRqhw) | TsinghuaNLP 2023-08-08
 
   * TransGPT·致远(北交大):
     - code: https://github.com/DUOMO/TransGPT
