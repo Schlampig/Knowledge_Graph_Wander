@@ -15,7 +15,11 @@
     - [ChatGPT的下一个杀手级应用场景：Autonomous Agents](https://mp.weixin.qq.com/s/gj9swCxbkYaXzhiLQGuh2g) | 熵简科技Value Simplex 2023-07-25
     - [北大用ChatGPT打造开发团队，无需人类干预，AI自主完成软件开发](https://mp.weixin.qq.com/s/NaMa9n8xnjQos4rmSlu1jw) | 机器之心 2023-07-28
     - [DeepMind首提「统一智能体」！大模型做推理，赋能终身学习，AI王者加冕](https://mp.weixin.qq.com/s/WbGSo0Xys4Zy17yrkhZEvg) | 新智元 2023-07-29
-      - [语言模型做先验，统一强化学习智能体，DeepMind选择走这条通用AI之路](https://mp.weixin.qq.com/s/_UlyX_iP0d9fw8L1OPDGSQ) | 机器之心 2023-07-21 
+      - [语言模型做先验，统一强化学习智能体，DeepMind选择走这条通用AI之路](https://mp.weixin.qq.com/s/_UlyX_iP0d9fw8L1OPDGSQ) | 机器之心 2023-07-21
+    - [哥大开发出AI智能体研究员，投喂题目瞬间生成研究报告，客观真实无幻觉，已经开源人人能用](https://mp.weixin.qq.com/s/rFmILBOXrmiX4H6sUFVB3g) | 新智元 2023-08-04
+    - [What are language agents and why should we study them?](https://mp.weixin.qq.com/s/FTAGWxuW2VCuNHm7zy-76A) | 知识工场 2023-08-08
+    - [清华团队领衔打造，首个AI agent系统性基准测试问世](https://mp.weixin.qq.com/s/nyp8BaZqEKYm0jHHsHwIUQ) | 学术头条 2023-08-08
+    - [斯坦福的「虚拟小镇」开源了：25个AI智能体照进《西部世界》](https://mp.weixin.qq.com/s/nk_kvDcpRU5qJ30naQXVyw) | 机器之心 2023-08-10
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
@@ -169,6 +173,7 @@
 ### Math & Computer
   * Repository
     - [DL4MATH - Reading List](https://github.com/lupantech/dl4math): reading list for research topics in mathematical reasoning and artificial intelligence.
+    - [24个运筹学优化算法包汇总](https://mp.weixin.qq.com/s/J8-klJRA-Omof_9ca0c4wA) 
   * Tutorial
     - [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by Brendan W. Sullivan.
     - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) by Kenji Hiranabe: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
@@ -183,6 +188,7 @@
     - [机器学习 | 人人都能看懂的EM算法推导](https://mp.weixin.qq.com/s/dXu00jeGXmtzw9HGP7gA7A)
     - [人们怎么总跟质数过不去？](https://mp.weixin.qq.com/s/wn9jPz1wW3qjdr6Wv4x2vQ)
     - [GPT-3解数学题准确率升至92.5%！微软提出MathPrompter，无需微调即可打造「理科」语言模型](https://mp.weixin.qq.com/s/vhGUZlwsUqSN4zoA5mNEiw)
+    - [最优化问题中步长越大、收敛速度越快，梯度下降算法数十年的传统思路被打破](https://mp.weixin.qq.com/s/KEXZDZhMSO7p0GC5CCvQ0g)
   * Competition
     - [“希望杯”全国数学邀请赛](http://www.hopecup.com.cn/)
     - [数学新星网](http://www.nsmath.cn/sy)
