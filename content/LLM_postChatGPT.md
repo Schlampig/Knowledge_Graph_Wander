@@ -669,6 +669,8 @@
     - blog:
       - [国内首个医疗大语言模型问世！多模态打通诊疗全流程，别再叫我做题家](https://mp.weixin.qq.com/s/wDVT4Z29eggGjiyKvhHoVQ) | 新智元 2023-05-26
       - [医疗版ChatGPT直播评测！治疗方案与真人医生96%一致](https://mp.weixin.qq.com/s/wfPMNcDP-gQeEnBPgZY9Vw) | 量子位 2023-07-05
+    - extra:
+      - [千“垂”百炼：垂直领域与语言模型（5）【医疗/健康】MedicalGPT-zh](https://mp.weixin.qq.com/s/QJKZYKh16fqLTC367WhzdA) | 看个通俗理解吧 2023-08-06
   
   * MetaLLM([秘塔科技](https://metasota.ai/#/)): 
     - [秘塔写作猫](xiezuocat.com/chat)
