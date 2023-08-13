@@ -542,6 +542,7 @@
       - [【LLM系列之LLaMA】LLaMA:Open and Efficient Foundation Language Models](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w) | ChallengeHub 2023-05-16
       - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
       - [我想学大模型，应该从哪个模型开始？LLaMA生态家谱整理和分析](https://mp.weixin.qq.com/s/pNs45q6PoaWrbqM383FgpA) | 深度学习自然语言处理 2023-07-03
+      - [大模型开源之光LLaMA2发布了，再来读下LLaMA1原文吧](https://mp.weixin.qq.com/s/Yg326HjZ2LT1A3YY2u86xw) | 吃果冻不吐果冻皮 2023-07-22
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
