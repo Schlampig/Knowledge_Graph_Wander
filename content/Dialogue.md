@@ -471,6 +471,7 @@
         - [美商务部7月初要禁A800？AI芯片及云服务出口限制再加码](https://mp.weixin.qq.com/s/UF_Mx1zVLRQJbIp_sGbLag) | 新智元 2023-06-28
         - [微软英伟达领投，2万张H100打造全球最强超算！一跃成为OpenAI最强劲敌！](https://mp.weixin.qq.com/s/N2A7TJ5YUUS2uha9ogXvVw) | 机器学习算法与自然语言处理 2023-07-08
         - [老黄深夜炸场，AIGC进入iPhone时刻！Hugging Face接入最强超算，神秘显卡胜过A100](https://mp.weixin.qq.com/s/i1hGhkoN7xibLjfIILorqg) | 新智元 2023-08-09
+        - [老黄赢麻了！英伟达H100订单排到24年，马斯克都坐不住了](https://mp.weixin.qq.com/s/9oZmYi4pQBN08tK-D89acg) | 量子位 2023-08-12
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -893,6 +894,7 @@
           - [担心prompt泄露隐私？PUMA框架让LLaMA-7B完成安全推理](https://mp.weixin.qq.com/s/aqRH8D_uKt0TYhMGzjvLkg) | 机器之心 2023-07-30
           - [大模型水印系列文章汇总](https://mp.weixin.qq.com/s/FDQq2F2hZ3axI7-M6JZsMg) | NLP工作站 2023-08-04
           - [给大模型生成文本发身份证：针对大模型生成文本的可编码水印技术](https://mp.weixin.qq.com/s/belcYwdaJvTJqhN0FCohDQ) | PaperWeekly 2023-08-05
+          - [大模型如何可信？字节跳动李航等最新《可信赖的大型语言模型》综述，提出可信大模型七大维度，81页pdf](https://mp.weixin.qq.com/s/49aFKOd-BwXu4gLjvHiqGw) | 专知 2023-08-12
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -914,6 +916,7 @@
         - [ChatGPT 是 ENTJ，GPT4 竟是 INTJ？一项关于LLMs的MBTI测试](https://mp.weixin.qq.com/s/QpufrvDUSAUD1IAelAL2PQ) | 深度学习自然语言处理 2023-07-31
         - [用语言建模世界：UC伯克利多模态世界模型利用语言预测未来](https://mp.weixin.qq.com/s/7IwJ7YGq_3HayGh0BwmVNg) | 机器之心 2023-08-05
         - [中科院：大模型一被夸智商就爆表！ChatGPT情商98分秒杀人类，Hinton预言成真？](https://mp.weixin.qq.com/s/z-lg-yDibKoT_gO97HSK5Q) | 新智元 2023-08-07
+        - [UC伯克利教授惊人预测：2030年GPT可执行人类180万年工作，一天学2500年知识](https://mp.weixin.qq.com/s/bjfcswz6rcRhNEf4gDldmA) | 新智元 2023-08-13
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
