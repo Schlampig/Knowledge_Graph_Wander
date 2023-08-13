@@ -149,6 +149,7 @@
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
       - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
       - [ChatGLM.cpp ](https://github.com/li-plus/chatglm.cpp): C++ implementation of ChatGLM-6B.
+      - [人人都有“AI编程助手”！CodeGeeX2-6B开源，最低6GB显存](https://mp.weixin.qq.com/s/UF8SU1eEraHdqO6xbgVkkA) | 学术头条 2023-07-25
 
   * ChatGLM2(智谱AI):
     - code: https://github.com/THUDM/ChatGLM2-6B
@@ -325,6 +326,7 @@
       - [文心一言「起舞」，触发云战场「变天」](https://mp.weixin.qq.com/s/k_UZpLJiNCJckmILDKHbnQ) | 雷峰网 2023-03-17
       - [百度文心一言在国产模型中倒数？我看懵了](https://mp.weixin.qq.com/s/mKXw1A06Wyjznekhfuz4Hg) | 夕小瑶科技说 2023-05-12
       - [文心大模型升级3.5版本，有多强？我们帮你试了试](https://mp.weixin.qq.com/s/4SZgvv_I3iwb0IMDsSWO0A) | 机器之心 2023-07-06
+      - [大模型华山论剑！百度文心大模型3.5拿下7个满分，3个绝对第一！](https://mp.weixin.qq.com/s/b-mkrY37EcbEG_f5SJkSUQ) | 我爱计算机视觉 2023-07-24
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
   
@@ -564,6 +566,7 @@
       - [LLaMA 2技术细节详细介绍！](https://mp.weixin.qq.com/s/zGQpxp865xuOIKD6e6dBVQ) | ChallengeHub 2023-07-19
       - [也谈凌晨刷屏的Llama2开源可商用模型：从其数据构造、模型架构和评估方式等方面的一些总结与发现](https://mp.weixin.qq.com/s/qTJp_hBDiIvJ-ymxLr-Pmg) | 老刘说NLP 2023-07-19
       - [强推！伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A) | 夕小瑶科技说 2023-07-22
+      - [人人玩转Llama 2！Meta正式官宣免费用，微调羊驼指南大全集](https://mp.weixin.qq.com/s/eKAjuVSi00p33plIb0hsag) | 新智元 2023-07-25
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
       - llama2.c:
@@ -886,6 +889,11 @@
       - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
       - [阿里版ChatGPT「通义千问」邀请测试，我们第一时间试了试](https://mp.weixin.qq.com/s/95qLhDVwNUnyJuF21jzHPw) | 机器之心 2023-04-07 
       - [阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q) | 夕小瑶的卖萌屋 2023-04-09
+
+  * TransGPT·致远(北交大):
+    - code: https://github.com/DUOMO/TransGPT
+    - blog:
+      - [北交大开源交通大模型TransGPT·致远，可免费商用](https://mp.weixin.qq.com/s/WvzyjHqI0lOGIyPlCIFNQg) | 机器之心 2023-07-25
 
 </br>
 
