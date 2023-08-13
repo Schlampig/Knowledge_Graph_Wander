@@ -12,6 +12,10 @@
     - [大模型(LLM)后的热点,AI"智能体(Agent)"，OpenAI的新方向。](https://mp.weixin.qq.com/s/JINf2gRGMq6T3KRTDJX1lA) | 深度强化学习实验室 2023-07-13
     - [56个AI Agents一览图](https://mp.weixin.qq.com/s/ad9WSJMfZG950lPEGyTHYw) | AI 共存派 2023-07-16
     - [清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://mp.weixin.qq.com/s/GKHD6M74rqC42u2w8EFjJw) | 量子位 2023-07-19
+    - [ChatGPT的下一个杀手级应用场景：Autonomous Agents](https://mp.weixin.qq.com/s/gj9swCxbkYaXzhiLQGuh2g) | 熵简科技Value Simplex 2023-07-25
+    - [北大用ChatGPT打造开发团队，无需人类干预，AI自主完成软件开发](https://mp.weixin.qq.com/s/NaMa9n8xnjQos4rmSlu1jw) | 机器之心 2023-07-28
+    - [DeepMind首提「统一智能体」！大模型做推理，赋能终身学习，AI王者加冕](https://mp.weixin.qq.com/s/WbGSo0Xys4Zy17yrkhZEvg) | 新智元 2023-07-29
+      - [语言模型做先验，统一强化学习智能体，DeepMind选择走这条通用AI之路](https://mp.weixin.qq.com/s/_UlyX_iP0d9fw8L1OPDGSQ) | 机器之心 2023-07-21 
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
