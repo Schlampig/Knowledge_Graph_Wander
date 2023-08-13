@@ -565,7 +565,11 @@
       - [也谈凌晨刷屏的Llama2开源可商用模型：从其数据构造、模型架构和评估方式等方面的一些总结与发现](https://mp.weixin.qq.com/s/qTJp_hBDiIvJ-ymxLr-Pmg) | 老刘说NLP 2023-07-19
       - [强推！伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A) | 夕小瑶科技说 2023-07-22
     - extra:
-      - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22 
+      - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
+      - llama2.c:
+        - code: https://github.com/karpathy/llama2.c
+        - [OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ) | 机器之心 2023-07-24
+        - [OpenAI科学家Karpathy周末造出「婴儿Llama2」！GPT-4辅助写500行纯C代码，速揽1.6k星](https://mp.weixin.qq.com/s/lmB74YRP7dTHe_GfaIpOMg) | 新智元 2023-07-24
 
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
