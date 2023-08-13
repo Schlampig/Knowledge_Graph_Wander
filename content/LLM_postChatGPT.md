@@ -376,6 +376,10 @@
 </br>
 
 ### G
+  * G3PO(OpenAI):
+    - blog:
+      - [对标Llama 2，OpenAI开源模型G3PO已在路上](https://mp.weixin.qq.com/s/hXsKm1M_2utRmj_y9MOBzw) | 机器之心 2023-07-27
+
   * Gemini(谷歌):
     - blog:
       - [谷歌创始人正式回归，加入LLM大战！指导Gemini研发，与OpenAI、Meta混战一触即发](https://mp.weixin.qq.com/s/rEVoqGpEHG-1WB7t3OVmmw) | 新智元 2023-07-22
@@ -664,6 +668,12 @@
   * MetaMate(Meta):
     - blog:
       - [知道员工所有秘密，Meta版AI聊天机器人来了：使用公司内部数据训练，能写代码、调试，还能总结会议](https://mp.weixin.qq.com/s/QU1LtriTqK6bVS3Vap-WZQ) | AI前线 2023-06-13
+
+  * Meta-Transformer(Meta):
+    - code: https://github.com/invictus717/MetaTransformer
+    - homepage: https://mp.weixin.qq.com/s/VQsOhQhfhWG4SoFnuzU0SQ
+    - blog:
+      - [12种模态，一个学习框架，Meta-Transformer实现骨干网络大一统](https://mp.weixin.qq.com/s/VQsOhQhfhWG4SoFnuzU0SQ) | PaperWeekly 2023-07-26
   
   * MiniGPT(KAUST):
     - code: https://github.com/Vision-CAIR/MiniGPT-4
@@ -894,6 +904,12 @@
     - code: https://github.com/DUOMO/TransGPT
     - blog:
       - [北交大开源交通大模型TransGPT·致远，可免费商用](https://mp.weixin.qq.com/s/WvzyjHqI0lOGIyPlCIFNQg) | 机器之心 2023-07-25
+
+  * TransNormerLLM(上海人工智能研究院&OpenNLPLab):
+    - code: https://github.com/OpenNLPLab/TransnormerLLM
+    - [paper](https://arxiv.org/abs/2307.14995): Scaling TransNormer to 175 Billion Parameters
+    - blog:
+      - [放弃Softmax，首个线性注意力Transformer大模型：1750亿参数，速度、精度更优](https://mp.weixin.qq.com/s/QUxEQtKiYmPePoFLcSrrRw) | 机器之心 2023-07-28
 
 </br>
 
