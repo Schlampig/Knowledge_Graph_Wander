@@ -169,6 +169,7 @@
   * [AFFiNE](https://github.com/toeverything/AFFiNE): there can be more than [Notion](https://www.notion.so/zh-cn) and [Miro](https://miro.com/signup/). Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, see [homepage](https://affine.pro/).
   * [Twinejs](https://github.com/klembot/twinejs): a tool for telling interactive, nonlinear stories.
   * [书格](https://www.shuge.org/): 一个自由开放的在线古籍图书馆。致力于开放式分享、介绍、推荐有价值的古籍善本，并鼓励将文化艺术作品数字化归档。发布的书籍主要以高清彩色影像版本 PDF 格式，大部分书籍书籍单页宽度在 1400 像素以上，跨页宽度在 2400 像素以上。书籍刊行年代有从宋元珍本，明清善本到近代刊本。
+  * [CSFDB 中文科幻数据库](https://csfdb.cn/)
 </br>
 
 ### Math & Computer
