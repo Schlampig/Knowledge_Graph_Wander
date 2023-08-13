@@ -227,6 +227,7 @@
         - [也看ACL2023外挂知识库大模型开放报告及大模型使用输入长文本的有趣发现：关注头尾位置而忽视中间位置的选择偏置研究](https://mp.weixin.qq.com/s/9Bi0mUuJDWweGq4WwFhsOw) | 老刘说NLP 2023-07-11
         - [RoPE可能是LLM时代的Resnet](https://mp.weixin.qq.com/s/BVm1XC7r1yzOiWIrEbWg3A) | 深度学习自然语言处理 2023-07-13
         - [一文看懂 LLaMA 中的旋转式位置编码（Rotary Position Embedding）](https://mp.weixin.qq.com/s/0_l5NTRJzlXaYN5cLTI0jQ) | AINLP 2023-07-14
+        - [Transformer升级之路：RoPE是一种β进制编码](https://mp.weixin.qq.com/s/hhHIPNwi-SoPnplP7kJWcw) | PaperWeekly 2023-07-22
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -313,6 +314,8 @@
         - [大模型训练太难了！](https://mp.weixin.qq.com/s/NCJIiWhxqCFSH7ovRngDCQ) | 吃果冻不吐果冻皮 2023-07-08
         - [ACL 2023 | 持续进化中的语言基础模型](https://mp.weixin.qq.com/s/eeFL6wk_HMYEB9sHTxrROg) | 微软亚洲研究院 2023-07-12
         - [ACL2023: 基于提示学习的大型语言模型推理综述](https://mp.weixin.qq.com/s/tZIry492JflU8axlgSdFMg) | 开放知识图谱 2023-07-14
+        - [大模型训练的一些坑点和判断](https://mp.weixin.qq.com/s/lI5Y4a7ux8nvu3trmCMsGw) | 吃果冻不吐果冻皮 2023-07-23
+        - [教会大模型“小黄鸭调试法”？谷歌联合UC伯克利提出大模型代码调试框架Self-Debug](https://mp.weixin.qq.com/s/I7gvK-sH5N3b-JZvbglsLQ) | 将门创投 2023-07-24
       - RLHF & RLAIF & Alignment:
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
@@ -344,6 +347,7 @@
         - [辅助生成: 低延迟文本生成的新方向](https://mp.weixin.qq.com/s/HSSgrJX-gNDs9VFLMKvVYQ) | Hugging Face 2023-05-25
         - [在Transformers 中使用约束波束搜索引导文本生成](https://mp.weixin.qq.com/s/7sXKMWQ3AYVMm79yTt69gA) | Hugging Face 2023-06-07
         - [实用文本生成中的解码方法](https://mp.weixin.qq.com/s/Q70bOumXFvfnYJ_yGUJcnA) | CS的陋室 2023-07-09
+        - [你训练的大模型生成真的变短了吗](https://mp.weixin.qq.com/s/7uIaXJiN8uNdCdYnorPd9w) | ChallengeHub 2023-07-22
       - Emergent Ability (e.g., CoT):
         - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
         - [GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质](https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w) | 夕小瑶科技说 2023-04-26 
@@ -377,6 +381,7 @@
         - [技术动态 | LangChain已经添加了Cypher Search](https://mp.weixin.qq.com/s/F7tFdPLocJIwkK_84RrTkw) | 开放知识图谱 2023-07-01
         - [陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满](https://mp.weixin.qq.com/s/i8gzx-rnB7-kR2M3QeZYhA) | 量子位 2023-07-10
         - [mini-langchain-chatglm：五分钟实现基于知识的问答](https://mp.weixin.qq.com/s/0wmQ4NKSGAnuQ39yExdwlw) | AINLP 2023-07-14
+        - [我为什么放弃了 LangChain？](https://mp.weixin.qq.com/s/Iwe6M391b2BBWae-HmOIJQ) | 机器之心 2023-07-23
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -518,6 +523,7 @@
           - [多场景落地！**商汤**打造“医疗大模型工厂”引领智慧医疗持续创新](https://mp.weixin.qq.com/s/zx2gLB-DxDo5qseEacpMlg) | 商汤科技SenseTime 2023-07-11
           - [AI大模型“国家队”定了](https://mp.weixin.qq.com/s/hBaCyr52_4s-N0-DhEpo-w) | 人工智能学家 2023-07-12
           - [国内首个网文大模型来了！「**阅文**妙笔」：我最懂网文](https://mp.weixin.qq.com/s/XY1WOHfEs9bSk72nJ-ydmw) | 量子位 2023-07-20
+          - [**思必驰**行业大模型DFM-2：乘上「东风」，打理万物](https://mp.weixin.qq.com/s/7v19Ezfi_PAqUlRo9MxTaQ) | 机器之心 2023-07-24
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -962,6 +968,7 @@
           - [GPT-4论文竟有隐藏线索：GPT-5或完成训练、OpenAI两年内接近AGI](https://mp.weixin.qq.com/s/sZATa-GGHUOlhZuCgaghhg) | 量子位 2023-03-17
           - [GPT4 对计算机视觉行业有何影响](https://mp.weixin.qq.com/s/nvnPe5B7NpaulED1e16Euw) | AINLP 2023-04-05
           - [WAIC 2023 | 张俊林：大语言模型带来的交互方式变革](https://mp.weixin.qq.com/s/YDB0J-O9JHuDYHBYH-9-Ww) | 机器之心 2023-07-15
+          - [视觉大模型的两条出路](https://mp.weixin.qq.com/s/ED2AmpPja3vbxSVEcPRlkw) | 李rumor 2023-07-23
         - [做完GPT-4完整测评，微软爆火论文称初版AGI就快来了](https://mp.weixin.qq.com/s/Al9Vojr3Or6s14gbiEq7sA) | 机器之心 2023-03-24
           - [GPT-4满分第一名通过大厂模拟面试！微软154页研究刷屏：与AGI的第一次接触](https://mp.weixin.qq.com/s/T_ynpytmWQHRSANUNLxj6w) | 量子位 2023-03-25
           - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712v1) | arXiv [v1] Wed, 22 Mar 2023 16:51:28 UTC, [中文解读：《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893) | [橘子汽水铺](https://orangeblog.notion.site/orangeblog/8db8382267f747f08ed799a8d99c73b6), [点燃通用人工智能的火花： GPT-4的早期实验（微软最新报告）](https://mp.weixin.qq.com/s/2tSWrb-a62LMvXwmGUSgew) | AINLP 2023-03-28
@@ -1013,3 +1020,4 @@
   * [NLP对话系统及实战项目分享【含源码】](https://mp.weixin.qq.com/s/4qbYPUL7yrFd9UXzvOglCg) | 老刘说NLP 2023-07-14
   * [大语言模型综述全新出炉：51页论文带你盘点LLM领域专业化技术](https://mp.weixin.qq.com/s/0DrowrTIgXsBhj3sYu6Aog) | 机器之心 2023-07-16
   * [On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models](https://arxiv.org/abs/2307.09793)
+  * [LLM 全景图 （The Landscape of LLM）](https://mp.weixin.qq.com/s/fC87xJ_BUgPr538R-5G4WQ) | 机器学习算法与自然语言处理 2023-07-23
