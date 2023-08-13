@@ -365,11 +365,19 @@
     - code: https://github.com/Dao-AILab/flash-attention
     - [paper](https://tridao.me/publications/flash2/flash2.pdf): FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning.
     - blog:
-      - [比标准Attention提速5-9倍，大模型都在用的FlashAttention v2来了](https://mp.weixin.qq.com/s/2xi-cdj5COv1gzfBGCyUMQ) | 机器之心 2023-07-18 
+      - [比标准Attention提速5-9倍，大模型都在用的FlashAttention v2来了](https://mp.weixin.qq.com/s/2xi-cdj5COv1gzfBGCyUMQ) | 机器之心 2023-07-18
+
+  * FreeWilly(Stability AI & CarperAI lab):
+    - blog:
+      - [击败Llama 2，抗衡GPT-3.5，Stability AI新模型登顶开源大模型排行榜](https://mp.weixin.qq.com/s/kAPl101G_-eFAmC_HdTmgQ) | 机器之心 2023-07-22
 
 </br>
 
 ### G
+  * Gemini(谷歌):
+    - blog:
+      - [谷歌创始人正式回归，加入LLM大战！指导Gemini研发，与OpenAI、Meta混战一触即发](https://mp.weixin.qq.com/s/rEVoqGpEHG-1WB7t3OVmmw) | 新智元 2023-07-22
+  
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能实验室):
     - code: https://github.com/OpenGVLab/GITM
     - [paper](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf): Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory.
@@ -555,6 +563,9 @@
       - [更强的Llama 2开源，可直接商用：一夜之间，大模型格局变了](https://mp.weixin.qq.com/s/klFWFXCbjGaWZ7HO1KFZag) | 机器之心 2023-07-19
       - [LLaMA 2技术细节详细介绍！](https://mp.weixin.qq.com/s/zGQpxp865xuOIKD6e6dBVQ) | ChallengeHub 2023-07-19
       - [也谈凌晨刷屏的Llama2开源可商用模型：从其数据构造、模型架构和评估方式等方面的一些总结与发现](https://mp.weixin.qq.com/s/qTJp_hBDiIvJ-ymxLr-Pmg) | 老刘说NLP 2023-07-19
+      - [强推！伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A) | 夕小瑶科技说 2023-07-22
+    - extra:
+      - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22 
 
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
