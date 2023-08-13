@@ -706,6 +706,10 @@
       - [MOSS国产大模型问答原理与插件式SFT数据概述：一个类HuggingGPT思想的精彩工作简单总结](https://mp.weixin.qq.com/s/9cD2-4gIMIz9j6d3xapQhg) | 老刘说NLP 2023-04-26
       - [文心一言和MOSS相比，竟然在这些方面完败！](https://mp.weixin.qq.com/s/tbb-__9UiHYm3HJjjuvGjQ) | 深度学习自然语言处理 2023-04-29
 
+  * 墨子Mozi(GMFTBY·he/him):
+      - code: https://github.com/gmftbyGMFTBY/science-llm
+      - note: 科技论文大模型，用于问答和情感支持等任务，通过大规模语言模型和证据检索模型SciDPR提供帮助。
+
   * mPLUG-DocOwl(达摩院):
     - code: https://github.com/X-PLUG/mPLUG-DocOwl
     - [paper](https://arxiv.org/abs/2307.02499): mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
