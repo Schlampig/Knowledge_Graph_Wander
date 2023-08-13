@@ -161,6 +161,7 @@
       - [也看支持32K上下文的ChatGLM2-6B模型：优化点简读及现有开源模型主流训练优化点概述](https://mp.weixin.qq.com/s/Y9jnHBkWRTMXQPMCCIMfTw) | 老刘说NLP 2023-06-25
       - [ChatGLM2-6B，免费商用了！](https://mp.weixin.qq.com/s/Bo9svsFx0hoEYxPU8LCwJg) | 夕小瑶科技说 2023-07-15
       - [单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/a7ua-8onn-o-549PS4AAkw) | 深度学习自然语言处理 2023-07-18
+      - [源码解析ChatGLM2多轮对话训练方法的不足，以及改进方法](https://mp.weixin.qq.com/s/r-JOLsoIAgZynGIeryU1-Q) | 吃果冻不吐果冻皮 2023-08-13
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -412,6 +413,7 @@
    - blog:
      - [首个大规模使用工具的大模型来了：伯克利发布Gorilla](https://mp.weixin.qq.com/s/p9tx3q3Lpr4fNqdyxWhzyA) | 机器之心 2023-05-26
      - [也读大猩猩Gorilla—面向API调用场景的微调语言模型：从训练数据、训练方法到模型效果评估](https://mp.weixin.qq.com/s/HOW8xURiThngfyuQq9RXaw) | 老刘说NLP 2023-05-28
+     - [超越 GPT-4！加州大学伯克利分校与微软研究院合作开源大型语言模型 Gorilla](https://mp.weixin.qq.com/s/heQeCBVe1UV0hqHF6j3GxA) | 人工智能学家 2023-08-12
 
 * GPT-Engineer(Depict.AI):
   - code: https://github.com/AntonOsika/gpt-engineer
@@ -952,6 +954,7 @@
       - [300美元平替ChatGPT！斯坦福130亿参数「小羊驼」诞生，暴杀「草泥马」](https://mp.weixin.qq.com/s/mErCYhbAXlhSFVUuyMc9hw) | 新智元 2023-03-31
       - [警惕不负责任的误导宣传-LLaMA微调7W数据的Vicuna达90%+ChatGPT：评测方式概述和开源微调数据介绍](https://mp.weixin.qq.com/s/whLY8wc6WMaHkx4VJ7aewg) | 老刘说NLP 2023-04-07 
       - [大模型也内卷，Vicuna训练及推理指南，效果碾压斯坦福羊驼](https://mp.weixin.qq.com/s/tjXYrHCYhQQeRPEGBiSQWw) | AINLP 2023-05-12
+      - [GPT-4最强平替更新！UC伯克利发布Vicuna v1.5，支持4K和16K上下文，刷新SOTA，LeCun转赞](https://mp.weixin.qq.com/s/OWPQtFaww1vAqLoQuTxI6Q) | 新智元 2023-08-12
   
   * Video-LLaMA(阿里达摩院):
     - code: https://github.com/DAMO-NLP-SG/Video-LLaMA
