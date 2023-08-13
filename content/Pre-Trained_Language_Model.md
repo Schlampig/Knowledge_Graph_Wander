@@ -51,7 +51,8 @@
     - [Transformers-Recipe](https://github.com/dair-ai/Transformers-Recipe)
   * attention:
     - [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch): pytorch implementation of various attention mechanisms, mlp, re-parameter, convolution, which is helpful to further understand papers.
-  * survey: 
+  * survey:
+    - [2023年：Transformer速查宝典：模型、架构、训练方法的论文都在这里了](https://mp.weixin.qq.com/s/uBv8t2hd0WS4aAqUuAyBhw)
     - [2023年：图与代码不一致，Transformer论文被发现错误，网友：早该被指出1000次](https://mp.weixin.qq.com/s/2nU29p2VxBrTXV_zKWe6zw)
     - [2023年：Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730): [ChatGPT背后的大模型最新有哪些？最新最全《Transformer预训练模型分类》论文，36页pdf详述大模型技术目录](https://mp.weixin.qq.com/s/ISOcGNaGKTw7pefvWi74lg)
     - [2022年：Shortcut Learning of Large Language Models in Natural Language Understanding: A Survey](https://www.arxiv-vanity.com/papers/2208.11857/)
