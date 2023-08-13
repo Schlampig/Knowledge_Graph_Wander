@@ -30,6 +30,7 @@
   * [DomainWordsDict](https://github.com/liuhuanyong/DomainWordsDict) by [liuhuanyong](https://github.com/liuhuanyong): 涵盖68个领域、共计916万词的专业词典知识库.
   * [万词王(WantWords)](https://github.com/thunlp/WantWords) by [THUNLP] with [website](https://wantwords.thunlp.org/).
     - [据意查句(WantQuotes)](https://wantquotes.net/): 根据输入的描述，找到相应的名言名句。
+    - [深言达意](https://shenyandayi.com/): 可以用自然语言来搜索词汇和句子，可以实现高效准确找到与输入意思相关的好词好句；支持筛选词语、成语、惯用语和古汉语等多类别；覆盖名言、古诗文、小说散文等多场景；支持中英文输入和双语搜索结果。
   * [回声(echo)](http://echo-ai.top/): [只会用绝绝子？“回声”AI期待为你发声](https://mp.weixin.qq.com/s/JragXalD5u5IO3Qq2mJJyQ), by [FudanNLP](https://github.com/FudanNLP).
   * [AutoDict](https://github.com/blcuicall/AutoDict) by [BLCU-ICALL](https://github.com/blcuicall) in [paper](https://arxiv.org/abs/1905.06512): Chinese Definition Modeling.
   * [Linggle 英文单词用例查询](https://linggle.com/)
