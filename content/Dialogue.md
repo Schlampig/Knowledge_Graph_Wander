@@ -44,6 +44,7 @@
         - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms): 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具.
         - [LLMParser](https://github.com/kyang6/llmparser): classify and extract structured data with LLMs.
         - [新项目又火了，已开源！gpt4免费了...:PandasAI, gpt4free](https://mp.weixin.qq.com/s/7Q8m-t6OBlKwSz6LZo-JEA) | 程序员小灰 2023-05-06
+        - [cometLLM](https://github.com/comet-ml/comet-llm): 一个Python库，可轻松跟踪和可视化LLM的提示和输出。用户可以识别有效的策略，高效解决问题，并确保可重复的工作流程。通过cometLLM，可以简化流程，充分释放LLM的潜力。
       - Survey & Turtorial:
         - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
         - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
