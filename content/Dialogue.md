@@ -138,6 +138,7 @@
         - [基础大模型能像人类一样标注数据吗？](https://mp.weixin.qq.com/s/X8eQiDUx5ShhArcOaFTJkA) | Hugging Face 2023-07-06
         - [7月末关于大模型微调数据工程与评估的技术综述：从数据构造方案到模型评估范式的论文梳理指引](https://mp.weixin.qq.com/s/QlJSJZp02Qz15TAtVyVsEQ) | 老刘说NLP 2023-07-31
         - [中文版 Llama2 模型及中英文 SFT 数据集](https://huggingface.co/LinkSoul/Chinese-Llama-2-7b)
+        - [大模型SFT微调指令数据的生成](https://mp.weixin.qq.com/s/-XVABYylU6nOaJZDe5uqsQ) | 吃果冻不吐果冻皮 2023-08-18
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
