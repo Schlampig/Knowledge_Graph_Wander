@@ -36,6 +36,7 @@
   * [综述 | 《面向推荐的大型语言模型》](https://mp.weixin.qq.com/s/TOe_b5r9zYTlqrJFWO-3OA)
   * [When RS Meets LLM：推荐系统如何从大语言模型中取长补短？面向应用视角的全面综述](https://mp.weixin.qq.com/s/SssrkpZ7OSggTHCcTkiyzQ)
   * [大模型实现生成式推荐系统](https://mp.weixin.qq.com/s/5q9I4kP086dbGFNleVY3MQ)
+  * [写了个向量检索的baseline](https://mp.weixin.qq.com/s/ev73NPB_9OxR7vcN0lM1ug)
 
 ### Searching / Recommending Matching Methods
   * Model Collections
