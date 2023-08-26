@@ -36,6 +36,7 @@
   * [AutoDict](https://github.com/blcuicall/AutoDict) by [BLCU-ICALL](https://github.com/blcuicall) in [paper](https://arxiv.org/abs/1905.06512): Chinese Definition Modeling.
   * [Linggle 英文单词用例查询](https://linggle.com/)
   * [PhraseBank 英文学术用语检索](https://www.phrasebank.manchester.ac.uk/)
+  * [WeNet 2.0](https://github.com/wenet-e2e/wenet): [WeNet 热词增强 2.0 强势来袭](https://mp.weixin.qq.com/s/GDkLeYgACYiTUlAJH84erQ).
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
