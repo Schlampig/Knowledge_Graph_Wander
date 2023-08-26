@@ -1125,4 +1125,5 @@
   * [LLM 全景图 （The Landscape of LLM）](https://mp.weixin.qq.com/s/fC87xJ_BUgPr538R-5G4WQ) | 机器学习算法与自然语言处理 2023-07-23
   * [强推！大语言模型『百宝书』，一文缕清所有大模型！](https://mp.weixin.qq.com/s/7K5cMlLekUUtKwEtCHwGtg) | 夕小瑶科技说 2023-07-31
   * [有人把NLP领域分类、发展趋势可视化了！德国慕尼黑工业大学构建NLP 360度全景图](https://mp.weixin.qq.com/s/TBGGXK91PNicjT3aPhVJsA) | 夕小瑶科技说 2023-08-07
+  * [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
 
