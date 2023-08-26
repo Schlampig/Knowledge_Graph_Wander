@@ -20,6 +20,7 @@
   * Common-Sense MRC/QA（常识型任务）
     - QASC:[task](https://leaderboard.allenai.org/qasc)|[再下一城！HFL打破人类水平荣登常识推理挑战赛QASC榜首](https://mp.weixin.qq.com/s/b07jQvbaNll9aX5dNNr02A)
     - OpenBookQA:[task](https://leaderboard.allenai.org/open_book_qa/submissions/get-started)|[单模型常识推理首超人类！HFL登顶OpenBookQA挑战赛](https://mp.weixin.qq.com/s/SevBpL3ohjPwguCpu3RKTQ)
+    - [常识问答研究综述](https://mp.weixin.qq.com/s/7o7Q7aLaZjqXE2MMlO71Zw) | 专知 2023-08-19
   * Dialogue MRC/QA（对话型任务）
     - [面向对话的机器阅读理解任务（Dialogue MRC）相关论文整理](https://mp.weixin.qq.com/s/R2e1-Bn1FF5pt25qhsh0jA)
   * Explainability in MRC/QA
