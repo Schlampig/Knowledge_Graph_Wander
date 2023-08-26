@@ -292,6 +292,10 @@
   * DoctorGLM(xionghonglin):
     - code: https://github.com/xionghonglin/DoctorGLM
     - project page: https://xionghonglin.github.io/DoctorGLM/
+
+  * DoctorGPT(Siraj Raval):
+    - code: https://github.com/llSourcell/DoctorGPT
+    - note: 该项目旨在为每个人提供专属私人医生。DoctorGPT是Meta Llama2 70亿参数大型语言模型的一个版本，经过医学对话数据集的微调，然后使用强化学习和宪法人工智能进一步改进。由于该模型只有3千兆字节的大小，因而适合任何本地设备，无需支付API来使用。该模型是免费的，为离线使用而设计，以保护患者的机密性，且其可在iOS、Android和Web上使用。
   
   * Dolly
     - blog:
@@ -918,6 +922,7 @@
         - code: https://github.com/InternLM/InternLM-techreport
         - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09
         - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
+        - [书生·万卷多模态语料库](https://github.com/opendatalab/WanJuan1.0): 万卷多模态语料库的首个开源版本，包含文本数据集、图文数据集、视频数据集三部分，数据总量超过2TB.
 
   * Shepherd(Meta):
     - code: https://github.com/facebookresearch/Shepherd
@@ -1147,4 +1152,13 @@
 </br>
 
 ### Z
+  * 仲景CMLM-ZhongJing(pariskang):
+    - code: https://github.com/pariskang/CMLM-ZhongJing
+    - note: 首个中医大语言模型——“仲景”。受古代中医学巨匠张仲景深邃智慧启迪，专为传统中医领域打造的预训练大语言模型。
+
+  * 仲景Zhongjing(Songhua Yang):
+    - code: https://github.com/SupritYoung/Zhongjing
+    - note: 首个实现从预训练到 RLHF 全流程训练的中文医疗大模型，展现出了很好的泛化能力，在某些对话场景中甚至接近专业医生的专业水平。
+
+  
   
