@@ -582,6 +582,7 @@
       - [也谈凌晨刷屏的Llama2开源可商用模型：从其数据构造、模型架构和评估方式等方面的一些总结与发现](https://mp.weixin.qq.com/s/qTJp_hBDiIvJ-ymxLr-Pmg) | 老刘说NLP 2023-07-19
       - [强推！伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A) | 夕小瑶科技说 2023-07-22
       - [人人玩转Llama 2！Meta正式官宣免费用，微调羊驼指南大全集](https://mp.weixin.qq.com/s/eKAjuVSi00p33plIb0hsag) | 新智元 2023-07-25
+      - [浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/29rlI3PxTcNqcjFE3KfGvQ) | AINLP 2023-08-13
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
@@ -932,6 +933,7 @@
     - blog:
       - [刘知远等众多机构提出ToolLLM：促进大型语言模型掌握16000+真实世界的APIs](https://mp.weixin.qq.com/s/6lBuiUfjymf-vzY13dK8yQ) | 深度学习自然语言处理 2023-08-01
       - [我组联合面壁智能给大模型接入16000+真实API，效果直逼ChatGPT！](https://mp.weixin.qq.com/s/PMQMGnpvuyzGM_OgPTRqhw) | TsinghuaNLP 2023-08-08
+      - [ToolLLM=LLM+tool use--大模型的高级玩法](https://mp.weixin.qq.com/s/c_kqqufmZV4pMWzHqvr8Zg) | AINLP 2023-08-13
 
   * TransGPT·致远(北交大):
     - code: https://github.com/DUOMO/TransGPT
