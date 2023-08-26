@@ -248,6 +248,7 @@
         - [浅谈LLM的长度外推](https://mp.weixin.qq.com/s/2l6-yPM5I6k6arJ6_1Sz8A) | NLP工作站 2023-07-26
         - [LLaMA长度外推高性价比trick：线性插值法及相关改进源码阅读及相关记录](https://mp.weixin.qq.com/s/p_Jho-mnz6IeALnD0bmogQ) | AINLP 2023-08-05
         - [Transformer升级之路：无限外推的ReRoPE？](https://mp.weixin.qq.com/s/Jzqc1bIyRE56haY4WuRCEA) | PaperWeekly 2023-08-13
+        - [大语言模型时代的长文本处理讨论(4000字)](https://mp.weixin.qq.com/s/TZ9VXS7QuxRMc5rAikz-TQ) | AINLP 2023-08-13
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -297,6 +298,8 @@
         - [从新的角度看待大模型微调](https://mp.weixin.qq.com/s/Kw6RgVp4vuZob5nrxk2ybg) | 我爱计算机视觉 2023-07-18
         - [社区供稿 | PEFT | LoRA实现及核心源码解读](https://mp.weixin.qq.com/s/_KsPcbmZMsqQUix7CmBR8A) | Hugging Face 2023-07-26
         - [深入浅出剖析 LoRA 技术原理](https://mp.weixin.qq.com/s/jk1qBRjiq80nK0e04LQqiw) | 吃果冻不吐果冻皮 2023-07-29
+        - [大模型参数高效微调技术实战（五）-LoRA](https://mp.weixin.qq.com/s/uibNDEzaiulMbe7Cu1LgyA) | 吃果冻不吐果冻皮 2023-08-14
+        - [大模型参数高效微调技术原理综述（五）-LoRA、AdaLoRA、QLoRA](https://mp.weixin.qq.com/s/MBpLrt4mdb_O5wsjKldk0g) | 吃果冻不吐果冻皮 2023-08-14
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
@@ -710,6 +713,7 @@
           - [AI重写排序算法，速度快70%：DeepMind AlphaDev革新计算基础，每天调用万亿次的库更新了](https://mp.weixin.qq.com/s/ygNWU5T9GUOfcTHOXjXrtA) | 机器之心 2023-06-08
             - [GPT-4把DeepMind整尴尬了：你登上Nature的排序优化算法，我两段话就找出来了](https://mp.weixin.qq.com/s/I3-22VHty96wMWNNcfQd-Q) | 量子位 2023-06-09
           - [能胜任统计学家？Transformers超强学习机制「自动算法选择」](https://mp.weixin.qq.com/s/cl9ozdQamO5yqQBDRf2AUA) | 机器之心 2023-07-18
+        - [Yoshua Bengio领衔跨学科团队，Nature刊文综述人工智能时代的科学发现](https://mp.weixin.qq.com/s/_daNLMGhGp3KIsXilbvXHA) | 知识工场 2023-08-14
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
           - [ChatGPT「赏金猎人」招募！OpenAI悬赏2万美元，给ChatGPT找Bug](https://mp.weixin.qq.com/s/WJz0imEcMixEF1Dta6NEyA) | 大数据文摘 2023-04-12 
           - [大模型工具学习系统性综述+开源工具平台，清华、人大、北邮、UIUC、NYU、CMU等40多位研究者联合发布](https://mp.weixin.qq.com/s/arEEAm05i_9Lij4HnxJbEw) | PaperWeekly 2023-04-24
