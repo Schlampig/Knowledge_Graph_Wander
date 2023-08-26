@@ -475,6 +475,7 @@
         - [「5年内，人类程序员没了」，Stability AI老板大胆预测，一众大佬狂怼：大错特错，都懒得解释](https://mp.weixin.qq.com/s/angb-iUQNwKfwQFroEGDmA) | 量子位 2023-07-09
         - [ChatGPT时代程序员生存指南，这四步很关键｜IEEE Spectrum](https://mp.weixin.qq.com/s/glsWAV68p6tIDfwkdnPBdQ) | 量子位 2023-07-15
         - [开源LLM微调训练指南：如何打造属于自己的LLM模型](https://mp.weixin.qq.com/s/R-6ds1bFmOqPANIgVCs2Gg) | 技术狂潮AI 2023-07-05
+        - [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html) | Chip Huyen 2023-08-16
         - [选择你的道路：LLM 时代指南](https://mp.weixin.qq.com/s/9VojWP_a2nAH6zAWxnxPPg) | 李rumor 2023-08-23
       - 工程化 & 硬件(芯片)：
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
