@@ -225,6 +225,7 @@
     - [2023年7月10日：李飞飞「具身智能」新成果！机器人接入大模型直接听懂人话，0预训练就能完成复杂指令](https://mp.weixin.qq.com/s/XleXS_5shzZNiOSxUFZfgQ)
     - [2023年7月15日：大模型让智能体学会与人类合作，具身智能新成果来了](https://mp.weixin.qq.com/s/GQakrTo5CWA-umL7FXoOkg)
     - [2023年07月22日：具身智能 | CCF专家谈术语](https://mp.weixin.qq.com/s/lA9q6-hCIBldaEbWYHvkRQ)
+    - [2023年08月23日：独家 | 达摩院后的下一站：陈俊波推出具身智能大模型，要给所有机器人做一颗脑袋](https://mp.weixin.qq.com/s/n6SDzKPnzdFgEtycjFKa_w)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
@@ -255,6 +256,7 @@
     - [2023年05月26日：「AI教父」Geoffrey Hinton：智能进化的下一个阶段](https://mp.weixin.qq.com/s/KwuIQIM59D75kW_avYBnXw)
   - [2023年05月09日：“LSTM之父”谈AI威胁论：AI将超越人类智力，对人类不感兴趣，呼吁暂停AI是一种误导](https://mp.weixin.qq.com/s/lnLc_jHts762Kh_LzLKDKg)
   - [2023年05月26日：马斯克脑机接口公司获批开展首例人体实验](https://mp.weixin.qq.com/s/9z_yI6Zb4ISHNWFh5xSGkw)
+    - [2023年08月22日：脑机接口爆发前夜，技术瓶颈、资金掣肘、伦理挑战如何攻克？｜世界机器人大会](https://mp.weixin.qq.com/s/JRloYtnadVbh15Tki1mdhg)
   - [2023年06月12日：75岁Hinton中国大会最新演讲「通往智能的两种道路」，最后感慨：我已经老了，未来交给年轻人](https://mp.weixin.qq.com/s/DDUfYkIpcRc_2TTZ0eclGA)
   - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
     - [2023年06月19日：Nature封面：量子计算机离实际应用还有两年](https://mp.weixin.qq.com/s/MqWh7N42Fmo9JqjlFFvLxQ)
@@ -265,6 +267,7 @@
     - [2023年07月13日：登顶刊Cell：中国科学家领衔发布猕猴大脑皮层细胞三维「地图」](https://mp.weixin.qq.com/s/GnaK6rpp_ULnIAnAiTGTrQ)
     - [2023年07月24日：人鼠混合大脑出现了！斯坦福大学7年研究登Nature](https://mp.weixin.qq.com/s/Xtu-9KOOG01LcKQT4R7Vqg)
   - [2023年07月24日：大脑如何产生意识？神经科学家的预言输给了哲学家](https://mp.weixin.qq.com/s/7Xvfx0-1KM3V63AV1vNQBQ)
+  - [2023年08月20日：直接压缩一切！OpenAI首席科学家Ilya Sutskever这么看无监督学习](https://mp.weixin.qq.com/s/DrjMOM5LhUgko6dUe6MSHA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
