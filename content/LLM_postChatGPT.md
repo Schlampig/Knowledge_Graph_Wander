@@ -597,6 +597,7 @@
       - [浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/29rlI3PxTcNqcjFE3KfGvQ) | AINLP 2023-08-13
       - [关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw) | Hugging Face 2023-08-16
       - [Llama2开源后，国产大模型在卷什么？](https://mp.weixin.qq.com/s/E7nE1m6-DlhETBT1o_1ecQ) | 机器之心 2023-08-19
+      - [使用 DPO 微调 Llama 2](https://mp.weixin.qq.com/s/u-GqdifZy8ArKgZaQWmh8Q) | Hugging Face 2023-08-22
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
@@ -914,6 +915,13 @@
     - demo: https://0nutation.github.io/SpeechGPT.github.io/
     - blog: 
       - [为多模态LLM指明方向，邱锡鹏团队提出具有内生跨模态能力的SpeechGPT](https://mp.weixin.qq.com/s/KpdOUdeYSVzrBtfuqFbjaQ) | 机器之心 2023-05-20  
+
+  * SQLCoder([Defog.ai](https://defog.ai/)):
+    - code: https://github.com/defog-ai/sqlcoder
+    - code(huggingface): https://huggingface.co/defog/sqlcoder
+    - demo: https://defog.ai/sqlcoder-demo/
+    - blog:
+      - [15B模型单项能力锤得过GPT3.5，开源SQLCoder已上岗](https://mp.weixin.qq.com/s/OPv2Y0KtANvP4cxWNA59HA) | 机器之心 2023-08-23
   
   * StarChat:
     - code: https://huggingface.co/blog/starchat-alpha
