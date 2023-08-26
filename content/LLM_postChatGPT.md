@@ -153,6 +153,7 @@
       - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning): 基于PEFT的高效ChatGLM微调。
       - [ChatGLM.cpp ](https://github.com/li-plus/chatglm.cpp): C++ implementation of ChatGLM-6B.
       - [人人都有“AI编程助手”！CodeGeeX2-6B开源，最低6GB显存](https://mp.weixin.qq.com/s/UF8SU1eEraHdqO6xbgVkkA) | 学术头条 2023-07-25
+      - [一个简单模型就让ChatGLM性能大幅提升 | 最“in”大模型](https://mp.weixin.qq.com/s/t58rOqvtB_hvvTT9RasSnQ) | 量子位 2023-08-16
 
   * ChatGLM2(智谱AI):
     - code: https://github.com/THUDM/ChatGLM2-6B
@@ -459,6 +460,11 @@
       - [HuggingChat叫板ChatGPT！300亿参数大模型免费用](https://mp.weixin.qq.com/s/oBWc42h6GeyIbyOI2jisqQ) | 新智元 2023-04-26
       - [一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」](https://mp.weixin.qq.com/s/FaPTaMXOqCapE1mZKXnQKQ) | 机器之心 2023-05-12
 
+  * Humpback(Meta):
+    - [paper](https://arxiv.org/pdf/2308.06259.pdf): Self-Alignment with Instruction Backtranslation.
+    - blog:
+      - [羊驼进化成鲸鱼，Meta把对齐「自动化」，Humpback击败现有全部LLaMa模型](https://mp.weixin.qq.com/s/Vrr_B_ElD15HUFEBq3ERwg) | 机器之心 2023-08-15
+
   * 活字Huozi(哈工大):
     - code: https://github.com/HIT-SCIR/huozi
     - blog:
@@ -583,6 +589,7 @@
       - [强推！伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A) | 夕小瑶科技说 2023-07-22
       - [人人玩转Llama 2！Meta正式官宣免费用，微调羊驼指南大全集](https://mp.weixin.qq.com/s/eKAjuVSi00p33plIb0hsag) | 新智元 2023-07-25
       - [浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/29rlI3PxTcNqcjFE3KfGvQ) | AINLP 2023-08-13
+      - [关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw) | Hugging Face 2023-08-16
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
@@ -873,6 +880,12 @@
         - code: https://github.com/InternLM/InternLM-techreport
         - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09
         - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
+
+  * Shepherd(Meta):
+    - code: https://github.com/facebookresearch/Shepherd
+    - [paper](https://arxiv.org/pdf/2308.04592.pdf): Shepherd: A Critic for Language Model Generation.
+    - blog:
+      - [堪比ChatGPT！Meta华人提出「牧羊人」Shepherd，LLaMA 70亿参数微调，评估模型生成给出建议](https://mp.weixin.qq.com/s/3Ljlgq0kQhL5jq5xZBkTJA) | 新智元 2023-08-15
 
   * Shikra(商汤&北航):
     - code: https://github.com/shikras/shikra
