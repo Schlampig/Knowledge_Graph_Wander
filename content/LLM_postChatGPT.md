@@ -18,6 +18,7 @@
       - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs).
         - [中文羊驼大模型项目v5.0发布](https://mp.weixin.qq.com/s/PjTDYZK7a9md0MiFSyFnLQ) | HFL实验室 2023-07-19
         - [中文羊驼大模型二期项目v1.0隆重发布](https://mp.weixin.qq.com/s/s8bOcwRYiRA88kPlJKeAKA) | HFL实验室 2023-07-31
+        - [【羊驼二期】开源长上下文大模型Chinese-LLaMA-2-16K](https://mp.weixin.qq.com/s/gtXswlUjsOWvpk8dtfJ8Kw) | HFL实验室 2023-08-25
       - [medAlpaca](https://github.com/kbressem/medAlpaca): LLM finetuned for medical question answering.
       - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
 
@@ -223,11 +224,17 @@
     - extra:
       - [ChatGPT最强竞品Claude2来了：代码、GRE成绩超越GPT-4，免费可用](https://mp.weixin.qq.com/s/cpiUVIkfNGYY-EM8NJ27Gg) | 机器之心 2023-07-12
 
+  * Code Llama(Meta):
+    - code: https://github.com/facebookresearch/codellama
+    - blog:
+      - [开源大模型代码短板补上了！新羊驼Python赛过ChatGPT，10万上下文免费可商用](https://mp.weixin.qq.com/s/ZzvEoiXyE4hav35UmG2How) | 量子位 2023-08-25
+      - [发布一天，Code Llama代码能力突飞猛进，微调版HumanEval得分超GPT-4](https://mp.weixin.qq.com/s/19nANMpAB3lfySr86n1a6A) | 机器之心 2023-08-26
+
   * Code T5+(Salesforce):
     - code: https://github.com/salesforce/CodeT5/tree/main/CodeT5+
     - [paper](https://arxiv.org/pdf/2305.07922.pdf): CodeT5+: Open Code Large Language Models for Code Understanding and Generation.
     - blog:
-      - [刷新20项代码任务SOTA，Salesforce提出新型基础LLM系列编码器-解码器Code T5+](https://mp.weixin.qq.com/s/xKD2GhdLzsyTCsZ-5HzJsQ) | 机器之心 2023-06-24 
+      - [刷新20项代码任务SOTA，Salesforce提出新型基础LLM系列编码器-解码器Code T5+](https://mp.weixin.qq.com/s/xKD2GhdLzsyTCsZ-5HzJsQ) | 机器之心 2023-06-24
   
   * ColossalAI(潞晨科技):
     - code: https://github.com/hpcaitech/ColossalAI
@@ -401,6 +408,13 @@
     - [paper](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf): Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory.
     - blog:
       - [商汤、清华发布通才智能体完全解锁《我的世界》，像人类一样生存，探索和创造](https://mp.weixin.qq.com/s/iECSXLdAasrwNwQTruLP7g) | 机器之心 2023-05-27 
+
+  * Giraffe([Abacus.AI](https://abacus.ai/)):
+    - code: https://github.com/abacusai/Long-Context
+    - [paper](https://arxiv.org/abs/2308.10882): Giraffe: Adventures in Expanding Context Lengths in LLMs.
+    - blog:
+      - [32k上下文可商用！羊驼进化成长颈鹿，“开源大模型之最”](https://mp.weixin.qq.com/s/JBY8YkZGtigEEE1hlfsRGg) | 量子位 2023-08-24
+      - [首个可商用的32k上下文开源大模型「长颈鹿」来了，两万词长文不在话下](https://mp.weixin.qq.com/s/xPrvOidiri4jG9cFwiDHVA) | 机器之心 2023-08-25
 
   * Glow(北京稀宇科技有限公司(MiniMax)):
     - [api](https://api.minimax.chat/)
@@ -719,6 +733,7 @@
     - code: https://github.com/Vision-CAIR/MiniGPT-4
     - blog:
       - [MiniGPT-4实现原理及其核心BLIP2模型实践：从代表性图文对数据集、BLIP2模型结构到调用实践](https://mp.weixin.qq.com/s/aU6fhmlO-6SY5VyjTMpIMg) | 老刘说NLP 2023-04-24
+      - [大杀器，多模态大模型MiniGPT-4入坑指南](https://mp.weixin.qq.com/s/Q9vL9C2wgJOwMuRFIXl9QA) | 吃果冻不吐果冻皮 2023-08-25
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
@@ -880,6 +895,13 @@
     - blog:
       - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
       - [Sage Gpt-4 Claude+ ChatGPT Dragonfly五个AI的各自特点](https://zhuanlan.zhihu.com/p/614720305) | 春眠不觉晓 2023-03-17
+
+  * SeamlessM4T(Meta):
+    - code: https://github.com/facebookresearch/seamless_communication
+    - [paper](https://ai.meta.com/research/publications/seamless-m4t/): SeamlessM4T—Massively Multilingual & Multimodal Machine Translation.
+    - demo: https://seamless.metademolab.com/
+    - blog:
+     - [100种语言任意翻译！科幻电影中的“巴别鱼”，Meta用AI实现了](https://mp.weixin.qq.com/s/FEPRdcG-HLcteSpn7esJKA) | 学术头条 2023-08-23
 
   * SEEChat(360):
     - code: https://github.com/360CVGroup/SEEChat
