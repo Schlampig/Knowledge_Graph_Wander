@@ -192,6 +192,7 @@
         - [陈丹琦重新定义了文本相似性问题，提出C-STS，GPT-4也不能很好解决](https://mp.weixin.qq.com/s/o-70NRSeONQ4TJ9s3ulA9A) | 深度学习自然语言处理 2023-08-02
         - [如何让自己的大模型榜单评分更高：也谈榜单评测评分的一些常见方案和典型案例](https://mp.weixin.qq.com/s/JWhj2sDE47N7x8Bm2DHZCA) | 老刘说NLP 2023-08-10
         - [CLEVA: 中文语言模型评估平台](https://mp.weixin.qq.com/s/WiF3yRU5MZS7ulLTP8FIpw) | 吃果冻不吐果冻皮 2023-08-17
+        - [10B量级开源中文对话LLM，谁最「懂」人话？](https://mp.weixin.qq.com/s/EScr69xKlHHmNablcE_FYA) | 机器之心 2023-08-20
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -262,6 +263,7 @@
         - [大模型词表扩充必备工具SentencePiece](https://mp.weixin.qq.com/s/qQMZ1s7lt-LLkQKx7HIDMw) | AINLP 2023-05-24
         - [也看OpenAI-embedding的平替方案：从text2vec、SGPT生成式emebdding到M3E近期新秀](https://mp.weixin.qq.com/s/nz3G0w7i_-eYOgEeqRXTIQ) | 老刘说NLP 2023-06-12
         - [无自注意力照样高效！RIFormer开启无需token mixer的Transformer结构新篇章](https://mp.weixin.qq.com/s/_cW_3mzN9rKQ6dLt7mjWlg) | PaperWeekly 2023-06-13
+        - [大模型词表扩充必备工具SentencePiece](https://mp.weixin.qq.com/s/elelX2GF8vazOZdhjfNj0g) | 吃果冻不吐果冻皮 2023-08-20
       - Transformer & Attention:
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -305,6 +307,7 @@
         - [大模型参数高效微调技术实战（五）-LoRA](https://mp.weixin.qq.com/s/uibNDEzaiulMbe7Cu1LgyA) | 吃果冻不吐果冻皮 2023-08-14
         - [大模型参数高效微调技术原理综述（五）-LoRA、AdaLoRA、QLoRA](https://mp.weixin.qq.com/s/MBpLrt4mdb_O5wsjKldk0g) | 吃果冻不吐果冻皮 2023-08-14
         - [PEFT: Prompt 系列高效调参原理解析](https://mp.weixin.qq.com/s/_KsPcbmZMsqQUix7CmBR8A) | Hugging Face 2023-08-18
+        - [大模型压缩综述](https://mp.weixin.qq.com/s/P_nF4WjxssvLa5vovaLW7w) | 吃果冻不吐果冻皮 2023-08-20
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
@@ -360,6 +363,9 @@
         - [大模型LLM微调经验总结&项目更新](https://mp.weixin.qq.com/s/wBWpjoMSLgUXammnv0kuAw) | NLP工作站 2023-08-06
         - [姚期智团队新作：“累积推理”让大模型更聪明；Stability AI发布全新StableCode模型](https://mp.weixin.qq.com/s/9HIm1cz9XZRmUiO5tjCcHw) | 学术头条 2023-08-09
         - [模型越大越爱拍马屁！谷歌大神Quoc Le团队新作：用简单合成数据微调即可解决](https://mp.weixin.qq.com/s/nt0IB7goeNSDI4MNp68c2g) | 量子位 2023-08-11
+        - [用别的模型权重训练神经网络，改神经元不影响输出：英伟达神奇研究](https://mp.weixin.qq.com/s/qmhp6mzkTVn6mMD7rktawg) | 机器之心 2023-08-19
+        - [一句话让AI训练AI！20分钟微调羊驼大模型，从数据收集到训练全包了](https://mp.weixin.qq.com/s/-pDU8nSVIaXyipanzszvfQ) | 量子位 2023-08-20
+        - [有趣的大模型微调指令数据反向增强方法：Instruction Backtranslation原理解读及其在数据分析上的思考](https://mp.weixin.qq.com/s/LbJiDoVHls7Nuwd9jP6wTQ) | 老刘说NLP 2023-08-20
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -488,6 +494,7 @@
         - [微软英伟达领投，2万张H100打造全球最强超算！一跃成为OpenAI最强劲敌！](https://mp.weixin.qq.com/s/N2A7TJ5YUUS2uha9ogXvVw) | 机器学习算法与自然语言处理 2023-07-08
         - [老黄深夜炸场，AIGC进入iPhone时刻！Hugging Face接入最强超算，神秘显卡胜过A100](https://mp.weixin.qq.com/s/i1hGhkoN7xibLjfIILorqg) | 新智元 2023-08-09
         - [老黄赢麻了！英伟达H100订单排到24年，马斯克都坐不住了](https://mp.weixin.qq.com/s/9oZmYi4pQBN08tK-D89acg) | 量子位 2023-08-12
+        - [从⼤模型到 AI 应⽤落地，工程实现有多复杂?](https://mp.weixin.qq.com/s/aFk7J5w1c7o-O44SWyrUkg) | AI科技大本营 2023-08-16
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
@@ -545,6 +552,7 @@
             - [王慧文再融16亿！大模型创业百天成独角兽，腾讯押注，快手创始人入股](https://mp.weixin.qq.com/s/DJPqZqOMqUgUWtjFPc-svw) | 量子位 2023-06-05
             - [大模型创业4个月，44岁王慧文因「健康问题」辞任美团董事！](https://mp.weixin.qq.com/s/O8de-kh2sgp6eM_KifPRWg) | 新智元 2023-06-26
             - [王慧文中场休息，光年之外火种尚存｜智涌分析](https://mp.weixin.qq.com/s/b8SqZ5ndJ3L3a5OW4KY7Jw) | 智能涌现 2023-06-30
+            - [王慧文病休53天，旗下OneFlow团队重新创业](https://mp.weixin.qq.com/s/C-aP7Xe4TI4Z0lX6ly3oDg) | 量子位 2023-08-19
           - [**知识工场实验室**发布大模型相关的系统与原型](https://mp.weixin.qq.com/s/_YRbDjS42Hj9l3_jXx7g-g) | 知识工场 2023-03-30
           - [**微软** vs **Google**：AI技术的王权更迭](https://mp.weixin.qq.com/s/9FofVXXTu30uhIKNELdoNQ) | 第一财经 2023-04-04
           - [在**知乎**，看见ChatGPT变革的第一束光](https://mp.weixin.qq.com/s/CwlOPR3nMMeC5DeIqzBbOA) | 机器之心 2023-04-04
