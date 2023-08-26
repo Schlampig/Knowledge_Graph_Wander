@@ -1105,6 +1105,7 @@
      - [paper](https://arxiv.org/abs/2304.12244): WizardLM: Empowering Large Language Models to Follow Complex Instructions.
      - blog:
        - [如何构造复杂多样的微调指令数据：WizardLM复杂指令构造思想与实验分析工作总结](https://mp.weixin.qq.com/s/M7gmaHJuWTVI35H3dmmeVA) | 老刘说NLP 2023-06-20
+       - [独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法](https://mp.weixin.qq.com/s/Etxwns0k-yca_3vlx8Sy9A) | PaperWeekly 2023-08-26
      - extra:
        - WizardCoder: [超越所有开源模型，击败 Claude、Bard，专门用于编程任务的大模型来了](https://mp.weixin.qq.com/s/MvxGyEuz506_uI7QRsw8_w) | 机器学习算法与自然语言处理 2023-06-20
        - WizardMath: [数学能力超ChatGPT，70B开源大模型火了：用AI微调AI，微软全华班出品](https://mp.weixin.qq.com/s/u-N4fqemUY0I3Qe0WSnwpw) | 量子位 2023-08-14
