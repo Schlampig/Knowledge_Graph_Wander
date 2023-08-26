@@ -912,6 +912,11 @@
     - blog:
       - [国际中文教育大模型“桃李” 1.0发布](https://mp.weixin.qq.com/s/eXxlPyLkCTTBsiyTNz7VcQ) | 深度学习自然语言处理 2023-06-10
 
+  * TextFX(谷歌):
+    - demo: https://textfx.withgoogle.com/
+    - blog:
+      - [为说唱歌手、作家和文字工匠提供支持的AI工具：TextFX](https://mp.weixin.qq.com/s/rH8gDcDwLm86koO3A1yP5w) | AI 共存派 2023-08-14
+
   * TigerBot(虎博科技):
     - code: https://github.com/TigerResearch/TigerBot
     - homepage: https://www.tigerbot.com/chat
@@ -1038,7 +1043,8 @@
      - blog:
        - [如何构造复杂多样的微调指令数据：WizardLM复杂指令构造思想与实验分析工作总结](https://mp.weixin.qq.com/s/M7gmaHJuWTVI35H3dmmeVA) | 老刘说NLP 2023-06-20
      - extra:
-       - WizardCoder: [超越所有开源模型，击败 Claude、Bard，专门用于编程任务的大模型来了](https://mp.weixin.qq.com/s/MvxGyEuz506_uI7QRsw8_w) | 机器学习算法与自然语言处理 2023-06-20 
+       - WizardCoder: [超越所有开源模型，击败 Claude、Bard，专门用于编程任务的大模型来了](https://mp.weixin.qq.com/s/MvxGyEuz506_uI7QRsw8_w) | 机器学习算法与自然语言处理 2023-06-20
+       - WizardMath: [数学能力超ChatGPT，70B开源大模型火了：用AI微调AI，微软全华班出品](https://mp.weixin.qq.com/s/u-N4fqemUY0I3Qe0WSnwpw) | 量子位 2023-08-14
 
   * 袋熊Wombat(阿里达摩院):
     - code: https://github.com/GanjinZero/RRHF
@@ -1068,6 +1074,7 @@
       - [“三项能力超过ChatGPT”，科大讯飞星火大模型现场接受观众挑战，写稿制表PPT通通拿下](https://mp.weixin.qq.com/s/o-Yy2uz51_gMyEjamtkAkw) | 量子位 2023-05-06
       - [GPT诸神之战，小巨头如何做大模型？](https://mp.weixin.qq.com/s/ZS-yiIleIVEJAsnmvS6AGg) | 雷峰网 2023-05-08
       - [讯飞星火大模型抢先进入​「升级战」：中国版ChatGPT来了](https://mp.weixin.qq.com/s/r3gXhifZAbRHyVfggizbOg) | 36氪 2023-06-09
+      - [讯飞星火新版本来袭！多模态、插件等功能大揭秘，你不知道的都在这里](https://mp.weixin.qq.com/s/FE5naTFsh_bQ3bTRUyDM-A) | ChallengeHub 2023-08-14
 
   * 轩辕(度小满):
     - blog:
