@@ -6,6 +6,7 @@
     - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
     - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
     - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
+      - [1000+AI智能体复活，OpenAI版元宇宙上线？ ChatGPT+VR百分百还原「西部世界」](https://mp.weixin.qq.com/s/BCROvo4ZL5Fmg7HMzAjElg) | 新智元 2023-08-20
     - [大模型自主智能体爆火，OpenAI也在暗中观察、发力，这是内部人的分析博客](https://mp.weixin.qq.com/s/_IkpIIqeKbAj-shvnCV8rg) | 机器之心 2023-07-05
       - [AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？](https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw) | 新智元 2023-07-06
     - [刚刚，国内的自主智能体OmBot发布了](https://mp.weixin.qq.com/s/_l-jmhGgJ6ITdVmWoqu3rg) | 机器之心 2023-07-07
@@ -20,6 +21,13 @@
     - [What are language agents and why should we study them?](https://mp.weixin.qq.com/s/FTAGWxuW2VCuNHm7zy-76A) | 知识工场 2023-08-08
     - [清华团队领衔打造，首个AI agent系统性基准测试问世](https://mp.weixin.qq.com/s/nyp8BaZqEKYm0jHHsHwIUQ) | 学术头条 2023-08-08
     - [斯坦福的「虚拟小镇」开源了：25个AI智能体照进《西部世界》](https://mp.weixin.qq.com/s/nk_kvDcpRU5qJ30naQXVyw) | 机器之心 2023-08-10
+      - [斯坦福小镇二创来了！8个智能体生活交友，爆火AI Town人人可搭，网友整活「猫猫小镇」｜附教程](https://mp.weixin.qq.com/s/MziPtvAH_ni5KS0tnqSYWA) | 新智元 2023-08-16
+    - [智能体的「一方有难八方支援」，一种分布式AI计算新范式诞生了](https://mp.weixin.qq.com/s/GYYE6sXYfCWDhyV3fK2uGg) | 机器之心 2023-08-15
+    - [黄学东：大模型时代需要注重「三个臭皮匠」的联合能力丨GAIR 2023](https://mp.weixin.qq.com/s/cVA5sSETniCx3sXAlbLNZw) | AI科技评论 2023-08-17
+    - [耗时2年，Meta联手CMU打造最强「通用机器人智能体」！上茶擦碗多面手，轻松泛化100多种未知任务](https://mp.weixin.qq.com/s/8NCe4YeREKZoFgDx2jM71g) | 新智元 2023-08-21
+    - [大模型和智能体如何结合？人大最新《基于大型语言模型的自主智能体》综述](https://mp.weixin.qq.com/s/Uh4pnDO-1TNcBNWDr-QUWw) | 专知 2023-08-24
+    - [异构智能体自主协作，大模型扮演了什么角色？](https://mp.weixin.qq.com/s/WjSlyoR27STe1k4Lg16nMg) | 人工智能学家 2023-08-25
+      - [【 ChatGPT作者LilianWeng博客总结】智能体=LLM(大语言模型)+记忆+规划技巧+工具使用](https://mp.weixin.qq.com/s/vVpEbi8RPGzXUBF0PwE93A) | 深度强化学习实验室 2023-08-25
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
