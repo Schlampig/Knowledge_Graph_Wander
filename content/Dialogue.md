@@ -1120,6 +1120,7 @@
         - [OpenAI 已为 GPT-5 申请商标，GPT-5 要来了？](https://mp.weixin.qq.com/s/4AYWjcEZ1p6MwByMypxJaA) | AI前线 2023-08-02
         - [GPT-5出世，需5万张H100！全球H100总需求43万张， 英伟达GPU陷短缺风暴](https://mp.weixin.qq.com/s/aPMq4iVZPMiK0QZFDhOzag) | 新智元 2023-08-06
         - [OpenAI公布「官方爬虫」：GPT-5靠它训练，有需要可以屏蔽](https://mp.weixin.qq.com/s/TkIWECwftMTI9jUNSlQKPw) | 机器之心 2023-08-08
+        - [OpenAI超级对齐负责人：“驾驭”超级智能的四年计划](https://mp.weixin.qq.com/s/TgLuIiaerGHxNuEY5kWLsg) | 将门创投 2023-08-26
  </br>
 
 ### LLM Blogs & Reviews
