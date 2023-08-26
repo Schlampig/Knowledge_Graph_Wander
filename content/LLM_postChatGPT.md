@@ -295,6 +295,11 @@
         - [世界首款真开源类ChatGPT大模型Dolly 2.0，可随意修改商用](https://mp.weixin.qq.com/s/_9JevS70pRqEmPRbVVM9Vw) | 机器之心 2023-04-13
         - code: https://huggingface.co/databricks/dolly-v2-12b
         - dataset: https://github.com/databrickslabs/dolly/tree/master/data  
+
+  * 豆包(字节):
+    - homepage: https://www.doubao.com/
+    - blog:
+      - [字节AI大模型“豆包”评测揭晓｜SuperCLUE](https://mp.weixin.qq.com/s/16XECFgDAje-tUaqW8D7sg) | CLUE中文语言理解测评基准 2023-08-21
   
   * DreamGPT(DivergentAI):
     - code: https://github.com/DivergentAI/dreamGPT
@@ -591,6 +596,7 @@
       - [人人玩转Llama 2！Meta正式官宣免费用，微调羊驼指南大全集](https://mp.weixin.qq.com/s/eKAjuVSi00p33plIb0hsag) | 新智元 2023-07-25
       - [浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/29rlI3PxTcNqcjFE3KfGvQ) | AINLP 2023-08-13
       - [关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw) | Hugging Face 2023-08-16
+      - [Llama2开源后，国产大模型在卷什么？](https://mp.weixin.qq.com/s/E7nE1m6-DlhETBT1o_1ecQ) | 机器之心 2023-08-19
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
