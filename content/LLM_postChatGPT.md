@@ -389,6 +389,7 @@
   * Gemini(谷歌):
     - blog:
       - [谷歌创始人正式回归，加入LLM大战！指导Gemini研发，与OpenAI、Meta混战一触即发](https://mp.weixin.qq.com/s/rEVoqGpEHG-1WB7t3OVmmw) | 新智元 2023-07-22
+      - [GPT-4大杀器谷歌Gemini来袭！26位研发大佬名单曝出，祭出类Midjourney生图能力](https://mp.weixin.qq.com/s/zgBVKKNr4Y0ozHJtEFWmQw) | 新智元 2023-08-17
   
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能实验室):
     - code: https://github.com/OpenGVLab/GITM
@@ -703,6 +704,8 @@
   * MiLM(小米):
     - code: https://github.com/XiaoMi/MiLM-6B
     - note: MiLM-6B 是由小米开发的一个大规模预训练语言模型，参数规模为64亿。在 C-Eval 和 CMMLU 上均取得同尺寸最好的效果。
+    - blog:
+      - [小米交卷大模型，全新小爱同学实测来了](https://mp.weixin.qq.com/s/aP-FvYHbaEpbCBYfcKR1Xg) | 量子位 2023-08-18
   
   * MiniGPT(KAUST):
     - code: https://github.com/Vision-CAIR/MiniGPT-4
@@ -830,6 +833,11 @@
     - code: https://github.com/chancefocus/PIXIU
     - [paper](https://arxiv.org/abs/2306.05443): PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance
     - note: 整合现有多个任务的中文金融大模型数据集。
+
+  * Platypus(波士顿大学):
+    - [paper](https://arxiv.org/abs/2308.07317): Platypus: Quick, Cheap, and Powerful Refinement of LLMs.
+    - blog:
+      - [Open LLM榜单再次刷新，比Llama 2更强的「鸭嘴兽」来了](https://mp.weixin.qq.com/s/Ru-m-kP8zne-SDIA5Ps_tQ) | 机器学习算法与自然语言处理 2023-08-17
 
   * PULSE(OpenMEDLab):
     - code: https://github.com/openmedlab/PULSE
