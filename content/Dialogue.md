@@ -648,7 +648,8 @@
           - [Yann LeCun：不在乎社会规范，ChatGPT离真正的人还差得远](https://mp.weixin.qq.com/s/A7jmMYiQO6xhC33PwhMcHw) | 机器之心 2023-03-12 
           - [技术专家控诉ChatGPT：到处宣扬我死了，还伪造了一份讣告](https://mp.weixin.qq.com/s/xcRtMYtCwWNk5fgXS52zHQ) | AI前线 2023-03-13
           - [肖仰华：像天使也似魔鬼：关于通用人工智能时代科学研究的71个问题](https://mp.weixin.qq.com/s/dLSmmhOvjZ8MNnz8AtHleQ) | 知识工场 2023-04-06
-            - [肖仰华丨面向领域应用的大模型关键技术](https://mp.weixin.qq.com/s/k79l26quNDX-5yA5MlJSyA) | 知识工场 2023-08-04 
+            - [肖仰华丨面向领域应用的大模型关键技术](https://mp.weixin.qq.com/s/k79l26quNDX-5yA5MlJSyA) | 知识工场 2023-08-04
+            - [生成式语言模型与通用人工智能：内涵、路径与启示](https://mp.weixin.qq.com/s/RQZrlL26qJk_2sIGK_CZCA) | 将门创投 2023-08-12
           - [吴 军：ChatGPT不算新技术革命，带不来什么新机会](https://mp.weixin.qq.com/s/5t5Ffm-N88ozUvLTQsFgMQ) | 与数据同行 2023-04-09
           - [LeCun：说LLM是随机鹦鹉侮辱鸟了啊，人家三个月就学会视频网聊交友了](https://mp.weixin.qq.com/s/_SaNT96csbAzoo6M2_UOQg) | 量子位 2023-04-24
             - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://mp.weixin.qq.com/s/u9eTtZbOUHEmet8HIaUnfA) | 机器之心 2023-05-22
@@ -1009,6 +1010,7 @@
             - [GPT-4计算能力差怎么破？把它当小学生，保证结果跟计算器一样准](https://mp.weixin.qq.com/s/fBM-XsHPCqOE93u2l9E4yQ) | 量子位 2023-07-21
         - [用 Notion 搭建高能效率系统，我们给你准备了一份 Notion 终极指南](https://mp.weixin.qq.com/s/EElCGTozMkAORhXcOCniHw) | 少数派 2023-06-27
         - [大模型惨遭人类大范围攻击！国内各领域专家组团投毒，GPT-4也Hold不住](https://mp.weixin.qq.com/s/l3zwXBBoQPaLCoynGGnevA) | 量子位 2023-07-15
+        - [GPT-4调用插件40次都没成功，果断放弃，无效调用、拒绝回答时有发生](https://mp.weixin.qq.com/s/eUmn-TqVN0yUIskD3t4rYg) | 机器之心 2023-08-12
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
