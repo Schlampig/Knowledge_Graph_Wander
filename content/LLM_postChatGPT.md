@@ -686,6 +686,7 @@
       - [医疗版ChatGPT直播评测！治疗方案与真人医生96%一致](https://mp.weixin.qq.com/s/wfPMNcDP-gQeEnBPgZY9Vw) | 量子位 2023-07-05
     - extra:
       - [千“垂”百炼：垂直领域与语言模型（5）【医疗/健康】MedicalGPT-zh](https://mp.weixin.qq.com/s/QJKZYKh16fqLTC367WhzdA) | 看个通俗理解吧 2023-08-06
+      - [千“垂”百炼：垂直领域与语言模型（6）【医疗/健康】明医 (MING)](https://mp.weixin.qq.com/s/uM4FZeDhAc6JuMlW7NCvUA) | 看个通俗理解吧 2023-08-19
   
   * MetaLLM([秘塔科技](https://metasota.ai/#/)): 
     - [秘塔写作猫](xiezuocat.com/chat)
