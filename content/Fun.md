@@ -28,6 +28,13 @@
     - [大模型和智能体如何结合？人大最新《基于大型语言模型的自主智能体》综述](https://mp.weixin.qq.com/s/Uh4pnDO-1TNcBNWDr-QUWw) | 专知 2023-08-24
     - [异构智能体自主协作，大模型扮演了什么角色？](https://mp.weixin.qq.com/s/WjSlyoR27STe1k4Lg16nMg) | 人工智能学家 2023-08-25
       - [【 ChatGPT作者LilianWeng博客总结】智能体=LLM(大语言模型)+记忆+规划技巧+工具使用](https://mp.weixin.qq.com/s/vVpEbi8RPGzXUBF0PwE93A) | 深度强化学习实验室 2023-08-25
+    - AutoAgents:
+      - code: https://github.com/LinkSoul-AI/AutoAgents
+      - space(huggingface): https://huggingface.co/spaces/LinkSoul/AutoAgents
+    - 基于大语言模型的AI Agents
+      - 摘要：代理（Agent）指能自主感知环境并采取行动实现目标的智能体。基于大语言模型（LLM）的 AI Agent 利用 LLM 进行记忆检索、决策推理和行动顺序选择等，把Agent的智能程度提升到了新的高度。LLM驱动的Agent具体是怎么做的呢？接下来的系列分享会介绍 AI Agent 当前最新的技术进展。本次分享为系列分享的第一部分，主要内容：介绍了Agent中常用的推理和行动框架 ReAct；ReAct 引入Thought、Action、Observation的Prompt结构，支持工具调用和多步推理。介绍了Stanford的开创性工作Generative Agents，它使用记忆流、反思和响应机制赋予25个代理人格。
+      - [文字版](https://zhuanlan.zhihu.com/p/651746262)
+      - [视频版](https://www.bilibili.com/video/BV1NN4y1o7vJ/?share_source=copy_web&vd_source=4efd4f95cba6924d99bff4c66cd37a18)
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
@@ -178,6 +185,7 @@
   * [Twinejs](https://github.com/klembot/twinejs): a tool for telling interactive, nonlinear stories.
   * [书格](https://www.shuge.org/): 一个自由开放的在线古籍图书馆。致力于开放式分享、介绍、推荐有价值的古籍善本，并鼓励将文化艺术作品数字化归档。发布的书籍主要以高清彩色影像版本 PDF 格式，大部分书籍书籍单页宽度在 1400 像素以上，跨页宽度在 2400 像素以上。书籍刊行年代有从宋元珍本，明清善本到近代刊本。
   * [CSFDB 中文科幻数据库](https://csfdb.cn/)
+  * [中国哲学书电子化计划](https://ctext.org/zhs?en=on)
 </br>
 
 ### Math & Computer
