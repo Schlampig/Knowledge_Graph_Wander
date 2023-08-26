@@ -691,6 +691,11 @@
   * author: Jingwei Zheng
   * keywords: 算法工程师-机器学习面试题总结
 
+### AI-interview-cards
+  * link: https://github.com/zixian2021/AI-interview-cards
+  * author: zixian2021
+  * keywords: 最完整的AI算法面试题目仓库，1000道，25个类目
+
 ### NLPer面试基础自检指南：100道基础NLP/知识图谱试题与必备能力思考
   * link: https://mp.weixin.qq.com/s/pzjBaDmjarwKCSaCahWTRw
   * author: 刘焕勇
