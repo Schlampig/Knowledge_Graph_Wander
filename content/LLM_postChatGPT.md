@@ -418,6 +418,10 @@
     - blog:
       - [击败Llama 2，抗衡GPT-3.5，Stability AI新模型登顶开源大模型排行榜](https://mp.weixin.qq.com/s/kAPl101G_-eFAmC_HdTmgQ) | 机器之心 2023-07-22
 
+  * 夫子•明察司法大模型Fuzi.Mingcha(山大&浪潮云&中政):
+    - code: https://github.com/irlab-sdu/fuzi.mingcha
+    - note: 以ChatGLM为大模型底座，基于海量中文无监督司法语料与有监督司法微调数据训练的中文司法大模型，支持法条检索、案例分析、三段论推理判决以及司法对话等功能，旨在为用户提供全方位、高精准的法律咨询与解答服务。 
+
 </br>
 
 ### G
