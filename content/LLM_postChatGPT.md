@@ -561,6 +561,7 @@
   * KnowledGPT(复旦):
     - blog:
       - [KnowledGPT:基于知识库的检索和存储访问增强大型语言模型](https://mp.weixin.qq.com/s/If4ssK68il5C_aEZV6xc1Q) | 知识工场 2023-09-02
+      - [再看大模型与知识图谱的融合策略：KnowledGPT–面向知识图谱检索进行大模型增强的框架工作](https://mp.weixin.qq.com/s/29Hdq2kMEA0bvlpLVjp6uw) | 老刘说NLP 2023-09-15
   
   * Kosmos(微软):
     - [paper](https://arxiv.org/abs/2302.14045): Language Is Not All You Need: Aligning Perception with Language Models
