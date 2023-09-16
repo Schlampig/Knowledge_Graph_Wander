@@ -60,7 +60,7 @@
 </br>
 
 ### B
-  * Baichuan(王小川团队):
+  * 百川Baichuan(王小川团队):
     - code: https://github.com/baichuan-inc/baichuan-7B
     - code(HuggingFace): https://huggingface.co/baichuan-inc/baichuan-7B
     - code(ModelScope): https://modelscope.cn/models/baichuan-inc/baichuan-7B/summary
@@ -73,6 +73,8 @@
       - [王小川大模型25天再升级！13B版本开源免费可商用，3090即可部署](https://mp.weixin.qq.com/s/sFVAgypEptxa6qCYcHix9g) | 量子位 2023-07-11
       - [首批Llama2汉化版测评揭晓，不敌原生Baichuan-13B | SuperCLUE](https://mp.weixin.qq.com/s/tz8Kz0OJTHj4royC9gZpBg) | CLUE中文语言理解测评基准 2023-07-31
       - [王小川第三个大模型发布！530亿参数、服务B端、文科更强](https://mp.weixin.qq.com/s/b2HWqSkv6TULcng3JQCg5A) | 智东西 2023-08-08
+      - [大模型百川2技术报告细节分享](https://mp.weixin.qq.com/s/6mIL3e45UhB81JJtoBjkEg) | AINLP 2023-09-12
+      - [全面取代Llama 2！Baichuan 2自曝史上最全训练细节](https://mp.weixin.qq.com/s/-r2KzTbHp6l-OPoRvM7gzQ) | 新智元 2023-09-15
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -427,6 +429,7 @@
     - blog:
       - [谷歌创始人正式回归，加入LLM大战！指导Gemini研发，与OpenAI、Meta混战一触即发](https://mp.weixin.qq.com/s/rEVoqGpEHG-1WB7t3OVmmw) | 新智元 2023-07-22
       - [GPT-4大杀器谷歌Gemini来袭！26位研发大佬名单曝出，祭出类Midjourney生图能力](https://mp.weixin.qq.com/s/zgBVKKNr4Y0ozHJtEFWmQw) | 新智元 2023-08-17
+      - [传谷歌开始小范围测试Gemini：比训练GPT-4算力大5倍，多模态能力大提升](https://mp.weixin.qq.com/s/sHxe9u6FwWx7SPZOACY5zw) | 机器之心 2023-09-15
   
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能实验室):
     - code: https://github.com/OpenGVLab/GITM
@@ -544,6 +547,7 @@
     - code(封神榜系列模型主页): https://github.com/IDEA-CCNL/Fengshenbang-LM
     - blog:
       - [姜子牙大模型系列 | 代码模型ziya-coding发布！低成本微调即可学会在专有场景编程](https://mp.weixin.qq.com/s/tWaRF1wL3HM87ZDEawd2UA) | 模思空间 2023-07-14
+      - [姜子牙大模型系列 | ziya-coding正式开源！以更优秀的表现满足代码生成需求](https://mp.weixin.qq.com/s/If4J__eNotKzYBmt-poNTg) | 模思空间 2023-09-08
     - extra:
       - [姜子牙大模型系列 | 写作模型ziya-writing开源！开箱即用，快来认领专属你的写作小助手吧](https://mp.weixin.qq.com/s/3Z7i4uIxx_u-Peu8iUX7EQ) | 模思空间 2023-07-19
 
@@ -594,6 +598,7 @@
     - code: https://github.com/CVI-SZU/Linly
     - blog:
       - [国产开源大模型： 百亿参数“伶荔”，填补中文基础模型空白！](https://mp.weixin.qq.com/s/XD63CRzTKrM2I2uPQrLTTQ) | Datawhale 2023-04-28
+      - [Llama2 7B中文魔改PK：「雅意」百万指令集微调 VS「伶荔」扩词+增量预训练+指令微调](https://mp.weixin.qq.com/s/t-N9hRm7x1B3joN1WiMabQ) | 机器之心 2023-09-10
     - extra:
       - [“伶荔（Linly）”项目团队全新发布中文Falcon基础模型](https://mp.weixin.qq.com/s/AuAG3tw4JI8lHyLkSdM18g) | PaperWeekly 2023-07-03
       - [“伶荔”(Linly) 项目发布中文LLaMA2模型](https://mp.weixin.qq.com/s/4m2NaOEn7ah1WmFWOy97nA) | AINLP 2023-07-29
@@ -739,6 +744,12 @@
       - [千“垂”百炼：垂直领域与语言模型（5）【医疗/健康】MedicalGPT-zh](https://mp.weixin.qq.com/s/QJKZYKh16fqLTC367WhzdA) | 看个通俗理解吧 2023-08-06
       - [千“垂”百炼：垂直领域与语言模型（6）【医疗/健康】明医 (MING)](https://mp.weixin.qq.com/s/uM4FZeDhAc6JuMlW7NCvUA) | 看个通俗理解吧 2023-08-19
 
+  * Medusa(普林斯顿&UIUC):
+    - [paper](https://arxiv.org/abs/1811.03115): Blockwise Parallel Decoding for Deep Autoregressive Models.
+    - blog:
+      - [推理飙升2倍！普林斯顿北大校友祭出多头「美杜莎」，33B模型与13B一样快](https://mp.weixin.qq.com/s/X3lt_NlGy_29uz3Fy1D6iQ) | 新智元 2023-09-12
+      - [LLM推理加速-Medusa](https://mp.weixin.qq.com/s/iQpjUuAEL8d6FiuGxo_tQA) | AINLP 2023-09-14
+
   * 孟子MengZi(澜舟科技):
     - blog:
      - [国产百亿大模型再增一员！400亿参数孟子GPT发布，各项任务平均提升10-15%](https://mp.weixin.qq.com/s/RdEj9U2Fzd3oqo_YygsnjQ) | 量子位 2023-08-27
@@ -836,6 +847,12 @@
   * OpenLLaMA-Chinese(FittenTech):
     - code: https://github.com/FittenTech/OpenLLaMA-Chinese
     - note: 免费的中文大型语言模型，基于OpenLLaMA，可用于非商业和商业目的。OpenLLaMA-Chinese是在RedPajama数据集上训练的Meta AI的LLaMA 7B和13B模型的开源实现。使用OpenLLaMA基础模型对中文和英文指令进行了微调，并公开了权重。使用了中文-LLaMA-Alpaca项目的alpaca_data_zh_51k.json进行中文微调，使用了StanfordAlpaca项目的alpaca_data.json进行英文微调。
+
+  * OpinionGPT(洪堡大学):
+    - [paper](https://arxiv.org/pdf/2309.03876.pdf): OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs.
+    - demo: https://opiniongpt.informatik.hu-berlin.de/
+    - blog:
+      - [大模型偏见有多严重？柏林洪堡大学发布新工具OpinionGPT，你的AI真的公正吗？](https://mp.weixin.qq.com/s/PGMVqjeI18x7GZyksvtGzQ) | 夕小瑶科技说 2023-09-12
   
   * ORCA(微软):
     - [paper](https://arxiv.org/pdf/2306.02707.pdf): Orca: Progressive Learning from Complex Explanation Traces of GPT-4.
@@ -1028,6 +1045,11 @@
     - blog:
       - [效果达OpenAI同规模模型96%，发布即开源！国内团队新发大模型，CEO上阵写代码](https://mp.weixin.qq.com/s/mj8cWkYNQPAobA1ybUzWYg) | 量子位 2023-06-07
       - [TigerBot-70B发布！](https://mp.weixin.qq.com/s/KI-XVLqrV8CsgTn4UdfRpA) | 虎博科技 2023-09-06
+
+  * TinyLlama(StatNLP):
+    - code: https://github.com/jzhang38/TinyLlama
+    - blog:
+      - [​TinyLlama-1.1B：从零开始训练一个精悍的语言模型](https://mp.weixin.qq.com/s/bEYabXZpLgmeBVlwI69FLw) | PaperWeekly 2023-09-14
 
   * 通义千问(阿里):
     - homepage: tongyi.aliyun.com
