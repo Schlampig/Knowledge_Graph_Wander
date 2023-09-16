@@ -712,6 +712,10 @@
     - extra:
       - [千“垂”百炼：垂直领域与语言模型（5）【医疗/健康】MedicalGPT-zh](https://mp.weixin.qq.com/s/QJKZYKh16fqLTC367WhzdA) | 看个通俗理解吧 2023-08-06
       - [千“垂”百炼：垂直领域与语言模型（6）【医疗/健康】明医 (MING)](https://mp.weixin.qq.com/s/uM4FZeDhAc6JuMlW7NCvUA) | 看个通俗理解吧 2023-08-19
+
+  * 孟子MengZi(澜舟科技):
+    - blog:
+     - [国产百亿大模型再增一员！400亿参数孟子GPT发布，各项任务平均提升10-15%](https://mp.weixin.qq.com/s/RdEj9U2Fzd3oqo_YygsnjQ) | 量子位 2023-08-27
   
   * MetaLLM([秘塔科技](https://metasota.ai/#/)): 
     - [秘塔写作猫](xiezuocat.com/chat)
@@ -924,6 +928,13 @@
         - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
         - [书生·万卷多模态语料库](https://github.com/opendatalab/WanJuan1.0): 万卷多模态语料库的首个开源版本，包含文本数据集、图文数据集、视频数据集三部分，数据总量超过2TB.
 
+  * SeqGPT(达摩院):
+    - code: https://github.com/Alibaba-NLP/SeqGPT
+    - demo: https://www.modelscope.cn/studios/TTCoding/open_ner/summary
+    - [paper](https://arxiv.org/abs/2308.10529): SeqGPT: An Out-of-the-box Large Language Model for Open Domain Sequence Understanding.
+    - blog:
+      - [SeqGPT: 开箱即用的开放域自然语言理解大模型](https://mp.weixin.qq.com/s/_wEggvccbWnvCl7rXnZLZg) | AINLP 2023-08-27
+
   * Shepherd(Meta):
     - code: https://github.com/facebookresearch/Shepherd
     - [paper](https://arxiv.org/pdf/2308.04592.pdf): Shepherd: A Critic for Language Model Generation.
@@ -1107,7 +1118,9 @@
        - [如何构造复杂多样的微调指令数据：WizardLM复杂指令构造思想与实验分析工作总结](https://mp.weixin.qq.com/s/M7gmaHJuWTVI35H3dmmeVA) | 老刘说NLP 2023-06-20
        - [独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法](https://mp.weixin.qq.com/s/Etxwns0k-yca_3vlx8Sy9A) | PaperWeekly 2023-08-26
      - extra:
-       - WizardCoder: [超越所有开源模型，击败 Claude、Bard，专门用于编程任务的大模型来了](https://mp.weixin.qq.com/s/MvxGyEuz506_uI7QRsw8_w) | 机器学习算法与自然语言处理 2023-06-20
+       - WizardCoder:
+         - [超越所有开源模型，击败 Claude、Bard，专门用于编程任务的大模型来了](https://mp.weixin.qq.com/s/MvxGyEuz506_uI7QRsw8_w) | 机器学习算法与自然语言处理 2023-06-20
+         - [一次通过率73％，开源代码大模型WizardCoder超越最新GPT-4以外所有闭/开源模型](https://mp.weixin.qq.com/s/H_Z0KKw4CM12Gd1l4xKf7A) | 机器之心 2023-08-27
        - WizardMath: [数学能力超ChatGPT，70B开源大模型火了：用AI微调AI，微软全华班出品](https://mp.weixin.qq.com/s/u-N4fqemUY0I3Qe0WSnwpw) | 量子位 2023-08-14
 
   * 袋熊Wombat(阿里达摩院):
