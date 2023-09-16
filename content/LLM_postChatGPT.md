@@ -234,6 +234,7 @@
     - blog:
       - [开源大模型代码短板补上了！新羊驼Python赛过ChatGPT，10万上下文免费可商用](https://mp.weixin.qq.com/s/ZzvEoiXyE4hav35UmG2How) | 量子位 2023-08-25
       - [发布一天，Code Llama代码能力突飞猛进，微调版HumanEval得分超GPT-4](https://mp.weixin.qq.com/s/19nANMpAB3lfySr86n1a6A) | 机器之心 2023-08-26
+      - [不用4个H100！340亿参数Code Llama在Mac可跑，每秒20个token，代码生成最拿手｜Karpathy转赞](https://mp.weixin.qq.com/s/VXiby6fUCWJEP3fsqHbTEw) | 新智元 2023-09-01
 
   * Code T5+(Salesforce):
     - code: https://github.com/salesforce/CodeT5/tree/main/CodeT5+
@@ -293,6 +294,13 @@
     - homepage: https://www.deepspeed.ai/
     - blog:
       - [人手一个ChatGPT！微软DeepSpeed Chat震撼发布，一键RLHF训练千亿级大模型](https://mp.weixin.qq.com/s/G8W9nSQd600wesSJFE2dhw) | 新智元 2023-04-12
+
+  * DISC-MedLLM(复旦FudanDISC):
+    - code: https://github.com/FudanDISC/DISC-MedLLM
+    - homepage: https://med.fudan-disc.com
+    - [paper](https://arxiv.org/abs/2308.14346): DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation.
+    - blog:
+      - [复旦大学团队发布中文医疗健康个人助手，同时开源47万高质量数据集](https://mp.weixin.qq.com/s/5YDJ-WZ41_EHL9jlbGznYQ) | 机器之心 2023-09-01
   
   * DoctorGLM(xionghonglin):
     - code: https://github.com/xionghonglin/DoctorGLM
@@ -331,6 +339,12 @@
 </br>
 
 ### E
+  * EcomGPT(达摩院):
+    - code: https://github.com/Alibaba-NLP/EcomGPT
+    - [paper](https://arxiv.org/abs/2308.06966): EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce.
+    - blog:
+      - [​EcomGPT：指令微调的电商领域大模型](https://mp.weixin.qq.com/s/pT89cpjrRC7nmChEQmTm6A) | AINLP 2023-09-01
+
   * EmbodiedGPT(香港大学MMLAB&上海人工智能实验室OpenGVLab):
     - [paper](https://arxiv.org/abs/2305.15021): EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought.
     - blog:
@@ -537,6 +551,10 @@
   * 鼷鹿Kanchil:
     - code: https://github.com/vxfla/kanchil
     - note: 基于MT5的小模型。
+
+  * KnowledGPT(复旦):
+    - blog:
+      - [KnowledGPT:基于知识库的检索和存储访问增强大型语言模型](https://mp.weixin.qq.com/s/If4ssK68il5C_aEZV6xc1Q) | 知识工场 2023-09-02
   
   * Kosmos(微软):
     - [paper](https://arxiv.org/abs/2302.14045): Language Is Not All You Need: Aligning Perception with Language Models
@@ -621,6 +639,7 @@
       - [关于 Llama 2 的一切资源，我们都帮你整理好了](https://mp.weixin.qq.com/s/-01Dg9ZVfPYM4mZ4iKt8Cw) | Hugging Face 2023-08-16
       - [Llama2开源后，国产大模型在卷什么？](https://mp.weixin.qq.com/s/E7nE1m6-DlhETBT1o_1ecQ) | 机器之心 2023-08-19
       - [使用 DPO 微调 Llama 2](https://mp.weixin.qq.com/s/u-GqdifZy8ArKgZaQWmh8Q) | Hugging Face 2023-08-22
+      - [如何利用原生Llama-2进行中文对话、显存释放的机制分析与实现策略](https://mp.weixin.qq.com/s/XDPDik-k-xZ2urvv4CY14Q) | 老刘说NLP 2023-08-30
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
