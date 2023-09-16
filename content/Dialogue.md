@@ -290,6 +290,7 @@
         - [语言模型之text embedding（思考篇）](https://mp.weixin.qq.com/s/9dqZzAxcowd24D7EbKyKFA) | AINLP 2023-09-10
         - [Unigram随机分词：从Viterbi解码到随机采样](https://mp.weixin.qq.com/s/re1CWO3QV4rjwNoWVQhy1A) | 科学空间 2023-09-16
       - Transformer & Attention:
+        - [Learn-NLP-with-Transformers](github.com/datawhalechina/Learn-NLP-with-Transformers): 基于transformers的自然语言处理(NLP)入门，一个教学项目。
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
         - [Transformer 估算 101](https://mp.weixin.qq.com/s/MFgTUDAOODgMDb59eZC9Cw) | Hugging Face 2023-05-18
