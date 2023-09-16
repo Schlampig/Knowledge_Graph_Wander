@@ -384,6 +384,7 @@
     - blog:
       - [碾压LLaMA的最强开源大模型居然来自阿联酋，OpenAI和HuggingFace为它吵了起来](https://mp.weixin.qq.com/s/XKouN8pyrSQ-i4RdD3_-rg) | 大数据文摘 2023-06-08
       - [击败LLaMA？史上最强「猎鹰」排行存疑，符尧7行代码亲测，LeCun转赞](https://mp.weixin.qq.com/s/DiZMreQbQcs5Ga8l13DO5w) | 新智元 2023-06-09
+      - [重磅｜Falcon 180B 正式在 Hugging Face Hub 上发布！](https://mp.weixin.qq.com/s/JMbJcFwBeKFeRbmo5Sa8Qw) | Hugging Face 2023-09-06
 
   * FATE-LLM([Federated AI](https://fedai.org/)):
     - code: https://github.com/FederatedAI/FATE
@@ -1019,7 +1020,8 @@
     - code: https://github.com/TigerResearch/TigerBot
     - homepage: https://www.tigerbot.com/chat
     - blog:
-      - [效果达OpenAI同规模模型96%，发布即开源！国内团队新发大模型，CEO上阵写代码](https://mp.weixin.qq.com/s/mj8cWkYNQPAobA1ybUzWYg) | 量子位 2023-06-07 
+      - [效果达OpenAI同规模模型96%，发布即开源！国内团队新发大模型，CEO上阵写代码](https://mp.weixin.qq.com/s/mj8cWkYNQPAobA1ybUzWYg) | 量子位 2023-06-07
+      - [TigerBot-70B发布！](https://mp.weixin.qq.com/s/KI-XVLqrV8CsgTn4UdfRpA) | 虎博科技 2023-09-06
 
   * 通义千问(阿里):
     - homepage: tongyi.aliyun.com
