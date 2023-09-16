@@ -35,6 +35,12 @@
       - 摘要：代理（Agent）指能自主感知环境并采取行动实现目标的智能体。基于大语言模型（LLM）的 AI Agent 利用 LLM 进行记忆检索、决策推理和行动顺序选择等，把Agent的智能程度提升到了新的高度。LLM驱动的Agent具体是怎么做的呢？接下来的系列分享会介绍 AI Agent 当前最新的技术进展。本次分享为系列分享的第一部分，主要内容：介绍了Agent中常用的推理和行动框架 ReAct；ReAct 引入Thought、Action、Observation的Prompt结构，支持工具调用和多步推理。介绍了Stanford的开创性工作Generative Agents，它使用记忆流、反思和响应机制赋予25个代理人格。
       - [文字版](https://zhuanlan.zhihu.com/p/651746262)
       - [视频版](https://www.bilibili.com/video/BV1NN4y1o7vJ/?share_source=copy_web&vd_source=4efd4f95cba6924d99bff4c66cd37a18)
+    - [新书《多智能体强化学习：基础与现代方法》最新版，爱丁堡Stefano博士编著，320页pdf](https://mp.weixin.qq.com/s/nGG2kvkilqqsfWelfCaw8A) | 专知 2023-08-27
+    - [大模型剑指AI Agents，达摩院推出Dialogue Agents新基SpokenWOZ](https://mp.weixin.qq.com/s/mPZvYH1iURCNmD_cEq5XPA) | PaperWeekly 2023-08-27
+    - [人大高领人工智能学院发布AI自主智能体综述！32个AI Agent的综合分析](https://mp.weixin.qq.com/s/tEJpA6xE63Ma46hjwO8cBg) | 夕小瑶科技说 2023-08-28, [其他报导](https://mp.weixin.qq.com/s/3KQhy_RqMa8VTOKFItu97g)
+    - [全球首个大模型Agent产品爆款出场！动动嘴让PC成为打工人](https://mp.weixin.qq.com/s/5_FK4hp-KXueRw_Gnoreeg) | 新智元 2023-08-29
+    - [AI革新之路：14篇AI-Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s/d-muQFuJdL0UDPinOTZ-HQ) | AMiner科技 2023-08-28, [其他报导](https://mp.weixin.qq.com/s/apSIgDlU6szfEuKSvvDXGw)
+    - [关于大模型驱动的AI智能体Agent的一些思考](https://mp.weixin.qq.com/s/3HXt1QFCyCwq_TNCl2UMEw) | 吃果冻不吐果冻皮 2023-08-31
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
@@ -195,6 +201,7 @@
   * Tutorial
     - [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by Brendan W. Sullivan.
     - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) by Kenji Hiranabe: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone".
+    - [AI4Math？IJCAI2023最新《数学推理中的深度学习》教程，详述深度学习数学推理最新进展与未来展望，243页ppt](https://mp.weixin.qq.com/s/zm5kiW8Ucu5wWf-VB2vpOA) | 专知 2023-08-29
   * Research
     - [「深度学习数学推理」最新研究综述](https://mp.weixin.qq.com/s/uFbF04nrVxPpQfA0Bkr8oA)
     - [中山大学HCP Lab团队：AI解题新突破，神经网络推开数学推理大门](https://mp.weixin.qq.com/s/8y8ASoc469TOCFtP7MymFQ)
