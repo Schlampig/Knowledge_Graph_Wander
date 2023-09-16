@@ -1039,6 +1039,7 @@
           - [给大模型生成文本发身份证：针对大模型生成文本的可编码水印技术](https://mp.weixin.qq.com/s/belcYwdaJvTJqhN0FCohDQ) | PaperWeekly 2023-08-05
           - [大模型如何可信？字节跳动李航等最新《可信赖的大型语言模型》综述，提出可信大模型七大维度，81页pdf](https://mp.weixin.qq.com/s/49aFKOd-BwXu4gLjvHiqGw) | 专知 2023-08-12
           - [工信部发出未来产业创新任务揭榜挂帅通知(全文)](https://mp.weixin.qq.com/s/9MncLMozWhK9XpkYQwrhQQ) | 人工智能学家 2023-09-14
+          - [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security): 与LLM或GPT相关的安全工具、实验案例等资源列表。
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
