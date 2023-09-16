@@ -41,11 +41,17 @@
     - [全球首个大模型Agent产品爆款出场！动动嘴让PC成为打工人](https://mp.weixin.qq.com/s/5_FK4hp-KXueRw_Gnoreeg) | 新智元 2023-08-29
     - [AI革新之路：14篇AI-Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s/d-muQFuJdL0UDPinOTZ-HQ) | AMiner科技 2023-08-28, [其他报导](https://mp.weixin.qq.com/s/apSIgDlU6szfEuKSvvDXGw)
     - [关于大模型驱动的AI智能体Agent的一些思考](https://mp.weixin.qq.com/s/3HXt1QFCyCwq_TNCl2UMEw) | 吃果冻不吐果冻皮 2023-08-31
+    - [RealChar](github.com/Shaunwei/RealChar): AI角色扮演解决方案，可以实时创建、定制并与您的AI角色/伴侣进行对话，可以定制您的 AI 角色的个性、背景，甚至声音。
+    - [《Artificial Intelligence: Foundations of Computational Agents,  3rd Edition》](https://artint.info/3e/html/ArtInt3e.html), David L. Poole and Alan K. Mackworth (2023).
     - [从大语言模型到智能Agents](https://mp.weixin.qq.com/s/h7SIvJ1CBlhZ31W6rhlLMg) | 知识工场 2023-09-09
     - [什么是语言智能体？《语言智能体：人工智能的重要演化步骤》，54页ppt，OSU 助理教授Yu Su](https://mp.weixin.qq.com/s/aekgtZzPeLokog2GTh3xig) | 专知 2023-09-10
     - [AI Agent：基于大模型的自主智能体](https://mp.weixin.qq.com/s/z7v7T7y31vp2AKa9zilOtg) | 专知 2023-09-10
-    - [AgentVerse：清华智能体宇宙火了，AI模拟“囚徒困境”等实验只需几行简单配置](https://mp.weixin.qq.com/s/jkW2JRnbfsK81ClhwsCxqA) | 量子位 2023-09-12
+    - AgentVerse:
+      - code: github.com/OpenBMB/AgentVerse
+      - [paper](https://arxiv.org/abs/2308.10848v1): AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.
+      - [AgentVerse：清华智能体宇宙火了，AI模拟“囚徒困境”等实验只需几行简单配置](https://mp.weixin.qq.com/s/jkW2JRnbfsK81ClhwsCxqA) | 量子位 2023-09-12
     - [七个LLM的狼人杀之夜](https://mp.weixin.qq.com/s/8zQ3gS6jrY5xE2Dv-wwtMQ) | 深度学习自然语言处理 2023-09-15
+    - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List): 基于大语言模型的Agent相关文献资源大列表。
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
@@ -262,6 +268,10 @@
       - code: https://bshall.github.io/knn-vc/
       - [paper](https://arxiv.org/pdf/2305.18975.pdf): Voice Conversion With Just Nearest Neighbors
       - [支持跨语言、人声狗吠互换，仅利用最近邻的简单语音转换模型有多神奇](https://mp.weixin.qq.com/s/Lx1U-ECGVpzfCluX8lqzdg) | 机器之心 2023-07-02
+    - XTTS:
+      - code: https://github.com/coqui-ai/TTS
+      - code(huggingface): https://huggingface.co/spaces/coqui/xtts
+      - note: 开放音频基础模型，只需 3 行代码即可实现跨语言和多语言语音生成，支持3秒克隆、跨语言语音克隆、24khz质量。
 </br>
 
 ### Recommender system
