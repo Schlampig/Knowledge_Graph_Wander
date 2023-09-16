@@ -185,4 +185,6 @@
 ### WikiBinge
   * link: https://www.wikibinge.com/
   * note: discover how all things are vaguely connected.
-  
+
+### AI产品榜-飞书云文档
+  * link: https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb
