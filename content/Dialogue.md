@@ -333,6 +333,8 @@
         - [DeepSpeed结合Megatron-LM训练GPT2模型笔记](https://mp.weixin.qq.com/s/nMQkHS7Frkm9P_OxYZ1stA) | 吃果冻不吐果冻皮 2023-07-25
         - [大模型分布式训练并行技术（一）-概述](https://mp.weixin.qq.com/s/34vyMTzvjI6eA11OzkvKlA) | 吃果冻不吐果冻皮 2023-08-22
         - [模型推理服务化框架Triton保姆式教程（一）：快速入门](https://mp.weixin.qq.com/s/tIqOa7Je5Gb0pHv7Az9WxA) | 吃果冻不吐果冻皮 2023-08-24
+      - Pre-Training:
+        - [从头预训练大模型实践经验](https://mp.weixin.qq.com/s/_6--D3IWtJErWrEjd8hOpw) | 吃果冻不吐果冻皮 2023-08-27
       - Instruction/Prompt Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
@@ -796,6 +798,7 @@
           - [再看大模型用于事件演化模式自动生成：NCSCHEMA开放域分层事件模式归纳方案解析](https://mp.weixin.qq.com/s/DuFHWUuSqdRrPSAyeYBYxg) | 老刘说NLP 2023-07-15
           - [ACL 2023杰出论文奖 | 上科大、达摩院联合提出探测语言模型对本体知识的记忆与理解](https://mp.weixin.qq.com/s/oDWZlLc1drEQDe2LjfqqlQ) | 将门创投 2023-08-10
           - [大模型研发核心：数据工程、自动化评估及与知识图谱的结合](https://mp.weixin.qq.com/s/l9k49nf93nj1o3oEx3ya6w) | 老刘说NLP 2023-08-16
+          - [大模型时代的知识图谱](https://mp.weixin.qq.com/s/9Ou3Sah02prxQobnyq_BzA) | 知识工场 2023-08-27
         - [ChatGPT喜欢的秘密提示（附证据）](https://mp.weixin.qq.com/s/uC1xADTiNkpejtSEKF5nMQ) | 大数据文摘 2023-03-16
         - [ChatGPT用于数据标注是否可行：基于推特分类、生成内容排序任务的代表性实验报告介绍](https://mp.weixin.qq.com/s/laHpV38S-HsYEQ84ngTTrA) | 老刘说NLP 2023-03-29
         - [浏览器增强版ChatGPT无敌了？超强插件Monica，能聊能写效率Max](https://mp.weixin.qq.com/s/-ffD2LRwW-M9vPOXgWsnkA) | 新智元 2023-04-17
