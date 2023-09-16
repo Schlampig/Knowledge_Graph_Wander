@@ -35,6 +35,11 @@
       - [Bard是拿ChatGPT数据训练的？谷歌顶级科学家抗议无果，出走OpenAI](https://mp.weixin.qq.com/s/WeUSi5rMl9_Wu-ty30gNiw) | 机器之心 2023-03-31
       - [ChatGPT实测全线碾压Bard！谷歌溃败，十年心血打水漂](https://mp.weixin.qq.com/s/f4FWGU4OjAHpFbav8SSnRA) | 新智元 2023-04-12
       - [谷歌Bard支持中文了！十级过关，看懂梗图，直接上手免费体验](https://mp.weixin.qq.com/s/-z5G4KO7wWR721yxyQ1_sQ) | 新智元 2023-07-14
+
+  * Atom(Llama中文社区&原子回声):
+    - homepage: https://llama.family
+    - blog:
+      - [重磅来袭！Llama中文社区开源预训练中文版Atom-7B大模型](https://mp.weixin.qq.com/s/Bdx0JTVh1kgPn5ydYxIkEw) | Llama中文社区 2023-08-28
   
   * Aurora genAI(英特尔):
     - blog:
