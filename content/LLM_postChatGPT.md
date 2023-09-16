@@ -385,6 +385,7 @@
       - [碾压LLaMA的最强开源大模型居然来自阿联酋，OpenAI和HuggingFace为它吵了起来](https://mp.weixin.qq.com/s/XKouN8pyrSQ-i4RdD3_-rg) | 大数据文摘 2023-06-08
       - [击败LLaMA？史上最强「猎鹰」排行存疑，符尧7行代码亲测，LeCun转赞](https://mp.weixin.qq.com/s/DiZMreQbQcs5Ga8l13DO5w) | 新智元 2023-06-09
       - [重磅｜Falcon 180B 正式在 Hugging Face Hub 上发布！](https://mp.weixin.qq.com/s/JMbJcFwBeKFeRbmo5Sa8Qw) | Hugging Face 2023-09-06
+      - [1800亿参数，世界顶级开源大模型Falcon官宣！碾压LLaMA 2，性能直逼GPT-4](https://mp.weixin.qq.com/s/CH1HMKDhDmChXjnqod5Wrg) | 新智元 2023-09-07
 
   * FATE-LLM([Federated AI](https://fedai.org/)):
     - code: https://github.com/FederatedAI/FATE
@@ -826,6 +827,11 @@
     - [paper](https://arxiv.org/abs/2304.06939): Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text 
     - blog:
       - [ANNOUNCING OPENFLAMINGO: AN OPEN-SOURCE FRAMEWORK FOR TRAINING VISION-LANGUAGE MODELS WITH IN-CONTEXT LEARNING](https://laion.ai/blog/open-flamingo/) | official blog 2023-03-28
+
+  * Open-Interpreter(KillianLucas):
+    - code: https://github.com/KillianLucas/open-interpreter
+    - blog:
+      - [GitHub热榜登顶：开源版GPT-4代码解释器，可安装任意Python库，本地终端运行](https://mp.weixin.qq.com/s/6PZst_BdpprXyBG_06B2nA) | 夕小瑶科技说 2023-09-07
 
   * OpenLLaMA-Chinese(FittenTech):
     - code: https://github.com/FittenTech/OpenLLaMA-Chinese
