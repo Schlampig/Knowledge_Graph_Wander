@@ -699,7 +699,9 @@
 ### NLPer面试基础自检指南：100道基础NLP/知识图谱试题与必备能力思考
   * link: https://mp.weixin.qq.com/s/pzjBaDmjarwKCSaCahWTRw
   * author: 刘焕勇
-  * extra: [自然语言处理（NLP）岗位最新面试经验总结](https://mp.weixin.qq.com/s/Fd4g0kIbHI3x78jBlZ4Itg)
+  * extra:
+    - [自然语言处理（NLP）岗位最新面试经验总结](https://mp.weixin.qq.com/s/Fd4g0kIbHI3x78jBlZ4Itg)
+    - [大模型来自面试的一些体会和分享](https://mp.weixin.qq.com/s/lwyGGD1oVNU_h8x4XCZVIQ)
 
 ### python-cp-cheatsheet
   * link: https://github.com/peterlamar/python-cp-cheatsheet
