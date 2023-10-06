@@ -228,6 +228,7 @@
     - [2023年08月23日：独家 | 达摩院后的下一站：陈俊波推出具身智能大模型，要给所有机器人做一颗脑袋](https://mp.weixin.qq.com/s/n6SDzKPnzdFgEtycjFKa_w)
     - [2023年09月22日：Transformer+强化学习，DeepMind让大模型成为机器人感知世界的大脑](https://mp.weixin.qq.com/s/vuAOwvBC2uGXHoBSbBc6Hg)
     - [2023年10月04日：机器人研究迎来ImageNet时刻：一个数据集，让DeepMind具身智能大模型突飞猛进](https://mp.weixin.qq.com/s/k3iXMZtdtzoP8ZuA5_Htww)
+    - [2023年10月05日：【CMU博士论文】持续机器人学习:基准和模块化方法，125页pdf](https://mp.weixin.qq.com/s/qZRbkX-KOAgb8zqkBFb_jQ)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
