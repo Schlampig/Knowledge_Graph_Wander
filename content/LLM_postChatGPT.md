@@ -459,6 +459,10 @@
       - [腾讯首次投资大模型！Minimax被曝完成2.5亿美元新融资](https://mp.weixin.qq.com/s/rqKYUJrgksYz9eS2DQfHJQ) | 量子位 2023-06-02
     - extra:
       - [安卓版「AI乌托邦」APP上线，下载即玩！](https://mp.weixin.qq.com/s/NYbHrGLZXv8ss0QjQPPILw) | 聆心智能官方 2023-05-09
+
+  * Gobi(OpenAI):
+    - blog:
+      - [GPT-5来了？OpenAI被曝加急训练多模态大模型Gobi，一举狙杀谷歌Gemini！](https://mp.weixin.qq.com/s/1K7ajyO1Ex9utzMBr5cVxw) | 夕小瑶科技说 2023-09-20
   
   * Gorilla(UC伯克利):
    - code: https://github.com/ShishirPatil/gorilla/
@@ -544,7 +548,17 @@
     - code: https://github.com/yanqiangmiffy/InstructGLM
     - blog:
       - [InstructGLM:基于ChatGLM-6B在指令数据集上进行微调](https://mp.weixin.qq.com/s/5xFwqtJINh6HwdKPdgMARw) | ChallengeHub 2023-04-10 
-      
+
+  * 书生·浦语InternLM(上海人工智能研究院&商汤):
+    - code: https://github.com/InternLM/InternLM-techreport
+    - blog:
+      - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07
+      - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09
+      - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
+      - [书生·万卷多模态语料库](https://github.com/opendatalab/WanJuan1.0): 万卷多模态语料库的首个开源版本，包含文本数据集、图文数据集、视频数据集三部分，数据总量超过2TB.
+      - [国产开源新标杆！20B大模型，性能媲美Llama2-70B，单卡可推理](https://mp.weixin.qq.com/s/wPni3LTg3vhh-j0Uz9mBNw) | 量子位 2023-09-20
+      - [书生·浦语200亿参数模型InternLM-20B开源了！](https://mp.weixin.qq.com/s/MPJUKX-cWf_DVNqM9tLApQ) | Datawhale 2023-09-20 
+  
 </br>
 
 ### J
@@ -834,7 +848,7 @@
 </br>
 
 ### O
-  * OlaGPT():
+  * OlaGPT(?):
     - code: https://github.com/oladata-team/OlaGPT
     - [paper](https://arxiv.org/abs/2305.16334): OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities.
     - blog:
@@ -988,12 +1002,6 @@
       - [商汤“日日新SenseNova”大模型超市，来了！](https://mp.weixin.qq.com/s/Y97ejN4ZeLqECvGhfUs8Gw) | 商汤科技SenseTime 2023-04-10
       - [商汤版ChatGPT「商量」来了！开放API，基于千亿参数大模型，体验实录在此](https://mp.weixin.qq.com/s/QoQwfuzttBMxLgjVZLYI4w) | 量子位 2023-04-10
       - [商汤大模型全面升级！「商量SenseChat 2.0」大语言模型疯狂上分](https://mp.weixin.qq.com/s/vQQyIcedk3Zs6chxTCMyug) | 新智元 2023-07-07
-    - extra:
-      - [中文大语言模型赶考：商汤与上海AI Lab等新发布「书生·浦语」](https://mp.weixin.qq.com/s/lAdXtVfzziTRxz7SKWJauA) | 机器之心 2023-06-07
-        - code: https://github.com/InternLM/InternLM-techreport
-        - [没看懂的多语种语言模型InternLM：采用渐进能力增强训练的千亿模型工作阅读](https://mp.weixin.qq.com/s/lU6xiF8WvCdj6dj4gQBdbg) | 老刘说NLP 2023-06-09
-        - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
-        - [书生·万卷多模态语料库](https://github.com/opendatalab/WanJuan1.0): 万卷多模态语料库的首个开源版本，包含文本数据集、图文数据集、视频数据集三部分，数据总量超过2TB.
 
   * SeqGPT(达摩院):
     - code: https://github.com/Alibaba-NLP/SeqGPT
@@ -1229,6 +1237,17 @@
   * 轩辕(度小满):
     - blog:
       - [首个开源中文金融大模型来了！解释授信额度、计算收益率、决策参考样样通，来自度小满](https://mp.weixin.qq.com/s/cQ72KvOhYf6Cojzn2l35dQ) | 量子位 2023-05-26
+
+  * Xwin-LM(?):
+    - code(github): https://github.com/Xwin-LM/Xwin-LM
+    - code(huggingface): https://huggingface.co/Xwin-LM/Xwin-LM-70B-V0.1
+    - note: Xwin-LM aims to develop and open-source alignment technologies for large language models, including supervised fine-tuning (SFT), reward models (RM), reject sampling, reinforcement learning from human feedback (RLHF), etc. Our first release, built-upon on the Llama2 base models, ranked TOP-1 on AlpacaEval. Notably, it's the first to surpass GPT-4 on this benchmark. The project will be continuously updated.
+    - blog:
+      - [首次击败GPT-4？700亿参数Xwin-LM登顶斯坦福AlpacaEval，13B模型吊打ChatGPT](https://mp.weixin.qq.com/s/dWhmVgVV7AdvxnsMFu8VNg) | 新智元 2023-09-21
+    - extra:
+      - AlpacaEval: https://tatsu-lab.github.io/alpaca_eval/
+      - [Alpaca Farm](https://arxiv.org/pdf/2305.14387.pdf): AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback.
+  
 </br>
 
 ### Y
