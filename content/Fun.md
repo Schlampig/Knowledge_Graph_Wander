@@ -60,6 +60,10 @@
     - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
     - [MIT最新研究：多个AI协作有助提高大模型推理能力和准确性](https://mp.weixin.qq.com/s/dgzNjogO-hd1z4otES6Mkg) | 人工智能学家 2023-09-23
     - [AI Agent 如何实现？6张4090 魔改Llama2：一句指令拆分任务、调用函数](https://mp.weixin.qq.com/s/mWpmTfJFusI0XEHSea9ZdQ) | 机器之心 2023-09-24
+    - AgentLabs:
+      - code: https://github.com/agentlabs-inc/agentlabs
+      - demo: https://agentlabs.dev/
+      - note: 开源通用AI智能体前端，允许用户使用后端的实时双向流SDK来控制他们的AI智能体。
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
