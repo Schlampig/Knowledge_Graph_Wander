@@ -82,6 +82,7 @@
       - [大模型百川2技术报告细节分享](https://mp.weixin.qq.com/s/6mIL3e45UhB81JJtoBjkEg) | AINLP 2023-09-12
       - [全面取代Llama 2！Baichuan 2自曝史上最全训练细节](https://mp.weixin.qq.com/s/-r2KzTbHp6l-OPoRvM7gzQ) | 新智元 2023-09-15
       - [百川13B-Chat-4bits 量化版本能使吗？实测：3090 能跑，效果差别不大！](https://mp.weixin.qq.com/s/KAwzjSKmOzkERPdXU2UdWw) | 机器之心 2023-09-17
+      - [幻觉处理国内最优！530亿参数Baichuan2推理能力飙升100%，首次开放API商用](https://mp.weixin.qq.com/s/gT3Bws9I1c5bw2bLIGpeYg) | 新智元 2023-09-26
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -660,6 +661,7 @@
     - extra: 
       - [chinese_llama_alpaca_lora](https://github.com/zhangnn520/chinese_llama_alpaca_lora): LLaMA信息抽取实战。
       - [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
+      - [华为提出Sorted LLaMA：SoFT代替SFT，训练多合一大语言模型](https://mp.weixin.qq.com/s/gjIlIBkWXfLBe4rspVZpbg) | 深度学习自然语言处理 2023-09-26
 
   * LLaMA 2(Meta):
     - code: https://github.com/facebookresearch/llama
