@@ -100,6 +100,7 @@
         - [OpenAI首席科学家最新访谈：对模型创业两点建议、安全与对齐、Transformer够好吗？](https://mp.weixin.qq.com/s/PFKHfZjLQyc6dAupNoirUw) | 智源社区 2023-07-28
         - [开启大模型应用之旅前，最好弄清楚这3件事](https://mp.weixin.qq.com/s/6ye-YD_NmSIXt4Cfk5MQtg) | 吃果冻不吐果冻皮 2023-09-16
         - [北大AI博士后卢菁：一些关于AI的大实话](https://mp.weixin.qq.com/s/CFCluX8T8MfyGgSD7Vzzmw) | Datawhale 2023-10-04
+        - [首批国产AI大模型已开放？开发者不容忽视的 5 个问题！](https://mp.weixin.qq.com/s/x5JL-zbGfcPJfkqS-Lk_hw) | 吃果冻不吐果冻皮 2023-10-06
       - Awesome Collection:
         - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt): Curated list of resources for ChatGPT and GPT-3 from OpenAI. 
         - [Awesome Chatgpt](https://github.com/sindresorhus/awesome-chatgpt): Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI.
@@ -483,6 +484,7 @@
           - [大模型无标注对齐RLAIF讲解](https://mp.weixin.qq.com/s/-Sb9shk1oH3MzJqUyW3D_g) | 吃果冻不吐果冻皮 2023-09-21
         - [大模型RLHF算法更新换代，DeepMind提出自训练离线强化学习框架ReST](https://mp.weixin.qq.com/s/iVmpEndPMNk_Pj52aAYJiA) | 将门创投 2023-09-14
         - [RLHF何以成LLM训练关键？AI大牛盘点五款平替方案，详解Llama 2反馈机制升级](https://mp.weixin.qq.com/s/oWmMgIkaqkxDfoyD_RrQ4Q) | 新智元 2023-09-18
+        - [LLM成功不可或缺的基石：RLHF及其替代技术](https://mp.weixin.qq.com/s/K0hFyK0bviFdcNrl21achQ) | 机器之心 2023-10-06
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -557,6 +559,10 @@
         - [从零开始学LangChain（2）：Model I/O 模块和 Data Connection 模块](https://mp.weixin.qq.com/s/_r2eyDCa-QIlnQEMFpYOyA) | PaperWeekly 2023-09-03
         - [LangChain 的问题所在](https://mp.weixin.qq.com/s/y88G5e483vF83XfgVFaHkQ) | AI前线 2023-09-18
         - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
+      - Explanation:
+        - [大模型如何可解释？新泽西理工学院等最新《大型语言模型可解释性》综述](https://mp.weixin.qq.com/s/9kFDvvtMfV_1Lvg7HfYiow) | 专知 2023-09-12
+        - [大模型可解释性你能理得清吗？综述已来，一文解你疑惑](https://mp.weixin.qq.com/s/d07JiymZI3eSpQJ6AxIfEw) | 机器之心 2023-09-26
+        - [CMU华人打破大模型黑盒，Llama 2撒谎被一眼看穿！脑电波惨遭曝光，LLM矩阵全破解](https://mp.weixin.qq.com/s/0fPd86dMUaJmLAC3S_RZAw) | 新智元 2023-10-06
     - news & viewpoints:
       - 优势与不足：
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
@@ -1332,7 +1338,5 @@
   * [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
   * [讲义下载 | 《大规模预训练语言模型方法与实践》报告](https://mp.weixin.qq.com/s/3WGEF0q6fzKroePQ_kSUQw) | HFL实验室 2023-08-28
   * [2023年LLM如何入门？请看这篇综述！](https://mp.weixin.qq.com/s/F1EQaQC4xWzWeBgi12cwXw) | 吃果冻不吐果冻皮 2023-09-01
-  * [大模型如何可解释？新泽西理工学院等最新《大型语言模型可解释性》综述](https://mp.weixin.qq.com/s/9kFDvvtMfV_1Lvg7HfYiow) | 专知 2023-09-12
-    - [大模型可解释性你能理得清吗？综述已来，一文解你疑惑](https://mp.weixin.qq.com/s/d07JiymZI3eSpQJ6AxIfEw) | 机器之心 2023-09-26
   * [首本大模型中文新书发布，复旦最新《大规模语言模型·从理论到实践》，理论+代码](https://mp.weixin.qq.com/s/eri2TMr6GOq8R7K5XvG6dA) | 专知 2023-09-12
   * [必看的十二个大模型前沿综述：兼论HALO大模型幻觉检测与缓解方案及Google小模型预测大模型训练不稳定的探索](https://mp.weixin.qq.com/s/_XvO6_Fj0HbPQjwfiRv0nw) | 老刘说NLP 2023-09-27
