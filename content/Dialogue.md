@@ -154,6 +154,7 @@
         - [智源开放3亿条语义向量模型训练数据， BGE模型持续迭代更新](https://mp.weixin.qq.com/s/Gld4n4FEAbX-DKtNSiqf3A) | 机器之心 2023-09-15
         - [大语言模型（LLM）预训练数据集调研分析](https://mp.weixin.qq.com/s/CoZkPnxsB6Ay3RCJ8nl5BQ) | PaperWeekly 2023-09-15
         - [人类首个沙雕视频数据集 “FunQA” 让机器成为喜剧之王](https://mp.weixin.qq.com/s/S0qSmYSmp1YKZrr7T99MqQ) | 将门创投 2023-09-21
+        - [CulturaX：新的大型多语言数据集，包含 167 种语言的 6.3 万亿 Token，用于训练高性能大型语言模型 (LLM)](https://huggingface.co/datasets/uonlp/CulturaX)
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
@@ -246,6 +247,7 @@
         - [ChatGPT文明模拟器上线！一键穿越明朝南京、中世纪意大利](https://mp.weixin.qq.com/s/iYz1uHzsZPQpKZKsTjhY_A) | 新智元 2023-09-21
         - [逆转诅咒（Reversal Curse）：大模型的最大bug，回答正确率几乎为零，GPT到Llama无一幸免](https://mp.weixin.qq.com/s/H59Zv6GU5SI1eoAhjhux8w) | 机器之心 2023-09-23
         - [ChatGPT发力《龙与地下城》剧情设计，帮你一步步上手地下城主](https://mp.weixin.qq.com/s/TrNxGdfJxJxqe10MWapKow) | 机器之心 2023-09-23
+        - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context) | Anthropic official blog 2023-09-23
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
