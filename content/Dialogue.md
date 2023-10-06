@@ -398,6 +398,7 @@
           - [大模型落地应用架构的一种模式](https://mp.weixin.qq.com/s/cuC0F6JcfqI4UWVxJ1rzww) | CS的陋室 2023-09-24
         - [从原理到代码理解语言模型训练和推理，通俗易懂，快速修炼LLM](https://mp.weixin.qq.com/s/gHcNsInrlzpBG0X6sRcITg) | 深度学习自然语言处理 2023-09-19
         - [Chinchilla之死：只要训练足够长时间，小模型也能超过大模型](https://mp.weixin.qq.com/s/Rx-6odhz1ap1fNEZJw8o_w) | 机器之心 2023-10-02
+        - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models by Google-research.
       - Instruction/Prompt Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
