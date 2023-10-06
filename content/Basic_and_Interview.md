@@ -430,6 +430,11 @@
   * author: 公众号：通往AGI之路
   * keywords: 一份非常棒的AI资料库，包括输入提示词、AI绘画、AI音乐、AI网站、AI插件、AI课程……你可以把这份文档看做是一个AI学习路径，可以按照文档的章节来学习和了解AI行业，也可以用它来查找一些资料。 
 
+### Large Language Model Course
+  * link: https://github.com/mlabonne/llm-course
+  * author: Maxime Labonne
+  * keywords: Course with a roadmap and notebooks to get into Large Language Models (LLMs).
+
 ---
 ## Competition
 
@@ -703,6 +708,11 @@
     - [自然语言处理（NLP）岗位最新面试经验总结](https://mp.weixin.qq.com/s/Fd4g0kIbHI3x78jBlZ4Itg)
     - [大模型来自面试的一些体会和分享](https://mp.weixin.qq.com/s/lwyGGD1oVNU_h8x4XCZVIQ)
 
+### LLMs 千面郎君
+  * link: https://github.com/km1994/LLMs_interview_notes
+  * author: km1994(杨夕)
+  * keywords: 该仓库主要记录 大模型（LLMs） 算法工程师相关的面试题.
+
 ### python-cp-cheatsheet
   * link: https://github.com/peterlamar/python-cp-cheatsheet
   * author: Peter Lamar
@@ -719,7 +729,7 @@
   * author: Sasha Rush
   * keywords: solve puzzles, learn cuda.
 
-### leetcode-master
+### 代码随想录(leetcode-master)
   * link: https://github.com/youngyangyang04/leetcode-master
   * homepage: https://programmercarl.com/
   * author: youngyangyang04
