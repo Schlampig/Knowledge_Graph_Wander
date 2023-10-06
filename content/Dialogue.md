@@ -521,6 +521,7 @@
         - [大模型幻觉缓解前沿方案DoLa：通过对比层解码缓解大模型幻觉工作介绍](https://mp.weixin.qq.com/s/u5C9T0WnPa4J8wSe-J2bPg) | 老刘说NLP 2023-09-14
         - [马毅教授新作：白盒ViT成功实现分割涌现，经验深度学习时代即将结束？](https://mp.weixin.qq.com/s/OtkTrA0NL9o-Ot_qnLbN_g) | PaperWeekly 2023-09-15
         - [一文总结提示工程框架，除了CoT还有ToT、GoT、AoT、SoT、PoT](https://mp.weixin.qq.com/s/8H0XRns7jmS4OdbFQ2aZKA) | 夕小瑶科技说 2023-09-20
+        - [进能形式逻辑，退能四则运算，MAmmoT让LLM成为数学通才](https://mp.weixin.qq.com/s/SOsG0V8Y3IWt7yEvPD4nfw) | 机器之心 2023-09-24
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
