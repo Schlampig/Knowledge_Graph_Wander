@@ -987,6 +987,15 @@
 </br>
 
 ### Q
+  * 通义千问Qwen(阿里):
+    - homepage: tongyi.aliyun.com
+    - blog:
+      - [官宣：阿里云大模型开始邀请测试](https://mp.weixin.qq.com/s/Zp23VMxQiWHZzsBZNUtPwQ) | 阿里云 2023-04-07
+      - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
+      - [阿里版ChatGPT「通义千问」邀请测试，我们第一时间试了试](https://mp.weixin.qq.com/s/95qLhDVwNUnyJuF21jzHPw) | 机器之心 2023-04-07 
+      - [阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q) | 夕小瑶的卖萌屋 2023-04-09
+      - [通义千问Qwen-7B效果如何？Firefly微调实践，效果出色](https://mp.weixin.qq.com/s/ETpwfDO0KKWq6_YFaAj3tg) | AINLP 2023-08-05
+      - [通义千问-Qwen技术报告细节分享](https://mp.weixin.qq.com/s/5uunMZsJa66mTbSfa3cyEg) | 吃果冻不吐果冻皮 2023-10-02
 
 </br>
 
@@ -1106,15 +1115,6 @@
     - code: https://github.com/jzhang38/TinyLlama
     - blog:
       - [​TinyLlama-1.1B：从零开始训练一个精悍的语言模型](https://mp.weixin.qq.com/s/bEYabXZpLgmeBVlwI69FLw) | PaperWeekly 2023-09-14
-
-  * 通义千问(阿里):
-    - homepage: tongyi.aliyun.com
-    - blog:
-      - [官宣：阿里云大模型开始邀请测试](https://mp.weixin.qq.com/s/Zp23VMxQiWHZzsBZNUtPwQ) | 阿里云 2023-04-07
-      - [阿里版ChatGPT突然上线邀测！大模型热战正剧开始，这是第一手体验实录](https://mp.weixin.qq.com/s/olGY9Cm6hO1h8C9DSy7_qA) | 量子位 2023-04-07
-      - [阿里版ChatGPT「通义千问」邀请测试，我们第一时间试了试](https://mp.weixin.qq.com/s/95qLhDVwNUnyJuF21jzHPw) | 机器之心 2023-04-07 
-      - [阿里「通义千问」大战百度「文心一言」15个回合后，GPT4沉默了](https://mp.weixin.qq.com/s/fF8uXP00B9MtehaHE2ld9Q) | 夕小瑶的卖萌屋 2023-04-09
-      - [通义千问Qwen-7B效果如何？Firefly微调实践，效果出色](https://mp.weixin.qq.com/s/ETpwfDO0KKWq6_YFaAj3tg) | AINLP 2023-08-05
 
   * ToolLLM(清华&人大&耶鲁&腾讯&知乎):
     - code: https://github.com/OpenBMB/ToolBench
