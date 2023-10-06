@@ -64,6 +64,10 @@
       - code: https://github.com/agentlabs-inc/agentlabs
       - demo: https://agentlabs.dev/
       - note: 开源通用AI智能体前端，允许用户使用后端的实时双向流SDK来控制他们的AI智能体。
+    - Smart Agent:
+      - code: https://github.com/zzlgreat/smart_agent
+      - author: zzlgreat
+      - note: 一个开放源代码的项目，为您提供一整套完善的库，用以解构复杂任务并调度 toolkit 中的函数。该项目采用一种通用的 Agent 设计思路，将复杂任务处理的流程概括为：任务规划（Planner）→ 函数调度（Distributor）→ 函数执行（Worker）→ 结果整合（Solver）。
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
