@@ -120,6 +120,7 @@
     - [Your3dEmoji](https://github.com/41xu/Your3dEmoji)
     - [Fluentui-Emoji](https://github.com/microsoft/fluentui-emoji): a collection of familiar, friendly, and modern emoji from microsoft.
     - [WikiEmoji](https://wikiemoji.org/zh)
+    - [AI Emoji Generator](https://emojis.alexandru.so/)
   * ICON
     - [feather](https://github.com/feathericons/feather) by [Feather](https://github.com/feathericons) with [homepage](https://feathericons.com/): 简洁开源的icon素材库.
     - [iconfont+](https://www.iconfont.cn/)(注册): 幻灯片制作矢量图素材库.
