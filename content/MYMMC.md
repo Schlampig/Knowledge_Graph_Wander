@@ -226,6 +226,7 @@
     - [2023年7月15日：大模型让智能体学会与人类合作，具身智能新成果来了](https://mp.weixin.qq.com/s/GQakrTo5CWA-umL7FXoOkg)
     - [2023年07月22日：具身智能 | CCF专家谈术语](https://mp.weixin.qq.com/s/lA9q6-hCIBldaEbWYHvkRQ)
     - [2023年08月23日：独家 | 达摩院后的下一站：陈俊波推出具身智能大模型，要给所有机器人做一颗脑袋](https://mp.weixin.qq.com/s/n6SDzKPnzdFgEtycjFKa_w)
+    - [2023年09月22日：Transformer+强化学习，DeepMind让大模型成为机器人感知世界的大脑](https://mp.weixin.qq.com/s/vuAOwvBC2uGXHoBSbBc6Hg)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
@@ -266,8 +267,11 @@
   - [2023年07月03日：13万个注释神经元，5300万个突触，普林斯顿大学等发布首个完整「成年果蝇」大脑连接组](https://mp.weixin.qq.com/s/PqMRxAIF9MENNq9SAQDeIg)
     - [2023年07月13日：登顶刊Cell：中国科学家领衔发布猕猴大脑皮层细胞三维「地图」](https://mp.weixin.qq.com/s/GnaK6rpp_ULnIAnAiTGTrQ)
     - [2023年07月24日：人鼠混合大脑出现了！斯坦福大学7年研究登Nature](https://mp.weixin.qq.com/s/Xtu-9KOOG01LcKQT4R7Vqg)
+    - [2023年09月21日：马斯克的脑机接口公司官宣首次人体试验，但还有一个「致命」问题要解决](https://mp.weixin.qq.com/s/Dp4z2Tq1zwdWhHGsWmHRTg)
   - [2023年07月24日：大脑如何产生意识？神经科学家的预言输给了哲学家](https://mp.weixin.qq.com/s/7Xvfx0-1KM3V63AV1vNQBQ)
+    - [2023年09月22日：124位科学家批评整合信息论是伪科学：我们该如何探讨意识难题？](https://mp.weixin.qq.com/s/ryGMmsrdaZkiHZq4S5fqVA)
   - [2023年08月20日：直接压缩一切！OpenAI首席科学家Ilya Sutskever这么看无监督学习](https://mp.weixin.qq.com/s/DrjMOM5LhUgko6dUe6MSHA)
+  - [2023年09月20日：AI4Web3.0? 北理工等最新《面向Web 3.0的人工智能》综述, 详述基础设施层、接口层、管理层和应用层的技术栈](https://mp.weixin.qq.com/s/F-dVTqHJ1S9yxF65zAPipw)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
