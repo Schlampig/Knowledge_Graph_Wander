@@ -308,6 +308,13 @@
     - blog:
       - [人手一个ChatGPT！微软DeepSpeed Chat震撼发布，一键RLHF训练千亿级大模型](https://mp.weixin.qq.com/s/G8W9nSQd600wesSJFE2dhw) | 新智元 2023-04-12
 
+  * DISC-LawLLM(复旦FudanDISC):
+    - code: https://github.com/FudanDISC/DISC-LawLLM
+    - homepage: https://law.fudan-disc.com
+    - [paper](https://arxiv.org/abs/2309.11325): DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services.
+    - blog:
+      - [DISC-LawLLM：复旦大学团队发布中文智慧法律系统，构建司法评测基准，开源30万微调数据](https://mp.weixin.qq.com/s/fe5YlgjtWVvDA67GjdS67Q) | 深度学习自然语言处理 2023-09-28
+
   * DISC-MedLLM(复旦FudanDISC):
     - code: https://github.com/FudanDISC/DISC-MedLLM
     - homepage: https://med.fudan-disc.com
@@ -687,6 +694,9 @@
         - code: https://github.com/karpathy/llama2.c
         - [OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ) | 机器之心 2023-07-24
         - [OpenAI科学家Karpathy周末造出「婴儿Llama2」！GPT-4辅助写500行纯C代码，速揽1.6k星](https://mp.weixin.qq.com/s/lmB74YRP7dTHe_GfaIpOMg) | 新智元 2023-07-24
+      - LLaMA 2 Long:
+        - [paper](https://arxiv.org/pdf/2309.16039.pdf): Effective Long-Context Scaling of Foundation Models.
+        - [最强LLaMA突然来袭！只改一个超参数，实现上下文3.2万token，多个任务打败ChatGPT、Claude 2](https://mp.weixin.qq.com/s/CUNAnrAZs8UuywWw8X8QSQ) | 量子位 2023-09-30
 
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
@@ -812,6 +822,14 @@
     - blog:
       - [MiniGPT-4实现原理及其核心BLIP2模型实践：从代表性图文对数据集、BLIP2模型结构到调用实践](https://mp.weixin.qq.com/s/aU6fhmlO-6SY5VyjTMpIMg) | 老刘说NLP 2023-04-24
       - [大杀器，多模态大模型MiniGPT-4入坑指南](https://mp.weixin.qq.com/s/Q9vL9C2wgJOwMuRFIXl9QA) | 吃果冻不吐果冻皮 2023-08-25
+
+  * Mistral(Mistral AI):
+    - code(github): https://github.com/mistralai/mistral-src
+    - code(huggingface): https://huggingface.co/mistralai
+    - model file: https://files.mistral-7b-v0-1.mistral.ai/mistral-7B-v0.1.tar
+    - blog:
+      - [打起来了~ 最小SOTA模型：Mistral 7B，各方面碾压LLaMA2 13B和LLaMA1 34B](https://mp.weixin.qq.com/s/jzlTjYsXrV2YtQrwwBjcCg) | 深度学习自然语言处理 2023-09-28
+      - [所有基准测试都优于Llama 2 13B，最好的7B模型来了，免费用](https://mp.weixin.qq.com/s/ZixtzEX2IEWMBKqS3cSbvg) | 机器之心 2023-09-29
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
