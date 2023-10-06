@@ -49,9 +49,17 @@
     - AgentVerse:
       - code: github.com/OpenBMB/AgentVerse
       - [paper](https://arxiv.org/abs/2308.10848v1): AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.
-      - [AgentVerse：清华智能体宇宙火了，AI模拟“囚徒困境”等实验只需几行简单配置](https://mp.weixin.qq.com/s/jkW2JRnbfsK81ClhwsCxqA) | 量子位 2023-09-12
+      - blog:
+        - [AgentVerse：清华智能体宇宙火了，AI模拟“囚徒困境”等实验只需几行简单配置](https://mp.weixin.qq.com/s/jkW2JRnbfsK81ClhwsCxqA) | 量子位 2023-09-12
+        - [多LLM协同作战！清华等开源多智能体框架AgentVerse：合作打造Minecraft物品，还能训练宝可梦](https://mp.weixin.qq.com/s/snSWujHOD2EpE8C24_YFcA) | 机器学习研究组订阅 2023-09-22
     - [七个LLM的狼人杀之夜](https://mp.weixin.qq.com/s/8zQ3gS6jrY5xE2Dv-wwtMQ) | 深度学习自然语言处理 2023-09-15
+      - [8个ChatGPT玩狼人杀，带节奏，装无辜，打掩护，一样不落](https://mp.weixin.qq.com/s/S09sJiZgsWhH5NiJPAt0tA) | 夕小瑶科技说 2023-09-18
     - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List): 基于大语言模型的Agent相关文献资源大列表。
+    - [AI Agent下一个热点？复旦最新86页《大型语言模型智能体的崛起与潜力》综述，详述LLM Agent: 大脑、感知和行动](https://mp.weixin.qq.com/s/JGOEcuJlffdHkZ4B8qJu8Q) | 专知 2023-09-16
+      - [复旦NLP团队发布80页大模型Agent综述，一文纵览AI智能体的现状与未来](https://mp.weixin.qq.com/s/eWlms4IxTd4wzka4V7Gu6w) | 机器之心 2023-09-17
+    - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
+    - [MIT最新研究：多个AI协作有助提高大模型推理能力和准确性](https://mp.weixin.qq.com/s/dgzNjogO-hd1z4otES6Mkg) | 人工智能学家 2023-09-23
+    - [AI Agent 如何实现？6张4090 魔改Llama2：一句指令拆分任务、调用函数](https://mp.weixin.qq.com/s/mWpmTfJFusI0XEHSea9ZdQ) | 机器之心 2023-09-24
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
@@ -400,6 +408,7 @@
     - [从大一统视角理解扩散模型（Diffusion Models）](https://mp.weixin.qq.com/s/-BdBN4hT3orVjPYokOzALA)
     - [生成扩散模型漫谈：条件控制生成结果](https://mp.weixin.qq.com/s/THKYnbyOqnDswKXKk50eDw)
     - [NLP技术前沿动手实践：基于Huggingface的AIGC自动作图原理解析、实践与推理加速开源实操](https://mp.weixin.qq.com/s/WjG4rBhYFXN1QjMKtqgcsw)
+    - [妙鸭=SD + Lora? 对 SD+LoRA 的一些探索与验证](https://mp.weixin.qq.com/s/S1rUeH5KgAL0fAbocYpNzw)
     -  paper:
       - [Understanding Diffusion Models: A Unified Perspective](https://www.arxiv-vanity.com/papers/2208.11970/)
     - All about Flow
@@ -433,6 +442,7 @@
         - [2022年10月20日：最时髦的AI画画，一文包教包会](https://mp.weixin.qq.com/s/hiuGo4Qj1xYiePzab-nd3A)
         - [2022年10月20日：谷歌新作Imagic：扩散模型只用文字就能PS照片了！网友：效果太震撼...](https://mp.weixin.qq.com/s/EUwFWMG3yaOzhRQIyZYMgw)
         - [2023年06月04日：Midjourney劲敌来了！ 谷歌StyleDrop王牌「定制大师」引爆AI艺术圈](https://mp.weixin.qq.com/s/jWeeuRaRjKgWoiXuq7Fq_A)
+        - [2023年09月16日：Midjourney第一部ai中英双语图文描述关键词辞典（附下载）](https://mp.weixin.qq.com/s/THc4F7jnxeJPUvtSxc07Bw)
     - Stable-Diffusion(Chinese ver.)
       - [太乙](https://fengshenbang-doc.readthedocs.io/zh/latest/docs/%E5%A4%AA%E4%B9%99%E7%B3%BB%E5%88%97/index.html)
       - [AltDiffusion](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion)
@@ -453,6 +463,12 @@
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
     - [ChilloutMix](https://civitai.com/models/6424/chilloutmix) with its [huggingface page](https://huggingface.co/TASUKU2023/Chilloutmix), with [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685).
     - [Shape·E](https://github.com/openai/shap-e)([paper](https://arxiv.org/abs/2305.02463)): [OpenAI文本生成3D模型再升级，数秒完成建模，比Point·E更好用](https://mp.weixin.qq.com/s/dlOvI3YDRrQ4sXxq3V7EOg) | 机器之心 2023-05-14
+    - TextDiffuser
+      - code: https://github.com/microsoft/unilm/tree/master/textdiffuser
+      - paper:https://arxiv.org/abs/2305.10855
+      - homepage: https://jingyechen.github.io/textdiffuser/
+      - demo: https://huggingface.co/spaces/microsoft/TextDiffuser
+      - blog: [2023年09月25日：无惧图像中的文字，TextDiffuser提供更高质量文本渲染](https://mp.weixin.qq.com/s/8Tizt8wdO8Q1uZpLCYKkow)
     - CV-oriented Search Engine
       - [Modelverse](https://modelverse.cs.cmu.edu/): [GAN、扩散模型应有尽有，CMU出品的生成模型专属搜索引擎Modelverse来了](https://mp.weixin.qq.com/s/9D6UHdYhr1hPpvrrSwW7Vw)
       - [StockAI](https://www.stockai.com/): 新型AI图片库，会根据你的查询自动创建图片，可免费下载。
