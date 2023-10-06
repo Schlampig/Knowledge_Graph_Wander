@@ -756,6 +756,7 @@
     - blog:
       - [推理飙升2倍！普林斯顿北大校友祭出多头「美杜莎」，33B模型与13B一样快](https://mp.weixin.qq.com/s/X3lt_NlGy_29uz3Fy1D6iQ) | 新智元 2023-09-12
       - [LLM推理加速-Medusa](https://mp.weixin.qq.com/s/iQpjUuAEL8d6FiuGxo_tQA) | AINLP 2023-09-14
+      - [Medusa: 简单高效地解决LLM的生成延迟](https://mp.weixin.qq.com/s/g1oyXR8wn3d-Pz1ideRNoA) | 深度学习自然语言处理 2023-09-18
 
   * 孟子MengZi(澜舟科技):
     - blog:
@@ -823,6 +824,12 @@
 </br>
 
 ### N
+  * NExT-GPT(NUS):
+    - code: https://github.com/NExT-GPT/NExT-GPT
+    - [paper](https://arxiv.org/abs/2309.05519): NExT-GPT: Any-to-Any Multimodal LLM
+    - homepage: https://next-gpt.github.io 
+    - blog:
+      - [实现输入到输出「模态自由」, NUS华人团队开源NExT-GPT，最接近AGI的大一统多模态大模型来了](https://mp.weixin.qq.com/s/QI12ltWZzAjQYGwjSQzdtw) | 机器之心 2023-09-18
 
 </br>
 
