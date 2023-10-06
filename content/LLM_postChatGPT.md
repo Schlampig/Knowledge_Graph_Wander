@@ -3,6 +3,12 @@
 </br>
 
 ### A
+  * Abel(上交&上海人工智能研究院):
+    - code: https://github.com/GAIR-NLP/abel
+    - blog:
+      - [prompt概念提出者之一刘鹏飞发布Abel，仅仅使用SFT即可达数学开源SoTA，超越十亿多美元模型MathGPT和GPT4](https://mp.weixin.qq.com/s/VWp-JksR2CIXk9gkIx5qFw) | 深度学习自然语言处理 2023-09-22
+      - [数学能力超ChatGPT！上海交大团队登开源榜首](https://mp.weixin.qq.com/s/bB4A_6ncYv0DjKXxRFrVrw) | Datawhale 2023-09-23
+
   * Alpaca(斯坦福):
     - code: https://github.com/tatsu-lab/stanford_alpaca
     - data: 
@@ -163,6 +169,8 @@
       - [ChatGLM.cpp ](https://github.com/li-plus/chatglm.cpp): C++ implementation of ChatGLM-6B.
       - [人人都有“AI编程助手”！CodeGeeX2-6B开源，最低6GB显存](https://mp.weixin.qq.com/s/UF8SU1eEraHdqO6xbgVkkA) | 学术头条 2023-07-25
       - [一个简单模型就让ChatGLM性能大幅提升 | 最“in”大模型](https://mp.weixin.qq.com/s/t58rOqvtB_hvvTT9RasSnQ) | 量子位 2023-08-16
+      - [MathGLM：无需计算器，大模型也能做数学题](https://mp.weixin.qq.com/s/KkZNF-OUPT0b62-VLoyohQ) | GLM大模型 2023-09-23
+      - [聆心智能发布 CharacterGLM](https://mp.weixin.qq.com/s/oD4nJjAlWxp8wM_Lm0GEsQ) | GLM大模型 2023-09-25
 
   * ChatGLM2(智谱AI):
     - code: https://github.com/THUDM/ChatGLM2-6B
@@ -349,7 +357,7 @@
     - blog:
       - [​EcomGPT：指令微调的电商领域大模型](https://mp.weixin.qq.com/s/pT89cpjrRC7nmChEQmTm6A) | AINLP 2023-09-01
 
-  * EmbodiedGPT(香港大学MMLAB&上海人工智能实验室OpenGVLab):
+  * EmbodiedGPT(香港大学MMLAB&上海人工智能研究院OpenGVLab):
     - [paper](https://arxiv.org/abs/2305.15021): EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought.
     - blog:
       - [EmbodiedGPT｜具身智能或将成为实现AGI的最后一公里](https://mp.weixin.qq.com/s/pwDcsvAxHm5any--1fY6qA) | 李rumor 2023-06-09
@@ -437,7 +445,7 @@
       - [GPT-4大杀器谷歌Gemini来袭！26位研发大佬名单曝出，祭出类Midjourney生图能力](https://mp.weixin.qq.com/s/zgBVKKNr4Y0ozHJtEFWmQw) | 新智元 2023-08-17
       - [传谷歌开始小范围测试Gemini：比训练GPT-4算力大5倍，多模态能力大提升](https://mp.weixin.qq.com/s/sHxe9u6FwWx7SPZOACY5zw) | 机器之心 2023-09-15
   
-  * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能实验室):
+  * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能研究院):
     - code: https://github.com/OpenGVLab/GITM
     - [paper](https://github.com/OpenGVLab/GITM/blob/main/GITM.pdf): Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory.
     - blog:
@@ -672,6 +680,7 @@
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
         - [中文版开源Llama 2同时有了语言、多模态大模型，完全可商用](https://mp.weixin.qq.com/s/_TbBKKRhqMv66GGyyW74XQ) | 机器之心 2023-08-04
+        - [中文LLaMA-2刷榜，开源可商用！千元预算，训练半天，效果媲美主流大模型](https://mp.weixin.qq.com/s/HZlm21KmjjM81KsbKJM6Eg) | 新智元 2023-09-25
       - llama2.c:
         - code: https://github.com/karpathy/llama2.c
         - [OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ) | 机器之心 2023-07-24
@@ -1155,8 +1164,11 @@
 
   * vLLM(UC伯克利):
     - code: https://github.com/vllm-project/vllm
+    - [paper](https://arxiv.org/abs/2309.06180): Efficient Memory Management for Large Language Model Serving with PagedAttention.
+    - document: https://vllm.readthedocs.io/
     - blog:
-      - [比HuggingFace快24倍！伯克利神级LLM推理系统开源，碾压SOTA，让GPU砍半](https://mp.weixin.qq.com/s/e0jcROf5bz-vaxEKILnqLw) | 新智元 2023-06-21 
+      - [比HuggingFace快24倍！伯克利神级LLM推理系统开源，碾压SOTA，让GPU砍半](https://mp.weixin.qq.com/s/e0jcROf5bz-vaxEKILnqLw) | 新智元 2023-06-21
+      - [6.7k Star量的vLLM出论文了，让每个人都能轻松快速低成本地部署LLM服务](https://mp.weixin.qq.com/s/q80sR-CsF-iN-rjSJG_XPw) | 机器之心 2023-09-25
   
   * Voyager(英伟达):
     - homepage: https://voyager.minedojo.org/
@@ -1237,6 +1249,7 @@
   * 轩辕(度小满):
     - blog:
       - [首个开源中文金融大模型来了！解释授信额度、计算收益率、决策参考样样通，来自度小满](https://mp.weixin.qq.com/s/cQ72KvOhYf6Cojzn2l35dQ) | 量子位 2023-05-26
+      - [度小满“轩辕70B”金融大模型开源！登顶两大权威测评榜单，所有用户均可下载](https://mp.weixin.qq.com/s/J1vmRoxuNJlP2iob4wNAWg) | 量子位 2023-09-25
 
   * Xwin-LM(?):
     - code(github): https://github.com/Xwin-LM/Xwin-LM
