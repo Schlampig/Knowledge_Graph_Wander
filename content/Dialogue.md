@@ -496,6 +496,7 @@
         - [Skeleton-of-Thought: 大模型并行解码](https://mp.weixin.qq.com/s/Znl7hqsni1WyOw2bhXtbiQ) | 吃果冻不吐果冻皮 2023-08-06
         - [你有没深入想过，什么造成了GPT-4的输出很随机？](https://mp.weixin.qq.com/s/_zrUg-kwNoHxUV54iVRYVw) | 机器之心 2023-08-07
       - Emergent Ability (e.g., CoT):
+        - [CoT-Reasoning-Survey](https://github.com/zchuz/CoT-Reasoning-Survey): [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](arxiv.org/abs/2309.15402). 
         - [张俊林：大语言模型的涌现能力——现象与解释](https://mp.weixin.qq.com/s/WzNQekGOIb4BuakzbBhYsQ) | AINLP 2023-04-19
         - [GPT之父谈未来五年的AI：模型规模见顶，下个突破点在用好AI涌现特质](https://mp.weixin.qq.com/s/jObP_dY1M60Z3NmuMbLX7w) | 夕小瑶科技说 2023-04-26 
         - [幻觉？马斯克TruthGPT也搞不定！OpenAI联合创始人直言很复杂](https://mp.weixin.qq.com/s/FcI-MWFPk0ZE3p1kmTCkdA) | 新智元 2023-05-03
