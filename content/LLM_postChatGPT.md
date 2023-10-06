@@ -75,6 +75,7 @@
       - [王小川第三个大模型发布！530亿参数、服务B端、文科更强](https://mp.weixin.qq.com/s/b2HWqSkv6TULcng3JQCg5A) | 智东西 2023-08-08
       - [大模型百川2技术报告细节分享](https://mp.weixin.qq.com/s/6mIL3e45UhB81JJtoBjkEg) | AINLP 2023-09-12
       - [全面取代Llama 2！Baichuan 2自曝史上最全训练细节](https://mp.weixin.qq.com/s/-r2KzTbHp6l-OPoRvM7gzQ) | 新智元 2023-09-15
+      - [百川13B-Chat-4bits 量化版本能使吗？实测：3090 能跑，效果差别不大！](https://mp.weixin.qq.com/s/KAwzjSKmOzkERPdXU2UdWw) | 机器之心 2023-09-17
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -237,6 +238,7 @@
       - [开源大模型代码短板补上了！新羊驼Python赛过ChatGPT，10万上下文免费可商用](https://mp.weixin.qq.com/s/ZzvEoiXyE4hav35UmG2How) | 量子位 2023-08-25
       - [发布一天，Code Llama代码能力突飞猛进，微调版HumanEval得分超GPT-4](https://mp.weixin.qq.com/s/19nANMpAB3lfySr86n1a6A) | 机器之心 2023-08-26
       - [不用4个H100！340亿参数Code Llama在Mac可跑，每秒20个token，代码生成最拿手｜Karpathy转赞](https://mp.weixin.qq.com/s/VXiby6fUCWJEP3fsqHbTEw) | 新智元 2023-09-01
+      - [Code Llama实战(上篇) : 模型简介与试用](https://mp.weixin.qq.com/s/WUYSt8A9wUpeIG68ldqGvQ) | AINLP 2023-09-16
 
   * Code T5+(Salesforce):
     - code: https://github.com/salesforce/CodeT5/tree/main/CodeT5+
@@ -900,11 +902,11 @@
     - blog:
       - [华为最新大模型来了！盘古3.0问世，千亿参数规模3万亿tokens，放话「不作诗只做事」](https://mp.weixin.qq.com/s/r9vHX_TLY7lUd6TmWQcFxA) | 量子位 2023-07-07
       - [华为的大模型终于来了，我的评价是：相当震撼。](https://mp.weixin.qq.com/s/0BDOziIYX0a-SDAvIpHkCg) | 差评 2023-07-08
-  
-  * PKU-Beaver(北大):
-    - code: https://github.com/PKU-Alignment/safe-rlhf
+
+  * phi-1.5(微软):
+    - [paper](https://arxiv.org/abs/2309.05463): Textbooks Are All You Need II: phi-1.5 technical report
     - blog:
-      - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18
+      - [1.3>7？微软新模型“以小博大”战胜Llama2，网友：用Benchmark训练的吧？](https://mp.weixin.qq.com/s/4Da7J7QoHbPX7ipgD3UbxQ) | 量子位 2023-09-16
 
   * PICA(东北大学):
     - code: https://github.com/NEU-DataMining/PICA
@@ -917,6 +919,11 @@
     - code: https://github.com/chancefocus/PIXIU
     - [paper](https://arxiv.org/abs/2306.05443): PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance
     - note: 整合现有多个任务的中文金融大模型数据集。
+
+  * PKU-Beaver(北大):
+    - code: https://github.com/PKU-Alignment/safe-rlhf
+    - blog:
+      - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18
 
   * Platypus(波士顿大学):
     - [paper](https://arxiv.org/abs/2308.07317): Platypus: Quick, Cheap, and Powerful Refinement of LLMs.
