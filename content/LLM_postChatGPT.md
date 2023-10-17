@@ -711,6 +711,12 @@
     - email: llama-x@mail.com
     - blog:
       - [Llama-X开源！呼吁每一位NLPer参与推动LLaMA成为最先进的LLM](https://mp.weixin.qq.com/s/HrCg6vfqq7BxBo5ATEcLrA) | PaperWeekly 2023-03-31 
+
+  * LLaVA(University of Wisconsin–Madison&微软):
+    - [paper](https://arxiv.org/abs/2310.03744): Improved Baselines with Visual Instruction Tuning.
+    - homepage: https://llava-vl.github.io/
+    - blog:
+      - [正面硬刚GPT-4V！浙大校友开源多模态大模型LLaVA-1.5，130亿参数8个A100一天训完](https://mp.weixin.qq.com/s/luvuIsIBGEJYDezEbCOw5g) | 新智元 2023-10-08
   
   * LLM-Adapters(新加坡科技设计大学&新加坡管理学院&西南交大):
     - code: LLM-Adapters
@@ -1079,12 +1085,18 @@
     - blog:
       - [秒杀自动编码Copilot！「动嘴编程」神器StarChat开源，码农狂喜](https://mp.weixin.qq.com/s/gYn33ZDqqabjagpacCsh-w) | 新智元 2023-05-14 
   
-  * StarCoder(HuggingFace&ServiceNow ):
+  * StarCoder(HuggingFace&ServiceNow):
     - code: https://github.com/bigcode-project/starcoder
     - [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view): StarCoder: may the source be with you!
     - blog:
       - [StarCoder: 最先进的代码大模型](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q) | Hugging Face 2023-05-08
       - [使用 StarCoder 创建一个编程助手](https://mp.weixin.qq.com/s/-j_d0D0paFHrm4ciDFcI6Q) | Hugging Face 2023-05-24
+
+  * StreamingLLM(MIT&MetaAI&CMU):
+    - code: https://github.com/mit-han-lab/streaming-llm
+    - [paper](https://arxiv.org/abs/2309.17453): Efficient Streaming Language Models with Attention Sinks.
+    - blog:
+      - [浅谈StreamingLLM中的attention sink和sink token](https://mp.weixin.qq.com/s/J84VN3hkpBcUkCDQLMwIEQ) | AINLP 2023-10-07
 
 </br>
 
