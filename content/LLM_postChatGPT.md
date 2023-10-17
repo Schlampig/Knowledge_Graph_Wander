@@ -157,6 +157,7 @@
       - [文心一言 VS ChatGLM-6B对比](https://mp.weixin.qq.com/s/iK_0HCYyPAXJIUw5yuTB2w) | ArronAI 2023-03-20
       - [大模型掀起诸神之战，我们更需要人人可用的“普惠模型”](https://mp.weixin.qq.com/s/RMzZIRoSfM4rxCPQb8kXGQ) | 罗超频道 2023-04-17
       - [ChatGLM基座：GLM（General Language Model）](https://mp.weixin.qq.com/s/B1U0GhnikrhFKozs_keM5w) | ChallengeHub 2023-05-15
+      - [ChatGLM 金融大模型决赛方案总结](https://mp.weixin.qq.com/s/zdHlw85qZcY0IytYNOOBFQ) | AINLP 2023-10-11
     - technic:
       - [从0到1基于ChatGLM-6B使用LoRA进行参数高效微调](https://mp.weixin.qq.com/s/ZqlOFOrDmLIzpTJm5y0Y3Q) | AINLP 2023-05-16
       - [ChatGLM-6B V1.1：平衡微调数据，提升英文能力，加强中英互译](https://mp.weixin.qq.com/s/kkjnYQ8Mr-b_U-H0lgFi1Q) | AINLP 2023-05-17
@@ -254,6 +255,13 @@
     - [paper](https://arxiv.org/pdf/2305.07922.pdf): CodeT5+: Open Code Large Language Models for Code Understanding and Generation.
     - blog:
       - [刷新20项代码任务SOTA，Salesforce提出新型基础LLM系列编码器-解码器Code T5+](https://mp.weixin.qq.com/s/xKD2GhdLzsyTCsZ-5HzJsQ) | 机器之心 2023-06-24
+
+  * CogVLM(清华&智谱):
+    - code: https://github.com/THUDM/CogVLM
+    - demo: http://36.103.203.44:7861
+    - blog:
+      - [挑战GPT-4V！清华唐杰&智谱开源多模态14边形战士，在线可玩](https://mp.weixin.qq.com/s/sKMQUrIGBN2Kh9Nx2ifJtg) | 量子位 2023-10-10
+      - [CogVLM：智谱AI 新一代多模态大模型](https://mp.weixin.qq.com/s/KqgFjOP36Mn_7pKYMWxlxQ) | GLM大模型 2023-10-11
   
   * ColossalAI(潞晨科技):
     - code: https://github.com/hpcaitech/ColossalAI
@@ -579,7 +587,8 @@
       - [彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://mp.weixin.qq.com/s/oTXnvWZJVdoOpFLHngbTYQ) | 机器之心 2023-07-12
       - [书生·万卷多模态语料库](https://github.com/opendatalab/WanJuan1.0): 万卷多模态语料库的首个开源版本，包含文本数据集、图文数据集、视频数据集三部分，数据总量超过2TB.
       - [国产开源新标杆！20B大模型，性能媲美Llama2-70B，单卡可推理](https://mp.weixin.qq.com/s/wPni3LTg3vhh-j0Uz9mBNw) | 量子位 2023-09-20
-      - [书生·浦语200亿参数模型InternLM-20B开源了！](https://mp.weixin.qq.com/s/MPJUKX-cWf_DVNqM9tLApQ) | Datawhale 2023-09-20 
+      - [书生·浦语200亿参数模型InternLM-20B开源了！](https://mp.weixin.qq.com/s/MPJUKX-cWf_DVNqM9tLApQ) | Datawhale 2023-09-20
+      - [图文并茂，三步速出「原神」文稿！首个70亿参数图文混合创作大模型正式开源，一键生成神作](https://mp.weixin.qq.com/s/DgdQ7AzskSQRd0lFu6zvvQ) | 新智元 2023-10-10
   
 </br>
 
@@ -590,8 +599,8 @@
     - blog:
       - [姜子牙大模型系列 | 代码模型ziya-coding发布！低成本微调即可学会在专有场景编程](https://mp.weixin.qq.com/s/tWaRF1wL3HM87ZDEawd2UA) | 模思空间 2023-07-14
       - [姜子牙大模型系列 | ziya-coding正式开源！以更优秀的表现满足代码生成需求](https://mp.weixin.qq.com/s/If4J__eNotKzYBmt-poNTg) | 模思空间 2023-09-08
-    - extra:
       - [姜子牙大模型系列 | 写作模型ziya-writing开源！开箱即用，快来认领专属你的写作小助手吧](https://mp.weixin.qq.com/s/3Z7i4uIxx_u-Peu8iUX7EQ) | 模思空间 2023-07-19
+      - [姜子牙大模型系列 | 为知识检索而生，Ziya-Reader开源，多个长文本中文任务第一](https://mp.weixin.qq.com/s/ucrvoTKBgQZZJxbr2NFP6g) | 模思空间 2023-10-11
 
 </br>
 
@@ -803,6 +812,11 @@
     - extra:
       - [千“垂”百炼：垂直领域与语言模型（5）【医疗/健康】MedicalGPT-zh](https://mp.weixin.qq.com/s/QJKZYKh16fqLTC367WhzdA) | 看个通俗理解吧 2023-08-06
       - [千“垂”百炼：垂直领域与语言模型（6）【医疗/健康】明医 (MING)](https://mp.weixin.qq.com/s/uM4FZeDhAc6JuMlW7NCvUA) | 看个通俗理解吧 2023-08-19
+
+  * MedSyn(?):
+    - [paper](https://arxiv.org/abs/2310.03559): MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images.
+    - blog:
+      - [医学生成模型MedSyn：文字引导，AI“画”出高保真CT图像](https://mp.weixin.qq.com/s/AaGZQs2RADtBqz6F5QHCow) | 我爱计算机视觉 2023-10-11
 
   * Medusa(普林斯顿&UIUC):
     - [paper](https://arxiv.org/abs/1811.03115): Blockwise Parallel Decoding for Deep Autoregressive Models.
