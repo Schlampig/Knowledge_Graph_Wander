@@ -399,6 +399,11 @@
     - [从点云到NeRF，多伦多大学CSC 2547课程全面讲解3D计算机视觉](https://mp.weixin.qq.com/s/ihhtZWTI9LsxtoPFz0x_Hg)
     - [浅谈如何基于深度方法进行三维重建](https://mp.weixin.qq.com/s/FUURFaMQRja6PxS-SPTFeg)
     - [大卫复活！英伟达再造「神经朗基罗」，3D重建肌肉纹理肉眼可见](https://mp.weixin.qq.com/s/H0BnFExCRahcrkVwe6zzWg) | 新智元 2023-06-02
+  * CityDreamer
+    - code: https://github.com/hzxie/city-dreamer
+    - [paper](https://arxiv.org/abs/2009.00610)
+    - demo: https://haozhexie.com/project/city-dreamer
+    - [CityDreamer：一键生成无边界的3D城市](https://mp.weixin.qq.com/s/wCkAhuBGqZTEAWjN9NpEEA)
   * ViT(Vision in Transformer)
     - [简单实现 ViT](https://mp.weixin.qq.com/s/sXNI2oSZH6AaSJuqbAwF8Q)
     - [CVPR 2022 | 道高一尺，魔高一丈，ConvNet还是ViT？](https://mp.weixin.qq.com/s/png0UhkNyb1VqrRJAPyD0Q)
