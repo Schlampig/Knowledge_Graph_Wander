@@ -173,6 +173,7 @@
         - [SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE): [中文通用大模型综合性评测基准SuperCLUE正式发布](https://mp.weixin.qq.com/s/6CDnyvMsEXtmsJ9CEUn2Vw) | CLUE中文语言理解测评基准 2023-05-09
           - [中文大模型对战平台「SuperCLUE-琅琊榜」开启，首期入围近20个模型](https://mp.weixin.qq.com/s/_uoxy0VUuQdfGeipejt1lg) | CLUE中文语言理解测评基准 2023-05-19
           - [解读 | SuperCLUE 2023年9月全面测评大模型四大能力](https://mp.weixin.qq.com/s/hVRLhDxyhH41XCkn9EDUOA) | CLUE中文语言理解测评基准 2023-09-28
+          - [5000题！中文大模型多轮对抗安全基准SuperCLUE-Safety正式发布](https://mp.weixin.qq.com/s/9vB8UhbrOBYgVImjNOAqaQ) | AINLP 2023-10-09
         - [LLMEVAL](http://llmeval.com/): [千模大战，谁最强，你说了算！](https://mp.weixin.qq.com/s/0ZxX58FZxX6R_YY2sTEPig) | LLMEVAL 2023-05-10
           - [LLMEVAL-1 中文大模型评测结果发布](https://mp.weixin.qq.com/s/FeAH_30IkXHNfywKXoog1w) | LLMEVAL 2023-06-19
           - [面向真实用户需求的中文大语言模型评测第二期（LLMEVAL-2 ）发布](https://mp.weixin.qq.com/s/ZUzbf9HPgNQuLI9JUO5Ysg) | LLMEVAL 2023-07-14
@@ -257,6 +258,7 @@
         - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context) | Anthropic official blog 2023-09-23
         - [清华、微软等淘汰提示工程师？LLM与进化算法结合，创造超强提示优化器](https://mp.weixin.qq.com/s/FZO-LAwtsEzqN-KjcmznxQ) | 新智元 2023-10-02
         - [DALL·E 3辣眼图流出！OpenAI 22页报告揭秘：ChatGPT自动改写Prompt](https://mp.weixin.qq.com/s/_Iri2cdT0ZF5fufo2_HbeQ) | 新智元 2023-10-09
+        - [使用了这款提示词管理工具后，LLM 应用的稳定性和准确性提高至99%！](https://mp.weixin.qq.com/s/JRgZA93jfJxGefkXLFqcCA) | 吃果冻不吐果冻皮 2023-10-10
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -394,6 +396,7 @@
         - [模型推理服务化框架Triton保姆式教程（一）：快速入门](https://mp.weixin.qq.com/s/tIqOa7Je5Gb0pHv7Az9WxA) | 吃果冻不吐果冻皮 2023-08-24
         - [主流推理框架哪家强？看看它们在Llama 2上的性能比较](https://mp.weixin.qq.com/s/SvpqWWD_RE0yKX8ubWXXkQ) | PaperWeekly 2023-09-23
         - [大模型推理框架概述](https://mp.weixin.qq.com/s/w0D4mfhYGPUQFoydvTslJA) | 吃果冻不吐果冻皮 2023-10-08
+        - [脑洞大开：非线性RNN居然也可以并行计算？](https://mp.weixin.qq.com/s/Yj8XFpIgBxTASUeifeb6XQ) | PaperWeekly 2023-10-09
       - Pre-Training:
         - [从头预训练大模型实践经验](https://mp.weixin.qq.com/s/_6--D3IWtJErWrEjd8hOpw) | 吃果冻不吐果冻皮 2023-08-27
         - [除了训练，大模型还有很多重要工作](https://mp.weixin.qq.com/s/ss2CmXA-hb-og6anPZbx7w) | CS的陋室 2023-08-27
@@ -449,6 +452,7 @@
         - [利用未标注文本改进遵循指令的语言模型 (1) Instruction Backtranslation 简介](https://mp.weixin.qq.com/s/50wtP--W_cy-682g8cOYww) | 看个通俗理解吧 2023-09-04
         - [Qwen7b微调保姆级教程](https://mp.weixin.qq.com/s/2VuZOwe6rf3uAYyoXXPloQ) | AINLP 2023-09-13
         - [BatchPrompt：GPT-4 API太贵了，微软提出省钱大法](https://mp.weixin.qq.com/s/1bsDvuqngYmbuiSztTqoOw) | 吃果冻不吐果冻皮 2023-10-09
+        - [如何高效微调大模型？技术原理与最佳实践揭秘！](https://mp.weixin.qq.com/s/Mg9zmW9AdFqwsnnDlpb6Sw) | 吃果冻不吐果冻皮 2023-10-10
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -491,6 +495,7 @@
         - [大模型RLHF算法更新换代，DeepMind提出自训练离线强化学习框架ReST](https://mp.weixin.qq.com/s/iVmpEndPMNk_Pj52aAYJiA) | 将门创投 2023-09-14
         - [RLHF何以成LLM训练关键？AI大牛盘点五款平替方案，详解Llama 2反馈机制升级](https://mp.weixin.qq.com/s/oWmMgIkaqkxDfoyD_RrQ4Q) | 新智元 2023-09-18
         - [LLM成功不可或缺的基石：RLHF及其替代技术](https://mp.weixin.qq.com/s/K0hFyK0bviFdcNrl21achQ) | 机器之心 2023-10-06
+        - [仅需10个训练示例，成本不到0.20美元，就可以损害对齐性！](https://mp.weixin.qq.com/s/0VaH3tQ2aa4xlX68sybNMg?poc_token=HLorLmWjwyc7J0CobQ0fJzgmObc1g3sZsVeeesR2) | 深度学习自然语言处理 2023-10-09
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -552,6 +557,7 @@
         - [别用GPT-4直出文本摘要！MIT、哥大等发布全新「密度链」提示：实体密度是摘要质量的关键](https://mp.weixin.qq.com/s/SklBTf_jegeYfRuCNc04YA) | 新智元 2023-10-01
         - [大模型COT思维链推理的几个关键问题：从评测基准、结构变体到增强方案的系统综述](https://mp.weixin.qq.com/s/MynMPfP-CNWJ4Zdz07BOsg) | 老刘说NLP 2023-10-04
         - [码农狂喜！微软提出CodePlan，跨168个代码库编码任务，LLM自动化完成](https://mp.weixin.qq.com/s/_tkCHDSSxkITI0GDu1k3cw) | 新智元 2023-10-04
+        - [计算力学：量化涌现的又一条路径](https://mp.weixin.qq.com/s/8uqSlGpuHbK6McOmylf0Yg) | 集智俱乐部 2023-10-09
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -1008,6 +1014,7 @@
           - [闲谈最近大模型的一些新发现和新思考：从大模型兴趣趋势、GPT4组合模型到面向医学术语标准化的微调大模型](https://mp.weixin.qq.com/s/NNig930mWO_FvuY_AIh_Lg) | 老刘说NLP 2023-07-13
           - [关于抑郁症：给9个AI大模型的140瓶毒药](https://mp.weixin.qq.com/s/-M9Yc-1SlsiStbr5D9fzeQ) | 神经现实 2023-07-14
             - [阿里100瓶毒药解马斯克难题？国内首个大模型价值对齐数据集开源，15万评测题上线！](https://mp.weixin.qq.com/s/tZSxLU_iJ-OIqoAR1Ig2YA) | 新智元 2023-07-14
+            - [用“脑机接口”治疗抑郁症：一位90后年轻人的豪赌](https://mp.weixin.qq.com/s/OBbj_tZ7rdX2rfMdu5lHNw) | 果壳 2023-10-09
           - [哈工大赛尔实验室开源“巧板”儿童情感陪伴大模型](https://mp.weixin.qq.com/s/8Tq7hF9USLkWF6umnN52zw) | 赛尔实验室 2023-08-02
           - [中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据](https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ) | 量子位 2023-08-01
           - [大模型遇上心理健康咨询：MeChat、QiaoBan、SoulChat、MindChat四大心理健康领域微调模型总结](https://mp.weixin.qq.com/s/vSaHDJ6DxHVREefX8GHp_A) | 老刘说NLP 2023-08-13
@@ -1118,6 +1125,7 @@
           - [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security): 与LLM或GPT相关的安全工具、实验案例等资源列表。
           - [使用 FHE 实现加密大语言模型](https://mp.weixin.qq.com/s/QFxBE7NgFVH-kNu1Il-lBA) | Hugging Face 2023-09-20
           - [如何评估大语言模型是否可信？这里总结了七大维度](https://mp.weixin.qq.com/s/HTbr7aOVuJoeqbYCpY-kTA) | 机器之心 2023-10-02
+          - [六部门发文！支持社会资本向算力产业流动](https://mp.weixin.qq.com/s/gJMuxG1zlR-dQ60SacbsEQ) | 第一财经 2023-10-10
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
