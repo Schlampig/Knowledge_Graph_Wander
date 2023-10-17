@@ -581,6 +581,7 @@
         - [让AI拥有人类心智，我们还有多远？——探秘LLMs的思行合一能力](https://mp.weixin.qq.com/s/BPqQTrHLR7_70fdGZ2dZlA) | 深度学习自然语言处理 2023-10-10
         - [“吾日三省吾身!”，LLMs: what？](https://mp.weixin.qq.com/s/Au00Co-ThW1T-8FAn6GyCg) | 深度学习自然语言处理 2023-10-10
         - [来啦来啦！关于CoT提示策略综述](https://mp.weixin.qq.com/s/SCLpl-PoqctIIU5p4ql0cw) | 深度学习自然语言处理 2023-10-12
+        - [7B羊驼战胜540B“谷歌版GPT”，MIT用博弈论调教大模型，无需训练就能完成](https://mp.weixin.qq.com/s/-wMRtvYvRt5SejLX3xUVGw) | 量子位 2023-10-17
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
