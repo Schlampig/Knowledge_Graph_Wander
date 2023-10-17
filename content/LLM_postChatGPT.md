@@ -869,6 +869,8 @@
     - blog:
       - [打起来了~ 最小SOTA模型：Mistral 7B，各方面碾压LLaMA2 13B和LLaMA1 34B](https://mp.weixin.qq.com/s/jzlTjYsXrV2YtQrwwBjcCg) | 深度学习自然语言处理 2023-09-28
       - [所有基准测试都优于Llama 2 13B，最好的7B模型来了，免费用](https://mp.weixin.qq.com/s/ZixtzEX2IEWMBKqS3cSbvg) | 机器之心 2023-09-29
+    - extra:
+      - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
