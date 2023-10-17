@@ -749,6 +749,12 @@
     - extra:
       - RAFT: [玩不起RLHF？港科大开源高效对齐算法RAFT「木筏」，GPT扩散模型都能用](https://mp.weixin.qq.com/s/rhO0bE8CCQsQzsH3kdTbCA) | 量子位 2023-04-17 
 
+  * LongAlpaca(CUHK&MIT):
+    - code: https://github.com/dvlab-research/LongLoRA
+    - [paper](https://browse.arxiv.org/pdf/2309.12307.pdf): LONGLORA: EFFICIENT FINE-TUNING OF LONGCONTEXT LARGE LANGUAGE MODELS.
+    - blog:
+      - [贾佳亚团队开源全球首个70B长文本大语言模型，读论文看小说直接ProMax](https://mp.weixin.qq.com/s/HaTqlerchNV3GmTzDJDS_A) | 量子位 2023-10-09
+
   * LongLLaMA(IDEAS NCBR & DeepMind等):
     - code: https://github.com/CStanKonrad/long_llama
     - code(huggingface): https://huggingface.co/syzymon/long_llama_3b
@@ -828,6 +834,12 @@
     - blog:
       - [MiniGPT-4实现原理及其核心BLIP2模型实践：从代表性图文对数据集、BLIP2模型结构到调用实践](https://mp.weixin.qq.com/s/aU6fhmlO-6SY5VyjTMpIMg) | 老刘说NLP 2023-04-24
       - [大杀器，多模态大模型MiniGPT-4入坑指南](https://mp.weixin.qq.com/s/Q9vL9C2wgJOwMuRFIXl9QA) | 吃果冻不吐果冻皮 2023-08-25
+
+  * MiniGPT-5(加利福尼亚大学圣克鲁茨分校):
+    - code: https://github.com/eric-ai-lab/MiniGPT-5
+    - [paper](https://browse.arxiv.org/pdf/2310.02239v1.pdf): MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS
+    - blog:
+      - [统一图像和文字生成的MiniGPT-5来了：Token变Voken，模型不仅能续写，还会自动配图了](https://mp.weixin.qq.com/s/HXCcBPio__vkGmI8GibLeA) | 机器之心 2023-10-09
 
   * Mistral(Mistral AI):
     - code(github): https://github.com/mistralai/mistral-src
