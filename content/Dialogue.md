@@ -363,6 +363,7 @@
         - [大模型压缩综述](https://mp.weixin.qq.com/s/P_nF4WjxssvLa5vovaLW7w) | 吃果冻不吐果冻皮 2023-08-20
         - [LoRA继任者ReLoRA登场，通过叠加多个低秩更新矩阵实现更高效大模型训练效果](https://mp.weixin.qq.com/s/d7eqXS9OjVr4AYexARCX4Q) | 深度学习自然语言处理 2023-08-25
         - [图解大模型微调系列之：AdaLoRA，能做“财务”预算的低秩适配器](https://mp.weixin.qq.com/s/VhulEgfp5CxhHbiW4wNJcg) | 吃果冻不吐果冻皮 2023-09-22
+        - [华为提出QA-LoRA：让微调大型语言模型‘轻装上阵’](https://mp.weixin.qq.com/s/RJ3OM6Uve8xbyJYe8wzjzA) | 深度学习自然语言处理 2023-10-07
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
