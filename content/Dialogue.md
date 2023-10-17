@@ -279,8 +279,10 @@
         - [打造LLM界的Web UI：24GB显卡训练百亿大模型](https://mp.weixin.qq.com/s/mFZJiYZtUxhSONXYyQC5xQ) | NLP工作站 2023-07-25
         - [降龙十八掌：这套优化transformer内存占用的组合技值得收藏](https://mp.weixin.qq.com/s/yNi1ehpHT8v2VnmNlZTBaw) | 机器之心 2023-07-30
         - [视觉Transformer中ReLU替代softmax，DeepMind新招让成本速降](https://mp.weixin.qq.com/s/lSwPkkXdxd1hat3Y5z9_Tg) | 机器之心 2023-09-19
+        - [大模型知识蒸馏概述](https://mp.weixin.qq.com/s/1wLQMUAJ-jjXKOZdNoZn6g) | 吃果冻不吐果冻皮 2023-10-11
         - [陈丹琦团队新作：5%成本拿下SOTA，“羊驼剪毛”大法火了](https://mp.weixin.qq.com/s/DZTmfeYUceWLcRokocdFtQ) | 量子位 2023-10-12
           - [陈丹琦团队新作：LLM-Shearing](https://mp.weixin.qq.com/s/FQ5hoTV6nkivYD7C53H8ag) | 深度学习自然语言处理 2023-10-13
+        - [什么是从模型中学习(LFM)? 武汉大学等《超越微调: 从模型中学习》综述，详述模型调整、模型蒸馏、模型重用、元学习和模型编辑](https://mp.weixin.qq.com/s/ufpFK06JG3DHlM4lWmyhCw) | 专知 2023-10-16
       - Scaling Law:
         - [Large Language Models性能关键因素分析](https://mp.weixin.qq.com/s/UFCarxMb1BbZyjwTiu6Mdg) | 泛函的范 2023-04-20
         - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -511,6 +513,7 @@
         - [RLHF何以成LLM训练关键？AI大牛盘点五款平替方案，详解Llama 2反馈机制升级](https://mp.weixin.qq.com/s/oWmMgIkaqkxDfoyD_RrQ4Q) | 新智元 2023-09-18
         - [LLM成功不可或缺的基石：RLHF及其替代技术](https://mp.weixin.qq.com/s/K0hFyK0bviFdcNrl21achQ) | 机器之心 2023-10-06
         - [仅需10个训练示例，成本不到0.20美元，就可以损害对齐性！](https://mp.weixin.qq.com/s/0VaH3tQ2aa4xlX68sybNMg?poc_token=HLorLmWjwyc7J0CobQ0fJzgmObc1g3sZsVeeesR2) | 深度学习自然语言处理 2023-10-09
+        - [NeurIPS 2023 Spotlight | 面向通用决策场景的MCTS基准框架：LightZero](https://mp.weixin.qq.com/s/vCUqp2abeCs7Di1iD4Z0SQ) | PaperWeekly 2023-10-17
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -1162,6 +1165,7 @@
           - [使用 FHE 实现加密大语言模型](https://mp.weixin.qq.com/s/QFxBE7NgFVH-kNu1Il-lBA) | Hugging Face 2023-09-20
           - [如何评估大语言模型是否可信？这里总结了七大维度](https://mp.weixin.qq.com/s/HTbr7aOVuJoeqbYCpY-kTA) | 机器之心 2023-10-02
           - [六部门发文！支持社会资本向算力产业流动](https://mp.weixin.qq.com/s/gJMuxG1zlR-dQ60SacbsEQ) | 第一财经 2023-10-10
+          - [重磅！新书《可信机器学习》，375页pdf详述TML理论、应用、直觉](https://mp.weixin.qq.com/s/Nhfp4MWwjf72XbqFcun0VA) | 专知 2023-10-16
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
@@ -1397,4 +1401,3 @@
   * [2023年LLM如何入门？请看这篇综述！](https://mp.weixin.qq.com/s/F1EQaQC4xWzWeBgi12cwXw) | 吃果冻不吐果冻皮 2023-09-01
   * [首本大模型中文新书发布，复旦最新《大规模语言模型·从理论到实践》，理论+代码](https://mp.weixin.qq.com/s/eri2TMr6GOq8R7K5XvG6dA) | 专知 2023-09-12
   * [必看的十二个大模型前沿综述：兼论HALO大模型幻觉检测与缓解方案及Google小模型预测大模型训练不稳定的探索](https://mp.weixin.qq.com/s/_XvO6_Fj0HbPQjwfiRv0nw) | 老刘说NLP 2023-09-27
-  * [大模型知识蒸馏概述](https://mp.weixin.qq.com/s/1wLQMUAJ-jjXKOZdNoZn6g) | 吃果冻不吐果冻皮 2023-10-11
