@@ -68,6 +68,14 @@
       - code: https://github.com/zzlgreat/smart_agent
       - author: zzlgreat
       - note: 一个开放源代码的项目，为您提供一整套完善的库，用以解构复杂任务并调度 toolkit 中的函数。该项目采用一种通用的 Agent 设计思路，将复杂任务处理的流程概括为：任务规划（Planner）→ 函数调度（Distributor）→ 函数执行（Worker）→ 结果整合（Solver）。
+    - [米哈游联合复旦，全面解读AI Agents现状未来，网友：原神启动？！](https://mp.weixin.qq.com/s/MbINYZ8MT_lHBOJvN8NsHg) | 智能涌现 2023-10-09
+    - [具身智能与多模态语言模型: GPT4-Vision 地表最强Agent？](https://mp.weixin.qq.com/s/wVtxcnn-4TUDhGyCLTg0KA) | AINLP 2023-10-13
+    - [AI Agent的千亿美金问题：如何重构10亿知识工作职业，掀起软件生产革命？](https://mp.weixin.qq.com/s/JYu_oXWbWbasT1fcBRo-cA) | 海外独角兽 2023-10-13
+    - [ReCon框架帮助AI大模型识破谎言，来看智能体如何在阿瓦隆游戏中应对欺骗](https://mp.weixin.qq.com/s/TglUikgaQe17XTP29cF9Uw) | 机器之心 2023-10-16
+    - [英伟达爆火智能体研究：AI逼真还原人类情感！会饿会孤独，会跑步会发火](https://mp.weixin.qq.com/s/aPjhHMVHsKV1icUalSZv_w) | 新智元 2023-10-16
+    - [GPT-4肆虐「谁是卧底」桌游！交谈逼真，类人属性仍有发展空间](https://mp.weixin.qq.com/s/cR8IOCnufiUq9V7aRmsFyw) | 新智元 2023-10-16
+    - [碾压GPT-4，微软最强AutoGen爆火！多个智能体协作，编码速度飙升4倍，GitHub狂揽10k星](https://mp.weixin.qq.com/s/1K0nPE6wY2_bP-PaY0Opcw) | 新智元 2023-10-16
+    - [全面超越AutoGPT，面壁智能联合清华NLP实验室开源大模型「超级英雄」XAgent](https://mp.weixin.qq.com/s/vW5HDUuRHve4KwOljLhqoQ) | 机器之心 2023-10-17
   * 智能决策
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
