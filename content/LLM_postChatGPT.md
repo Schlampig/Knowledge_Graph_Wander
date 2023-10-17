@@ -348,6 +348,12 @@
   * DreamGPT(DivergentAI):
     - code: https://github.com/DivergentAI/dreamGPT
     - note: 首个利用大型语言模型(LLMs)产生的幻觉进行发散性思考，以创造新颖创新想法的基于GPT的解决方案。目标是尽可能探索更多的可能性，而不是解决特定的问题。
+
+  * DreamLLM(西安交大&MEGVII&清华&HUST):
+    - code: https://github.com/RunpeiDong/DreamLLM
+    - [paper](https://arxiv.org/abs/2309.11499): DreamLLM: Synergistic Multimodal Comprehension and Creation.
+    - blog:
+      - [DreamLLM：多功能多模态大型语言模型，你的DreamLLM~](https://mp.weixin.qq.com/s/7JmbR6h9fGnXHXDB6yiGDw) | AINLP 2023-10-09
   
   * Dromedary(IBM):
     - code: https://huggingface.co/zhiqings/dromedary-65b-lora-delta-v0
@@ -938,6 +944,12 @@
     - code: https://github.com/Luodian/otter
     - [paper](https://arxiv.org/abs/2305.03726): Otter: A Multi-Modal Model with In-Context Instruction Tuning
     - note: 一种基于OpenFlamingo构建的指令调优模型，已针对上下文进行了定制。
+
+  * OWL(云智慧智能研究院&北航):
+    - code: https://github.com/HC-Guo/Owl
+    - [paper](https://arxiv.org/abs/2309.09298): OWL: A Large Language Model for IT Operations.
+    - blog:
+      - [OWL🦉：云智慧智能研究院联合北航提出智能运维（AIOps）大语言模型](https://mp.weixin.qq.com/s/LVFp8iYFCg0FouTUWVtFIw) | PaperWeekly 2023-10-09
 
 </br>
 
