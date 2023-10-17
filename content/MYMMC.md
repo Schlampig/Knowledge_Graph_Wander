@@ -274,10 +274,14 @@
   - [2023年07月24日：大脑如何产生意识？神经科学家的预言输给了哲学家](https://mp.weixin.qq.com/s/7Xvfx0-1KM3V63AV1vNQBQ)
     - [2023年09月22日：124位科学家批评整合信息论是伪科学：我们该如何探讨意识难题？](https://mp.weixin.qq.com/s/ryGMmsrdaZkiHZq4S5fqVA)
     - [2023年10月02日：20多种意识理论哪个才是主导？五年了，还没有赢家](https://mp.weixin.qq.com/s/ktm93pDX9xCG2WkKAKmi1Q)
+    - [2023年10月14日：Science重磅：迄今为止最全面的人类和非人灵长类动物大脑细胞图谱，21篇论文齐发！](https://mp.weixin.qq.com/s/NlcRMOt59OaSQ2kZbegsCg)
   - [2023年08月20日：直接压缩一切！OpenAI首席科学家Ilya Sutskever这么看无监督学习](https://mp.weixin.qq.com/s/DrjMOM5LhUgko6dUe6MSHA)
   - [2023年09月20日：AI4Web3.0? 北理工等最新《面向Web 3.0的人工智能》综述, 详述基础设施层、接口层、管理层和应用层的技术栈](https://mp.weixin.qq.com/s/F-dVTqHJ1S9yxF65zAPipw)
   - [2023年10月05日：MIT惊人证明：大语言模型就是「世界模型」？吴恩达观点再被证实，LLM竟能理解空间和时间](https://mp.weixin.qq.com/s/9OcaKA6WeniXVvopGSn22A)
   - [2023年10月05日：Yann LeCun最新AI演讲《从机器学习到自主智能》，大模型不能规划，提出目标驱动AI，附视频与Slides](https://mp.weixin.qq.com/s/I7XyftKGugfWqFF0niLW3A)
+  - [2023年10月07日：主观世界模型的3类4组18个惊奇的理论分析](https://mp.weixin.qq.com/s/cON20kpSwYetvQmfM8I0aw)
+  - [2023年10月07日：科研人员提出脑启发的神经环路演化策略](https://mp.weixin.qq.com/s/butg-R9Ns2RK_Gwf1IVzbA)
+  - [2023年10月12日：突发！Hinton入局机器人创业，公司新获9000万投资](https://mp.weixin.qq.com/s/gBgAwznRFmFsrj9wBqXBiA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
