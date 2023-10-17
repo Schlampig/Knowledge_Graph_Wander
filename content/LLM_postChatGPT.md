@@ -261,6 +261,7 @@
     - demo: http://36.103.203.44:7861
     - blog:
       - [挑战GPT-4V！清华唐杰&智谱开源多模态14边形战士，在线可玩](https://mp.weixin.qq.com/s/sKMQUrIGBN2Kh9Nx2ifJtg) | 量子位 2023-10-10
+        - [GPT-4V被曝离谱bug：突然执行神秘代码，空白图片读出打折信息，网友们都看呆了](https://mp.weixin.qq.com/s/mkesn-_4QX-z8FDFS9PL1w) | 量子位 2023-10-16
       - [CogVLM：智谱AI 新一代多模态大模型](https://mp.weixin.qq.com/s/KqgFjOP36Mn_7pKYMWxlxQ) | GLM大模型 2023-10-11
   
   * ColossalAI(潞晨科技):
