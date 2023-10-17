@@ -1297,7 +1297,8 @@
     - homepage(天秤(FlagEval)): http://flageval.baai.ac.cn
     - homepage(飞智大模型技术开源(FlagOpen)): https://flagopen.baai.ac.cn/#/home
     - blog:
-      - [智源「悟道3.0」大模型系列问世，这次不拼参数，开源开放成为主角](https://mp.weixin.qq.com/s/kKqSa0sQOuRuQF7gDy7tIw) | 机器之心 2023-06-09 
+      - [智源「悟道3.0」大模型系列问世，这次不拼参数，开源开放成为主角](https://mp.weixin.qq.com/s/kKqSa0sQOuRuQF7gDy7tIw) | 机器之心 2023-06-09
+      - [国产大模型开源一哥再登场，最强双语LLM「全家桶」级开源！340亿参数超越Llama2-70B](https://mp.weixin.qq.com/s/jp90YD6LvTeQL_nAeZY1Tw) | 新智元 2023-10-12
 
 </br>
 
