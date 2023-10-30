@@ -118,6 +118,7 @@
   * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
   * [Effective Language Learning](https://effectivelanguagelearning.com/).
   * [English-Writing](https://github.com/yzy1996/English-Writing): enhance your English writing.
+  * [乡音](https://web.xiangyin.mobi/#/xy//sentences): 汇集各地方言，内容可在线听，也可录制上传自己的声音。 
 </br>
 
 ### Laws & Regulations
