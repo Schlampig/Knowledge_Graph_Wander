@@ -1013,6 +1013,7 @@
           - [多模态大模型最全综述来了！7位微软研究员大力合作，5大主题，成文119页](https://mp.weixin.qq.com/s/NEpbzd8B7f3ZYZvv-z3Ywg) | 知识工场 2023-09-26
           - [马毅团队新作！微调多模态大模型会「灾难性遗忘」，让性能大减](https://mp.weixin.qq.com/s/gNDxpXubthNiAWf8YdE8ng) | 新智元 2023-09-28
           - [ACL'23 杰出论文，MultiIntruct：通过多模态指令集微调提升VLM的零样本学习](https://mp.weixin.qq.com/s/pAaAkDuz8lEp1tmYjp_XdQ) | 将门创投 2023-10-10
+          - [多模态，原来竟有这么多花样？](https://mp.weixin.qq.com/s/LZDcnOPsGN57clqEHbjaNg) | 吃果冻不吐果冻皮 2023-10-18
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
       - 出圈 & 观点 & 故事：
