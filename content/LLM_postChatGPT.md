@@ -25,6 +25,7 @@
         - [中文羊驼大模型项目v5.0发布](https://mp.weixin.qq.com/s/PjTDYZK7a9md0MiFSyFnLQ) | HFL实验室 2023-07-19
         - [中文羊驼大模型二期项目v1.0隆重发布](https://mp.weixin.qq.com/s/s8bOcwRYiRA88kPlJKeAKA) | HFL实验室 2023-07-31
         - [【羊驼二期】开源长上下文大模型Chinese-LLaMA-2-16K](https://mp.weixin.qq.com/s/gtXswlUjsOWvpk8dtfJ8Kw) | HFL实验室 2023-08-25
+        - [【羊驼二期】v3.2：投机采样方法、小羊驼模型](https://mp.weixin.qq.com/s/JAG6oznKjUVGr9iNJC9V8g) | HFL实验室 2023-10-26
       - [medAlpaca](https://github.com/kbressem/medAlpaca): LLM finetuned for medical question answering.
       - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
 
@@ -616,6 +617,7 @@
       - [国产开源新标杆！20B大模型，性能媲美Llama2-70B，单卡可推理](https://mp.weixin.qq.com/s/wPni3LTg3vhh-j0Uz9mBNw) | 量子位 2023-09-20
       - [书生·浦语200亿参数模型InternLM-20B开源了！](https://mp.weixin.qq.com/s/MPJUKX-cWf_DVNqM9tLApQ) | Datawhale 2023-09-20
       - [图文并茂，三步速出「原神」文稿！首个70亿参数图文混合创作大模型正式开源，一键生成神作](https://mp.weixin.qq.com/s/DgdQ7AzskSQRd0lFu6zvvQ) | 新智元 2023-10-10
+      - [24GB显卡轻松微调InternLM-20B，手把手带你打造专属大模型！](https://mp.weixin.qq.com/s/Sn0NWzY04ogNYDo4ig92LA) | InternLM 2023-10-25
   
 </br>
 
@@ -1110,6 +1112,12 @@
       - [Everything You Need to Know About Sage-Chatbot Testing Feature](https://www.qyrus.com/post/feature-friday-everything-you-need-to-know-about-sage-chatbot-testing-feature) 
       - [Sage Gpt-4 Claude+ ChatGPT Dragonfly五个AI的各自特点](https://zhuanlan.zhihu.com/p/614720305) | 春眠不觉晓 2023-03-17
 
+  * SALMON(MIT&IBM):
+    - code: https://github.com/IBM/SALMON
+    - [paper](https://arxiv.org/abs/2310.05910): SALMON: Self-Alignment with Principle-Following Reward Models.
+    - blog:
+      - [目前最优的非蒸馏、可商用的开源大模型！MIT-IBM 提出鲑鱼模型！](https://mp.weixin.qq.com/s/K1P-faa4AYaXezPiLucyeg)
+
   * SeamlessM4T(Meta):
     - code: https://github.com/facebookresearch/seamless_communication
     - [paper](https://ai.meta.com/research/publications/seamless-m4t/): SeamlessM4T—Massively Multilingual & Multimodal Machine Translation.
@@ -1334,6 +1342,12 @@
     - [paper](https://arxiv.org/abs/2304.05302): RRHF: Rank Responses to Align Language Models with Human Feedback without tears.
     - blog:
       - [无需强化学习的与人类偏好对齐的语言模型：Wombat袋熊](https://mp.weixin.qq.com/s/xoPKmOzjlNZ2qGdcKeGARw) | PaperWeekly 2023-04-13 
+
+  * Woodpecker(中科大):
+    - code: https://github.com/BradyFU/Woodpecker
+    - [paper](https://arxiv.org/pdf/2310.16045.pdf): Woodpecker: Hallucination Correction for Multimodal Large Language Models.
+    - blog:
+      - [幻觉降低30%！首个多模态大模型幻觉修正工作Woodpecker](https://mp.weixin.qq.com/s/tmwVws-_UxXaCkRW14vUkg) | 我爱计算机视觉 2023-10-26
 
   * 悟道(智源):
     - code(天鹰座(Aquila)): https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila
