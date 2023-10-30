@@ -250,6 +250,12 @@
       - [不用4个H100！340亿参数Code Llama在Mac可跑，每秒20个token，代码生成最拿手｜Karpathy转赞](https://mp.weixin.qq.com/s/VXiby6fUCWJEP3fsqHbTEw) | 新智元 2023-09-01
       - [Code Llama实战(上篇) : 模型简介与试用](https://mp.weixin.qq.com/s/WUYSt8A9wUpeIG68ldqGvQ) | AINLP 2023-09-16
 
+  * CodeShell(北大):
+    - code: https://github.com/WisdomShell/codeshell
+    - model file: https://huggingface.co/WisdomShell/CodeShell-7B
+    - blog:
+      - [人手一个编程助手！北大最强代码大模型CodeShell-7B开源，性能霸榜，IDE插件全开源](https://mp.weixin.qq.com/s/lLKGDdslHgWhf6Skb-wldg) | 新智元 2023-10-19
+
   * Code T5+(Salesforce):
     - code: https://github.com/salesforce/CodeT5/tree/main/CodeT5+
     - [paper](https://arxiv.org/pdf/2305.07922.pdf): CodeT5+: Open Code Large Language Models for Code Understanding and Generation.
