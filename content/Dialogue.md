@@ -489,6 +489,8 @@
         - [DeepMind让大模型学会归纳和演绎，GPT-4准确率提升13.7%](https://mp.weixin.qq.com/s/OXT8ilDpn2xDPdinswlGdQ) | 机器之心 2023-10-14
         - [斯坦福NLP提出EFT：如何不实际微调而“假装”微调了LLM?](https://mp.weixin.qq.com/s/I7iq6a0CPb9xlLK8hRK3uw) | 深度学习自然语言处理 2023-10-23
         - [大语言模型Fine-tuning踩坑经验之谈](https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g) | PaperWeekly 2023-10-25
+        - [paper](https://arxiv.org/abs/2310.13385): Tuna: Instruction Tuning using Feedback from Large Language Models.
+        - [paper](https://www.aminer.cn/pub/6535d747939a5f408295c42e/auto-instruct-automatic-instruction-generation-and-ranking-for-black-box-language-models?f=wb): Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models.
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -663,6 +665,7 @@
         - [大模型现存的10个问题和挑战](https://mp.weixin.qq.com/s/3Qfmhpp1vuUL0p0x-P1Xog) | 知识工场 2023-09-05
         - [做情绪识别，有必要用LLM吗？](https://mp.weixin.qq.com/s/Jj4Cf4xDmykeEYTvzNoFYg) | 李rumor 2023-10-13
       - 工程化 & 硬件(芯片)：
+        - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing): 每个开发人员都应该了解 GPU 计算的知识。
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
         - [ChatGPT火爆的背后，分布式计算框架正在悄然推动AI的新时代](https://mp.weixin.qq.com/s/ItAhMxE6ZRtckuaoi8lBEQ) | 蚂蚁技术AntTech 2023-01-03
@@ -712,7 +715,7 @@
           - [在大模型数量全国领先的北京，昇腾AI“点燃”首个普惠算力底座](https://mp.weixin.qq.com/s/jNeGixh1F-JxWpmhG3N7-g) | 机器之心 2023-09-18
         - [比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://mp.weixin.qq.com/s/oFYLvxx9NGxuPIlm0sah_g) | AI前线 2023-09-08
         - [ExecuTorch：端侧AI推理，高效部署PyTorch模型：官方新工具开源，Meta已经用上了](https://mp.weixin.qq.com/s/ot6sbEpSYt2jL-2Is801fw) | 机器之心 2023-10-18
-        - [详解算力租赁与展望算力调度](https://mp.weixin.qq.com/s/Oj_vLY3SJ8qg9mYPB7fMRA) | 合纵投研 2023-10-19
+        - [详解算力租赁与展望算力调度](https://mp.weixin.qq.com/s/Oj_vLY3SJ8qg9mYPB7fMRA) | 合纵投研 2023-10-19  
       - 业界：
         - 企业
           - [**微软**下个十年的想象力，藏在ChatGPT里](https://mp.weixin.qq.com/s/7G8fkkpiIt59T5niWU8XFg) | 人工智能学家 2023-01-19
