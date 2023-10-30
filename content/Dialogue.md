@@ -237,6 +237,8 @@
         - [有被混合后的SFT数据伤到](https://mp.weixin.qq.com/s/3RIBzuVlK0qHbO_Q04s-cw) | 李rumor 2023-10-20
         - [人民网·人民数据3亿条AI数据库正式面向市场服务](https://mp.weixin.qq.com/s/DIfnk7FqrY3kSe_x2B1Y2g) | 人民数据 2023-10-20
         - [HalluQA: 测测中文大模型有没有一本正经胡说八道](https://mp.weixin.qq.com/s/y__15E2NS3bbwgiSJ4vZsg) | NLP工作站 2023-10-25
+        - [上海AI实验室联合南京大学推出大语言模型司法能力评估体系](https://mp.weixin.qq.com/s/VROiKiCK6SsGySk3-0zINA) | InternLM 2023-10-26
+        - [GLoRE：大型语言模型的逻辑推理能力探究](https://mp.weixin.qq.com/s/TPatYwIcpBnTNfEffHDPeQ) | 深度学习自然语言处理 2023-10-27
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -530,6 +532,7 @@
         - [NeurIPS 2023 Spotlight | 面向通用决策场景的MCTS基准框架：LightZero](https://mp.weixin.qq.com/s/vCUqp2abeCs7Di1iD4Z0SQ) | PaperWeekly 2023-10-17
         - [在RTX 4090被限制的时代下，让大模型使用RLHF更高效的方法来了](https://mp.weixin.qq.com/s/3I0kOE1FprOeXSEERVVBIQ) | 机器之心 2023-10-20
         - [超越强化学习：生命启发的AI](https://mp.weixin.qq.com/s/rWfMuaYgGMh70i3jx8ir_Q) | CreateAMind 2023-10-26
+        - [RLHF模型普遍存在「阿谀奉承」，从Claude到GPT-4无一幸免](https://mp.weixin.qq.com/s/HOY2UPP1g_rkV_nT09bFDA) | 机器学习算法与自然语言处理 2023-10-27
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -603,6 +606,7 @@
         - [性能强劲又通用！Meta-CoT: 混合问题场景下的自适应思维链推理](https://mp.weixin.qq.com/s/bOc5y8gmsV9FaKYQGiMgRw) | PaperWeekly 2023-10-20
         - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
         - [GPT-4不知道自己错了！ LLM新缺陷曝光，自我纠正成功率仅1%，LeCun马库斯惊呼越改越错](https://mp.weixin.qq.com/s/_xD0ePaCGftIl63fXTyPAg) | 新智元 2023-10-22
+        - [赛尔笔记 | 大模型的幻觉现象介绍](https://mp.weixin.qq.com/s/i9qaaqWwBMoac8dJLeTvzQ) | 赛尔实验室 2023-10-27
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
