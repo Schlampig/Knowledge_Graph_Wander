@@ -79,6 +79,7 @@
         - [NLP还能做什么？多机构联合发布百页论文，系统阐述后ChatGPT技术链](https://mp.weixin.qq.com/s/2t8pQB3c_QICsR5ujUL8gg) | 深度学习自然语言处理 2023-06-05, [other news](https://mp.weixin.qq.com/s/qNKM_xyYJigSGtE4J3UXXQ)
         - [GPT-4最全攻略来袭！OpenAI官方发布，六个月攒下来的使用经验都在里面了](https://mp.weixin.qq.com/s/u72wzup-5DCQrJdNNYJwDA) | 量子位 2023-06-12
         - [State of GPT: A Programmer's Perspective（万字长文梳理学习GPT的相关资料）](https://mp.weixin.qq.com/s/7GIzfcUTPiYLg9ljwnGs7Q) | AINLP 2023-10-10
+        - [复旦大学自然语言处理实验室：如何构建和训练ChatGPT](https://mp.weixin.qq.com/s/-0T8tmINQxMs3Ifai_Deog) | PaperWeekly 2023-10-22
       - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
@@ -479,6 +480,7 @@
         - [如何高效微调大模型？技术原理与最佳实践揭秘！](https://mp.weixin.qq.com/s/Mg9zmW9AdFqwsnnDlpb6Sw) | 吃果冻不吐果冻皮 2023-10-10
         - [用暂停token重新训练大模型，AI学会三思而后行](https://mp.weixin.qq.com/s/WAAVTs_svZao35XQfaZuig) | 量子位 2023-10-14
         - [DeepMind让大模型学会归纳和演绎，GPT-4准确率提升13.7%](https://mp.weixin.qq.com/s/OXT8ilDpn2xDPdinswlGdQ) | 机器之心 2023-10-14
+        - [斯坦福NLP提出EFT：如何不实际微调而“假装”微调了LLM?](https://mp.weixin.qq.com/s/I7iq6a0CPb9xlLK8hRK3uw) | 深度学习自然语言处理 2023-10-23
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -947,6 +949,7 @@
           - [比GPT-4还强，20亿参数模型做算术题，准确率几乎100%](https://mp.weixin.qq.com/s/myirjokWNi1Ga0H6R40GKA) | 机器之心 2023-09-18
           - [怎么更好的训练一个会数学推理的LLM大模型呢？](https://mp.weixin.qq.com/s/_XXtxIBlcCihvl8PBwv3jw) | 吃果冻不吐果冻皮 2023-09-20
           - [麻瓜数学：数据增强提高大模型数学推理能力，但泛化能力待提升](https://mp.weixin.qq.com/s/rBioXGaCefgOJnrkcSOs3A) | PaperWeekly 2023-10-18
+          - [MetaMath：新数学推理数据集揭秘，让大语言模型突破逆转诅咒](https://mp.weixin.qq.com/s/uUauSxSTScmBhWaiXJ6jsA) | PaperWeekly 2023-10-23
         - [Yoshua Bengio领衔跨学科团队，Nature刊文综述人工智能时代的科学发现](https://mp.weixin.qq.com/s/_daNLMGhGp3KIsXilbvXHA) | 知识工场 2023-08-14
           - [Bengio等人88页新论文：构建有意识的AI没有明显障碍](https://mp.weixin.qq.com/s/3Hd3gLSPREWZkZTiCBjgww) | 机器之心 2023-08-22
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
