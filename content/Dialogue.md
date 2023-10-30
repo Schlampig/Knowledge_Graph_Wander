@@ -236,6 +236,7 @@
         - [大视觉语言模型基准数据集ReForm-Eval：新瓶装旧酒，给旧有的基准数据集换个形式就能用来评估新的大视觉语言模型](https://mp.weixin.qq.com/s/no67e7aHqpMjIuXW3MVV0Q) | 复旦DISC 2023-10-19
         - [有被混合后的SFT数据伤到](https://mp.weixin.qq.com/s/3RIBzuVlK0qHbO_Q04s-cw) | 李rumor 2023-10-20
         - [人民网·人民数据3亿条AI数据库正式面向市场服务](https://mp.weixin.qq.com/s/DIfnk7FqrY3kSe_x2B1Y2g) | 人民数据 2023-10-20
+        - [HalluQA: 测测中文大模型有没有一本正经胡说八道](https://mp.weixin.qq.com/s/y__15E2NS3bbwgiSJ4vZsg) | NLP工作站 2023-10-25
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -363,6 +364,7 @@
         - [Transformer的上下文学习能力是哪来的？](https://mp.weixin.qq.com/s/JvNlsewic9ZEDwoMbZ5yQg) | 机器之心 2023-09-16
         - [全新注意力算法PagedAttention：LLM吞吐量提高2-4倍，模型越大效果越好](https://mp.weixin.qq.com/s/l60Pn4E0taPJuq2IFHcufg) | PaperWeekly 2023-09-28
         - [别再「浪费」GPU了，FlashAttention重磅升级，实现长文本推理速度8倍提升](https://mp.weixin.qq.com/s/dV72_ban9JHAoOV6W93G7g) | 机器之心 2023-10-14
+        - [长程 Transformer 模型](https://mp.weixin.qq.com/s/aqK9cAbzZKOyr-5XF6bRnw) | Hugging Face 2023-10-26
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -481,6 +483,7 @@
         - [用暂停token重新训练大模型，AI学会三思而后行](https://mp.weixin.qq.com/s/WAAVTs_svZao35XQfaZuig) | 量子位 2023-10-14
         - [DeepMind让大模型学会归纳和演绎，GPT-4准确率提升13.7%](https://mp.weixin.qq.com/s/OXT8ilDpn2xDPdinswlGdQ) | 机器之心 2023-10-14
         - [斯坦福NLP提出EFT：如何不实际微调而“假装”微调了LLM?](https://mp.weixin.qq.com/s/I7iq6a0CPb9xlLK8hRK3uw) | 深度学习自然语言处理 2023-10-23
+        - [大语言模型Fine-tuning踩坑经验之谈](https://mp.weixin.qq.com/s/Aa8jYs4xgcI4clwie-wO1g) | PaperWeekly 2023-10-25
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -526,6 +529,7 @@
         - [仅需10个训练示例，成本不到0.20美元，就可以损害对齐性！](https://mp.weixin.qq.com/s/0VaH3tQ2aa4xlX68sybNMg?poc_token=HLorLmWjwyc7J0CobQ0fJzgmObc1g3sZsVeeesR2) | 深度学习自然语言处理 2023-10-09
         - [NeurIPS 2023 Spotlight | 面向通用决策场景的MCTS基准框架：LightZero](https://mp.weixin.qq.com/s/vCUqp2abeCs7Di1iD4Z0SQ) | PaperWeekly 2023-10-17
         - [在RTX 4090被限制的时代下，让大模型使用RLHF更高效的方法来了](https://mp.weixin.qq.com/s/3I0kOE1FprOeXSEERVVBIQ) | 机器之心 2023-10-20
+        - [超越强化学习：生命启发的AI](https://mp.weixin.qq.com/s/rWfMuaYgGMh70i3jx8ir_Q) | CreateAMind 2023-10-26
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -614,6 +618,7 @@
         - [LangChain 的问题所在](https://mp.weixin.qq.com/s/y88G5e483vF83XfgVFaHkQ) | AI前线 2023-09-18
         - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
         - [LangChain+通义千问+AnalyticDB向量引擎保姆级教程](https://mp.weixin.qq.com/s/GiOTpJOK5tr1Bat3R-Jbyg) | 阿里云开发者 2023-10-12
+        - [大模型如何用向量数据库？清华等最新《向量数据库管理系统》综述](https://mp.weixin.qq.com/s/xyiv6V0uX9BopAytry7JFg) | 专知 2023-10-25
       - Explanation:
         - [大模型如何可解释？新泽西理工学院等最新《大型语言模型可解释性》综述](https://mp.weixin.qq.com/s/9kFDvvtMfV_1Lvg7HfYiow) | 专知 2023-09-12
         - [大模型可解释性你能理得清吗？综述已来，一文解你疑惑](https://mp.weixin.qq.com/s/d07JiymZI3eSpQJ6AxIfEw) | 机器之心 2023-09-26
@@ -888,6 +893,7 @@
           - [吴 军：ChatGPT不算新技术革命，带不来什么新机会](https://mp.weixin.qq.com/s/5t5Ffm-N88ozUvLTQsFgMQ) | 与数据同行 2023-04-09
           - [LeCun：说LLM是随机鹦鹉侮辱鸟了啊，人家三个月就学会视频网聊交友了](https://mp.weixin.qq.com/s/_SaNT96csbAzoo6M2_UOQg) | 量子位 2023-04-24
             - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://mp.weixin.qq.com/s/u9eTtZbOUHEmet8HIaUnfA) | 机器之心 2023-05-22
+            - [LeCun又双叒唱衰自回归LLM：GPT-4的推理能力非常有限，有两篇论文为证](https://mp.weixin.qq.com/s/osHH3wkPvSw2eZvNQO8Pzg) | 机器之心 2023-10-25
           - [图灵奖得主LeCun：ChatGPT局限巨大，自回归模型寿命不超5年](https://mp.weixin.qq.com/s/yu8aTglovZEvNqcUamclqg) | 知识工场 2023-05-04
           - [LSTM之父炮轰LLaMA 2：抄我想法还羞辱我！网友：LeCun干的吧？](https://mp.weixin.qq.com/s/QHcjG0zc1u64cg8EjcvNRw) | 量子位 2023-07-26
           - [专访DeepMind联合创始人：生成式AI只是一个阶段，接下来是交互式AI](https://mp.weixin.qq.com/s/E0p-WtaJpJcvSeAYET7k2A) | DeepTech深科技 2023-09-16
@@ -952,6 +958,7 @@
           - [MetaMath：新数学推理数据集揭秘，让大语言模型突破逆转诅咒](https://mp.weixin.qq.com/s/uUauSxSTScmBhWaiXJ6jsA) | PaperWeekly 2023-10-23
         - [Yoshua Bengio领衔跨学科团队，Nature刊文综述人工智能时代的科学发现](https://mp.weixin.qq.com/s/_daNLMGhGp3KIsXilbvXHA) | 知识工场 2023-08-14
           - [Bengio等人88页新论文：构建有意识的AI没有明显障碍](https://mp.weixin.qq.com/s/3Hd3gLSPREWZkZTiCBjgww) | 机器之心 2023-08-22
+          - [OceanGPT：面向海洋科学的大型语言模型初探](https://mp.weixin.qq.com/s/YHK5-qiOjSQzzFzICJbyig) | PaperWeekly 2023-10-25
         - [ChatGPT官方鉴别器紧急发布！当代自相矛盾，不想却遭遇群嘲](https://mp.weixin.qq.com/s/xEXXP2vVgsZv8WBPeb-2BQ) | 量子位 2023-02-01
           - [ChatGPT「赏金猎人」招募！OpenAI悬赏2万美元，给ChatGPT找Bug](https://mp.weixin.qq.com/s/WJz0imEcMixEF1Dta6NEyA) | 大数据文摘 2023-04-12 
           - [大模型工具学习系统性综述+开源工具平台，清华、人大、北邮、UIUC、NYU、CMU等40多位研究者联合发布](https://mp.weixin.qq.com/s/arEEAm05i_9Lij4HnxJbEw) | PaperWeekly 2023-04-24
@@ -1084,6 +1091,7 @@
             - [阿里100瓶毒药解马斯克难题？国内首个大模型价值对齐数据集开源，15万评测题上线！](https://mp.weixin.qq.com/s/tZSxLU_iJ-OIqoAR1Ig2YA) | 新智元 2023-07-14
             - [用“脑机接口”治疗抑郁症：一位90后年轻人的豪赌](https://mp.weixin.qq.com/s/OBbj_tZ7rdX2rfMdu5lHNw) | 果壳 2023-10-09
             - [脑机接口，离治抑郁、瘫痪很近，离数字永生很远｜36氪新风向](https://mp.weixin.qq.com/s/E_4jJP421wj3_nLoh5IXsw) | 36氪 2023-10-10
+            - [AI怎么啥活都接，还帮忙开发“读心术”？](https://mp.weixin.qq.com/s/4wWBaho-Guw9R44ypctsrA) | 果壳 2023-10-25
           - [哈工大赛尔实验室开源“巧板”儿童情感陪伴大模型](https://mp.weixin.qq.com/s/8Tq7hF9USLkWF6umnN52zw) | 赛尔实验室 2023-08-02
           - [中医大模型来了！临床诊疗和养生调理一步到位，发布现场训练过程大公开，超1100万条知识图谱数据](https://mp.weixin.qq.com/s/twS9En83b8WCewYX_8IobQ) | 量子位 2023-08-01
           - [大模型遇上心理健康咨询：MeChat、QiaoBan、SoulChat、MindChat四大心理健康领域微调模型总结](https://mp.weixin.qq.com/s/vSaHDJ6DxHVREefX8GHp_A) | 老刘说NLP 2023-08-13
@@ -1434,3 +1442,4 @@
   * [2023年LLM如何入门？请看这篇综述！](https://mp.weixin.qq.com/s/F1EQaQC4xWzWeBgi12cwXw) | 吃果冻不吐果冻皮 2023-09-01
   * [首本大模型中文新书发布，复旦最新《大规模语言模型·从理论到实践》，理论+代码](https://mp.weixin.qq.com/s/eri2TMr6GOq8R7K5XvG6dA) | 专知 2023-09-12
   * [必看的十二个大模型前沿综述：兼论HALO大模型幻觉检测与缓解方案及Google小模型预测大模型训练不稳定的探索](https://mp.weixin.qq.com/s/_XvO6_Fj0HbPQjwfiRv0nw) | 老刘说NLP 2023-09-27
+  * [中国人工智能系列白皮书《深度学习》](https://mp.weixin.qq.com/s/8u49LkfV1QfGu9LG9maWVw) | 专知 2023-10-25
