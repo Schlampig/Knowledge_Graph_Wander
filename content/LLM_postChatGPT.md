@@ -330,6 +330,13 @@
     - blog:
       - [人手一个ChatGPT！微软DeepSpeed Chat震撼发布，一键RLHF训练千亿级大模型](https://mp.weixin.qq.com/s/G8W9nSQd600wesSJFE2dhw) | 新智元 2023-04-12
 
+  * DISC-FinLLM(复旦FudanDISC):
+    - code: https://github.com/FudanDISC/DISC-FinLLM
+    - homepage: https://fin.fudan-disc.com
+    - [paper](http://arxiv.org/abs/2310.15205): DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning.
+    - blog:
+      - [DISC-FinLLM：复旦大学团队发布中文智慧金融系统，采用多专家微调框架](https://mp.weixin.qq.com/s/_lZe7ORPPDSguHgvDjavmw) | 复旦DISC 2023-10-25
+
   * DISC-LawLLM(复旦FudanDISC):
     - code: https://github.com/FudanDISC/DISC-LawLLM
     - homepage: https://law.fudan-disc.com
@@ -588,6 +595,11 @@
     - [paper](https://arxiv.org/pdf/2305.06500.pdf): InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning.
     - blog:
       - [超越GPT-4！华人团队爆火InstructBLIP抢跑看图聊天，开源项目横扫多项SOTA](https://mp.weixin.qq.com/s/jI1cf7FDYJscHDZKiNvoug) | 新智元 2023-05-14 
+
+  * InstructERC(华中科技大):
+    - [paper](https://arxiv.org/pdf/2309.11911.pdf): InstructERC: Reforming Emotion Recognition in Conversation with a Retrieval Multi-task LLMs Framework.
+    - blog:
+      - [InstructERC：对话情绪识别任务下的“大模型”](https://mp.weixin.qq.com/s/XWGAJaxMokBotd0VwJomeg) | AINLP 2023-10-25
 
   * InstructGLM(yanqiangmiffy):
     - code: https://github.com/yanqiangmiffy/InstructGLM
@@ -1347,6 +1359,7 @@
       - [GPT诸神之战，小巨头如何做大模型？](https://mp.weixin.qq.com/s/ZS-yiIleIVEJAsnmvS6AGg) | 雷峰网 2023-05-08
       - [讯飞星火大模型抢先进入​「升级战」：中国版ChatGPT来了](https://mp.weixin.qq.com/s/r3gXhifZAbRHyVfggizbOg) | 36氪 2023-06-09
       - [讯飞星火新版本来袭！多模态、插件等功能大揭秘，你不知道的都在这里](https://mp.weixin.qq.com/s/FE5naTFsh_bQ3bTRUyDM-A) | ChallengeHub 2023-08-14
+      - [讯飞星火升级 3.0：整体超越 ChatGPT，2024 年将实现对标 GPT-4](https://mp.weixin.qq.com/s/Uncef5_JaZWSjMdwumUA_A) | 机器之心 2023-10-24
 
   * 轩辕(度小满):
     - blog:
