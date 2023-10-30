@@ -403,6 +403,7 @@
       - [文心大模型升级3.5版本，有多强？我们帮你试了试](https://mp.weixin.qq.com/s/4SZgvv_I3iwb0IMDsSWO0A) | 机器之心 2023-07-06
       - [大模型华山论剑！百度文心大模型3.5拿下7个满分，3个绝对第一！](https://mp.weixin.qq.com/s/b-mkrY37EcbEG_f5SJkSUQ) | 我爱计算机视觉 2023-07-24
       - [重磅！清华最新报告：文心一言超越ChatGPT 3.5](https://mp.weixin.qq.com/s/gyVtLSvQuwkFu7ZmHuzypw) | CVer 2023-08-08
+      - [站上大模型制高点：我们给不输GPT-4的文心大模型4.0，来了一场技术揭秘](https://mp.weixin.qq.com/s/Gb88_7c1aF1A8d2vR_ku-w) | 机器之心 2023-10-18
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
   
@@ -825,6 +826,13 @@
       - [推理飙升2倍！普林斯顿北大校友祭出多头「美杜莎」，33B模型与13B一样快](https://mp.weixin.qq.com/s/X3lt_NlGy_29uz3Fy1D6iQ) | 新智元 2023-09-12
       - [LLM推理加速-Medusa](https://mp.weixin.qq.com/s/iQpjUuAEL8d6FiuGxo_tQA) | AINLP 2023-09-14
       - [Medusa: 简单高效地解决LLM的生成延迟](https://mp.weixin.qq.com/s/g1oyXR8wn3d-Pz1ideRNoA) | 深度学习自然语言处理 2023-09-18
+
+  * MemGPT(加州大学伯克利分校):
+    - code: https://github.com/cpacker/MemGPT
+    - [paper](https://arxiv.org/pdf/2310.08560.pdf): MEMGPT: TOWARDS LLMS AS OPERATING SYSTEMS.
+    - homepage: https://memgpt.ai/
+    - blog:
+      - [把LLM视作操作系统，它就拥有了无限「虚拟」上下文，伯克利新作已揽1.7k star](https://mp.weixin.qq.com/s/qtm52JKXoX0bGNE10a4deQ) | 机器之心 2023-10-18
 
   * 孟子MengZi(澜舟科技):
     - blog:
