@@ -9,6 +9,11 @@
       - [prompt概念提出者之一刘鹏飞发布Abel，仅仅使用SFT即可达数学开源SoTA，超越十亿多美元模型MathGPT和GPT4](https://mp.weixin.qq.com/s/VWp-JksR2CIXk9gkIx5qFw) | 深度学习自然语言处理 2023-09-22
       - [数学能力超ChatGPT！上海交大团队登开源榜首](https://mp.weixin.qq.com/s/bB4A_6ncYv0DjKXxRFrVrw) | Datawhale 2023-09-23
 
+  * ALCUNA(北大):
+    - [paper](https://arxiv.org/pdf/2310.14820.pdf): ALCUNA: Large Language Models Meet New Knowledge.
+    - blog:
+      - [北京大学王选所推出 ALCUNA ，大模型新知识理解能力评测再添一榜！](https://mp.weixin.qq.com/s/Oo1uUBNzyIPbdENUiZ5iBw) | 夕小瑶科技说 2023-10-29
+
   * Alpaca(斯坦福):
     - code: https://github.com/tatsu-lab/stanford_alpaca
     - data: 
@@ -91,6 +96,7 @@
       - [全面取代Llama 2！Baichuan 2自曝史上最全训练细节](https://mp.weixin.qq.com/s/-r2KzTbHp6l-OPoRvM7gzQ) | 新智元 2023-09-15
       - [百川13B-Chat-4bits 量化版本能使吗？实测：3090 能跑，效果差别不大！](https://mp.weixin.qq.com/s/KAwzjSKmOzkERPdXU2UdWw) | 机器之心 2023-09-17
       - [幻觉处理国内最优！530亿参数Baichuan2推理能力飙升100%，首次开放API商用](https://mp.weixin.qq.com/s/gT3Bws9I1c5bw2bLIGpeYg) | 新智元 2023-09-26
+      - [刚刚，百川智能Baichuan2-192K发布，上下文窗口全球最长！一次读完《三体》，拿下7个SOTA](https://mp.weixin.qq.com/s/uvtEg3DI23pniVwbopR7LA) | 新智元 2023-10-30
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -172,6 +178,7 @@
       - [使用DeepSpeed/P-Tuning v2对ChatGLM-6B进行微调](https://mp.weixin.qq.com/s/5Zx3I39cPzfWt-HN_e-jFw) | AINLP 2023-05-18
       - [大模型阅读笔记：ChatGLM-6B模型结构组件源码阅读](https://mp.weixin.qq.com/s/bEBrWooUU2MuMt8DwzsDKQ) | 老刘说NLP 2023-05-19
       - [ChatGLM-6B模型训练完整流程详解](https://mp.weixin.qq.com/s/w-9-l3XnB5Ty6DeeyojoIg) | AINLP 2023-07-08
+      - [成本降低 50%，智谱 GLM 背刺 GPT](https://mp.weixin.qq.com/s/nIm2iHvkzvQyTgnq2xNzog) | AI科技评论 2023-10-28
     - extra:
       - [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM): 基于中文医学知识的ChatGLM指令微调。
       - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): [基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA) | ChallengeHub 2023-04-19
@@ -532,16 +539,23 @@
      - [也读大猩猩Gorilla—面向API调用场景的微调语言模型：从训练数据、训练方法到模型效果评估](https://mp.weixin.qq.com/s/HOW8xURiThngfyuQq9RXaw) | 老刘说NLP 2023-05-28
      - [超越 GPT-4！加州大学伯克利分校与微软研究院合作开源大型语言模型 Gorilla](https://mp.weixin.qq.com/s/heQeCBVe1UV0hqHF6j3GxA) | 人工智能学家 2023-08-12
 
-* GPT-Engineer(Depict.AI):
-  - code: https://github.com/AntonOsika/gpt-engineer
-  - blog:
-    - [GPT-Engineer一夜爆火！一个提示生成整个代码库，GitHub狂飙19k星](https://mp.weixin.qq.com/s/fjrKWsjgsiCXBar9r9F4XQ) | 新智元 2023-06-20 
+  * GPT-Engineer(Depict.AI):
+    - code: https://github.com/AntonOsika/gpt-engineer
+    - blog:
+      - [GPT-Engineer一夜爆火！一个提示生成整个代码库，GitHub狂飙19k星](https://mp.weixin.qq.com/s/fjrKWsjgsiCXBar9r9F4XQ) | 新智元 2023-06-20 
   
   * GPT4All
     - code: https://github.com/nomic-ai/gpt4all
     - source: https://gpt4all.io/index.html
     - blog:
       - [笔记本就能运行的ChatGPT平替来了，附完整版技术报告](https://mp.weixin.qq.com/s/crpG4dtfQFe3Q7hR3oeyxQ) | 机器之心 2023-03-30 
+
+  * GraphGPT(港大&百度):
+    - code: https://github.com/HKUDS/GraphGPT
+    - [paper](https://arxiv.org/abs/2310.13023): GraphGPT: Graph Instruction Tuning for Large Language Models
+    - homepage: https://graphgpt.github.io/
+    - blog:
+      - [港大联合百度开源通用图大模型GraphGPT：让大语言模型读懂图数据](https://mp.weixin.qq.com/s/KD74RxzgxryBkhdd0-VUtw)
 
   * Guanaco(华盛顿大学):
     - code: https://github.com/artidoro/qlora
