@@ -63,6 +63,13 @@
       - [GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了](https://mp.weixin.qq.com/s/HD8XYv9-U0q6YAU6-jFEmg) | 机器之心 2023-05-30
       - [WorkGPT](https://github.com/team-openpm/workgpt): A GPT agent framework for invoking APIs.
 
+  * Auto-J(上海交大):
+    - code: https://github.com/GAIR-NLP/auto-j
+    - [paper](https://arxiv.org/abs/2310.05470): Generative Judge for Evaluating Alignment.
+    - demo: https://gair-nlp.github.io/auto-j/
+    - blog:
+      - [评论能力强于GPT-4，上交开源13B评估大模型Auto-J](https://mp.weixin.qq.com/s/YjCgSXn_aKUYKzpQrBg7BA) | 机器之心 2023-10-21
+
 </br>
 
 ### B
@@ -648,6 +655,12 @@
     - note: 一系列基于中文法律知识的开源大语言模型。该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
     - extra:
       - [也读Lawyer LLaMA法律领域微调大模型：从训练数据、模型训练到实验效果研读](https://mp.weixin.qq.com/s/Oqa6qOSI7rrhQ5kx4FzvZw) | 老刘说NLP 2023-05-26
+
+  * LLEMMA(普林斯顿大学&多伦多大学&剑桥大学&CMU等):
+    - code: https://github.com/EleutherAI/math-lm
+    - [paper](https://arxiv.org/pdf/2310.10631.pdf): Llemma: An Open Language Model For Mathematics.
+    - blog:
+      - [开源LLEMMA发布：超越未公开的顶尖模型，可直接应用于工具和定理证明](https://mp.weixin.qq.com/s/yR8odi9P_KLTgkDDSYNC1A) | 深度学习自然语言处理 2023-10-21
   
   * LIMA(Meta):
     - [paper](https://arxiv.org/abs/2305.11206): LIMA: Less Is More for Alignment.
@@ -965,6 +978,7 @@
     - demo: https://opiniongpt.informatik.hu-berlin.de/
     - blog:
       - [大模型偏见有多严重？柏林洪堡大学发布新工具OpinionGPT，你的AI真的公正吗？](https://mp.weixin.qq.com/s/PGMVqjeI18x7GZyksvtGzQ) | 夕小瑶科技说 2023-09-12
+      - [OpinionGPT: 大模型的“三观”从何而来？](https://mp.weixin.qq.com/s/caJNKVrRe46RVZ_S1SUTMQ) | AINLP 2023-10-23
   
   * ORCA(微软):
     - [paper](https://arxiv.org/pdf/2306.02707.pdf): Orca: Progressive Learning from Complex Explanation Traces of GPT-4.
