@@ -36,9 +36,13 @@
   * [Dynamic Knowledge Graphs (DKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/DKG.md)
   * [Commonsense Knowledge Graphs (CKGs)](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/CKG.md)
 
-### Text Operation
+### Large Language Models & ChatBots & Agents
   * [Pre-Trained Language Model](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Pre-Trained_Language_Model.md):fire:
   * [Knowledge, Commonsense, Prompt, Make Your Model Clever](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/MYMMC.md):fire::fire:
+  * [Dialogue Methods/ChatBot](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dialogue.md):fire::fire::fire:
+  * [Agents]()
+
+### Text Operation
   * [Dictionary/Corpus/Word Vectors](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dictionary.md):fire:
   * [Data Augmentation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Data_Augment.md)
   * [Text Similarity Learning](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Matching.md):fire:
@@ -53,7 +57,6 @@
   * [Text Classification](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Classification.md)
   * [Emotion/Sentiment Recognition](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Emotion_Recognition.md)
   * [Text Generation](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Text_Generation.md)
-  * [Dialogue Methods/ChatBot](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Dialogue.md):fire::fire::fire:
 
 ### Graph Operation
   * [Distant Supervision](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/Distant_Supervision.md)
