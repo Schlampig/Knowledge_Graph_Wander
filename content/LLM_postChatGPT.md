@@ -191,6 +191,11 @@
       - [单样本微调给ChatGLM2注入知识~](https://mp.weixin.qq.com/s/a7ua-8onn-o-549PS4AAkw) | 深度学习自然语言处理 2023-07-18
       - [源码解析ChatGLM2多轮对话训练方法的不足，以及改进方法](https://mp.weixin.qq.com/s/r-JOLsoIAgZynGIeryU1-Q) | 吃果冻不吐果冻皮 2023-08-13
 
+  * ChatGLM3(智谱AI):
+    - blog:
+      - [清华系ChatGLM3现场怼脸演示！多模态直逼GPT-4V，国产Code Interpreter来了](https://mp.weixin.qq.com/s/j7_t4kHiK10zmIxiPwLNTg) | 新智元 2023-10-27
+      - [智谱AI推出第三代基座大模型](https://mp.weixin.qq.com/s/JoTodw9ZWDQ38wYsddINyA) | GLM大模型 2023-10-27
+
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
     - [paper](https://arxiv.org/pdf/2306.16092.pdf): ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases.
