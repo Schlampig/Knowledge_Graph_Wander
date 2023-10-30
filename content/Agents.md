@@ -1,8 +1,7 @@
 ## **Agent-based Intelligence**
 
 
-### Agents:
-  * 多智能体
+### 多智能体
     - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
     - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
     - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
@@ -76,10 +75,26 @@
     - [GPT-4肆虐「谁是卧底」桌游！交谈逼真，类人属性仍有发展空间](https://mp.weixin.qq.com/s/cR8IOCnufiUq9V7aRmsFyw) | 新智元 2023-10-16
     - [碾压GPT-4，微软最强AutoGen爆火！多个智能体协作，编码速度飙升4倍，GitHub狂揽10k星](https://mp.weixin.qq.com/s/1K0nPE6wY2_bP-PaY0Opcw) | 新智元 2023-10-16
     - [全面超越AutoGPT，面壁智能联合清华NLP实验室开源大模型「超级英雄」XAgent](https://mp.weixin.qq.com/s/vW5HDUuRHve4KwOljLhqoQ) | 机器之心 2023-10-17
-  * 智能决策
+    - [AI Agent，启动！复旦NLP团队发86页长文综述，智能体社会近在眼前](https://mp.weixin.qq.com/s/EwSC1JTZ813ghAlYiChN9w) | 新智元 2023-10-18
+    - [开源智能体来啦！港大团队发布OpenAgents，可以搞数据分析、聊天、支持200+插件](https://mp.weixin.qq.com/s/lL8J9hiwavIK-v5WNllAqQ) | 夕小瑶科技说 2023-10-19
+    - [—个主动设计agent](https://mp.weixin.qq.com/s/XqWx5qz-nMxZNAY3SdUxEQ) | CreateAMind 2023-10-19
+    - [SuperCLUE-Agent：首个AI智能体中文测评基准发布](https://mp.weixin.qq.com/s/pdm1z6d9NvfCI8MIGExyLQ) | CLUE中文语言理解测评基准 2023-10-19
+    - [XAgent：清华版「AutoGPT」登GitHub热榜！复杂任务轻松搞定，还能自己训练模型](https://mp.weixin.qq.com/s/d4fCz1KPrF7W6M5AFD355g) | 量子位 2023-10-20
+    - [大模型+小模型，AI 产品的新沸点](https://mp.weixin.qq.com/s/Ggc3FWy1XY_ISVrOxdiBLg) | 雷峰网 2023-10-19
+    - [Meta重磅更新，小扎在元宇宙里养了会做家务的狗！人形化身超逼真，AI智能体在真实物理世界和人互动](https://mp.weixin.qq.com/s/24armxzKxrFlwov8j8lMdg) | 新智元 2023-10-21
+    - [AgentLM：能打的 Agent 模型来了！7B，13B，70B 全开源](https://mp.weixin.qq.com/s/CMyY39qbbMNPww610dWlkA) | GLM大模型 2023-10-21
+    - [chatgpt向左 agent向右](https://mp.weixin.qq.com/s/Mmx010HOYE1hGP-H3cOHug) | AINLP 2023-10-23
+    - [Agent论文合集：RL-based、LLM-based 前沿研究汇总](https://mp.weixin.qq.com/s/xwbsSId31iFwlKoLWJrZ-A) | NLP工作站 2023-10-24
+    - [如何解决复杂的多模态理解问题？多模态Agents：用LLMs链接不同多模态专家模型](https://mp.weixin.qq.com/s/WYGoNpZ-pH26Oa4ACSa1XA) | InternLM 2023-10-24
+    - [北大提出RestGPT框架，通过RESTful API控制真实应用的Agent](https://mp.weixin.qq.com/s/cdkezgE31ozGPiLZBU9Cxw) | PaperWeekly 2023-10-24
+    - [基于llama7B的文本嵌入模型ANGLE：兼看Agent微调数据的生成方案](https://mp.weixin.qq.com/s/4iQeM0AJmfmIGhw4zgpTiQ) | AINLP 2023-10-25
+    - [音乐智能体登场！我和杰伦的距离或许只差一个 MusicAgent！](https://mp.weixin.qq.com/s/7wE7fIJWwkgbCcS-7JrVDQ) | 夕小瑶科技说 2023-10-27
+
+### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
-  * 集群智慧
+### 集群智慧：
     - [集群概念和蜂群无人机系统](https://mp.weixin.qq.com/s/cM9kghfk6DM8Z0qhsZIqiA) | 专知 2023-07-06
-  * 集成，其它
+
+### 集成，其它：
     - [大模型时代，解析周志华教授的「学件」思想：小模型也可做大事](https://mp.weixin.qq.com/s/liYW0OSQk8RSX_0TwT3ROw) | 机器之心 2023-07-08
