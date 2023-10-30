@@ -1,7 +1,7 @@
 ## **Agent-based Intelligence**
 
-
-### 多智能体
+### 施工中...
+  * 多智能体
     - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
     - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
     - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
@@ -89,6 +89,12 @@
     - [北大提出RestGPT框架，通过RESTful API控制真实应用的Agent](https://mp.weixin.qq.com/s/cdkezgE31ozGPiLZBU9Cxw) | PaperWeekly 2023-10-24
     - [基于llama7B的文本嵌入模型ANGLE：兼看Agent微调数据的生成方案](https://mp.weixin.qq.com/s/4iQeM0AJmfmIGhw4zgpTiQ) | AINLP 2023-10-25
     - [音乐智能体登场！我和杰伦的距离或许只差一个 MusicAgent！](https://mp.weixin.qq.com/s/7wE7fIJWwkgbCcS-7JrVDQ) | 夕小瑶科技说 2023-10-27
+    - AgentTuning
+      - [paper](https://www.aminer.cn/pub/6531e2ca939a5f4082f5d5f7/agenttuning-enabling-generalized-agent-abilities-for-llms?f=wb): AgentTuning: Enabling Generalized Agent Abilities for LLMs.
+      - note: 通过构建包含高质量交互轨迹的轻量级指令调整数据集 AgentInstruct，并采用混合指令调整策略将 AgentInstruct 与开源指令相结合，从而实现了对 Llama 2 系列模型的调整，得到了 AgentLM。
+    - Test-Agent: 您的智能测试助理
+      - code: https://github.com/codefuse-ai/Test-Agent
+      - note: 该项目主要包含测试领域模型TestGPT-7B模型何其配套工具。
 
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
