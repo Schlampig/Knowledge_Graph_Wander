@@ -1,6 +1,6 @@
 ## **Agent-based Intelligence**
 
-### 施工中...
+### TODO...
   * 多智能体
     - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
     - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
