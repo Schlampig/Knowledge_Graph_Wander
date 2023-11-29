@@ -981,6 +981,10 @@
 </br>
 
 ### N
+  * 南北阁Nanbeige(Nanbeige LLM Lab):
+    - code: https://github.com/Nanbeige/Nanbeige
+    - note: 160亿参数规模的大语言模型，采用了2.5T Tokens进行预训练，数据包含大量互联网高质量语料、各类书籍、代码等领域脱敏文本，在各个权威测评数据集上都取得了不错的效果。
+
   * NExT-GPT(NUS):
     - code: https://github.com/NExT-GPT/NExT-GPT
     - [paper](https://arxiv.org/abs/2309.05519): NExT-GPT: Any-to-Any Multimodal LLM
