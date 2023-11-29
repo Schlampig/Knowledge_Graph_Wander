@@ -202,6 +202,7 @@
     - blog:
       - [清华系ChatGLM3现场怼脸演示！多模态直逼GPT-4V，国产Code Interpreter来了](https://mp.weixin.qq.com/s/j7_t4kHiK10zmIxiPwLNTg) | 新智元 2023-10-27
       - [智谱AI推出第三代基座大模型](https://mp.weixin.qq.com/s/JoTodw9ZWDQ38wYsddINyA) | GLM大模型 2023-10-27
+      - [【部署培训】ChatGLM3：原理和实践](https://mp.weixin.qq.com/s/wB8YfZbjTpHVdASQc6WTHA) | GLM大模型 2023-10-31
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -641,6 +642,10 @@
 </br>
 
 ### J
+  * Jina(JINA AI):
+    - blog:
+      - [Jina AI 推出全球首款开源 8K 向量模型，比肩 OpenAI](https://mp.weixin.qq.com/s/aky98GxuaCe1C9OnVZptvA) | 深度学习自然语言处理 2023-10-30
+
   * 姜子牙ziya-coding(IDEA):
     - code: https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1
     - code(封神榜系列模型主页): https://github.com/IDEA-CCNL/Fengshenbang-LM
