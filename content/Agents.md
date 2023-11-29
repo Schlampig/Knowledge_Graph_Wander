@@ -95,7 +95,13 @@
     - Test-Agent: 您的智能测试助理
       - code: https://github.com/codefuse-ai/Test-Agent
       - note: 该项目主要包含测试领域模型TestGPT-7B模型何其配套工具。
-
+    - [一个小妙招从Prompt菜鸟秒变专家！加州大学提出PromptAgent，帮你高效使用ChatGPT！](https://mp.weixin.qq.com/s/KxMBpFEewXW8NlcAwoPNkg) | 夕小瑶科技说 2023-10-31
+    - [探索未知：LLM Agent 应用开发的全新时代](https://mp.weixin.qq.com/s/uOPDayC9I92RgqzG2iZXfg) | InternLM 2023-11-01
+    - [聊聊我对AI Agents技术的一些看法](https://mp.weixin.qq.com/s/YI7FX62yRV4-1qA8O3sH4g) | 夕小瑶科技说 2023-11-03
+    - [重磅！新书《多智能体强化学习：基础与现代方法》完整版，爱丁堡Stefano博士编著，385页pdf](https://mp.weixin.qq.com/s/MAy3n30fx4mTuyFIcNa2hA) | 专知 2023-11-02
+    - [超强化学习十万倍的实时推理AGIagent](https://mp.weixin.qq.com/s/N4UwXmzYQbdzcVlVXBts9w) | CreateAMind 2023-11-04
+    - [CMU清华MIT引爆全球首个Agent无限流，机器人「007」加班自学停不下来！具身智能被革命](https://mp.weixin.qq.com/s/2bQTuwE-k6ukp--XHXIzMg) | 新智元 2023-11-04
+    - [一位AI Agent创业者，看完 OpenAI DevDay 的感想](https://mp.weixin.qq.com/s/w3CD_uGjRLZq4ux-ocRFew) | 将门创投 2023-11-11
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
