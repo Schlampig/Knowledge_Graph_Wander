@@ -1405,6 +1405,10 @@
       - [首个开源中文金融大模型来了！解释授信额度、计算收益率、决策参考样样通，来自度小满](https://mp.weixin.qq.com/s/cQ72KvOhYf6Cojzn2l35dQ) | 量子位 2023-05-26
       - [度小满“轩辕70B”金融大模型开源！登顶两大权威测评榜单，所有用户均可下载](https://mp.weixin.qq.com/s/J1vmRoxuNJlP2iob4wNAWg) | 量子位 2023-09-25
 
+  * XVERSE(元象科技):
+    - blog:
+      - [国内最大开源模型发布，无条件免费商用！参数650亿，基于2.6万亿token训练](https://mp.weixin.qq.com/s/kWAFVl6H0stTPoD20ozplg) | 量子位 2023-11-06
+
   * Xwin-LM(?):
     - code(github): https://github.com/Xwin-LM/Xwin-LM
     - code(huggingface): https://huggingface.co/Xwin-LM/Xwin-LM-70B-V0.1
@@ -1418,6 +1422,10 @@
 </br>
 
 ### Y
+  * Yi(零一万物):
+    - blog:
+      - [最强开源大模型刚刚易主！李开复率队问鼎全球多项榜单，40万文本处理破纪录](https://mp.weixin.qq.com/s/wAJBemkk0acMPJm76cxn7w) | 量子位 2023-11-06 
+
   * youChat(You.com): 
     - blog:
       - [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
