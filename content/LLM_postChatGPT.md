@@ -1237,6 +1237,12 @@
     - blog:
       - [浙大推出TableGPT，插入、删除、查询、修改表格，AI一键搞定](https://mp.weixin.qq.com/s/Fj6jr_awedio6g08xJO4ag) | 学术头条 2023-07-18
 
+  * 太一TaiYi(大连理工):
+    - code: https://github.com/DUTIR-BioNLP/Taiyi-LLM
+    - [paper](https://arxiv.org/abs/2311.11608): Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks.
+    - blog:
+      - [大连理工发布“太一”：基于多任务指令微调的中英双语生物医学大模型](https://mp.weixin.qq.com/s/6DRgCbVDYjDQIvd_D_uXIw) | PaperWeekly 2023-11-26
+
   * 桃李Taoli:
     - code: https://github.com/blcuicall/taoli 
     - blog:
@@ -1445,6 +1451,7 @@
       - [最强开源大模型刚刚易主！李开复率队问鼎全球多项榜单，40万文本处理破纪录](https://mp.weixin.qq.com/s/wAJBemkk0acMPJm76cxn7w) | 量子位 2023-11-06
       - [李开复说话算数：零一万物大模型首次发布，AI 2.0 正在路上](https://mp.weixin.qq.com/s/XPHqfY22Gv3kOSqXDeC7tg) | AI科技评论 2023-11-06
       - [基于LLaMA却改张量名，李开复公司大模型引争议，官方回应来了](https://mp.weixin.qq.com/s/yY4AEujGvSj9HInpk0zVTQ) | 机器之心 2023-11-14
+      - [零一万物 Yi-34B-Chat 微调模型及量化版正式上线](https://mp.weixin.qq.com/s/4nAQQ52Tyn9XJt8dMQrgGw) | Hugging Face 2023-11-27
 
   * youChat(You.com): 
     - blog:
