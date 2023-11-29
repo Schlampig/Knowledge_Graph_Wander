@@ -690,6 +690,7 @@
         - [大模型现存的10个问题和挑战](https://mp.weixin.qq.com/s/3Qfmhpp1vuUL0p0x-P1Xog) | 知识工场 2023-09-05
         - [做情绪识别，有必要用LLM吗？](https://mp.weixin.qq.com/s/Jj4Cf4xDmykeEYTvzNoFYg) | 李rumor 2023-10-13
       - 工程化 & 硬件(芯片)：
+        - [GPU对比网](https://lambdalabs.com/gpu-benchmarks)
         - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing): 每个开发人员都应该了解 GPU 计算的知识。
         - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
