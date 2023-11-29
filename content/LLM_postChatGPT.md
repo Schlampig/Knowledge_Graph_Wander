@@ -204,6 +204,7 @@
       - [清华系ChatGLM3现场怼脸演示！多模态直逼GPT-4V，国产Code Interpreter来了](https://mp.weixin.qq.com/s/j7_t4kHiK10zmIxiPwLNTg) | 新智元 2023-10-27
       - [智谱AI推出第三代基座大模型](https://mp.weixin.qq.com/s/JoTodw9ZWDQ38wYsddINyA) | GLM大模型 2023-10-27
       - [【部署培训】ChatGLM3：原理和实践](https://mp.weixin.qq.com/s/wB8YfZbjTpHVdASQc6WTHA) | GLM大模型 2023-10-31
+      - [SOTA！ChatGLM3刷新智能体中文基准SuperCLUE-Agent最好成绩](https://mp.weixin.qq.com/s/gPT1pIW0UskOcyqbA-ibzA) | CLUE中文语言理解测评基准 2023-11-07
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -639,6 +640,7 @@
       - [书生·浦语200亿参数模型InternLM-20B开源了！](https://mp.weixin.qq.com/s/MPJUKX-cWf_DVNqM9tLApQ) | Datawhale 2023-09-20
       - [图文并茂，三步速出「原神」文稿！首个70亿参数图文混合创作大模型正式开源，一键生成神作](https://mp.weixin.qq.com/s/DgdQ7AzskSQRd0lFu6zvvQ) | 新智元 2023-10-10
       - [24GB显卡轻松微调InternLM-20B，手把手带你打造专属大模型！](https://mp.weixin.qq.com/s/Sn0NWzY04ogNYDo4ig92LA) | InternLM 2023-10-25
+      - [仅需一块3090显卡，高效部署InternLM-20B模型](https://mp.weixin.qq.com/s/pu6TOHo98FF1i45LO4v7TA) | InternLM 2023-11-08
   
 </br>
 
@@ -655,6 +657,7 @@
       - [姜子牙大模型系列 | ziya-coding正式开源！以更优秀的表现满足代码生成需求](https://mp.weixin.qq.com/s/If4J__eNotKzYBmt-poNTg) | 模思空间 2023-09-08
       - [姜子牙大模型系列 | 写作模型ziya-writing开源！开箱即用，快来认领专属你的写作小助手吧](https://mp.weixin.qq.com/s/3Z7i4uIxx_u-Peu8iUX7EQ) | 模思空间 2023-07-19
       - [姜子牙大模型系列 | 为知识检索而生，Ziya-Reader开源，多个长文本中文任务第一](https://mp.weixin.qq.com/s/ucrvoTKBgQZZJxbr2NFP6g) | 模思空间 2023-10-11
+      - [封神榜团队揭秘大模型训练秘密：以数据为中心](https://mp.weixin.qq.com/s/fp-am-6NFOEGNI0lMw-aJw) | 模思空间 2023-11-09
 
 </br>
 
@@ -760,6 +763,7 @@
       - [Llama2开源后，国产大模型在卷什么？](https://mp.weixin.qq.com/s/E7nE1m6-DlhETBT1o_1ecQ) | 机器之心 2023-08-19
       - [使用 DPO 微调 Llama 2](https://mp.weixin.qq.com/s/u-GqdifZy8ArKgZaQWmh8Q) | Hugging Face 2023-08-22
       - [如何利用原生Llama-2进行中文对话、显存释放的机制分析与实现策略](https://mp.weixin.qq.com/s/XDPDik-k-xZ2urvv4CY14Q) | 老刘说NLP 2023-08-30
+      - [一起读读大模型源码:浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/uV2dNtSkRLCp63IVGPMi3g) | 老刘说NLP 2023-11-06
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
@@ -936,7 +940,10 @@
       - [打起来了~ 最小SOTA模型：Mistral 7B，各方面碾压LLaMA2 13B和LLaMA1 34B](https://mp.weixin.qq.com/s/jzlTjYsXrV2YtQrwwBjcCg) | 深度学习自然语言处理 2023-09-28
       - [所有基准测试都优于Llama 2 13B，最好的7B模型来了，免费用](https://mp.weixin.qq.com/s/ZixtzEX2IEWMBKqS3cSbvg) | 机器之心 2023-09-29
     - extra:
-      - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
+      - Zephyr:
+        - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
+        - [Thomas Wolf: Mistral + OpenBMB + HuggingFace 跨越三大洲的大模型开源合作故事](https://mp.weixin.qq.com/s/XQ9L-ieVgEe83cDKt55tlQ) | OpenBMB开源社区 2023-11-08
+        - [开源模型 Zephyr-7B🪁发布——跨越三大洲的合作](https://mp.weixin.qq.com/s/t_toMrsaKklet6Vfa5A3KQ) | Hugging Face 2023-11-08
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
@@ -1424,7 +1431,8 @@
 ### Y
   * Yi(零一万物):
     - blog:
-      - [最强开源大模型刚刚易主！李开复率队问鼎全球多项榜单，40万文本处理破纪录](https://mp.weixin.qq.com/s/wAJBemkk0acMPJm76cxn7w) | 量子位 2023-11-06 
+      - [最强开源大模型刚刚易主！李开复率队问鼎全球多项榜单，40万文本处理破纪录](https://mp.weixin.qq.com/s/wAJBemkk0acMPJm76cxn7w) | 量子位 2023-11-06
+      - [李开复说话算数：零一万物大模型首次发布，AI 2.0 正在路上](https://mp.weixin.qq.com/s/XPHqfY22Gv3kOSqXDeC7tg) | AI科技评论 2023-11-06
 
   * youChat(You.com): 
     - blog:
