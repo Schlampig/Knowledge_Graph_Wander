@@ -244,6 +244,7 @@
     - [基于模型的强化学习综述](https://mp.weixin.qq.com/s/dNbRPPbdwQ0CajowaqX6CA)
     - [强化学习的起源：从老鼠走迷宫到AlphaGo战胜人类](https://mp.weixin.qq.com/s/qGwgJdIw_sQARK-L9HaJUw)
     - [【经验之谈】速成深度强化学习的人可能陷入的几个误区总结](https://mp.weixin.qq.com/s/raIsGPxp38IsyP3-EZWRkA)
+    - [Q-Learning 极简入门](https://mp.weixin.qq.com/s/yrk9gNuLwK3QkMV-lGDjYQ)
 </br>
 
 ### Vision
