@@ -107,6 +107,14 @@
     - [成本2元开发游戏，最快3分钟完成！全程都是AI智能体“打工”，大模型加持的那种](https://mp.weixin.qq.com/s/7QOEd0ZkumPWnoVxIo5eTA) | 量子位 2023-11-15
     - [Atom Capital：AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s/5IDVKooH2hZXUFGnSW9luw) | Atom Capital 2023-11-15
     - [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s/EaDJZaCOmOBenkR-KdRONA) | 李rumor 2023-11-22
+    - [大模型AI Agent 前沿调研](https://mp.weixin.qq.com/s/Ww60i5lYICX5hPlYtPpplA) | AINLP 2023-11-23
+    - [NeurIPS 2023 | AI Agents先行者CAMEL：首个基于大模型的多智能体框架](https://mp.weixin.qq.com/s/9D80OCidvDwKyQjKYtOklg) | PaperWeekly 2023-11-25
+    - [赛尔原创@Findings of EMNLP 2023 | 基于大语言模型辩论的多智能体协作推理分析](https://mp.weixin.qq.com/s/P1JPzHTSINtxGGAtredqKw) | 赛尔实验室 2023-11-25
+    - [大模型爆发时代，Agent才是普通人的第一赛道](https://mp.weixin.qq.com/s/_-1kX-82_wNWCLce_xF76A) | 水木人工智能学堂 2023-11-26
+    - [从 CoT 到 Agent，最全综述来了！上交出品](https://mp.weixin.qq.com/s/bJYqfHF4RrYS8GkXfOMYGA) | 夕小瑶科技说 2023-11-26
+    - [他山之石丨万字长文！何谓Agent，为何Agent？](https://mp.weixin.qq.com/s/cf0o4nlZP8Sc6GmQ-hSgnQ) | 知识工场 2023-11-28
+    - [DeepMind最新研究：这个AI Agent，几分钟学会人类专家行为，登上Nature子刊](https://mp.weixin.qq.com/s/BDRYQBqZpcW6OEq5QIQNSQ) | 学术头条 2023-11-29
+    - [ICML 2023 | RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://mp.weixin.qq.com/s/pFxAq28s2OeKXlLV1-FmKQ) | PaperWeekly 2023-11-29
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
