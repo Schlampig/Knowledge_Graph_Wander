@@ -88,6 +88,7 @@
         - [ChatGPT为啥这么强：万字长文详解 by WolframAlpha之父](https://mp.weixin.qq.com/s/Nce2NGdj0CQZYw8t4iptzQ) | 量子位 2023-02-16
           - [Wolfram语言之父：ChatGPT到底能做什么？](https://mp.weixin.qq.com/s/fpXNwXZG8x0KFWAMCglJjA) | 人工智能学家 2023-07-24
           - [从零解构神经网络和ChatGPT，为什么它有效? : 大神Wolfram 3万字科技雄文](https://mp.weixin.qq.com/s/dBBDBoQC86RnQiLEXjglSw) | 知识工场 2023-09-27
+          - [宇宙尽头是「计算」！AI大佬Wolfram最新演讲：LLM自主在计算空间探索，奇点降临就是现在](https://mp.weixin.qq.com/s/cn6atcDNnExXtyN2iQlFFQ) | 新智元 2023-11-06
         - [刘群分享ChatGPT原理](https://github.com/liuquncn/liuquncn.github.io/tree/master/talks/20230216%20ChatGPT%20Technological%20Analysis) | 刘群 github 2023-02-16
         - [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/6ZYC6gcK17kknk4vH8aDkg) | AINLP 2023-02-19
         - [80+页哈工大NLP内部《ChatGPT 调研报告》](https://mp.weixin.qq.com/s/fU85eAVnh2xZmQ5xEABYgg) | 深度学习自然语言处理 2023-03-11
@@ -159,7 +160,8 @@
         - [大模型SFT微调指令数据的生成](https://mp.weixin.qq.com/s/-XVABYylU6nOaJZDe5uqsQ) | 吃果冻不吐果冻皮 2023-08-18
         - [三万亿Token！AIlen AI发布史上最大文本数据集Dolma，已开源](https://mp.weixin.qq.com/s/7fkkb0ohiQkK0Gf5aeH5GA) | 夕小瑶科技说 2023-08-22
         - [符尧：别卷大模型训练了，来卷数据吧！【干货十足】](https://mp.weixin.qq.com/s/jUjYnXO-7cXSEyAYbV9AqA) | NLP PaperWeekly 2023-09-11
-          - [大语言模型未来会是数据工程吗](https://mp.weixin.qq.com/s/_vBg7qFIkvG8YkRSLdIlGA) | NewBeeNLP 2023-09-12 
+          - [大语言模型未来会是数据工程吗](https://mp.weixin.qq.com/s/_vBg7qFIkvG8YkRSLdIlGA) | NewBeeNLP 2023-09-12
+          - [让大模型忘记哈利波特，微软新研究上演Llama 2记忆消除术，真·用魔法打败魔法（doge）](https://mp.weixin.qq.com/s/m64cw7wOKBwn7CmXtR0Dtg) | 量子位 2023-11-07
         - [大模型研发必备：两大开源可用且清洗过的中文文本语料库及大模型FLOPS、参数量快速估计工具推荐](https://mp.weixin.qq.com/s/uqU0LKzchGLmXiDswRFkrQ) | 老刘说NLP 2023-09-11
         - [智源开放3亿条语义向量模型训练数据， BGE模型持续迭代更新](https://mp.weixin.qq.com/s/Gld4n4FEAbX-DKtNSiqf3A) | 机器之心 2023-09-15
         - [大语言模型（LLM）预训练数据集调研分析](https://mp.weixin.qq.com/s/CoZkPnxsB6Ay3RCJ8nl5BQ) | PaperWeekly 2023-09-15
@@ -806,6 +808,7 @@
             - [推特更名X，马斯克引爆X宇宙！从AI到探索太空，万能APP现雏形](https://mp.weixin.qq.com/s/NorBlTWmJUnyMV1JYjf4og) | 新智元 2023-07-24
             - [懂幽默，嘲讽技能拉满，马斯克打造的ChatGPT竞品终于爆出了聊天截图](https://mp.weixin.qq.com/s/iaJZHoCKMwjKJWLA5hrMHg) | 机器之心 2023-11-04
             - [马斯克xAI发布首个AI聊天机器人Grok，可对话X用户，并能回答“敏感问题” ](https://mp.weixin.qq.com/s/-U7uFm5z9Q-Q29kvUBgAUA) | 环球科学 2023-11-06
+            - [11人狂训2个月，马斯克精准狙击OpenAI！xAI首个大模型Grok炸场，330亿参数每月16刀](https://mp.weixin.qq.com/s/QTL8KIFpGyVsD_RiXWdfEA) | 新智元 2023-11-06
           - [支持大模型研发，**第四范式**与西安智算中心达成战略合作](https://mp.weixin.qq.com/s/LArv6IPPKDeUvfM61f_wmQ) | 第四范式 2023-04-12
             - [现场拔网线！第四范式版GPT能力首秀，有点不一样](https://mp.weixin.qq.com/s/OgiHWs0Gher4MTS40rAopg) | 量子位 2023-04-26 
             - [胡时伟：关于大模型技术的三点思考](https://mp.weixin.qq.com/s/k_L3b0v5LZ5Kp2W0t-9gcQ) | 第四范式 2023-05-23
@@ -1248,6 +1251,7 @@
           - [六部门发文！支持社会资本向算力产业流动](https://mp.weixin.qq.com/s/gJMuxG1zlR-dQ60SacbsEQ) | 第一财经 2023-10-10
           - [重磅！新书《可信机器学习》，375页pdf详述TML理论、应用、直觉](https://mp.weixin.qq.com/s/Nhfp4MWwjf72XbqFcun0VA) | 专知 2023-10-16
           - [ChatGPT 被爆重大隐私泄露！在回答时突然蹦出陌生男子自拍照，你的数据都将被偷走训练模型！](https://mp.weixin.qq.com/s/XSDUvBVJb98w83WUJlLaBg) | 夕小瑶科技说 2023-11-03
+          - [大模型集体失控！南洋理工新型攻击，主流AI无一幸免](https://mp.weixin.qq.com/s/Zlsq5kfwPLW6KpbwRyQD_Q) | 量子位 2023-11-07
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
