@@ -251,6 +251,12 @@
       - [ChatGPT国产化：ChatYuan元语对话大模型升级](https://mp.weixin.qq.com/s/FtXAnrhavA5u7hRyfm8j6Q) | 机器之心 2023-02-21
       - [ChatYuan又开源了！效果大幅升级，在手机上也可以跑](https://mp.weixin.qq.com/s/T2cGW-r_PYvumWb0JmjSuA) | AINLP 2023-03-30
 
+  * ChiMed-GPT(中科大&IDEA):
+    - code: https://github.com/synlp/ChiMed-GPT
+    - [paper](https://arxiv.org/abs/2311.06025): ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences.
+    - blog:
+      - [中科大联合封神榜团队发布ChiMed-GPT：中文医疗领域全新大语言模型](https://mp.weixin.qq.com/s/h7zOd_BQ4vxPcuHZ3XQEKw) | 模思空间 2023-11-20
+
   * Chinese-DocuGPT(华理):
     - code: http://chat.ecustnlplab.com/
     - blog:
