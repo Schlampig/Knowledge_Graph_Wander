@@ -102,6 +102,11 @@
     - [超强化学习十万倍的实时推理AGIagent](https://mp.weixin.qq.com/s/N4UwXmzYQbdzcVlVXBts9w) | CreateAMind 2023-11-04
     - [CMU清华MIT引爆全球首个Agent无限流，机器人「007」加班自学停不下来！具身智能被革命](https://mp.weixin.qq.com/s/2bQTuwE-k6ukp--XHXIzMg) | 新智元 2023-11-04
     - [一位AI Agent创业者，看完 OpenAI DevDay 的感想](https://mp.weixin.qq.com/s/w3CD_uGjRLZq4ux-ocRFew) | 将门创投 2023-11-11
+    - [Agent 赋能工作流自动化，我组联合面壁智能发布最新成果ProAgent](https://mp.weixin.qq.com/s/AZg0_J9Vre6l6dOFaScw1w) | TsinghuaNLP 2023-11-13
+    - [Agent4Rec来了！大模型智能体构成推荐系统模拟器，模拟真实用户交互行为](https://mp.weixin.qq.com/s/Hq6qPF_WX-u7LmBiE_kWaQ) | 机器之心 2023-11-15
+    - [成本2元开发游戏，最快3分钟完成！全程都是AI智能体“打工”，大模型加持的那种](https://mp.weixin.qq.com/s/7QOEd0ZkumPWnoVxIo5eTA) | 量子位 2023-11-15
+    - [Atom Capital：AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s/5IDVKooH2hZXUFGnSW9luw) | Atom Capital 2023-11-15
+    - [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s/EaDJZaCOmOBenkR-KdRONA) | 李rumor 2023-11-22
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
