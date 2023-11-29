@@ -254,6 +254,12 @@
   * author: [Aman Chadha](https://github.com/amanchadha)
   * keywords: a collection of courses, researchs, liburaries, lists of artificial intelligence, exploring the art of artificial intelligence one concept at a time.
 
+### 动手学深度学习
+  * link: https://github.com/d2l-ai/d2l-zh
+  * homepage: https://d2l.ai/
+  * author: d2l-ai
+  * keywords: 面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+
 ### Machine Learning Crash Course
   * link: https://developers.google.cn/machine-learning/crash-course/
   * keywords: a self-study guide for aspiring machine learning practitioners by google
