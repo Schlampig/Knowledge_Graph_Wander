@@ -1430,6 +1430,7 @@
 
 ### Y
   * Yi(零一万物):
+    - code: https://huggingface.co/01-ai/Yi-34B/tree/main
     - blog:
       - [最强开源大模型刚刚易主！李开复率队问鼎全球多项榜单，40万文本处理破纪录](https://mp.weixin.qq.com/s/wAJBemkk0acMPJm76cxn7w) | 量子位 2023-11-06
       - [李开复说话算数：零一万物大模型首次发布，AI 2.0 正在路上](https://mp.weixin.qq.com/s/XPHqfY22Gv3kOSqXDeC7tg) | AI科技评论 2023-11-06
