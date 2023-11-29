@@ -241,6 +241,7 @@
         - [HalluQA: 测测中文大模型有没有一本正经胡说八道](https://mp.weixin.qq.com/s/y__15E2NS3bbwgiSJ4vZsg) | NLP工作站 2023-10-25
         - [上海AI实验室联合南京大学推出大语言模型司法能力评估体系](https://mp.weixin.qq.com/s/VROiKiCK6SsGySk3-0zINA) | InternLM 2023-10-26
         - [GLoRE：大型语言模型的逻辑推理能力探究](https://mp.weixin.qq.com/s/TPatYwIcpBnTNfEffHDPeQ) | 深度学习自然语言处理 2023-10-27
+        - [大模型多轮对话能力哪家强？开源的自动化评测基准来了！](https://mp.weixin.qq.com/s/-MGlYzjDVjXv4DxyZvGk4A) | InternLM 2023-10-31
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -614,6 +615,7 @@
         - [赛尔笔记 | 大模型的幻觉现象介绍](https://mp.weixin.qq.com/s/i9qaaqWwBMoac8dJLeTvzQ) | 赛尔实验室 2023-10-27
         - [哈工大发布大模型思维链推理综述：200+文献全面解析大语言模型思维链推理最新进展](https://mp.weixin.qq.com/s/tDTJjRpLsPVnEi_LaPPrxQ) | PaperWeekly 2023-10-28
         - [ACL2023 ｜小模型也能一步步“思考”](https://mp.weixin.qq.com/s/3tIjOnpzFVf_qtdCcRWcaA) | NLP PaperWeekly 2023-10-30
+        - [像搭乐高一样做数学定理证明题，GPT-3.5证明成功率达新SOTA](https://mp.weixin.qq.com/s/-1ijnmyT_WSuud_xA7y0Hg) | PaperWeekly 2023-10-31
       - LangChain & LangFlow & other auto/self-plans:
         - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
         - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
@@ -999,6 +1001,7 @@
           - [评估大模型在中文语法纠错上的能力](https://mp.weixin.qq.com/s/zGCPT_cq5kDAMGGO7YS6zQ) | 吃果冻不吐果冻皮 2023-07-14
           - [EMNLP2023 | LLMs也许不擅长少样本信息提取，但可以为候选答案重新排序！](https://mp.weixin.qq.com/s/XKY36dYL0y-8Se76GnJeqQ) | 深度学习自然语言处理 2023-10-18
           - [预训练机器阅读理解模型：对齐生成式预训练与判别式下游场景](https://mp.weixin.qq.com/s/y2FoLQHsarub38BToKM2gg) | PaperWeekly 2023-10-27
+          - [大模型怎么做Text2SQL？ 西交大等最新《针对表格数据的自然语言接口查询与可视化》综述](https://mp.weixin.qq.com/s/cQlLIKDH0YxYvyuXuNenWA) | 专知 2023-10-31
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
