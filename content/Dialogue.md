@@ -635,7 +635,8 @@
         - Survey of CoT (思维链综述)
           - [AI 新时代，大模型该如何“绞尽脑汁”？](https://mp.weixin.qq.com/s/YkQVk95N8G_mzY09KALkww) | 吃果冻不吐果冻皮 2023-09-02
           - [一文总结提示工程框架，除了CoT还有ToT、GoT、AoT、SoT、PoT](https://mp.weixin.qq.com/s/8H0XRns7jmS4OdbFQ2aZKA) | 夕小瑶科技说 2023-09-20
-          - [来啦来啦！关于CoT提示策略综述](https://mp.weixin.qq.com/s/SCLpl-PoqctIIU5p4ql0cw) | 深度学习自然语言处理 2023-10-12
+          - [Towards Better Chain-of-Thought Prompting Strategies: A Survey](https://browse.arxiv.org/abs/2310.04959)
+            - [来啦来啦！关于CoT提示策略综述](https://mp.weixin.qq.com/s/SCLpl-PoqctIIU5p4ql0cw) | 深度学习自然语言处理 2023-10-12
           - [CoT-Reasoning-Survey](https://github.com/zchuz/CoT-Reasoning-Survey)
             - [大模型中的思维链如何理解？哈工大等最新《思维链推理研究》综述，详述思维链进展、前沿与未来](https://mp.weixin.qq.com/s/T0ilgqRMehsQwnUXjAq_-w) | 专知 2023-09-30
             - [大模型COT思维链推理的几个关键问题：从评测基准、结构变体到增强方案的系统综述](https://mp.weixin.qq.com/s/MynMPfP-CNWJ4Zdz07BOsg) | 老刘说NLP 2023-10-04
