@@ -3,6 +3,7 @@
 ### TODO...
   * 多智能体
     - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
+    - [思想克隆！前OpenAI研究员让AI模仿人类思维，现实版「机械姬」降临](https://mp.weixin.qq.com/s/_gqfwc9bJvI7Hb4gmuibiA) | 新智元 2023-06-05
     - [人类勿扰！「养成系」沙盒AI社群爆火，Chirper.ai点燃赛博世界](https://mp.weixin.qq.com/s/RIlHViiG42T4tk3MpezZ-Q) | 新智元 2023-06-18
     - [OpenAI早就不卷大模型，开始卷AI Agents了？这是一篇来自OpenAI应用研究主管关于Agent的万字长文](https://mp.weixin.qq.com/s/zxRddL3ic1ZUGf75Ysj-Sg) | AI的潜意识 2023-06-30
       - [1000+AI智能体复活，OpenAI版元宇宙上线？ ChatGPT+VR百分百还原「西部世界」](https://mp.weixin.qq.com/s/BCROvo4ZL5Fmg7HMzAjElg) | 新智元 2023-08-20
