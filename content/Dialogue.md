@@ -537,6 +537,8 @@
         - [paper](https://arxiv.org/abs/2310.13385): Tuna: Instruction Tuning using Feedback from Large Language Models.
         - [paper](https://www.aminer.cn/pub/6535d747939a5f408295c42e/auto-instruct-automatic-instruction-generation-and-ranking-for-black-box-language-models?f=wb): Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models.
         - [NEFTune：一种用于LLM的对抗训练和BERT适配](https://mp.weixin.qq.com/s/lVFEBXO53wQSJ0m_3E9DaA) | AINLP 2023-11-02
+        - [GPT-4 做「世界模型」，让LLM从「错题」中学习，推理能力显著提升](https://mp.weixin.qq.com/s/PUMOWchSPjTglrXzxECxsA) | 机器之心 2023-11-03
+        - [EMNLP2023：预训练模型的知识反刍](https://mp.weixin.qq.com/s/wmOVN92A5DIt7yKPUjTsSA) | ZJUKG 2023-11-10
         - [EMNLP 2023 | DeepMind提出大模型In-Context Learning的可解释理论框架](https://mp.weixin.qq.com/s/nFNPDyb1cQosPH7yywpJlw) | 将门创投 2023-11-13
         - [上下文学习和指令微调之间到底有什么关系？](https://mp.weixin.qq.com/s/PMJ2svPth6F0KhnBd67eVA) | 深度学习自然语言处理 2023-11-22
         - [小模型如何进行上下文学习？字节跳动 & 华东师大联合提出自进化文本识别器](https://mp.weixin.qq.com/s/ANDs3Aywdm9F578JETl08g) | 机器之心 2023-11-25
@@ -604,6 +606,7 @@
         - [Skeleton-of-Thought: 大模型并行解码](https://mp.weixin.qq.com/s/Znl7hqsni1WyOw2bhXtbiQ) | 吃果冻不吐果冻皮 2023-08-06
         - [你有没深入想过，什么造成了GPT-4的输出很随机？](https://mp.weixin.qq.com/s/_zrUg-kwNoHxUV54iVRYVw) | 机器之心 2023-08-07
         - [Continuous Batching：解锁LLM潜力！让LLM推断速度飙升23倍，降低延迟！](https://mp.weixin.qq.com/s/7gbq9upT4efIvkcehmyYyw) | PaperWeekly 2023-10-14
+        - [7B羊驼战胜540B“谷歌版GPT”，MIT用博弈论调教大模型，无需训练就能完成](https://mp.weixin.qq.com/s/-wMRtvYvRt5SejLX3xUVGw) | 量子位 2023-10-17
         - [创造性vs确定性：生成人工智能中的temperature和top_p怎么调？](https://mp.weixin.qq.com/s/YZlOC7BGfRSL9vWRnVfXZA) | 吃果冻不吐果冻皮 2023-11-27
       - Emergent Ability (e.g., CoT):
         - Emergency Ability (涌现能力)
@@ -614,6 +617,8 @@
           - [大模型的涌现能力介绍](https://mp.weixin.qq.com/s/Jymq2ho3VQx7-o6y-JHxeg) | 赛尔实验室 2023-05-13
           - [AI「黑箱」被打开？谷歌找到大模型能力涌现机制](https://mp.weixin.qq.com/s/XGysD7JFnoHMpAXZd2xdNg) | 新智元 2023-05-21
           - [大语言模型的涌现能力（Emergent）](https://mp.weixin.qq.com/s/tuhQ3mDh2279jxLDYfzhUQ) | OpenBMB开源社区 2023-06-21
+          - [0代码训练GPT-5？MIT微软证实GPT-4涌现自我纠错能力，智能体循环根据反馈让代码迭代！](https://mp.weixin.qq.com/s/XiyAwtOiEv2WHke-MDR6lg) | 新智元 2023-07-04
+          - [只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://mp.weixin.qq.com/s/aEcQAJF7Y4-QtUWy6kTE6Q) | 机器之心 2023-07-04
           - [量化因果涌现表明：宏观可以战胜微观](https://mp.weixin.qq.com/s/XVe-ENJtRgwQ6sWCcnZRhA) | 集智俱乐部 2023-07-24
           - [谷歌发现大模型「领悟」现象！训练久了突然不再死记硬背，多么痛的领悟](https://mp.weixin.qq.com/s/63cih_0EUanjOUbqPv4F6g) | 人工智能学家 2023-08-13
           - [计算力学：量化涌现的又一条路径](https://mp.weixin.qq.com/s/8uqSlGpuHbK6McOmylf0Yg) | 集智俱乐部 2023-10-09
@@ -652,8 +657,6 @@
           - [大模型思维链(CoT)全新升级，多链元推理(MCR)显著提升LLM推理能力](https://mp.weixin.qq.com/s/l20PkrQzJOCvNGD0NH0r0w) | 将门创投 2023-05-29
           - [ACL 2023 | 利用思维链（CoT）推理隐式情感，狂涨50%](https://mp.weixin.qq.com/s/IwWHK5heDEG2blMVoDhVdw) | PaperWeekly 2023-06-16
           - [ICLR 2023 | Self-Consistency: Google超简单方法改善大模型推理能力](https://mp.weixin.qq.com/s/9m4TAUKhv9rUr1ockJU-Rg) | AINLP 2023-07-02
-          - [0代码训练GPT-5？MIT微软证实GPT-4涌现自我纠错能力，智能体循环根据反馈让代码迭代！](https://mp.weixin.qq.com/s/XiyAwtOiEv2WHke-MDR6lg) | 新智元 2023-07-04
-          - [只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://mp.weixin.qq.com/s/aEcQAJF7Y4-QtUWy6kTE6Q) | 机器之心 2023-07-04
           - [为应对输出风险文本的情况，提出一种针对LLMs简单有效的思维链解毒方法](https://mp.weixin.qq.com/s/AFy_sf88QzL2Lv8RhF2diw) | AINLP 2023-08-21
           - [ACL 2023 | 自查纠错：给大模型的“思考过程”注入知识以提高事实正确度](https://mp.weixin.qq.com/s/wUw12Ob_uNlrZ2-jlKzPSw) | PaperWeekly 2023-08-24
           - [思维链CoT进化成思维图GoT，比思维树更优秀的提示工程技术诞生了](https://mp.weixin.qq.com/s/S8Yi_LV5QTWXnev54kc-cA) | 机器之心 2023-08-25
@@ -666,17 +669,14 @@
           - [别用GPT-4直出文本摘要！MIT、哥大等发布全新「密度链」提示：实体密度是摘要质量的关键](https://mp.weixin.qq.com/s/SklBTf_jegeYfRuCNc04YA) | 新智元 2023-10-01
           - [码农狂喜！微软提出CodePlan，跨168个代码库编码任务，LLM自动化完成](https://mp.weixin.qq.com/s/_tkCHDSSxkITI0GDu1k3cw) | 新智元 2023-10-04
           - [GPT-4推理更像人了！中国科学院提出「思维传播」，类比思考完胜CoT，即插即用](https://mp.weixin.qq.com/s/FsGawRK9vT2dF9M3_Vhv2Q) | 新智元 2023-10-10
-          - [“吾日三省吾身!”，LLMs: what？](https://mp.weixin.qq.com/s/Au00Co-ThW1T-8FAn6GyCg) | 深度学习自然语言处理 2023-10-10
-          - [7B羊驼战胜540B“谷歌版GPT”，MIT用博弈论调教大模型，无需训练就能完成](https://mp.weixin.qq.com/s/-wMRtvYvRt5SejLX3xUVGw) | 量子位 2023-10-17
+          - [“吾日三省吾身!”，LLMs: what？（结论：LLMs还没有能够自我纠正推理）](https://mp.weixin.qq.com/s/Au00Co-ThW1T-8FAn6GyCg) | 深度学习自然语言处理 2023-10-10
           - [性能强劲又通用！Meta-CoT: 混合问题场景下的自适应思维链推理](https://mp.weixin.qq.com/s/bOc5y8gmsV9FaKYQGiMgRw) | PaperWeekly 2023-10-20
           - [Google | HtT: 大模型通过学习推理规则改善幻觉现象](https://mp.weixin.qq.com/s/X6DS7jmngdd35C1CLguazg) | NLP PaperWeekly 2023-10-30
           - [ACL2023 ｜小模型也能一步步“思考”](https://mp.weixin.qq.com/s/3tIjOnpzFVf_qtdCcRWcaA) | NLP PaperWeekly 2023-10-30
           - [MetaAI提出全新验证链框架CoVE，大模型也可以通过“三省吾身”来缓解幻觉现象](https://mp.weixin.qq.com/s/GRAUR3glW3BC6qWpjb2tAw) | 将门创投 2023-10-30
           - [像搭乐高一样做数学定理证明题，GPT-3.5证明成功率达新SOTA](https://mp.weixin.qq.com/s/-1ijnmyT_WSuud_xA7y0Hg) | PaperWeekly 2023-10-31
           - [EMNLP 2023 | 通过跨语言提示改进零样本 CoT 推理能力](https://mp.weixin.qq.com/s/L_tGzDRazskoLPN6kRPgwQ) | 赛尔实验室 2023-11-01
-          - [GPT-4 做「世界模型」，让LLM从「错题」中学习，推理能力显著提升](https://mp.weixin.qq.com/s/PUMOWchSPjTglrXzxECxsA) | 机器之心 2023-11-03
           - [有灵魂的大模型！大模型角色扮演框架 RoleLLM](https://mp.weixin.qq.com/s/h6536Kto8kjiaiZC6Pp1PQ) | InternLM 2023-11-06
-          - [EMNLP2023：预训练模型的知识反刍](https://mp.weixin.qq.com/s/wmOVN92A5DIt7yKPUjTsSA) | ZJUKG 2023-11-10
           - [EMNLP2023 | 基于显式证据推理的few-shot关系抽取CoT](https://mp.weixin.qq.com/s/t82tjdV5CSuEHcbOOjg2Pw) | 深度学习自然语言处理 2023-11-16
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
