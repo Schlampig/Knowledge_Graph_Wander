@@ -502,6 +502,7 @@
         - [bloom_tuning: BLOOM 模型的指令微调](https://mp.weixin.qq.com/s/KyoQcKVvdKO6fkd7t7qnZQ) | AINLP 2023-05-28
         - [炼丹不易，用丹有趣：State of GPT的番外解读](https://mp.weixin.qq.com/s/R-pnXIxtC5Zk1cxWuNvjtg) | AINLP 2023-05-31
         - [大模型参数高效微调技术原理综述（一）-背景、参数高效微调简介](https://mp.weixin.qq.com/s/oqhi58NcEVH1oVrW2p4xlQ) | 吃果冻不吐果冻皮 2023-06-06
+        - [本周机器学习领域五篇重磅论文(含Verify Step-by-Step)](https://mp.weixin.qq.com/s/yuKQ3-sSJn2qH39hPavf_w) | 泛函的范 2023-06-08
         - [LAWA: 不要只追求模型收敛了，一个简单Trick让模型更稳定！绝对想不到](https://mp.weixin.qq.com/s/qv3beQjcTI_Av83DanjR_w) | 夕小瑶科技说 2023-06-17
         - [ACL 2023 | 复旦邱锡鹏组提出模块化Prompt多任务预训练，可快速适应下游任务](https://mp.weixin.qq.com/s/AXUSyg3CxBHSuPhnB2cD9Q) | PaperWeekly 2023-06-19
         - [LOMO: 650亿参数，8块GPU就能全参数微调：邱锡鹏团队把大模型门槛打下来了](https://mp.weixin.qq.com/s/339iXf2bimusfq6zQmFpWw) | 机器之心 2023-06-20
@@ -649,10 +650,7 @@
           - [GPT-4推理提升1750%！普林斯顿清华姚班校友提出全新「思维树ToT」框架，让LLM反复思考](https://mp.weixin.qq.com/s/1SswD6i6lGxKAvU-pzz-6A) | 新智元 2023-05-22
           - [论文浅尝 | 思维树：使用大语言模型反复思考解决问题](https://mp.weixin.qq.com/s/Et5y0HNXhjKlz1rSGhGxwQ) | 开放知识图谱 2023-09-11
           - [大模型思维链(CoT)全新升级，多链元推理(MCR)显著提升LLM推理能力](https://mp.weixin.qq.com/s/l20PkrQzJOCvNGD0NH0r0w) | 将门创投 2023-05-29
-          - [思想克隆！前OpenAI研究员让AI模仿人类思维，现实版「机械姬」降临](https://mp.weixin.qq.com/s/_gqfwc9bJvI7Hb4gmuibiA) | 新智元 2023-06-05
-          - [本周机器学习领域五篇重磅论文(含Verify Step-by-Step)](https://mp.weixin.qq.com/s/yuKQ3-sSJn2qH39hPavf_w) | 泛函的范 2023-06-08
           - [ACL 2023 | 利用思维链（CoT）推理隐式情感，狂涨50%](https://mp.weixin.qq.com/s/IwWHK5heDEG2blMVoDhVdw) | PaperWeekly 2023-06-16
-          - [ACL 2023 | 我把GPT 的学习轨迹可视化了！竟和人类十分类似](https://mp.weixin.qq.com/s/3kNqhdfZz6FEFvWey1lPIQ) | 夕小瑶科技说 2023-06-22
           - [ICLR 2023 | Self-Consistency: Google超简单方法改善大模型推理能力](https://mp.weixin.qq.com/s/9m4TAUKhv9rUr1ockJU-Rg) | AINLP 2023-07-02
           - [0代码训练GPT-5？MIT微软证实GPT-4涌现自我纠错能力，智能体循环根据反馈让代码迭代！](https://mp.weixin.qq.com/s/XiyAwtOiEv2WHke-MDR6lg) | 新智元 2023-07-04
           - [只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://mp.weixin.qq.com/s/aEcQAJF7Y4-QtUWy6kTE6Q) | 机器之心 2023-07-04
@@ -705,6 +703,7 @@
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
       - Explanation:
+        - [ACL 2023 | 我把GPT 的学习轨迹可视化了！竟和人类十分类似](https://mp.weixin.qq.com/s/3kNqhdfZz6FEFvWey1lPIQ) | 夕小瑶科技说 2023-06-22
         - [AI「心灵之眼」被看透！大改神经网络，模型生成背后逻辑首现](https://mp.weixin.qq.com/s/D04weUY4ThLq7BR5wFSiwg) | 新智元 2023-07-24
         - [大模型如何可解释？新泽西理工学院等最新《大型语言模型可解释性》综述](https://mp.weixin.qq.com/s/9kFDvvtMfV_1Lvg7HfYiow) | 专知 2023-09-12
         - [马毅教授新作：白盒ViT成功实现分割涌现，经验深度学习时代即将结束？](https://mp.weixin.qq.com/s/OtkTrA0NL9o-Ot_qnLbN_g) | PaperWeekly 2023-09-15
