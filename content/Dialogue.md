@@ -660,7 +660,7 @@
           - [思维链CoT进化成思维图GoT，比思维树更优秀的提示工程技术诞生了](https://mp.weixin.qq.com/s/S8Yi_LV5QTWXnev54kc-cA) | 机器之心 2023-08-25
           - [还在用CoT和ToT写Prompt？你OUT了！看看AoT思维提示算法是如何碾压ToT的](https://mp.weixin.qq.com/s/HH2JthU7pmiSjbHsJKpy7w) | AI修猫Prompt 2023-09-04
           - [大模型写代码能力突飞猛进，北大团队提出结构化思维链SCoT](https://mp.weixin.qq.com/s/6cBH4R1aNOcKxDhQIpZRZw) | 机器之心 2023-09-09
-          - [大模型为啥这么慢，原来是想多了：新方向是和人一样的思维算法](https://mp.weixin.qq.com/s/I1V-XvXZYhCDk4M4sXloug) | 机器之心 2023-09-11
+          - [大模型为啥这么慢，原来是想多了：新方向是和人一样的思维算法（AoT）](https://mp.weixin.qq.com/s/I1V-XvXZYhCDk4M4sXloug) | 机器之心 2023-09-11
           - [进能形式逻辑，退能四则运算，MAmmoT让LLM成为数学通才](https://mp.weixin.qq.com/s/SOsG0V8Y3IWt7yEvPD4nfw) | 机器之心 2023-09-24
           - [姚期智领衔提出大模型「思维」框架！逻辑推理正确率达98%，思考方式更像人类了](https://mp.weixin.qq.com/s/2g5PIjSj4ahcx1C4nibiHw) | 量子位 2023-09-29
           - [再看大模型幻觉问题如何缓解 ：Chain-of-Verification-一种基于链式验证思想的自我修正工作解读](https://mp.weixin.qq.com/s/r5wy_g9waFIcmRgH_GSOOg) | 老刘说NLP 2023-09-30
