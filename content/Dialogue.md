@@ -694,11 +694,17 @@
           - [LangChain 的问题所在](https://mp.weixin.qq.com/s/y88G5e483vF83XfgVFaHkQ) | AI前线 2023-09-18
           - [LangChain+通义千问+AnalyticDB向量引擎保姆级教程](https://mp.weixin.qq.com/s/GiOTpJOK5tr1Bat3R-Jbyg) | 阿里云开发者 2023-10-12
         - RAG
+          - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
           - [大模型如何用向量数据库？清华等最新《向量数据库管理系统》综述](https://mp.weixin.qq.com/s/xyiv6V0uX9BopAytry7JFg) | 专知 2023-10-25
           - [低成本快速定制大模型，这次我们来深度探讨下RAG 和向量数据库](https://mp.weixin.qq.com/s/hWQli9350M5L28wmvRQYOw) | 机器之心 2023-11-12
           - [从ID-based到LLM-based：可迁移推荐系统发展](https://mp.weixin.qq.com/s/263pVl-YEGyK0XWia600PA) | PaperWeekly 2023-11-12
           - [大模型行业问答应用实践：数据向量化、RAG、langchain、Agent技术](https://mp.weixin.qq.com/s/G6PYj0r4elw3IS1LF-12-Q) | 老刘说NLP 2023-11-29
+          - [知识图谱遇上RAG行业问答:回顾知识检索增强范式、挑战及与知识图谱的结合](https://mp.weixin.qq.com/s/MdpLJVQ1ypjvZTy06MurHA) | 老刘说NLP 2023-12-01
+          - [如何征服市场眼中的“万能RAG”](https://mp.weixin.qq.com/s/23WoMKyxC5LwpQpPz2Y8Ug) | 吃果冻不吐果冻皮 2023-12-05
+          - [检索增强生成技术(RAG)深度优化指南：原理、挑战、措施、展望](https://mp.weixin.qq.com/s/fmIxOkDV_cbwuCZTTup9ug) | 吃果冻不吐果冻皮 2023-12-07
+          - [近期专注RAG训练数据构造与表格KG融合：老刘说NLP知识图谱与大模型技术社区对外纳新](https://mp.weixin.qq.com/s/zJSgIEB5glzV4gv3IX4rxA) | 老刘说NLP 2023-12-10
+          - [也看大模型RAG长文本任务中的上下文精简与构造方式：兼看最近一周的大模型开源工作](https://mp.weixin.qq.com/s/6RrFxfcj0w7jhPXk5mqEuw) | 老刘说NLP 2023-12-10
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
