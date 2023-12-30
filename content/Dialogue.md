@@ -775,6 +775,7 @@
           - [LangChain 的问题所在](https://mp.weixin.qq.com/s/y88G5e483vF83XfgVFaHkQ) | AI前线 2023-09-18
           - [LangChain+通义千问+AnalyticDB向量引擎保姆级教程](https://mp.weixin.qq.com/s/GiOTpJOK5tr1Bat3R-Jbyg) | 阿里云开发者 2023-10-12
         - RAG
+          - [Arguflow](https://github.com/arguflow/arguflow): a project to build semantic search and retrieval-augmented generation (RAG) fast, [website](https://arguflow.ai/).
           - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
           - [大模型如何用向量数据库？清华等最新《向量数据库管理系统》综述](https://mp.weixin.qq.com/s/xyiv6V0uX9BopAytry7JFg) | 专知 2023-10-25
