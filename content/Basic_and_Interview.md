@@ -665,6 +665,11 @@
   * homepage: [老生常谈](https://laosheng.top/)
   * keywords: 以‘大规模集成网页(LSIP)’形式收录中国高校名单全集和网址，按照 中管、部本、省本、专科 的顺序形成中国高校层级图谱。针对普通高考录取，本页收录网址排除了成人高校，增补了港澳台高校，总院校链接数仍维持在三千左右。
 
+### 霞子
+  * link: https://keyanxiazi.bepass.cn/
+  * author: 霞子(?)
+  * keywords: 一位中南大学博士花了两年时间建立的学术导航网站，旨在帮助科研人员提高科研效率。主要提供论文下载、学术和科研工具、个性化的学术资源推荐、科研经验分享、学术社区等。
+
 ### Blog
   * [AI算法工程师的笔记本环境配置](https://mp.weixin.qq.com/s/Bx_YV1m-HrdV9bZNbYW27A)
   * [陈天奇、王威廉等人推荐：ACL最佳论文奖得主给新入行研究者的一点建议](https://mp.weixin.qq.com/s/nDj_m1Cq1qi3Qo4E--EhpA)
