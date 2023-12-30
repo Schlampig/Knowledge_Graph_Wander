@@ -37,8 +37,10 @@
         - [AI工具集](https://ai-bot.cn/)
         - [OpenAI发布ChatGPT！手把手debug代码！](https://mp.weixin.qq.com/s/RjVhAO_8jMB8O6o5ZwfejQ) | 李rumor 2022-12-01
         - [国内开通Chat GPT Plus保姆级教程](https://chatgpt-plus.github.io/chatgpt-plus/).
+        - [Free ChatGPT Site List](https://github.com/xx025/carrot): 众多免费好用的ChatGPT镜像站点, [website](https://cc.ai55.cc/).
         - [POE](https://poe.com/login): 同时对比ChatGPT、Claude等机器人效果的网站. 
-          - [Poe正式向开发者推出 Poe API ！](https://mp.weixin.qq.com/s/ZFNRXd7RGbaXS5ie6WgS4Q) | AI 共存派 2023-05-17 
+          - [Poe正式向开发者推出 Poe API ！](https://mp.weixin.qq.com/s/ZFNRXd7RGbaXS5ie6WgS4Q) | AI 共存派 2023-05-17
+        - [Coze](https://www.coze.com/): 字节开放的下一代AI搭建平台。
         - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic): 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验.
         - [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing): this list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
         - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms): 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具.
@@ -775,6 +777,9 @@
           - [LangChain 的问题所在](https://mp.weixin.qq.com/s/y88G5e483vF83XfgVFaHkQ) | AI前线 2023-09-18
           - [LangChain+通义千问+AnalyticDB向量引擎保姆级教程](https://mp.weixin.qq.com/s/GiOTpJOK5tr1Bat3R-Jbyg) | 阿里云开发者 2023-10-12
         - RAG
+          - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) by Tongji-KGLLM.
+            - [paper](https://arxiv.org/pdf/2312.10997.pdf): Retrieval-Augmented Generation for Large Language Models: A Survey.
+            - [RAG怎么做？同济大学等最新《大型语言模型的检索增强生成》综述](https://mp.weixin.qq.com/s/mDw6Q1dEWxKZQBv3jp5utg) | 专知 2023-12-20
           - [Arguflow](https://github.com/arguflow/arguflow): a project to build semantic search and retrieval-augmented generation (RAG) fast, [website](https://arguflow.ai/).
           - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
@@ -794,7 +799,6 @@
           - [基础RAG-向量检索模块（含代码）](https://mp.weixin.qq.com/s/RONG0mK07ZHrQZ5mgr31cg) | CS的陋室 2023-12-17
             - [基础RAG-大模型和中控模块代码（含代码）](https://mp.weixin.qq.com/s/Fx9vHbM1woa6-q2ZeC1X4w) | CS的陋室 2023-12-24
           - [检索增强生成(RAG)有什么好的优化方案？](https://mp.weixin.qq.com/s/urz33zLZq4NJxsxauGhK7w) | 吃果冻不吐果冻皮 2023-12-19
-          - [RAG怎么做？同济大学等最新《大型语言模型的检索增强生成》综述](https://mp.weixin.qq.com/s/mDw6Q1dEWxKZQBv3jp5utg) | 专知 2023-12-20
           - [也读大模型RAG问答技术综述及评估思路：兼看UHGEval幻觉评估数据集的构建细节](https://mp.weixin.qq.com/s/PiTWDht3rOTwXE2vN5p6PQ) | 老刘说NLP 2023-12-21
           - [也看面向知识图谱构建的大模型微调多样化prompt：兼看RAG框架Langchain的2023年终总结](https://mp.weixin.qq.com/s/R6OUYD2E0zv4-M9HhVNphQ) | 老刘说NLP 2023-12-22
           - [一篇关于大模型检索召回系统的综述](https://mp.weixin.qq.com/s/yXwr4v91avEiaaK0fQYwMg) | NLP前沿 2023-12-24
@@ -814,6 +818,7 @@
         - [「GPT-4只是在压缩数据」，马毅团队造出白盒Transformer，可解释的大模型要来了吗？](https://mp.weixin.qq.com/s/ErrCWbz8zDqSYkC9DH79Mg) | 机器之心 2023-11-26
     - news & viewpoints:
       - 优势与不足：
+        - [大模型缺陷列表 by 符尧讨论组](https://github.com/LLaMafia/llamafia.github/blob/main/Log/20231217.md) 
         - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490) | 张俊林 2022-12-06
         - [理性聊聊ChatGPT](https://mp.weixin.qq.com/s/4D_zb8DJ-gKeLIP4KkImTQ) | CS的陋室 2022-12-12
         - [ChatGPT有哪些不足和缺陷？](https://mp.weixin.qq.com/s/V1V7JeBlISc0coHZhIVnxQ) | AINLP 2022-12-22
