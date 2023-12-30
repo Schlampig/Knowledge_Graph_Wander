@@ -133,7 +133,11 @@
     - [数字世界中的大模型Agent：机遇与风险](https://mp.weixin.qq.com/s/9ojqWQ3xmYn2lSuTEoDbzQ) | 人工智能学家 2023-12-24
     - [Softmax注意力与线性注意力的优雅融合，Agent Attention推动注意力新升级](https://mp.weixin.qq.com/s/NODp9Mt20KaQK38OQg-7sQ) | 机器之心 2023-12-25
     - [华为诺亚的盘古Agent来了，让智能体学会结构化推理](https://mp.weixin.qq.com/s/pTxI5p1mFWX_LLEx6dXVew) | 机器之心 2023-12-26
-    - [快手Agents系统、模型、数据全部开源！](https://mp.weixin.qq.com/s/QhZIFL1GHH90z98gnk194g) | 机器之心 2023-12-27
+    - KwaiAgents
+      - code: https://github.com/KwaiKEG/KwaiAgents
+      - [paper](https://arxiv.org/abs/2312.04889): KwaiAgents: Generalized Information-seeking Agent System with Large Language Models
+      - author: KwaiKEG (快手快知团队)
+      - blog: [快手Agents系统、模型、数据全部开源！](https://mp.weixin.qq.com/s/QhZIFL1GHH90z98gnk194g) | 机器之心 2023-12-27
     - [AI Agent：为LLM构建智能外部大脑](https://mp.weixin.qq.com/s/0euBQJxaivmdHBwMtAb80g) | 吃果冻不吐果冻皮 2023-12-27
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
