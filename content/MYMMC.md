@@ -283,6 +283,7 @@
   - [2023年10月07日：科研人员提出脑启发的神经环路演化策略](https://mp.weixin.qq.com/s/butg-R9Ns2RK_Gwf1IVzbA)
   - [2023年10月12日：突发！Hinton入局机器人创业，公司新获9000万投资](https://mp.weixin.qq.com/s/gBgAwznRFmFsrj9wBqXBiA)
   - [2023年10月26日：35年首次证明！NYU重磅发现登Nature：神经网络具有类人泛化能力，举一反三超GPT-4](https://mp.weixin.qq.com/s/YhlwJL1pa5_1YomnZmgmrQ)
+  - [2023年11月30日：黑暗中的大脑：设计原则之神经模拟学习和推理](https://mp.weixin.qq.com/s/Vx7WRX0ZjyDBuowhoJBfjA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
