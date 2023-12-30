@@ -52,6 +52,7 @@
     - homepage: https://llama.family
     - blog:
       - [重磅来袭！Llama中文社区开源预训练中文版Atom-7B大模型](https://mp.weixin.qq.com/s/Bdx0JTVh1kgPn5ydYxIkEw) | Llama中文社区 2023-08-28
+      - [大模型中的闪电侠问世：Atom-1B](https://mp.weixin.qq.com/s/WD15khUptwkUG3EKC6YEWg) | Llama中文社区 2023-12-20
   
   * Aurora genAI(英特尔):
     - blog:
@@ -448,6 +449,7 @@
       - [大模型华山论剑！百度文心大模型3.5拿下7个满分，3个绝对第一！](https://mp.weixin.qq.com/s/b-mkrY37EcbEG_f5SJkSUQ) | 我爱计算机视觉 2023-07-24
       - [重磅！清华最新报告：文心一言超越ChatGPT 3.5](https://mp.weixin.qq.com/s/gyVtLSvQuwkFu7ZmHuzypw) | CVer 2023-08-08
       - [站上大模型制高点：我们给不输GPT-4的文心大模型4.0，来了一场技术揭秘](https://mp.weixin.qq.com/s/Gb88_7c1aF1A8d2vR_ku-w) | 机器之心 2023-10-18
+      - [百度交了份“大”作业：文心一言用户破1亿，累计37亿字文本创作，能力再升32%！](https://mp.weixin.qq.com/s/wyIe4MFWIkW2zUYubuBN3A) | 量子位 2023-12-29
     - extra:
       - [从通用到更专更精：百度祭出了一个「调教」大模型的平台](https://mp.weixin.qq.com/s/i24TnrYeBncmhJ5ioZPBLg) | 机器之心 2023-05-11
   
@@ -957,6 +959,9 @@
         - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
         - [Thomas Wolf: Mistral + OpenBMB + HuggingFace 跨越三大洲的大模型开源合作故事](https://mp.weixin.qq.com/s/XQ9L-ieVgEe83cDKt55tlQ) | OpenBMB开源社区 2023-11-08
         - [开源模型 Zephyr-7B🪁发布——跨越三大洲的合作](https://mp.weixin.qq.com/s/t_toMrsaKklet6Vfa5A3KQ) | Hugging Face 2023-11-08
+      - SOLAR(Upstage AI):
+        - [两只羊驼掐头去尾拼一起，屠榜HuggingFace](https://mp.weixin.qq.com/s/uXkLQGd1J8AYh5I5LwWskQ) | 量子位 2023-12-29
+        - [paper](https://arxiv.org/abs/2312.15166): SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling.
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
