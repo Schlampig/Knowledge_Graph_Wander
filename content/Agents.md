@@ -116,6 +116,25 @@
     - [他山之石丨万字长文！何谓Agent，为何Agent？](https://mp.weixin.qq.com/s/cf0o4nlZP8Sc6GmQ-hSgnQ) | 知识工场 2023-11-28
     - [DeepMind最新研究：这个AI Agent，几分钟学会人类专家行为，登上Nature子刊](https://mp.weixin.qq.com/s/BDRYQBqZpcW6OEq5QIQNSQ) | 学术头条 2023-11-29
     - [ICML 2023 | RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://mp.weixin.qq.com/s/pFxAq28s2OeKXlLV1-FmKQ) | PaperWeekly 2023-11-29
+    - [DeepMind最新研究：这个AI Agent，几分钟学会人类专家行为，登上Nature子刊](https://mp.weixin.qq.com/s/a_4ClWCfnBcgO4nl3uqWQg) | 知识工场 2023-12-01
+    - [类人智能体概念、能力与衍生丨AI Agents闭门研讨观点集锦](https://mp.weixin.qq.com/s/xyG3NXAqWuy4196xUuIdRw) | 智源社区 2023-12-06
+    - [LLM-first IDE：Code Agents 超级入口，软件开发的“Excel 时刻”](https://mp.weixin.qq.com/s/G9lxBql1HNmRocd-0kv4vA) | 海外独角兽 2023-12-06
+    - [AI Agent应用——AgentGPT技术详解](https://mp.weixin.qq.com/s/mBN87WRV_In09T-zrYvTyA) | 深度学习自然语言处理 2023-12-07
+    - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/pcJCKj9xGHKOhSXvSQq-mQ) | 李rumor 2023-12-07
+    - [30+视觉/多模态工具！通用Agent工具库AgentLego给大模型一双 “慧眼”](https://mp.weixin.qq.com/s/UGOGy6qGF27Ule0xTHrHPA) | InternLM 2023-12-07
+    - [AI最大赛道Agent机遇全解析](https://mp.weixin.qq.com/s/gyNQGqbsamG0O2UwgesZBw) | Datawhale 2023-12-09
+    - [ICML 2023 | RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://mp.weixin.qq.com/s/zOYqW9wTI7ZYuy_FbiIK5A) | 将门创投 2023-12-13
+    - [​2023年人工智能体(AI Agent)开发与应用全面调研：概念、原理、开发、应用、挑战、展望](https://mp.weixin.qq.com/s/CVmqZvePPMQgTs3JULyEZQ) | 旺知识 2023-12-09
+    - [拆解！何为AI Agent？](https://mp.weixin.qq.com/s/k82YmWnNIIpnu8_xEELJ7A) | 深度学习自然语言处理 2023-12-16
+    - [CogAgent: 清华新开源多模态Agents模型](https://mp.weixin.qq.com/s/BhN4ohc4EZmb-QG-uqi44g) | NLP前沿 2023-12-17
+      - [CogAgent：带 Agent 能力的视觉模型，免费商用](https://mp.weixin.qq.com/s/qc_G9Dodlkn6Osh2u_XLMw) | GLM大模型 2023-12-22
+    - [AI Agent框架——MetaGPT技术详解](https://mp.weixin.qq.com/s/xNQSx7iSr-GYrHOryHWpBA) | 深度学习自然语言处理 2023-12-17
+    - [因果科学 x Agents：如何让AI更好地理解因果？｜TMLR (2023) 因果强化学习最新综述](https://mp.weixin.qq.com/s/D9p8eIAnCQfQslOltAeWwQ) | 专知 2023-12-21
+    - [数字世界中的大模型Agent：机遇与风险](https://mp.weixin.qq.com/s/9ojqWQ3xmYn2lSuTEoDbzQ) | 人工智能学家 2023-12-24
+    - [Softmax注意力与线性注意力的优雅融合，Agent Attention推动注意力新升级](https://mp.weixin.qq.com/s/NODp9Mt20KaQK38OQg-7sQ) | 机器之心 2023-12-25
+    - [华为诺亚的盘古Agent来了，让智能体学会结构化推理](https://mp.weixin.qq.com/s/pTxI5p1mFWX_LLEx6dXVew) | 机器之心 2023-12-26
+    - [快手Agents系统、模型、数据全部开源！](https://mp.weixin.qq.com/s/QhZIFL1GHH90z98gnk194g) | 机器之心 2023-12-27
+    - [AI Agent：为LLM构建智能外部大脑](https://mp.weixin.qq.com/s/0euBQJxaivmdHBwMtAb80g) | 吃果冻不吐果冻皮 2023-12-27
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
