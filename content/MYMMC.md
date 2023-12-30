@@ -229,6 +229,8 @@
     - [2023年09月22日：Transformer+强化学习，DeepMind让大模型成为机器人感知世界的大脑](https://mp.weixin.qq.com/s/vuAOwvBC2uGXHoBSbBc6Hg)
     - [2023年10月04日：机器人研究迎来ImageNet时刻：一个数据集，让DeepMind具身智能大模型突飞猛进](https://mp.weixin.qq.com/s/k3iXMZtdtzoP8ZuA5_Htww)
     - [2023年10月05日：【CMU博士论文】持续机器人学习:基准和模块化方法，125页pdf](https://mp.weixin.qq.com/s/qZRbkX-KOAgb8zqkBFb_jQ)
+    - [2023年12月16日：具身智能的未来](https://mp.weixin.qq.com/s/_vCwIh_D1E3jnfQzFW4fxg)
+    - [2023年12月22日：通往具身通用智能：如何让机器从自然模态中学习到世界模型？](https://mp.weixin.qq.com/s/lXGFKxYULL7XxrSk_d3dkw)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
@@ -284,6 +286,11 @@
   - [2023年10月12日：突发！Hinton入局机器人创业，公司新获9000万投资](https://mp.weixin.qq.com/s/gBgAwznRFmFsrj9wBqXBiA)
   - [2023年10月26日：35年首次证明！NYU重磅发现登Nature：神经网络具有类人泛化能力，举一反三超GPT-4](https://mp.weixin.qq.com/s/YhlwJL1pa5_1YomnZmgmrQ)
   - [2023年11月30日：黑暗中的大脑：设计原则之神经模拟学习和推理](https://mp.weixin.qq.com/s/Vx7WRX0ZjyDBuowhoJBfjA)
+  - [2023年12月03日：10年，6亿欧元，“欧洲人脑计划”成败几何？|《自然》长文](https://mp.weixin.qq.com/s/S_nnJ54GtmM4tRLBuiO0_A)
+  - [2023年12月13日：语言模型和世界模型如何连接？NeurIPS 2023最新《语言模型、智能体模型和世界模型》增强机器推理和规划的LAW法则](https://mp.weixin.qq.com/s/2OAnEZrb7KJjGmw7bAmgCw)
+  - [2023年12月20日：清华等团队研究登Nature子刊封面：用生物脑机制启发持续学习，让智能系统适者生存](https://mp.weixin.qq.com/s/UijhteqmHBrsesQCIM8onw)
+  - [2023年12月20日：为AI配备目标；强化学习是最低的智能行为，昆虫和哺乳动物在第几层？](https://mp.weixin.qq.com/s/Er02KZBhkJ6x6LZbMB9cjQ)
+  - [2023年12月25日：一篇综述，看穿基础模型+机器人的发展路径](https://mp.weixin.qq.com/s/0nZsRnQkE9YRZLdUfAtbUg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
