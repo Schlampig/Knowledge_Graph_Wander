@@ -189,6 +189,7 @@
       - [一个简单模型就让ChatGLM性能大幅提升 | 最“in”大模型](https://mp.weixin.qq.com/s/t58rOqvtB_hvvTT9RasSnQ) | 量子位 2023-08-16
       - [MathGLM：无需计算器，大模型也能做数学题](https://mp.weixin.qq.com/s/KkZNF-OUPT0b62-VLoyohQ) | GLM大模型 2023-09-23
       - [聆心智能发布 CharacterGLM](https://mp.weixin.qq.com/s/oD4nJjAlWxp8wM_Lm0GEsQ) | GLM大模型 2023-09-25
+      - [AI角色扮演再进化，清华提出CharacterGLM，支持AI角色高度定制化](https://mp.weixin.qq.com/s/6FYxx6x4lWRzYe8gqKWt8A) | 人工智能学家 2023-12-05
 
   * ChatGLM2(智谱AI):
     - code: https://github.com/THUDM/ChatGLM2-6B
