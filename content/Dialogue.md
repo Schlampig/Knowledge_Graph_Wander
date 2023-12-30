@@ -317,6 +317,8 @@
         - [微调都不要了？3个样本、1个提示搞定LLM对齐，提示工程师：全都回来了](https://mp.weixin.qq.com/s/28ltYJ7h14ooSMGGQV7Brg) | 机器之心 2023-12-06
         - [微软仅凭「提示工程」让GPT-4成医学专家！超过一众高度微调模型，专业测试准确率首次超90%](https://mp.weixin.qq.com/s/jUQamM_r3X_WAULqPEqf1w) | PaperWeekly 2023-12-06
         - [微软发布提示词prompt优化策略，通过prompt调整让GPT4打败Gemini](https://mp.weixin.qq.com/s/8f4Wf2r1wnyGav1ZGzt2ww) | NLP前沿 2023-12-14
+        - [OpenAI/Claude：大模型提示词最佳实践中文大白话版本](https://mp.weixin.qq.com/s/6L0QdVbnkWlRY3Qv83BIxw) | NLP前沿 2023-12-19
+        - [AAAI 2024 | HGPrompt: 统一同质图和异质图的少样本图提示学习](https://mp.weixin.qq.com/s/nKXeKniRXytrPagiMnk5VA) | PaperWeekly 2023-12-20
       - Low Resource Method:
         - [openplayground](https://github.com/nat/openplayground): an LLM playground you can run on your laptop.
         - [JittorLLMs](http://github.com/Jittor/JittorLLMs): 计图大模型推理库 - 笔记本没有显卡也能跑大模型.
@@ -369,6 +371,7 @@
         - [图解RoPE旋转位置编码及其特性](https://mp.weixin.qq.com/s/aOtngleIPWRYSLE7qtgHCw) | Hugging Face 2023-11-22
         - [Long-Context下LLM模型架构全面介绍](https://mp.weixin.qq.com/s/HjIRk0BzhRAB_4yfpiI2jQ) | 深度学习自然语言处理 2023-11-27
         - [万字长文梳理 LLM 中的长文本问题](https://mp.weixin.qq.com/s/9H70vQvIZ3IqhaqlPlpilQ) | 深度学习自然语言处理 2023-12-13
+        - [突破长文本处理限制：基于语义压缩的大型语言模型上下文窗口扩展方法](https://mp.weixin.qq.com/s/hu34ERnZkZTvO7T2bzQqxA) | NLP前沿 2023-12-19
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -456,6 +459,7 @@
         - [清华提出 SoRA，参数量只有 LoRA 的 70%，表现更好！](https://mp.weixin.qq.com/s/1FynuZw9YNxS0DVLpzOEKg) | 夕小瑶科技说 2023-11-25
         - [不是大模型全局微调不起，只是LoRA更有性价比，教程已经准备好了](https://mp.weixin.qq.com/s/BWMyXfYXs1LVfi2blJTCTA) | 机器之心 2023-12-04
         - [LongQLoRA：单卡高效扩展LLaMA2-13B的上下文长度](https://mp.weixin.qq.com/s/lptWXi9sZXd2MTTXZsDiPw) | YeungNLP 2023-12-11
+        - [一周前被MoE刷屏？来看看LoRAMoE吧！通过类MoE架构来缓解大模型世界知识遗忘](https://mp.weixin.qq.com/s/Dwq2Xu5CXxH-6lT_ksRklw) | FudanNLP 2023-12-19
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
@@ -574,6 +578,7 @@
         - [EMNLP 2023 | 基于大语言模型的复杂任务认知推理算法CogTree](https://mp.weixin.qq.com/s/Iype9EAu5aTTsKHHb8ja8w) | PaperWeekly 2023-12-12
         - [微软提出变色龙框架，让模型自带工具箱开挂，数学推理任务准确率98%｜NeurIPS 2023](https://mp.weixin.qq.com/s/ot0lYk1MdBovsHGWj6rkJw) | 量子位 2023-12-13
         - [教会羊驼说话：Instruction Tuning的最新进展](https://mp.weixin.qq.com/s/8fSBrSoyZe0eGb3H1KvaBw) | 深度学习自然语言处理 2023-12-15
+        - [个性有了，心眼坏了？大模型微调的潜在危害](https://mp.weixin.qq.com/s/XHGaigqbWKGUfNH2xBhiyg) | PaperWeekly 2023-12-20
       - Mixture of Experts (MoE):
         - [一文弄懂Mixture of Experts (MoE)的前世今生](https://mp.weixin.qq.com/s/u7bqG3skzklqDWu3MMmkzg) | NLP前沿 2023-12-13
       - RLHF & RLAIF & Alignment:
@@ -636,6 +641,8 @@
         - [GPT-2能监督GPT-4，Ilya带头OpenAI超级对齐首篇论文来了：AI对齐AI取得实证结果](https://mp.weixin.qq.com/s/f6YW-CxnLhnfMWTLg4M4Cw) | 机器之心 2023-12-15
         - [直接偏好优化（DPO）算法回顾](https://mp.weixin.qq.com/s/Is0E5HOwzkdxww10eIeW4Q) | NLP前沿 2023-12-18
         - [清华联合新加坡国立大学、面壁智能推出多模态大模型对齐框架 RLHF-V](https://mp.weixin.qq.com/s/10q2zr4jc9LX4JFJwwsfvQ) | TsinghuaNLP 2023-12-18
+        - [OpenAI开源"weak-to-strong"方法代码框架！我们带你一探究竟](https://mp.weixin.qq.com/s/PqdoFLTMgIGOlUJBXV_2yg) | 深度学习自然语言处理 2023-12-19
+        - [RLHF-Safe RLHF：带着脚镣跳舞的PPO！](https://mp.weixin.qq.com/s/obQok575ABpfT56MEkGSnA) | 深度学习自然语言处理 2023-12-20
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -759,6 +766,7 @@
           - [也看大模型RAG问答中的Proposition式检索思路：兼读领域特定问答中的幻觉检测方法](https://mp.weixin.qq.com/s/xqjB4l16T2LlouipmE0iPw) | 老刘说NLP 2023-12-13
           - [知识图谱用于细粒度大模型幻觉评估：兼论Langchain-RAG问答中的问题改写范式](https://mp.weixin.qq.com/s/sL99aaaq_iwcF1eNyHJ15A) | 老刘说NLP 2023-12-14
           - [基础RAG-向量检索模块（含代码）](https://mp.weixin.qq.com/s/RONG0mK07ZHrQZ5mgr31cg) | CS的陋室 2023-12-17
+          - [检索增强生成(RAG)有什么好的优化方案？](https://mp.weixin.qq.com/s/urz33zLZq4NJxsxauGhK7w) | 吃果冻不吐果冻皮 2023-12-19
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1075,6 +1083,7 @@
           - [LSTM之父炮轰LLaMA 2：抄我想法还羞辱我！网友：LeCun干的吧？](https://mp.weixin.qq.com/s/QHcjG0zc1u64cg8EjcvNRw) | 量子位 2023-07-26
           - [专访DeepMind联合创始人：生成式AI只是一个阶段，接下来是交互式AI](https://mp.weixin.qq.com/s/E0p-WtaJpJcvSeAYET7k2A) | DeepTech深科技 2023-09-16
           - [姚期智院士：人工智能最高层一直有“路线之争”](https://mp.weixin.qq.com/s/B1AS6E37W-SLOX_-gUlk_w) | 人工智能学家 2023-09-23
+          - [Michael Jordan：大模型在两个方向仍需“努力”丨智源专访](https://mp.weixin.qq.com/s/tPfJmfNoJZpmG42mzBm9Pg) | 人工智能学家 2023-12-20
         - [ICML征稿禁止使用大型语言模型，LeCun转发：中小型模型可以用吗？](https://mp.weixin.qq.com/s/nWc3mL4aRMM2thCc-Kgb7w) |  新智元 2023-01-04
           - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
@@ -1631,6 +1640,7 @@
           - [【真伪鉴别】OpenAI内幕文件惊人曝出，Q*疑能破解加密！是否具有元认知能力？](https://mp.weixin.qq.com/s/TB7PPJxXfVY2AUXaUSra7Q) | 深度强化学习实验室 2023-11-29
           - [微软拿下OpenAI董事会席位，奥特曼首次回应Q*：不幸的泄密事件](https://mp.weixin.qq.com/s/14cbXXbLe2hfNX7LwAYZgQ) | 量子位 2023-11-30
           - [OpenAi Q* (Q Star)项目入门介绍](https://mp.weixin.qq.com/s/DL8HA1bREREFxMsLFxPlkA) | AINLP 2023-11-30
+        - [OpenAI发布AGI安全风险框架！董事会可随时叫停GPT-5等模型发布，奥特曼也得乖乖听话](https://mp.weixin.qq.com/s/wnFoRl9AjxE2TCQEI_bE3w) | 夕小瑶科技说 2023-12-19
  </br>
 
 ### LLM Blogs & Reviews
