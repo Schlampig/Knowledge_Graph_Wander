@@ -950,6 +950,7 @@
       - [首个开源MoE大模型发布！7Bx8个专家，离GPT-4最近的一集](https://mp.weixin.qq.com/s/dEpY5wE8HBgJC6p4tEnNPA) | 量子位 2023-12-09
       - [一条磁力链接席卷AI圈，87GB种子直接开源8x7B MoE模型](https://mp.weixin.qq.com/s/NdjsET6DG9BJS1lJHh5u6g) | 机器之心 2023-12-10
       - [开源大模型超越GPT-3.5！爆火MoE实测结果出炉，网友：OpenAI越来越没护城河了](https://mp.weixin.qq.com/s/t_zdSjpoCE8PZ9FeMM0sfw) | 量子位 2023-12-12
+      - [Mistral携微软引爆「小语言模型」潮！Mistral中杯代码能力完胜GPT-4，成本暴降2/3](https://mp.weixin.qq.com/s/Jo8NAlURMVMR0d2h7i5KYw) | 深度学习自然语言处理 2023-12-18
     - extra:
       - Zephyr:
         - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
