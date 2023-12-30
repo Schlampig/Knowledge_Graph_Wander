@@ -445,6 +445,7 @@
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
     - [一句话拍大片，导演末日来了！Gen-2震撼发布，科幻日系二次元统统拿捏](https://mp.weixin.qq.com/s/up5n6ZUP6SmSfRNpRX37qQ)
     - [也看文本生成短视频开源项目Open Chat Video Editor：从依赖数据集到具体实现逻辑解析](https://mp.weixin.qq.com/s/cmGS6H1EGOxjiEZtuk0qvQ)
+    - [W.A.L.T：李飞飞谷歌破局之作！用Transformer生成逼真视频，下一个Pika来了？](https://mp.weixin.qq.com/s/T4wGCB2aX-3eilUakKFJtw) | 新智元 2023-12-12
   * Segmentation
     - SAM(Segment Anything):
       - code: https://github.com/facebookresearch/segment-anything
