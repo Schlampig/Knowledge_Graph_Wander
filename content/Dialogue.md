@@ -1212,6 +1212,7 @@
           - [大模型怎么做Text2SQL？ 西交大等最新《针对表格数据的自然语言接口查询与可视化》综述](https://mp.weixin.qq.com/s/cQlLIKDH0YxYvyuXuNenWA) | 专知 2023-10-31
           - [大模型处理复杂多跳问题的github开源新框架（代码、模型、数据开源）](https://mp.weixin.qq.com/s/N0sjdNo-qWdZJ4UkXm-bdw) | NLP前沿 2023-11-22
           - [用于文档级事件关系抽取的稀疏事件表示的判别推理](https://mp.weixin.qq.com/s/iELmk0TUSyLq3eM_mi0YCA) | 开放知识图谱 2023-11-22
+          - [RETSIM:一个高效且鲁棒的数据集、文档去重新SOTA算法](https://mp.weixin.qq.com/s/HpoQ3pq3tMSIJFkEWsbKZg) | NLP前沿 2023-12-01
           - [OCR终结了？旷视提出可以文档级OCR的多模态大模型框架Vary，支持中英文，已开源！](https://mp.weixin.qq.com/s/Sg_yHAVVN-yAYT61SNKvCA) | PaperWeekly 2023-12-19
           - [使用LLM抽取关键词](https://mp.weixin.qq.com/s/QkMVAMDx4VXGRUKLjOf_mA) | AINLP 2023-12-19
           - [面向表格数据的大模型推理综述](https://mp.weixin.qq.com/s/sXeyH2Ob8-CbGwHHBYOYfQ) | 赛尔实验室 2023-12-26
