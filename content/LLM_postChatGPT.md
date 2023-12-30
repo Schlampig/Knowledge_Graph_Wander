@@ -770,6 +770,7 @@
       - [使用 DPO 微调 Llama 2](https://mp.weixin.qq.com/s/u-GqdifZy8ArKgZaQWmh8Q) | Hugging Face 2023-08-22
       - [如何利用原生Llama-2进行中文对话、显存释放的机制分析与实现策略](https://mp.weixin.qq.com/s/XDPDik-k-xZ2urvv4CY14Q) | 老刘说NLP 2023-08-30
       - [一起读读大模型源码:浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/uV2dNtSkRLCp63IVGPMi3g) | 老刘说NLP 2023-11-06
+      - [Meta教你5步学会用Llama2：我见过最简单的大模型教学](https://mp.weixin.qq.com/s/j0dDtR7N0A9f2NwCO5mkMg) | 机器之心 2023-12-03
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
