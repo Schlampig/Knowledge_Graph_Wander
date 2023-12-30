@@ -240,6 +240,7 @@
         - [CLEVA: 中文语言模型评估平台](https://mp.weixin.qq.com/s/WiF3yRU5MZS7ulLTP8FIpw) | 吃果冻不吐果冻皮 2023-08-17
         - [10B量级开源中文对话LLM，谁最「懂」人话？](https://mp.weixin.qq.com/s/EScr69xKlHHmNablcE_FYA) | 机器之心 2023-08-20
         - [用语言模型评估语言模型（1）](https://mp.weixin.qq.com/s/SUN_ywkI8ld1edXY7uq_1Q) | 看个通俗理解吧 2023-08-26
+        - [关于openCompass与大模型评测现状的分析](https://zhuanlan.zhihu.com/p/652688939) | 知乎专栏·邱震宇 2023-08-30
         - [SuperAlignment in Medical Science: 中文医疗大模型评估基准CMB](https://mp.weixin.qq.com/s/M8V-XaCRuk-UkAhqBkPgGg) | PaperWeekly 2023-09-01
         - [上海交大发布大模型双语编程评估基准CodeApex，机器真的开始挑战人类写代码了吗？](https://mp.weixin.qq.com/s/qYB0NZd0950etwQP8fPT-w) | 机器学习算法与自然语言处理 2023-09-08
         - [大模型B端落地“牛刀杀鸡”的奇怪感觉：兼看CEVAl通用评测到金融、医疗两大垂域评测的转变](https://mp.weixin.qq.com/s/qKtPnROfYsSTZgHzeq_pHg) | 老刘说NLP 2023-09-08
