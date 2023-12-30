@@ -1095,6 +1095,7 @@
     - blog:
       - [华为最新大模型来了！盘古3.0问世，千亿参数规模3万亿tokens，放话「不作诗只做事」](https://mp.weixin.qq.com/s/r9vHX_TLY7lUd6TmWQcFxA) | 量子位 2023-07-07
       - [华为的大模型终于来了，我的评价是：相当震撼。](https://mp.weixin.qq.com/s/0BDOziIYX0a-SDAvIpHkCg) | 差评 2023-07-08
+      - [挑战Transformer，华为诺亚新架构盘古π来了，已有1B、7B模型](https://mp.weixin.qq.com/s/4oYzEbczqB_ttLtUjLVwTQ) | 机器之心 2023-12-30
 
   * phi-1.5(微软):
     - [paper](https://arxiv.org/abs/2309.05463): Textbooks Are All You Need II: phi-1.5 technical report
