@@ -761,6 +761,7 @@
           - [复旦团队提出思维交流框架EoT，由CoT到EoT，可跨模型通信，表现更出色](https://mp.weixin.qq.com/s/hxZ5SnVcQd2zRSYDSsZOuQ) | 夕小瑶科技说 2023-12-11
           - [DeepMind提出代码链，通过“代码思考”改进推理性能](https://mp.weixin.qq.com/s/DQ6zdPrJavisZMtjdtGJvA) | 夕小瑶科技说 2023-12-16
           - [也看知识图谱融合大模型COT推理探索：Chain of Knowledge的基本思想、实现步骤及其他变体](https://mp.weixin.qq.com/s/N2Fj_bWVIWHZNrI5gz-lpQ) | 老刘说NLP 2023-12-17
+          - [AAAI 2024 | 用逆向思维图（ReX-GoT）进行多选对话常识推理](https://mp.weixin.qq.com/s/QSGOsZ7mDQ7KH4ZTeQbMYQ) | PaperWeekly 2023-12-30
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
@@ -803,6 +804,7 @@
           - [也看面向知识图谱构建的大模型微调多样化prompt：兼看RAG框架Langchain的2023年终总结](https://mp.weixin.qq.com/s/R6OUYD2E0zv4-M9HhVNphQ) | 老刘说NLP 2023-12-22
           - [一篇关于大模型检索召回系统的综述](https://mp.weixin.qq.com/s/yXwr4v91avEiaaK0fQYwMg) | NLP前沿 2023-12-24
           - [检索增强的LLMs：EMNLP 2023 检索相关论文导览](https://mp.weixin.qq.com/s/WtjatjSiOuHjCnLaawDRfA) | 深度学习自然语言处理 2023-12-29
+          - [百川智能RAG方案总结：搜索出生的百川智能大模型RAG爬坑之路](https://mp.weixin.qq.com/s/GST6zza7h0S0KH4bapRlxA) | NLP PaperWeekly 2023-12-30
           - [忘记RAG，拥抱大模型](https://mp.weixin.qq.com/s/SVoS7xn1BEckXPuE8JnnNQ) | NLP前沿 2023-12-30
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
@@ -1301,6 +1303,7 @@
           - [多模态，原来竟有这么多花样？](https://mp.weixin.qq.com/s/LZDcnOPsGN57clqEHbjaNg) | 吃果冻不吐果冻皮 2023-10-18
           - [OneLLM：一种统一框架实现多模态与自然语言的高效对齐](https://mp.weixin.qq.com/s/qjtPnRkjNpwkXu2-PbqLyw) | NLP前沿 2023-12-08
           - [APE｜"全开源"多模态基础感知大模型](https://mp.weixin.qq.com/s/EaAQktUGT3yStedMNEj6Gg) | 李rumor 2023-12-18
+          - [《通用多模态模型的视觉指令微调》综述](https://mp.weixin.qq.com/s/U4GwkJD7-FzjOh4pfgTUKQ) | 专知 2023-12-30
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
