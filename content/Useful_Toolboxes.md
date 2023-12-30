@@ -75,6 +75,12 @@
   * blog:
     - [Hugging Papers 来啦，快来认领你的论文!](https://mp.weixin.qq.com/s/Lmjoce9bZ6OLhp37B7znKQ) | Hugging Face 2023-03-31
 
+### Cool Papers
+  * website: https://papers.cool
+  * author: 苏剑林
+  * blog:
+    - [写了个刷论文的辅助网站：Cool Papers](https://mp.weixin.qq.com/s/uM1ToWr3u9M2MmAYKZJj5g) | 科学空间 2023-12-25
+
 ---
 ## Search Codes
 
