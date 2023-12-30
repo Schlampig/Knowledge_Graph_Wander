@@ -14,6 +14,7 @@
   * [Listed-company-news-crawl-and-text-analysis](https://github.com/DemonDamon/Listed-company-news-crawl-and-text-analysis) by Damon Li.
   * [Word2Vec-科学空间](https://spaces.ac.cn/archives/4304) by [bojone](https://github.com/bojone).
   * [text2vec](https://github.com/shibing624/text2vec)([pypi](https://pypi.org/project/text2vec/)):文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
+  * [10年前，word2vec经典论文就预定了今天的NeurIPS时间检验奖](https://mp.weixin.qq.com/s/CI-s6I-l7CwiVIKo4p0IKA) | 机器之心 2023-12-12
   
 ### Multi-Languages
   * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) by Kyubyong Park.
