@@ -49,6 +49,7 @@
         - [开源工具 | EasyEdit：开源大模型知识编辑工具](https://mp.weixin.qq.com/s/Ri40ZJyT2O_I_z-UQiHWWw) | ZJUKG 2023-08-24
         - [大模型要占你多少内存？这个神器一键测量，误差低至0.5MB，免费可用](https://mp.weixin.qq.com/s/WCwH9G1gZ-MF4q7QhsfxDA) | 夕小瑶科技说 2023-08-31
         - [你的GPU能跑Llama 2等大模型吗？用这个开源项目上手测一测](https://mp.weixin.qq.com/s/gxoAL6gCkAGntd9_t8RiZQ) | 机器之心 2023-10-23
+        - [Awesome Assistants](https://github.com/awesome-assistants/awesome-assistants): 优秀AI助手列表。
       - Survey & Turtorial:
         - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
         - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
@@ -284,6 +285,8 @@
         - [Learning Prompt](https://learningprompt.wiki/docs) ([homepage](https://www.learnprompt.pro/), [code](https://github.com/LearnPrompt/LearnPrompt)): 学习向AI提问的艺术，教程分ChatGPT和Midjourney 两部分, [GitHub项目免费教你提示工程，全中文教学，小白也能懂](https://mp.weixin.qq.com/s/bR73OXj022kQheTSvFVBRg) | 量子位 2023-05-15
         - [InstructionZoo](https://github.com/FreedomIntelligence/InstructionZoo): a collection of open-source Instruction-tuning dataset to train chat-based LLMs (ChatGPT,LLaMA,Alpaca).
         - [Prompts Royale](https://github.com/meistrari/prompts-royale): automatically create prompts and make them fight each other to know which is the best.
+        - [ChatGPT_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): 获取 GPTs 的 Prompt、Knowledge 以及如何防护的教程，另外单独对破解官方 GPTs 的 Prompt 进行分类。
+        - [Prompts of GPTs](https://github.com/linexjlin/GPTs).
         - [ChatGPT背后“推理”如何做？浙大等最新《基于语言模型提示的推理》综述，阐述大模型提示推理机制与方法体系](https://mp.weixin.qq.com/s/4_EJh2AsJexNLrRo5MELSg) | 专知 2023-05-06
         - [OpenAI出品的ChatGPT调校指南你读了吗](https://mp.weixin.qq.com/s/zSSJ2u9Jt546McE2WVE9fA) | 朴素人工智能 2023-05-09
         - [微软官方亲自出教程，拿捏「Prompt工程」高级玩法](https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA) | 机器之心 2023-05-11
