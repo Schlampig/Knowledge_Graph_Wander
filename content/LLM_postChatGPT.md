@@ -98,6 +98,7 @@
       - [幻觉处理国内最优！530亿参数Baichuan2推理能力飙升100%，首次开放API商用](https://mp.weixin.qq.com/s/gT3Bws9I1c5bw2bLIGpeYg) | 新智元 2023-09-26
       - [刚刚，百川智能Baichuan2-192K发布，上下文窗口全球最长！一次读完《三体》，拿下7个SOTA](https://mp.weixin.qq.com/s/uvtEg3DI23pniVwbopR7LA) | 新智元 2023-10-30
       - [全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://mp.weixin.qq.com/s/-fBYe86pRYBNzyW5nyA3Dg) | 机器之心 2023-11-01
+      - [大模型+搜索构建完整技术栈，百川智能用搜索增强给企业定制化下了一剂「猛药」](https://mp.weixin.qq.com/s/Hy78rtJuJTehAJIC-HK2Rg) | 机器之心 2023-12-20
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
