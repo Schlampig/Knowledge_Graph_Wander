@@ -55,3 +55,8 @@
   * link: https://github.com/jm199504/Financial-Knowledge-Graphs
   * author: Junming
   * note: 小型金融知识图谱构建流程。
+
+### Convert any Corpus of Text into a Graph of Knowledge
+  * link: https://github.com/rahulnyk/knowledge_graph
+  * author: rahulnyk
+  * note: Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA. 将任意文本转换为知识图谱，可用于图增强生成或基于知识图谱的问答。特色：将文本转换为图表示，可视化并进行查询。
