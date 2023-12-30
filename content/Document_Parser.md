@@ -70,3 +70,8 @@
   * link: https://tinywow.com/
   * author: TinyWow (a Box20 Media Company)
   * note: [Readme](https://tinywow.com/your-data), 在线转换各种文本格式。
+
+### Easy Translator
+  * link: https://github.com/artwalker/EasyTranslator
+  * author: Ethan Wang
+  * note: a command-line tool crafted with the OpenAI API, supporting translation for various file formats, including .txt, .pdf, .docx, .md, .mobi, and .epub..
