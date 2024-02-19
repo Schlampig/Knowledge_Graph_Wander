@@ -1444,6 +1444,7 @@
           - [一篇关于多模态大模型研究综述](https://mp.weixin.qq.com/s/eC5qSI7QCIJoLOscpNB5fQ) | NLP前沿 2024-01-25
           - [年轻人的第一个多模态大模型：1080Ti轻松运行，已开源在线可玩](https://mp.weixin.qq.com/s/vhGsHiY2ei5nLEAmxCmwng) | 量子位 2024-01-27
           - [腾讯发表多模态大模型最新综述，从26个主流大模型看多模态效果提升关键方法](https://mp.weixin.qq.com/s/AyGmKYtWew1pY7oLdaXS-A) | 夕小瑶科技说 2024-01-29
+          - [三年16篇一作，前谷歌研究科学家Yi Tay官宣新模型，21B媲美Gemini Pro、GPT-3.5](https://mp.weixin.qq.com/s/vPqv0wBR6_sv8jKQRrhbfQ) | 机器之心 2024-02-13
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
