@@ -283,6 +283,7 @@
         - [别再骗我提示词好坏没法评价了，用PromptBench试试](https://mp.weixin.qq.com/s/XeDOcc2pR2o2pZuDBuratg) | AI修猫Prompt 2023-12-27
         - [ToolEyes｜7个场景，5个维度，600个工具，复旦大学自然语言处理实验室全新细粒度工具学习能力评测！](https://mp.weixin.qq.com/s/xzLyydniq9NYXIZsHsnspg) | FudanNLP 2024-01-03
         - [TsinghuaNLP发布首个大模型 Debug 评测集 DebugBench](https://mp.weixin.qq.com/s/_PIf5ToROiQkVcnIEyFWXg) | TsinghuaNLP 2024-01-18
+        - [RoTBench｜5种环境，3个阶段，多层级评估LLMs工具学习鲁棒性！](https://mp.weixin.qq.com/s/-FMyaZGUghB4kZx5NJigxw) | FudanNLP 2024-01-19
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -513,6 +514,7 @@
           - [DeepSpeed ZeRO++：降低4倍网络通信，显著提高大模型及类ChatGPT模型训练效率](https://mp.weixin.qq.com/s/VNbY_cu9uz1KvCvJjLljTA) | 机器之心 2023-06-24
           - [DeepSpeed结合Megatron-LM训练GPT2模型笔记](https://mp.weixin.qq.com/s/nMQkHS7Frkm9P_OxYZ1stA) | 吃果冻不吐果冻皮 2023-07-25
           - [DeepSpeed4Science：利用先进的AI系统优化技术实现科学发现](https://mp.weixin.qq.com/s/uIZa0g8_CS7iIwSvHNBcDQ) | 微软亚洲研究院 2023-09-26
+          - [推荐两个工具：DeepSpeed-FastGen和DataTrove](https://mp.weixin.qq.com/s/EwbscTioCpWdSbKccUokgg) | ChallengeHub 2024-01-20
         - [大模型多机多卡训练加速比测试](https://zhuanlan.zhihu.com/p/631310545?utm_campaign=shareopn&utm_medium=social&utm_oi=807339714590949376&utm_psn=1644024552421371904&utm_source=wechat_session) | 章彦博 2023-05-24
         - [如何使用 Megatron-LM 训练语言模型](https://mp.weixin.qq.com/s/QPg6gOWGbQDezTl8OFZU3g) | Hugging Face 2023-05-29
           - [基于Megatron-LM从0到1完成GPT2模型预训练、模型评估及推理](https://mp.weixin.qq.com/s/ew69sfb978EsAPUKTsEytA) | 吃果冻不吐果冻皮 2023-09-06
@@ -542,6 +544,7 @@
         - [预训练一下，Transformer的长序列成绩还能涨不少！](https://mp.weixin.qq.com/s/ZitpzrUDUYqm7fnU05Hg9A) | PaperWeekly 2023-10-13
         - [LM-Cocktail：BAAI开源解决微调大模型灾难性遗忘问题的新框架](https://mp.weixin.qq.com/s/wXJAJcJJvshbH-m4VRTWyA) | NLP前沿 2023-11-24
         - [LLM360：大模型预训练过程全透明的开源项目](https://mp.weixin.qq.com/s/SW5RaKb8n6T9NrUGMZjj3A) | NLP前沿 2023-12-13
+        - [大模型推理核心技术：Continuous Batching详解](https://mp.weixin.qq.com/s/BuY36OND7021963CWSTIEQ) | 深度学习自然语言处理 2024-01-19
       - Instruction/Prompt Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
@@ -623,10 +626,12 @@
           - [系统性介绍MoE模型架构，以及在如今大模型方向的发展现状](https://mp.weixin.qq.com/s/rItxGgJss87Q_52ygDdwpw) | 深度学习自然语言处理 2024-01-08
           - [DeepSeekMoE：基于细粒度专家分割、共享专家的新MOE架构模型](https://mp.weixin.qq.com/s/uiUeT7lPyhW4E30H7GLvAA) | NLP前沿 2024-01-13
           - [大模型专家混合MoE模型详解](https://mp.weixin.qq.com/s/7mgJX0UBkl-dZnGqmcAgTA) | AINLP 2024-01-18
+          - [现有四个开源MOE大模型进展：从Mixtral-8x7B到LLaMA MOE再到DeepSeek-MoE](https://mp.weixin.qq.com/s/-UF-zxUqEsuNhJyPkSpMgA) | 老刘说NLP 2024-01-19
         - 模型融合
           - [模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://mp.weixin.qq.com/s/_V228WbPr3WKhBtIs7icZQ) | 机器之心 2024-01-06
           - [浅析大模型模型融合算法（Ties、Slerp、Task Arithmetic、DARE、Passthrough）](https://mp.weixin.qq.com/s/2zqDRQr9KUfrOD9CdZk-Sg) | NLP前沿 2024-01-10
           - [大模型Blending is all you need](https://mp.weixin.qq.com/s/WNTGio4ED8ppA2Q7veKyGg) | NLP前沿 2024-01-14
+          - [小模型性能直逼GPT-4？北航等提出基于强弱模型协同的ICL增强新范式](https://mp.weixin.qq.com/s/uz-BVUm6KCZ0r02K6wd8Sw) | PaperWeekly 2024-01-18
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -700,6 +705,7 @@
         - [深挖RLHF潜力，复旦语言和视觉团队创新奖励模型优化，让大模型更对齐](https://mp.weixin.qq.com/s/60_DJw1cQCyGJMAdi7z92g) | 机器之心 2024-01-15
         - [RLHF 和 DPO：简化和增强语言模型的微调](https://mp.weixin.qq.com/s/-5nzriCsoZIL3FKZxzbONw) | ChallengeHub 2024-01-17
         - [RLHF中Reward model的trick](https://mp.weixin.qq.com/s/IjPknZQcpMtAlCQFipqIbw) | 李rumor 2024-01-17
+        - [Self-Rewarding Language Models](https://mp.weixin.qq.com/s/gzAn2isjYLLNQMrS9zXWkQ) | NLP前沿 2024-01-19
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -758,6 +764,7 @@
           - [大型语言模型幻觉缓解技术的全面综述](https://mp.weixin.qq.com/s/-V_oxhr4ctY6eyVdKjiCUQ) | 专知 2024-01-04
           - [大模型落地过程中最大的拦路虎：幻觉](https://mp.weixin.qq.com/s/OPy3MwH9zWCwuZIk9_xtfA) | 吃果冻不吐果冻皮 2024-01-16
           - [大语言模型的32种消除幻觉的技术，你都了解吗？](https://mp.weixin.qq.com/s/ZXMagNOXfpobrnyCSvhS2g) | 夕小瑶科技说 2024-01-17
+          - [KCA：一个研究大模型微调幻觉的新策略](https://mp.weixin.qq.com/s/sX67CpW3PmKimByQj7NMyA) | NLP前沿 2024-01-22
         - Survey of CoT (思维链综述)
           - [AI 新时代，大模型该如何“绞尽脑汁”？](https://mp.weixin.qq.com/s/YkQVk95N8G_mzY09KALkww) | 吃果冻不吐果冻皮 2023-09-02
           - [一文总结提示工程框架，除了CoT还有ToT、GoT、AoT、SoT、PoT](https://mp.weixin.qq.com/s/8H0XRns7jmS4OdbFQ2aZKA) | 夕小瑶科技说 2023-09-20
@@ -799,6 +806,8 @@
           - [DeepMind提出代码链，通过“代码思考”改进推理性能](https://mp.weixin.qq.com/s/DQ6zdPrJavisZMtjdtGJvA) | 夕小瑶科技说 2023-12-16
           - [也看知识图谱融合大模型COT推理探索：Chain of Knowledge的基本思想、实现步骤及其他变体](https://mp.weixin.qq.com/s/N2Fj_bWVIWHZNrI5gz-lpQ) | 老刘说NLP 2023-12-17
           - [AAAI 2024 | 用逆向思维图（ReX-GoT）进行多选对话常识推理](https://mp.weixin.qq.com/s/QSGOsZ7mDQ7KH4ZTeQbMYQ) | PaperWeekly 2023-12-30
+          - [你写Prompt常用的CoT思想链，几步推理最准确？](https://mp.weixin.qq.com/s/S8aE-b5BK_knuyFSX-F3dg) | AI修猫Prompt 2024-01-18
+          - [你真的了解CoT思维链提示吗？AI思考的秘密武器](https://mp.weixin.qq.com/s/GfsGzryFMftmg3QfbGhcoA) | AI修猫Prompt 2024-01-19
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
@@ -816,6 +825,7 @@
           - [LangChain+通义千问+AnalyticDB向量引擎保姆级教程](https://mp.weixin.qq.com/s/GiOTpJOK5tr1Bat3R-Jbyg) | 阿里云开发者 2023-10-12
           - [奋战一年，LangChain首个稳定版本终于发布，LangGraph把智能体构建为图](https://mp.weixin.qq.com/s/EOYTMs_ucGdr5P7_lABl_A) | 机器之心 2024-01-09
           - [开发必备 | LangChain最新开源Prompt优化工具，穿透Open AI六大策略优化你的提示词](https://mp.weixin.qq.com/s/J0ijxPEmX7I0FXgMoYDdKg) | AI修猫Prompt 2024-01-10
+          - [LangChain：打造自己的LLM应用](https://mp.weixin.qq.com/s/YD9nOOFt7w3hulSaWNA5bQ) | 深度学习自然语言处理 2024-01-18
         - RAG
           - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) by Tongji-KGLLM.
             - [paper](https://arxiv.org/pdf/2312.10997.pdf): Retrieval-Augmented Generation for Large Language Models: A Survey.
@@ -840,6 +850,8 @@
             - [基础RAG-大模型和中控模块代码（含代码）](https://mp.weixin.qq.com/s/Fx9vHbM1woa6-q2ZeC1X4w) | CS的陋室 2023-12-24
             - [基础RAG-调优方案](https://mp.weixin.qq.com/s/maElwEoK5ozniNhK1qlaPA) | CS的陋室 2024-01-01
             - [高级RAG技术——博客阅读](https://mp.weixin.qq.com/s/pbTFiaPO0IFN06rdPrUy6Q) | CS的陋室 2024-01-14
+            - [综述-面向大模型的检索增强生成（RAG）](https://mp.weixin.qq.com/s/Ebc-DEpfEBNP1nrQHkQv4g) | CS的陋室 2024-01-21
+            - [大模型RAG的迭代路径](https://mp.weixin.qq.com/s/kTZc1UpAzpSNanRx82ZRtg) | 李rumor 2024-01-22
           - [检索增强生成(RAG)有什么好的优化方案？](https://mp.weixin.qq.com/s/urz33zLZq4NJxsxauGhK7w) | 吃果冻不吐果冻皮 2023-12-19
           - [也读大模型RAG问答技术综述及评估思路：兼看UHGEval幻觉评估数据集的构建细节](https://mp.weixin.qq.com/s/PiTWDht3rOTwXE2vN5p6PQ) | 老刘说NLP 2023-12-21
           - [也看面向知识图谱构建的大模型微调多样化prompt：兼看RAG框架Langchain的2023年终总结](https://mp.weixin.qq.com/s/R6OUYD2E0zv4-M9HhVNphQ) | 老刘说NLP 2023-12-22
@@ -866,6 +878,8 @@
           - [大模型RAG发展方向的新思考-知识库文档化](https://mp.weixin.qq.com/s/Oal3Jhz_dm-gnPeytsA3zQ) | NLP前沿 2024-01-16
           - [RAG行业问答博客观点开源整理：从RAG评估、应用参考、开源框架到操作实践总结](https://mp.weixin.qq.com/s/AP703E2zDhQQ0h1eGTsmvg) | 老刘说NLP 2024-01-17
           - [值得一读的RAG“新手村”速通攻略：RAG的2-stage优化核心策略及主流方案](https://mp.weixin.qq.com/s/1oJfLgCghOKvPH4T4KJg7w) | 老刘说NLP 2024-01-18
+          - [专补大模型短板的检索增强（RAG）有哪些新进展？这篇综述讲明白了](https://mp.weixin.qq.com/s/gWdrHV896nMxjkxEk0NSzA) | 深度学习自然语言处理 2024-01-19
+          - [高级RAG 02：选择最佳embedding和重排序模型](https://mp.weixin.qq.com/s/-NbI4aEvUR9sTjYtfERBDQ) | AINLP 2024-01-20
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1259,6 +1273,7 @@
           - [DeepMind论文登上Nature：困扰数学家几十年的难题，大模型发现全新解](https://mp.weixin.qq.com/s/b9kKY8BX8rd-rbEGyE4Iyw) | 机器之心 2023-12-15
           - [陶哲轩用AI证明数学猜想实乃误读，但数学界仍大受震动](https://mp.weixin.qq.com/s/d9RSkRhlKH5ZMek3yTqe4Q) | 返朴 2024-01-10
           - [奥数能力金牌级：DeepMind几何推理模型登上Nature，代码开源，菲尔兹奖得主点赞](https://mp.weixin.qq.com/s/z3XCeMYu5E3DM-zs-Tgxnw) | 机器之心 2024-01-18
+          - [数学推理与AI：机器学习系统能在多大程度上理解数学？](https://mp.weixin.qq.com/s/epdMLoSfM9JjGxFFb2x-Zg) | 知识工场 2024-01-20
         - [Yoshua Bengio领衔跨学科团队，Nature刊文综述人工智能时代的科学发现](https://mp.weixin.qq.com/s/_daNLMGhGp3KIsXilbvXHA) | 知识工场 2023-08-14
           - [Bengio等人88页新论文：构建有意识的AI没有明显障碍](https://mp.weixin.qq.com/s/3Hd3gLSPREWZkZTiCBjgww) | 机器之心 2023-08-22
           - [OceanGPT：面向海洋科学的大型语言模型初探](https://mp.weixin.qq.com/s/YHK5-qiOjSQzzFzICJbyig) | PaperWeekly 2023-10-25
