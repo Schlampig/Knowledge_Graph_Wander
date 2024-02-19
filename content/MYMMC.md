@@ -262,7 +262,12 @@
     - [2023年05月26日：「AI教父」Geoffrey Hinton：智能进化的下一个阶段](https://mp.weixin.qq.com/s/KwuIQIM59D75kW_avYBnXw)
   - [2023年05月09日：“LSTM之父”谈AI威胁论：AI将超越人类智力，对人类不感兴趣，呼吁暂停AI是一种误导](https://mp.weixin.qq.com/s/lnLc_jHts762Kh_LzLKDKg)
   - [2023年05月26日：马斯克脑机接口公司获批开展首例人体实验](https://mp.weixin.qq.com/s/9z_yI6Zb4ISHNWFh5xSGkw)
+    - [2023年07月24日：人鼠混合大脑出现了！斯坦福大学7年研究登Nature](https://mp.weixin.qq.com/s/Xtu-9KOOG01LcKQT4R7Vqg)
     - [2023年08月22日：脑机接口爆发前夜，技术瓶颈、资金掣肘、伦理挑战如何攻克？｜世界机器人大会](https://mp.weixin.qq.com/s/JRloYtnadVbh15Tki1mdhg)
+    - [2023年09月21日：马斯克的脑机接口公司官宣首次人体试验，但还有一个「致命」问题要解决](https://mp.weixin.qq.com/s/Dp4z2Tq1zwdWhHGsWmHRTg)
+    - [2024年01月30日：马斯克宣布：首位人类被试已接受Neuralink 脑机芯片植入手术，目前恢复良好]
+    - [2024年01月30日：米哈游离「崩坏神域」又进一步？脑机技术已临床试验](https://mp.weixin.qq.com/s/gM54FV8P2z0NmEhVpuIbjA)
+    - [2024年02月02日：脑控喝水！清华脑机接口临床试验宣告成功，患者可终生使用](https://mp.weixin.qq.com/s/Gn8KJgLdRWV13kXHI_D2Zw)
   - [2023年06月12日：75岁Hinton中国大会最新演讲「通往智能的两种道路」，最后感慨：我已经老了，未来交给年轻人](https://mp.weixin.qq.com/s/DDUfYkIpcRc_2TTZ0eclGA)
   - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
     - [2023年06月19日：Nature封面：量子计算机离实际应用还有两年](https://mp.weixin.qq.com/s/MqWh7N42Fmo9JqjlFFvLxQ)
@@ -271,8 +276,6 @@
   - [2023年06月28日：没脑子也能学习？](https://mp.weixin.qq.com/s/kDTA0H507ciJTy2yVMbC-w)
   - [2023年07月03日：13万个注释神经元，5300万个突触，普林斯顿大学等发布首个完整「成年果蝇」大脑连接组](https://mp.weixin.qq.com/s/PqMRxAIF9MENNq9SAQDeIg)
     - [2023年07月13日：登顶刊Cell：中国科学家领衔发布猕猴大脑皮层细胞三维「地图」](https://mp.weixin.qq.com/s/GnaK6rpp_ULnIAnAiTGTrQ)
-    - [2023年07月24日：人鼠混合大脑出现了！斯坦福大学7年研究登Nature](https://mp.weixin.qq.com/s/Xtu-9KOOG01LcKQT4R7Vqg)
-    - [2023年09月21日：马斯克的脑机接口公司官宣首次人体试验，但还有一个「致命」问题要解决](https://mp.weixin.qq.com/s/Dp4z2Tq1zwdWhHGsWmHRTg)
     - [2023年10月02日：蒲慕明院士展望：非人灵长类“全脑细胞图谱”有望三年内绘制完成](https://mp.weixin.qq.com/s/7RrTXB2g3wVnkOb0i4iEvw)
   - [2023年07月24日：大脑如何产生意识？神经科学家的预言输给了哲学家](https://mp.weixin.qq.com/s/7Xvfx0-1KM3V63AV1vNQBQ)
     - [2023年09月22日：124位科学家批评整合信息论是伪科学：我们该如何探讨意识难题？](https://mp.weixin.qq.com/s/ryGMmsrdaZkiHZq4S5fqVA)
@@ -295,6 +298,8 @@
   - [2024年01月12日：脑机接口技术的三个发展趋势](https://mp.weixin.qq.com/s/ZutID9euV9xSjiuNBWoRPw)
   - [2024年01月15日：Nature论文 “浅脑理论”：深度神经网络或许不是下一代AI的核心架构？](https://mp.weixin.qq.com/s/p5uUsSULQD_GvinpawC-lA)
   - [2024年01月20日：有生计算，AGI之路，彻底改变具身、主动智能和认知研究的长期未来](https://mp.weixin.qq.com/s/clY5BjKEt_fEQ6u4iZXrlw)
+  - [2024年01月30日：大模型时代，南大周志华埋头做学件，最新论文上线](https://mp.weixin.qq.com/s/Iqtjp1jFaEd3Gtyp4Ycukg)
+  - [2024年02月08日：斯坦福最强家务机器人ALOHA 2来了，成本不到20万，联手谷歌DeepMind，完全开源](https://mp.weixin.qq.com/s/neH70mPjuFQEQ8VPgjmrAA)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
