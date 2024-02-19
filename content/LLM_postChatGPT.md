@@ -101,6 +101,7 @@
       - [全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://mp.weixin.qq.com/s/-fBYe86pRYBNzyW5nyA3Dg) | 机器之心 2023-11-01
       - [大模型+搜索构建完整技术栈，百川智能用搜索增强给企业定制化下了一剂「猛药」](https://mp.weixin.qq.com/s/Hy78rtJuJTehAJIC-HK2Rg) | 机器之心 2023-12-20
       - [百川智能发布角色大模型，零代码复刻角色](https://mp.weixin.qq.com/s/zOihQJUrVDFHB2gT1rV3uw) | AI前线 2024-01-15
+      - [百川智能上新超千亿大模型Baichuan 3，冲榜成绩：若干中文任务超车GPT-4](https://mp.weixin.qq.com/s/GGhbt93eS9-JkM9qyv1WmQ) | 量子位 2024-01-29
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -305,6 +306,12 @@
     - [paper](https://arxiv.org/pdf/2305.07922.pdf): CodeT5+: Open Code Large Language Models for Code Understanding and Generation.
     - blog:
       - [刷新20项代码任务SOTA，Salesforce提出新型基础LLM系列编码器-解码器Code T5+](https://mp.weixin.qq.com/s/xKD2GhdLzsyTCsZ-5HzJsQ) | 机器之心 2023-06-24
+
+  * CogGPT(哈工大&快手):
+    - code: https://github.com/KwaiKEG/CogGPT
+    - [paper](https://arxiv.org/abs/2401.08438): CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language Models.
+    - blog:
+      - [哈工大联合快手提出CogGPT：大模型也需要认知迭代](https://mp.weixin.qq.com/s/MormTq1K9lr3XeCtKBdpJQ) | 赛尔实验室 2024-01-30
 
   * CogVLM(清华&智谱):
     - code: https://github.com/THUDM/CogVLM
@@ -791,6 +798,7 @@
       - [如何利用原生Llama-2进行中文对话、显存释放的机制分析与实现策略](https://mp.weixin.qq.com/s/XDPDik-k-xZ2urvv4CY14Q) | 老刘说NLP 2023-08-30
       - [一起读读大模型源码:浅谈LLAMA2核心函数generate源码](https://mp.weixin.qq.com/s/uV2dNtSkRLCp63IVGPMi3g) | 老刘说NLP 2023-11-06
       - [Meta教你5步学会用Llama2：我见过最简单的大模型教学](https://mp.weixin.qq.com/s/j0dDtR7N0A9f2NwCO5mkMg) | 机器之心 2023-12-03
+      - [Meta官方的Prompt工程指南：Llama 2这样用更高效](https://mp.weixin.qq.com/s/_Y3-w2FS3eNjRQiDuANTLw) | 机器学习算法与自然语言处理 2024-01-30
     - extra:
       - [Llama2-chat-7B 开源中文版强势来袭！](https://mp.weixin.qq.com/s/r_hKK5_cYm8ClqYVApkUYQ) | 深度学习自然语言处理 2023-07-22
         - [首发！国内最大Llama开源社区发布首个预训练中文版Llama2](https://mp.weixin.qq.com/s/JXyPAgJaX4GvvohJO_Nlyw) | 夕小瑶科技说 2023-08-02
@@ -1401,6 +1409,10 @@
     - blog:
       - [模块化大模型来了！IBM公开WastonX核心架构技术细节](https://mp.weixin.qq.com/s/EaptzYnOtf2K_Wfb2rb5Ow) | 量子位 2023-06-24 
 
+  * Weaver(波形智能):
+    - blog:
+      - [波形智能发布中文创作大模型 Weaver 及首款产品「蛙蛙写作」，开放 API，提供企业级定制](https://mp.weixin.qq.com/s/KJseBgmJCOM0aw_KZMcz3g) | Founder Park 2024-01-30
+
   * WebCPM(清华):
     - code: https://github.com/thunlp/WebCPM
     - [paper](https://arxiv.org/abs/2305.06849): WebCPM: Interactive Web Search for Chinese Long-form Question Answering.
@@ -1463,6 +1475,7 @@
       - [讯飞星火大模型抢先进入​「升级战」：中国版ChatGPT来了](https://mp.weixin.qq.com/s/r3gXhifZAbRHyVfggizbOg) | 36氪 2023-06-09
       - [讯飞星火新版本来袭！多模态、插件等功能大揭秘，你不知道的都在这里](https://mp.weixin.qq.com/s/FE5naTFsh_bQ3bTRUyDM-A) | ChallengeHub 2023-08-14
       - [讯飞星火升级 3.0：整体超越 ChatGPT，2024 年将实现对标 GPT-4](https://mp.weixin.qq.com/s/Uncef5_JaZWSjMdwumUA_A) | 机器之心 2023-10-24
+      - [实测讯飞星火V3.5：全语音交互比肩GPT-4！超逼真唠嗑让你根本停不下来](https://mp.weixin.qq.com/s/OeUU-Qf-MxQbLE7Lj8w4cg) | 量子位 2024-01-30
 
   * 轩辕(度小满):
     - blog:
