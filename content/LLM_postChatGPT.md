@@ -1144,6 +1144,7 @@
       - [通义千问Qwen-7B效果如何？Firefly微调实践，效果出色](https://mp.weixin.qq.com/s/ETpwfDO0KKWq6_YFaAj3tg) | AINLP 2023-08-05
       - [通义千问-Qwen技术报告细节分享](https://mp.weixin.qq.com/s/5uunMZsJa66mTbSfa3cyEg) | 吃果冻不吐果冻皮 2023-10-02
       - [Qwen72B开源：推荐一个开源框架支持4GB显存推理70B大模型!!!（无需量化、剪枝）](https://mp.weixin.qq.com/s/Z0OTWNsTVIo90kBhBsyT4w) | NLP前沿 2023-12-01
+      - [QWen升级之路](https://mp.weixin.qq.com/s/drcLtYqt6yYPnBGGPoncbQ) | AINLP 2024-01-12
 
 </br>
 
