@@ -25,6 +25,7 @@
 ### Blog
   * [2022年09月23日：知识干货 | 关于实体链接的构建及应用](https://mp.weixin.qq.com/s/0MX5zv5dNE4aPdvz6niUyw)
   * [2022年08月01日：一文简要了解词义消歧与实体消歧](https://mp.weixin.qq.com/s/MsEYQ6HU1GuzHV9OBq3V5Q)
+  * [2024年02月11日：《图简化(Graph Reduction)》最新综述](https://mp.weixin.qq.com/s/cRVUw5wVL7x-Bn2q87oavQ)
 
 ### Dedupe
   * type: entity resolution
