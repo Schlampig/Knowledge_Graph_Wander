@@ -150,6 +150,12 @@
     - [如何构建你的个人智能体？ 清华等最新《个人语言模型智能体》综述，详述其能力、效率和安全性的洞察与综述](https://mp.weixin.qq.com/s/zfyYmlPqZ2RzfekmDfPS5Q) | 专知 2024-01-13
     - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/J6hxUmV0TipKRX4_WhF0vA) | ChallengeHub 2024-01-18
     - [清华、小米、华为、 vivo、理想等多机构联合综述，首提个人LLM智能体、划分5级智能水平](https://mp.weixin.qq.com/s/JYB4BzsXhWF8pEUUkvn_GQ) | 机器之心 2024-01-21
+    - [基于开源模型搭建Agent系统教程](https://mp.weixin.qq.com/s/Xjv9dTzStpKLMUXzXEnciA) | NLP前沿 2024-01-27
+    - [写在跨年之前：聊聊LLM Agents的现状，问题与未来](https://mp.weixin.qq.com/s/N2xnxZII3eShGBim4XQShg) | 深度学习自然语言处理 2024-01-29
+    - [浙大发布Agent学习框架，13B 模型达到 ChatGPT 水平！](https://mp.weixin.qq.com/s/lOoGDsCLFKYJPWee4uQ2YQ) | 夕小瑶科技说 2024-01-31
+    - [AI Agent十大研究方向，数字员工、超级个体、具身智能与之密切相关](https://mp.weixin.qq.com/s/4ftL--cTDJpocVS7_yglmw) | RPA全球生态 2024-02-02
+    - [基于大型语言模型的多智能体：进展与挑战综述](https://mp.weixin.qq.com/s/Wp-fkkqwRVR4UvLnSWqG2A) | 专知 2024-02-07
+    - [单卡3小时训练专属大模型Agent-基于LLaMA Factory实战](https://mp.weixin.qq.com/s/qeWEEmWlomjtFP5wQxUAcg) | 深度学习自然语言处理 2024-02-07
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
