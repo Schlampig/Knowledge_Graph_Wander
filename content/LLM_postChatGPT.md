@@ -1415,6 +1415,7 @@
   * Weaver(波形智能):
     - blog:
       - [波形智能发布中文创作大模型 Weaver 及首款产品「蛙蛙写作」，开放 API，提供企业级定制](https://mp.weixin.qq.com/s/KJseBgmJCOM0aw_KZMcz3g) | Founder Park 2024-01-30
+      - [中文创意写作能力超GPT-4，「最会写」的中文大模型Weaver来了](https://mp.weixin.qq.com/s/VzkCXaRgmS6GBtwMKaY6KQ) | 开放知识图谱 2024-02-08
 
   * WebCPM(清华):
     - code: https://github.com/thunlp/WebCPM
