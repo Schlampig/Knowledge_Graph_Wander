@@ -235,6 +235,12 @@
   * ChatPaper(AMiner):
     - blog:
       - [ChatPaper：论文综述细节一问即答，还能构建专属文献库](https://mp.weixin.qq.com/s/u3UuMmyLcKlBRs0ZMbwCew) | 学术头条 2023-07-12
+
+  * ChatQA(英伟达):
+    - [paper](https://arxiv.org/pdf/2401.10225.pdf): ChatQA: Building GPT-4 Level Conversational QA Models.
+    - blog:
+      - [ChatQA:构建 GPT-4 级别的多轮对话 QA 模型](https://mp.weixin.qq.com/s/GVxohcp_dR6NPctgVX_hUQ) | NLP前沿 2024-01-19
+      - [两阶段微调多轮对话模型ChatQA实现策略：兼看大模型进行时序事件挖掘的思路](https://mp.weixin.qq.com/s/R80qCPRTrXzo_839LWlNdw) | 老刘说NLP 2024-01-20
   
   * Chat-REC(复旦):
     - [paper](https://arxiv.org/pdf/2303.14524.pdf): Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System
