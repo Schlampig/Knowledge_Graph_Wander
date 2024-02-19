@@ -137,8 +137,16 @@
       - code: https://github.com/KwaiKEG/KwaiAgents
       - [paper](https://arxiv.org/abs/2312.04889): KwaiAgents: Generalized Information-seeking Agent System with Large Language Models
       - author: KwaiKEG (快手快知团队)
-      - blog: [快手Agents系统、模型、数据全部开源！](https://mp.weixin.qq.com/s/QhZIFL1GHH90z98gnk194g) | 机器之心 2023-12-27
+      - blog:
+        - [快手Agents系统、模型、数据全部开源！](https://mp.weixin.qq.com/s/QhZIFL1GHH90z98gnk194g) | 机器之心 2023-12-27
+        - [长文洞察大模型Agent系统-精读kwaiAgents](https://mp.weixin.qq.com/s/7HMH8rDUM_mmu5Z5wWZMbA) | NLP前沿 2024-01-04
     - [AI Agent：为LLM构建智能外部大脑](https://mp.weixin.qq.com/s/0euBQJxaivmdHBwMtAb80g) | 吃果冻不吐果冻皮 2023-12-27
+    - [OpenAI翁丽莲的Agent公式，一定是正确的吗？](https://mp.weixin.qq.com/s/syNF_ZhMvq1ioxxaySpG5A) | 量子位 2024-01-07
+    - [RAISE：一个引入长短期记忆的对话Agent系统](https://mp.weixin.qq.com/s/flR1fmUHd_Vx4zWSKyxeuQ) | NLP前沿 2024-01-08
+    - [Agent检索增强生成：突破传统RAG局限，构建更加智能、贴近事实的LLM应用！](https://mp.weixin.qq.com/s/u__X_g2-OUFjagP-2tAbCg) | 深度学习自然语言处理 2024-01-09
+    - [多模态智能体AI开启新浪潮！李飞飞等14位斯坦福微软大牛等撰写 80页《AGENT AI: 综述多模态交互的前沿展望》](https://mp.weixin.qq.com/s/ckMMHdmuiWvW7n7cOVsh8g) | 专知 2024-01-10
+    - [AUTOACT：一个大模型自动学习和规划的Agent框架](https://mp.weixin.qq.com/s/GcDLQjC4XF3U7fXv-2qLAQ) | NLP前沿 2024-01-11
+    - [GitAgent: 自主扩展工具箱的大模型智能体](https://mp.weixin.qq.com/s/rT_4-WaSV6uM0Ks7h8to-Q) | TsinghuaNLP 2024-01-12
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
