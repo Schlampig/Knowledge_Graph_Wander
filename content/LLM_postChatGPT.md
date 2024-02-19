@@ -1243,6 +1243,7 @@
     - [paper](https://arxiv.org/abs/2309.17453): Efficient Streaming Language Models with Attention Sinks.
     - blog:
       - [浅谈StreamingLLM中的attention sink和sink token](https://mp.weixin.qq.com/s/J84VN3hkpBcUkCDQLMwIEQ) | AINLP 2023-10-07
+      - [多轮对话推理速度提升46%，开源方案打破LLM多轮对话的长度限制​](https://mp.weixin.qq.com/s/ngD97EaRD2pVqli_rsD76Q) | 机器之心 2024-01-08
 
 </br>
 
@@ -1279,6 +1280,7 @@
     - code: https://github.com/jzhang38/TinyLlama
     - blog:
       - [​TinyLlama-1.1B：从零开始训练一个精悍的语言模型](https://mp.weixin.qq.com/s/bEYabXZpLgmeBVlwI69FLw) | PaperWeekly 2023-09-14
+      - [轻量级模型，重量级性能，TinyLlama、LiteLlama小模型火起来了](https://mp.weixin.qq.com/s/qVFa2z9JJ6t6kTJlTubHfQ) | 机器之心 2024-01-08
 
   * ToolLLM(清华&人大&耶鲁&腾讯&知乎):
     - code: https://github.com/OpenBMB/ToolBench
