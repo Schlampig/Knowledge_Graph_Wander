@@ -657,6 +657,9 @@
       - [图文并茂，三步速出「原神」文稿！首个70亿参数图文混合创作大模型正式开源，一键生成神作](https://mp.weixin.qq.com/s/DgdQ7AzskSQRd0lFu6zvvQ) | 新智元 2023-10-10
       - [24GB显卡轻松微调InternLM-20B，手把手带你打造专属大模型！](https://mp.weixin.qq.com/s/Sn0NWzY04ogNYDo4ig92LA) | InternLM 2023-10-25
       - [仅需一块3090显卡，高效部署InternLM-20B模型](https://mp.weixin.qq.com/s/pu6TOHo98FF1i45LO4v7TA) | InternLM 2023-11-08
+      - [200亿「书生·浦语2.0」正式开源！数推性能比肩ChatGPT，200K超长上下文完美召回](https://mp.weixin.qq.com/s/-7WQoR72UggdiwP0q5UT4A) | 新智元 2024-01-17
+    - extra:
+      - [茴香豆：一个新开源基于大模型的领域知识助手（来自书生·浦语团队）](https://mp.weixin.qq.com/s/uDt1StjzwuqnnbsJK0WSiA) | NLP前沿 2024-01-18
   
 </br>
 
@@ -971,6 +974,8 @@
       - SOLAR(Upstage AI):
         - [两只羊驼掐头去尾拼一起，屠榜HuggingFace](https://mp.weixin.qq.com/s/uXkLQGd1J8AYh5I5LwWskQ) | 量子位 2023-12-29
         - [paper](https://arxiv.org/abs/2312.15166): SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling.
+      - Chinese-Mixtral(哈工大):
+        - [HIT-SCIR发布首个中文扩词表增量预训练混合专家模型Chinese-Mixtral-8x7B](https://mp.weixin.qq.com/s/hpoLYcJzPL_ujyIa67ZPtA) | 赛尔实验室 2024-01-18
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
@@ -1482,6 +1487,12 @@
   * youChat(You.com): 
     - blog:
       - [ChatGPT还在2G冲浪？新模型「youChat」：我已能够解说2022世界杯](https://mp.weixin.qq.com/s/HQDfdgtDhRvSWSdiPQEPcg) | 机器之心 2022-12-24
+
+  * 源Yuan(IEIT-Yuan):
+    - code(2.0): https://github.com/IEIT-Yuan/Yuan-2.0
+    - code(1.0): https://github.com/IEIT-Yuan/YuanChat
+    - blog:
+      - [源2.0大模型适配LLaMA-Factory框架！微调训练快捷高效](https://mp.weixin.qq.com/s/MrW08QXd1zOeq0GJ9pEeQA) | AINLP 2024-01-18
 
 </br>
 
