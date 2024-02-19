@@ -401,6 +401,7 @@
         - [2023年05月26日：NLP+Diffusion=？UMN最新《NLP中的扩散模型》综述 ，全面阐述离散和嵌入扩散模型方法](https://mp.weixin.qq.com/s/czNtFbXEjPUN6klCa1SWmA)
         - [2023年07月19日：在英特尔 CPU 上微调 Stable Diffusion 模型](https://mp.weixin.qq.com/s/YmznHA811TqCrqHOwL2D0Q)
         - [2023年11月19日：AIGC文生图核心技术：StableDiffusion原理详细介绍](https://mp.weixin.qq.com/s/-aQt5JgtrdrgapLxo5YVwg)
+        - [2024年01月27日：何恺明谢赛宁团队步步解构扩散模型，最后竟成经典去噪自编码器](https://mp.weixin.qq.com/s/tP_evn-Rn3sy7_R3pQeghQ)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
