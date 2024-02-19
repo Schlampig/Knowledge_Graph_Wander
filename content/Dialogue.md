@@ -845,6 +845,7 @@
           - [你真的了解CoT思维链提示吗？AI思考的秘密武器](https://mp.weixin.qq.com/s/GfsGzryFMftmg3QfbGhcoA) | AI修猫Prompt 2024-01-19
           - [「think step by step」还不够，让模型「think more steps」更有用](https://mp.weixin.qq.com/s/3mdDYQI0WYgIpctyK6q2PA) | 机器之心 2024-01-25
           - [深入探索CoT有效性和推理步长对于LLM性能的影响](https://mp.weixin.qq.com/s/l6DAX0onpWt7lHew3hK_ZQ) | 将门创投 2024-01-29
+          - [paper](https://arxiv.org/abs/2402.10200): Chain-of-Thought Reasoning Without Prompting.
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
