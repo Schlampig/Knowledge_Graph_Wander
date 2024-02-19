@@ -292,6 +292,9 @@
   - [2023年12月20日：清华等团队研究登Nature子刊封面：用生物脑机制启发持续学习，让智能系统适者生存](https://mp.weixin.qq.com/s/UijhteqmHBrsesQCIM8onw)
   - [2023年12月20日：为AI配备目标；强化学习是最低的智能行为，昆虫和哺乳动物在第几层？](https://mp.weixin.qq.com/s/Er02KZBhkJ6x6LZbMB9cjQ)
   - [2023年12月25日：一篇综述，看穿基础模型+机器人的发展路径](https://mp.weixin.qq.com/s/0nZsRnQkE9YRZLdUfAtbUg)
+  - [2024年01月12日：脑机接口技术的三个发展趋势](https://mp.weixin.qq.com/s/ZutID9euV9xSjiuNBWoRPw)
+  - [2024年01月15日：Nature论文 “浅脑理论”：深度神经网络或许不是下一代AI的核心架构？](https://mp.weixin.qq.com/s/p5uUsSULQD_GvinpawC-lA)
+  - [2024年01月20日：有生计算，AGI之路，彻底改变具身、主动智能和认知研究的长期未来](https://mp.weixin.qq.com/s/clY5BjKEt_fEQ6u4iZXrlw)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
