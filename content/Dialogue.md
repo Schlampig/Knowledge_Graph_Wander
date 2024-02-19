@@ -404,6 +404,7 @@
         - [LongAlign：一个通过训练拓展预训练LLM上下文长度的研究（数据->训练->评估 ）](https://mp.weixin.qq.com/s/XJHRhlR4trEOaLaihSKiDA) | NLP前沿 2024-02-01
         - [匿名论文提出奇招！增强大模型长文本能力居然还能这么做](https://mp.weixin.qq.com/s/V9C0s4HR2cQinz1Bgrjsiw) | 量子位 2024-02-02
         - [Transformer升级之路：“复盘”长度外推技术](https://mp.weixin.qq.com/s/oQtaYtIWJo2qlZHeqBwfxA) | PaperWeekly 2024-02-05
+        - [一览大模型长文本能力](https://mp.weixin.qq.com/s/hacYYsMSYYyiplZOI3oGpw) | 吃果冻不吐果冻皮 2024-02-18
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -1626,6 +1627,7 @@
           - [ChatGPT最近被微软内部禁用！GPTs新bug：数据只要两句提示词就能套走](https://mp.weixin.qq.com/s/4F4yFqW8ZTZfwfz_UXJKXw) | 量子位 2023-11-11
           - [大模型如何应对安全性？清华等最新《大型语言模型系统的风险分类、缓解措施及评估基准》论文](https://mp.weixin.qq.com/s/k0Mq_D4I1SM6ft4NLK5frw) | 专知 2024-01-17
           - [当心！不要教大模型骗人，研究表明AI变坏后，很难被纠正](https://mp.weixin.qq.com/s/B3_pD9iLLaKUNUQJ_Q_Gbg) | 夕小瑶科技说 2024-01-23
+          - [ChatGPT、Sora之后，19位专家提出AI治理新方向](https://mp.weixin.qq.com/s/fQdbmgo8Gw0YiSN8hQ7iLw) | 学术头条 2024-02-19
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
