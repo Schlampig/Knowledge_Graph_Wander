@@ -682,6 +682,7 @@
   * [Google Scholar Metrics](https://scholar.google.com/citations?view_op=metrics_intro&hl=en): 谷歌学术英文出版物评价排名。
   * [CCF论文列表(2022)正式版发布！MICCAI空降B类！PRCV空降C类！ICLR继续陪跑...](https://mp.weixin.qq.com/s/aRHZLlQhKqyfFpCmouKoKQ)
   * [ACL、EMNLP等各顶会领域主席联系方式都在这里了！](https://mp.weixin.qq.com/s/CuAFqWiXURFaTshQ9x-QgQ)
+  * [Nature：好导师的16个标准](https://mp.weixin.qq.com/s/4iLdkSwvJVjDhrkgEucY1w)
 
 ---
 ## Interview
@@ -769,6 +770,7 @@
   * 职级对标（中国）：https://duibiao.info/
   * 职级对标（国际）：https://www.levels.fyi/
   * 裁员信息（国际）：https://layoffs.fyi/
+  * [被裁维权自救清单](https://mp.weixin.qq.com/s/t5r_wAB-fU9WmRFy1ou_UA) | OfferShow 2024-01-25
 
 ### Company
   * [996.ICU](https://github.com/996icu/996.ICU) by [996icu](https://github.com/996icu): “996”工作制公司（及相关信息）记录。
