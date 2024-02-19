@@ -192,6 +192,7 @@
         - [为大模型恶补数学，上交开源MathPile语料库，95亿tokens，还可商用](https://mp.weixin.qq.com/s/aTx020RV-0RQ3-_lXcMGkQ) | 机器之心 2024-01-12
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
+        - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
         - [API-Bank：用于评估LLMs使用外部工具能力的测试基准](https://mp.weixin.qq.com/s/HFwDsDjem0MKuuh7y88Blw) | 机器学习算法与自然语言处理 2023-04-29 
         - [粗看大模型ChatGLM、MOSS、Bloomz在中文垂域评测中的性能表现：医学、法律、心理学、教育等四大类试题下的测试报告介绍](https://mp.weixin.qq.com/s/Hq6bn_4vD559TMQxx806tg) | 老刘说NLP 2023-04-29
         - [清华发布首个最全大模型安全评测系统，ChatGPT登榜首！](https://mp.weixin.qq.com/s/8JtSl_tV4caZUyh1_Z6hdA) | 夕小瑶科技说 2023-05-04
@@ -896,6 +897,7 @@
           - [忘记RAG，拥抱大模型](https://mp.weixin.qq.com/s/SVoS7xn1BEckXPuE8JnnNQ) | NLP前沿 2023-12-30
           - [一篇关于大模型在信息抽取（实体识别、关系抽取、事件抽取）的研究进展综述](https://mp.weixin.qq.com/s/jXkKXL6-z1P8isTamqBeWA) | NLP前沿 2024-01-01
             - [2024开篇之大模型遇见信息抽取：常见数据增强、形式化语言及可练手小模型开源项目](https://mp.weixin.qq.com/s/86FF6w91zompGsb6C80N6g) | 老刘说NLP 2024-01-02
+          - [A Cheat Sheet and Some Recipes For Building Advanced RAG](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b) | Andrei 2024-01-06
           - [专补大模型短板的RAG有哪些新进展？这篇综述讲明白了](https://mp.weixin.qq.com/s/eyg5fitAwBoq7kxzGzsEVw) | 机器学习算法与自然语言处理 2024-01-07
             - [专补大模型短板的检索增强（RAG）有哪些新进展？这篇综述讲明白了](https://mp.weixin.qq.com/s/2H42aDbnXRMUHV5-RNVa2A) | PaperWeekly 2024-01-07
           - [大模型RAG问答技术架构及核心模块回顾：从Embedding、prompt-embedding到Reranker](https://mp.weixin.qq.com/s/Ymp0qnujJA0iHturZ0bIjw) | 老刘说NLP 2024-01-07
