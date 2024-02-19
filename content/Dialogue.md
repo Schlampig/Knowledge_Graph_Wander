@@ -658,6 +658,7 @@
           - [大模型Blending is all you need](https://mp.weixin.qq.com/s/WNTGio4ED8ppA2Q7veKyGg) | NLP前沿 2024-01-14
           - [小模型性能直逼GPT-4？北航等提出基于强弱模型协同的ICL增强新范式](https://mp.weixin.qq.com/s/uz-BVUm6KCZ0r02K6wd8Sw) | PaperWeekly 2024-01-18
           - [融合多个异构大模型显奇效！中山大学、腾讯AI Lab推出FuseLLM](https://mp.weixin.qq.com/s/McoxJ0ipPKTRGz1eln4kdg) | PaperWeekly 2024-01-29
+          - [SLEICL: 让学霸给学渣补课，利用GPT4总结的任务秘籍来指导弱LLM的推理](https://mp.weixin.qq.com/s/Sps8sWNoZ0oJuxyP2nK0TQ) | AINLP 2024-02-19
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
@@ -800,6 +801,7 @@
           - [KCA：一个研究大模型微调幻觉的新策略](https://mp.weixin.qq.com/s/sX67CpW3PmKimByQj7NMyA) | NLP前沿 2024-01-22
           - [大模型的涌现能力是海市蜃楼吗？](https://mp.weixin.qq.com/s/kCK4bhFN8Tc4i8dk1zeqfQ) | HFL实验室 2024-01-24
           - [大语言模型为什么始终会产生幻觉？](https://mp.weixin.qq.com/s/ZQUBq_R32Rkw9lhqQC3u_w) | 夕小瑶科技说 2024-02-12
+          - [Rowen：大模型中用于减轻幻觉的自适应检索增强](https://mp.weixin.qq.com/s/GIcDRC0obfkYMLUb08_1-A) | NLP前沿 2024-02-19
         - Survey of CoT (思维链综述)
           - [AI 新时代，大模型该如何“绞尽脑汁”？](https://mp.weixin.qq.com/s/YkQVk95N8G_mzY09KALkww) | 吃果冻不吐果冻皮 2023-09-02
           - [一文总结提示工程框架，除了CoT还有ToT、GoT、AoT、SoT、PoT](https://mp.weixin.qq.com/s/8H0XRns7jmS4OdbFQ2aZKA) | 夕小瑶科技说 2023-09-20
@@ -1262,6 +1264,7 @@
           - [LeCun：说LLM是随机鹦鹉侮辱鸟了啊，人家三个月就学会视频网聊交友了](https://mp.weixin.qq.com/s/_SaNT96csbAzoo6M2_UOQg) | 量子位 2023-04-24
             - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://mp.weixin.qq.com/s/u9eTtZbOUHEmet8HIaUnfA) | 机器之心 2023-05-22
             - [LeCun又双叒唱衰自回归LLM：GPT-4的推理能力非常有限，有两篇论文为证](https://mp.weixin.qq.com/s/osHH3wkPvSw2eZvNQO8Pzg) | 机器之心 2023-10-25
+            - [普林斯顿DeepMind用数学证明：LLM不是随机鹦鹉！「规模越大能力越强」有理论根据](https://mp.weixin.qq.com/s/HwsrtKwKecxMiavEWj9tCw) | 知识工场 2024-02-19
           - [图灵奖得主LeCun：ChatGPT局限巨大，自回归模型寿命不超5年](https://mp.weixin.qq.com/s/yu8aTglovZEvNqcUamclqg) | 知识工场 2023-05-04
           - [LSTM之父炮轰LLaMA 2：抄我想法还羞辱我！网友：LeCun干的吧？](https://mp.weixin.qq.com/s/QHcjG0zc1u64cg8EjcvNRw) | 量子位 2023-07-26
           - [专访DeepMind联合创始人：生成式AI只是一个阶段，接下来是交互式AI](https://mp.weixin.qq.com/s/E0p-WtaJpJcvSeAYET7k2A) | DeepTech深科技 2023-09-16
