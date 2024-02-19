@@ -372,6 +372,7 @@
         - [解析大模型中的Scaling Law](https://mp.weixin.qq.com/s/7Zdi8z84grl1BO1k7DGpUQ) | NLP工作站 2023-11-21
         - [训练10B的模型需要多大的数据？详解大模型中的Scaling Law](https://mp.weixin.qq.com/s/lSLJhyT5LKuKtZMD3EaR_A) | PaperWeekly 2023-12-12
       - Extended Input Length (e.g. RoPE):
+        - [paper](https://arxiv.org/abs/2401.07872): The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
           - [paper](https://arxiv.org/abs/2304.11062): Scaling Transformer to 1M tokens and beyond with RMT.
           - [长文本处理大模型结构RMT工作解读与今日前沿速递：声称能处理长度超过一百万token的Transformer工作介绍](https://mp.weixin.qq.com/s/wzSryWlTgSvamKDcYSG3vg) | 老刘说NLP 2023-05-10
@@ -867,6 +868,7 @@
             - [paper](https://arxiv.org/pdf/2312.10997.pdf): Retrieval-Augmented Generation for Large Language Models: A Survey.
             - [RAG怎么做？同济大学等最新《大型语言模型的检索增强生成》综述](https://mp.weixin.qq.com/s/mDw6Q1dEWxKZQBv3jp5utg) | 专知 2023-12-20
           - [Arguflow](https://github.com/arguflow/arguflow): a project to build semantic search and retrieval-augmented generation (RAG) fast, [website](https://arguflow.ai/).
+          - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application): the resources about the application based on LLM with RAG pattern.
           - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
           - [大模型如何用向量数据库？清华等最新《向量数据库管理系统》综述](https://mp.weixin.qq.com/s/xyiv6V0uX9BopAytry7JFg) | 专知 2023-10-25
@@ -934,6 +936,7 @@
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
       - Explanation:
+        - [paper](https://arxiv.org/abs/2401.12874): From Understanding to Utilization: A Survey on Explainability for Large Language Models.
         - [ACL 2023 | 我把GPT 的学习轨迹可视化了！竟和人类十分类似](https://mp.weixin.qq.com/s/3kNqhdfZz6FEFvWey1lPIQ) | 夕小瑶科技说 2023-06-22
         - [AI「心灵之眼」被看透！大改神经网络，模型生成背后逻辑首现](https://mp.weixin.qq.com/s/D04weUY4ThLq7BR5wFSiwg) | 新智元 2023-07-24
         - [大模型如何可解释？新泽西理工学院等最新《大型语言模型可解释性》综述](https://mp.weixin.qq.com/s/9kFDvvtMfV_1Lvg7HfYiow) | 专知 2023-09-12
@@ -973,7 +976,8 @@
       - 工程化 & 硬件(芯片)：
         - [GPU对比网](https://lambdalabs.com/gpu-benchmarks)
         - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing): 每个开发人员都应该了解 GPU 计算的知识。
-        - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c) 
+        - [TOPCPU:CPU和显卡的规格性能对比](https://topcpu.net/gpu-c)
+        - [CPU和GPU算力如何计算](https://my.oschina.net/upyun/blog/10862438)
         - [ChatGPT背后的开源AI框架Ray，现在值10亿美元](https://mp.weixin.qq.com/s/bkzbNG3n_i05U94EIGaFhg) | 机器之心 2023-01-03
         - [ChatGPT火爆的背后，分布式计算框架正在悄然推动AI的新时代](https://mp.weixin.qq.com/s/ItAhMxE6ZRtckuaoi8lBEQ) | 蚂蚁技术AntTech 2023-01-03
         - [独一档技术分享：低成本复现ChatGPT完整流程](https://mp.weixin.qq.com/s/8kNOq68sQUsP97zZ2CPmyQ) | 潞晨科技 2023-02-19
@@ -1338,6 +1342,7 @@
           - [识别「ChatGPT造假」，效果超越OpenAI：北大、华为的AI生成检测器来了](https://mp.weixin.qq.com/s/Ktu9BEcI_s5Jn6OvF1heAQ) | 机器之心 2023-06-02
           - [假论文越来越多，ChatGPT等工具或让“论文工厂”更加泛滥](https://mp.weixin.qq.com/s/591VXIJkOtGoOwMfKO9oOw) | 学术头条 2023-07-09
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
+          - [Tabular LLM](https://github.com/SpursGoZmy/Tabular-LLM): 构建面向表格智能任务的大型语言模型。
           - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01
           - [你的 ChatGPT 文件阅读助手来了！无需通读，知晓万千](https://mp.weixin.qq.com/s/M-0ueeFyIIUk5psqJX3Sow) | 北京庖丁科技 2023-03-03
           - [ChatPDF也来了！一键上传文件即可解读，复制粘贴都省了](https://mp.weixin.qq.com/s/XINHbYX-K6v0J7Zu3W3swQ) | 量子位 2023-03-07
