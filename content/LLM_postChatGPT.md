@@ -631,6 +631,7 @@
     - code: https://github.com/HIT-SCIR/huozi
     - blog:
       - [哈工大开源“活字”对话大模型](https://mp.weixin.qq.com/s/WEitgZjOxZpp7KIbRU0ewg) | 赛尔实验室 2023-08-06
+      - [哈工大开源“活字”对话大模型3.0版本](https://mp.weixin.qq.com/s/SGppkCePJtKd2-4PstnEtg) | 赛尔实验室 2024-02-15
 </br>
 
 ### I
@@ -1131,6 +1132,7 @@
       - [华为最新大模型来了！盘古3.0问世，千亿参数规模3万亿tokens，放话「不作诗只做事」](https://mp.weixin.qq.com/s/r9vHX_TLY7lUd6TmWQcFxA) | 量子位 2023-07-07
       - [华为的大模型终于来了，我的评价是：相当震撼。](https://mp.weixin.qq.com/s/0BDOziIYX0a-SDAvIpHkCg) | 差评 2023-07-08
       - [挑战Transformer，华为诺亚新架构盘古π来了，已有1B、7B模型](https://mp.weixin.qq.com/s/4oYzEbczqB_ttLtUjLVwTQ) | 机器之心 2023-12-30
+      - [华为盘古大模型变「小」，1.5B也很能打](https://mp.weixin.qq.com/s/0CysMLnaC-OfUqGFJk9qqw) | 机器之心 2024-02-12
 
   * phi-1.5(微软):
     - [paper](https://arxiv.org/abs/2309.05463): Textbooks Are All You Need II: phi-1.5 technical report
