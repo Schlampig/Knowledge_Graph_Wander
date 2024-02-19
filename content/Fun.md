@@ -491,4 +491,7 @@
     - [paper](https://arxiv.org/abs/2306.17842): SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs.
     - blog:
       - [谷歌新作SPAE：GPT等大语言模型可以通过上下文学习解决视觉任务](https://mp.weixin.qq.com/s/aDtv0rV2oMZZhL7SAuo3Tw) | CVer 2023-07-08
+  * AnimateAnyone
+    - blog:
+      - [兵马俑跳《科目三》，是我万万没想到的](https://mp.weixin.qq.com/s/PmFj5lw9SEeloNX8YmRpvQ) | 量子位 2024-01-04
 </br>
