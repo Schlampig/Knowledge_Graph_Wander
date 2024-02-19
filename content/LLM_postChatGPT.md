@@ -1072,6 +1072,10 @@
     - [paper](https://arxiv.org/pdf/2306.02707.pdf): Orca: Progressive Learning from Complex Explanation Traces of GPT-4.
     - blog:
       - [「模仿学习」只会套话？解释微调+130亿参数Orca：推理能力打平ChatGPT](https://mp.weixin.qq.com/s/yKntugVl8Fhmd3PqoQB9Hw) | 新智元 2023-06-16 
+
+  * Orion(猎户星空):
+    - blog:
+      - [Orion-14B：猎户星空开源优于千问14B的大模型,支持200k上下文](https://mp.weixin.qq.com/s/H1g1AeHtfLlarVhv0D9G3A) | NLP前沿 2024-01-22
   
   * 水獭Otter(南洋理工):
     - code: https://github.com/Luodian/otter
