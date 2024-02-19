@@ -100,6 +100,7 @@
       - [刚刚，百川智能Baichuan2-192K发布，上下文窗口全球最长！一次读完《三体》，拿下7个SOTA](https://mp.weixin.qq.com/s/uvtEg3DI23pniVwbopR7LA) | 新智元 2023-10-30
       - [全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://mp.weixin.qq.com/s/-fBYe86pRYBNzyW5nyA3Dg) | 机器之心 2023-11-01
       - [大模型+搜索构建完整技术栈，百川智能用搜索增强给企业定制化下了一剂「猛药」](https://mp.weixin.qq.com/s/Hy78rtJuJTehAJIC-HK2Rg) | 机器之心 2023-12-20
+      - [百川智能发布角色大模型，零代码复刻角色](https://mp.weixin.qq.com/s/zOihQJUrVDFHB2gT1rV3uw) | AI前线 2024-01-15
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
@@ -208,6 +209,11 @@
       - [智谱AI推出第三代基座大模型](https://mp.weixin.qq.com/s/JoTodw9ZWDQ38wYsddINyA) | GLM大模型 2023-10-27
       - [【部署培训】ChatGLM3：原理和实践](https://mp.weixin.qq.com/s/wB8YfZbjTpHVdASQc6WTHA) | GLM大模型 2023-10-31
       - [SOTA！ChatGLM3刷新智能体中文基准SuperCLUE-Agent最好成绩](https://mp.weixin.qq.com/s/gPT1pIW0UskOcyqbA-ibzA) | CLUE中文语言理解测评基准 2023-11-07
+
+  * ChatGLM-4(智谱AI):
+    - blog:
+      - [智谱AI推出新一代基座模型 GLM-4](https://mp.weixin.qq.com/s/QfVM52oecfjLVDz-EXRyHA) | GLM大模型 2024-01-16
+      - [国产「GPTs」登场！清华系重磅发布GLM-4全家桶，性能可达90% GPT-4](https://mp.weixin.qq.com/s/fQO7Dj80DnuA8GK_e5Pxrw) | 新智元 2024-01-16 
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
