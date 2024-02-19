@@ -495,4 +495,13 @@
   * AnimateAnyone
     - blog:
       - [兵马俑跳《科目三》，是我万万没想到的](https://mp.weixin.qq.com/s/PmFj5lw9SEeloNX8YmRpvQ) | 量子位 2024-01-04
+  * Sora
+    - blog:
+      - [春节大礼包！OpenAI首个视频生成模型发布，60秒高清大作，网友已叹服](https://mp.weixin.qq.com/s/H2SDgcm08edUHXn4ETFzKA) | 机器之心 2024-02-16
+      - [我在模拟世界！OpenAI刚刚公布Sora技术细节：是数据驱动物理引擎](https://mp.weixin.qq.com/s/VIrjTun8Z2paikBeb3uUog) | 机器之能 2024-02-16
+      - [OpenAI文生视频方案Sora技术浅析：兼看知识图谱与多模态的融合工作](https://mp.weixin.qq.com/s/2iGVsdz6YHHupsKIPxRjdQ) | 老刘说NLP 2024-02-16
+      - [真·降维打击，Sora与Runway、Pika的对比来了，震撼效果背后是物理引擎模拟现实世界](https://mp.weixin.qq.com/s/_ckq6uZyvRgZvJJKVeZZ2w) | 机器之心 2024-02-17
+      - [后Sora时代，CV从业者如何选择模型？卷积还是ViT，监督学习还是CLIP范式](https://mp.weixin.qq.com/s/_EmdQhrfkBBfeanSmXALsw) | 机器之心 2024-02-18
+      - [Sora背后团队：应届博士带队，00后入列，还专门招了艺术生](https://mp.weixin.qq.com/s/ggST2FiiUN8AgCApKWIh4Q) | 量子位 2024-02-18
+      - [复刻Sora有多难？一张图带你读懂Sora的技术路径](https://mp.weixin.qq.com/s/xP46EocNg1x7IlTN_iF8kw) | 魔搭ModelScope社区 2024-02-17
 </br>
