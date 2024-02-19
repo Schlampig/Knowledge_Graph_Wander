@@ -79,6 +79,7 @@
   * [SnowNLP](https://github.com/isnowfy/snownlp)
   * [THULAC](http://thulac.thunlp.org/)
   * [XMNLP](https://github.com/SeanLee97/xmnlp)
+  * [cutword](https://github.com/liwenju0/cutword)
   
 
 ### Neural Combinatory Constituency Parsers
