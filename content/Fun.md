@@ -117,7 +117,7 @@
   * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) by [byoungd](https://github.com/byoungd): 英语进阶指南。
   * [Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) by [Siye Sam Yu](https://github.com/yudataguy). 
   * [Grammarly](https://www.grammarly.com/): 语法检查App.
-  * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar).
+  * [日语语法指南(Learn Japanese)](http://res.wokanxing.info/jpgramma/index.html): 本教程原文为 Tae Kim 所写的[《Japanese Grammar Guide》](http://www.guidetojapanese.org/learn/grammar), [资源2](https://acgers.github.io/jp-study/index.html)。
   * [Effective Language Learning](https://effectivelanguagelearning.com/).
   * [English-Writing](https://github.com/yzy1996/English-Writing): enhance your English writing.
   * [乡音](https://web.xiangyin.mobi/#/xy//sentences): 汇集各地方言，内容可在线听，也可录制上传自己的声音。 
