@@ -980,6 +980,7 @@
       - [Mistral携微软引爆「小语言模型」潮！Mistral中杯代码能力完胜GPT-4，成本暴降2/3](https://mp.weixin.qq.com/s/Jo8NAlURMVMR0d2h7i5KYw) | 深度学习自然语言处理 2023-12-18
       - [mixtral of experts官方论文发布](https://mp.weixin.qq.com/s/li9TOFULxlKB_Ku665Ifuw) | NLP前沿 2024-01-09
       - [混合专家系统里根本没专家？开源MoE模型论文引网友热议](https://mp.weixin.qq.com/s/SmYV_rnvVlEOclTO-6-ANQ) | 量子位 2024-01-10
+      - [Mixtral-8x7B Pytorch 实现](https://mp.weixin.qq.com/s/HProBDSA9WxyD-JuKpJ9ew) | Hugging Face 2024-01-31
     - extra:
       - Zephyr:
         - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
@@ -990,6 +991,8 @@
         - [paper](https://arxiv.org/abs/2312.15166): SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling.
       - Chinese-Mixtral(哈工大):
         - [HIT-SCIR发布首个中文扩词表增量预训练混合专家模型Chinese-Mixtral-8x7B](https://mp.weixin.qq.com/s/hpoLYcJzPL_ujyIa67ZPtA) | 赛尔实验室 2024-01-18
+      - MiniCPM(清华):
+        - [1元=1700000tokens！清华系发布国产Mistral仅2B，老手机都带得动，GitHub一天斩获300+星](https://mp.weixin.qq.com/s/tLjETnaLWrrvimUPDcS2yA) | 量子位 2024-02-02
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
