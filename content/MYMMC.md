@@ -231,6 +231,7 @@
     - [2023年10月05日：【CMU博士论文】持续机器人学习:基准和模块化方法，125页pdf](https://mp.weixin.qq.com/s/qZRbkX-KOAgb8zqkBFb_jQ)
     - [2023年12月16日：具身智能的未来](https://mp.weixin.qq.com/s/_vCwIh_D1E3jnfQzFW4fxg)
     - [2023年12月22日：通往具身通用智能：如何让机器从自然模态中学习到世界模型？](https://mp.weixin.qq.com/s/lXGFKxYULL7XxrSk_d3dkw)
+    - [2023年01月08日：具身智能的未来](https://mp.weixin.qq.com/s/KI3vsCqm-rLMr--gxEPAeA)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
