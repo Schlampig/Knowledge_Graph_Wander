@@ -68,6 +68,7 @@
         - [万字拆解！追溯ChatGPT各项能力的起源](https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg) | 李rumor 2022-12-20
         - [一文读懂chatGPT模型原理（无公式）](https://mp.weixin.qq.com/s/N6gUVLDtAkJCZi-kStSS6w) | AINLP 2022-12-08 
         - [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677) | 陈巍谈芯 2022-12-09
+        - [ChatGPT复现之路](https://wqw547243068.github.io/chatgpt_mimic) :thumbsup:
         - [‌⁢⁣‍‍⁣⁤⁤⁣飞书 - 90 分钟学会【ChatGPT】](https://o0ldtlqz05.feishu.cn/wiki/wikcnyZct4xMFYJldnzUE7bqz2d).
           - [字节“开盒”OpenAI所有大模型，揭秘GPT-3到GPT-4进化路径！把李沐都炸出来了](https://mp.weixin.qq.com/s/-AWkDzAzoyQNmgYXuC6B4w) | 量子位 2023-11-04
         - [大语言模型的进化树，这是一份超详细ChatGPT「食用」指南](https://mp.weixin.qq.com/s/VWVBsMbi41wltoFpmey1qA) | 机器之心 2023-04-28
@@ -202,6 +203,7 @@
         - [181页《大型语言模型数据集》全面综述，444个数据集涵盖预训练、指令微调、偏好、评估等，附中英文版](https://mp.weixin.qq.com/s/SYJ8bQM9ONK6VjIanMA5Kg) | 专知 2024-03-02
         - [港中文深圳提出ALLaVA-4V：百万级别的开源多模态GPT-4V数据集](https://mp.weixin.qq.com/s/otxd8rEVy2kw2mHzb0JFBA) | PaperWeekly 2024-03-03
         - [EMNLP 2023 | LLM工业界快速落地之PromptMix: 一种有效的混合数据增强策略将LLM能力迁移到小模型](https://mp.weixin.qq.com/s/cIFSOlnlEdD66GjkJIiAQA) | NLP PaperWeekly 2024-03-06
+        - [paper](https://arxiv.org/abs/2402.16827): A Survey on Data Selection for Language Models.
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -893,6 +895,7 @@
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
           - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
+          - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): Langchain-Chatchat（原Langchain-ChatGLM）基于Langchain与ChatGLM等语言模型的本地知识库问答.
           - [当大模型开始规划合作，一个模型打造软件开发团队，代码生成性能狂升](https://mp.weixin.qq.com/s/VxadbNVwKG4hOB2ZFAuJMg) | 机器之心 2023-05-11
           - [LangChain and LlamaIndex Projects Lab (e-book)](https://leanpub.com/langchain/read).
           - [也谈langchain大模型外挂知识库问答系统核心部件：如何更好地解析、分割复杂非结构化文本](https://mp.weixin.qq.com/s/rOWfCQuUPohatMF_dU2nIA) | 老刘说NLP 2023-06-28
@@ -1393,6 +1396,7 @@
           - [识别「ChatGPT造假」，效果超越OpenAI：北大、华为的AI生成检测器来了](https://mp.weixin.qq.com/s/Ktu9BEcI_s5Jn6OvF1heAQ) | 机器之心 2023-06-02
           - [假论文越来越多，ChatGPT等工具或让“论文工厂”更加泛滥](https://mp.weixin.qq.com/s/591VXIJkOtGoOwMfKO9oOw) | 学术头条 2023-07-09
         - [用 ChatGPT 将 Excel 工作效率提高 10 倍！离做PPT还远吗](https://mp.weixin.qq.com/s/Idtu646LeVuV38utMCBHeQ) | 夕小瑶的卖萌屋 2023-02-16
+          - [Chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt): a comprehensive chat application with PDF integration, [application](https://chatpdf-yt.vercel.app/).
           - [Tabular LLM](https://github.com/SpursGoZmy/Tabular-LLM): 构建面向表格智能任务的大型语言模型。
           - [ChatGPT版Excel？北大ChatExcel动动嘴皮子就把表格改完了](https://mp.weixin.qq.com/s/s9k-ol_uigXk0ybIggaSuw) | 机器之心 2023-03-01
           - [你的 ChatGPT 文件阅读助手来了！无需通读，知晓万千](https://mp.weixin.qq.com/s/M-0ueeFyIIUk5psqJX3Sow) | 北京庖丁科技 2023-03-03
