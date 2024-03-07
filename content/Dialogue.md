@@ -199,6 +199,7 @@
         - [为大模型恶补数学，上交开源MathPile语料库，95亿tokens，还可商用](https://mp.weixin.qq.com/s/aTx020RV-0RQ3-_lXcMGkQ) | 机器之心 2024-01-12
         - [华南理工团队建立眼科专用AI数据集，累计涵盖30多种眼疾，推动病理性近视自动筛查工具的面世](https://mp.weixin.qq.com/s/B-IImP3LVEPenPnGpJUADQ) | DeepTech深科技 2024-02-26
         - [181页《大型语言模型数据集》全面综述，444个数据集涵盖预训练、指令微调、偏好、评估等，附中英文版](https://mp.weixin.qq.com/s/SYJ8bQM9ONK6VjIanMA5Kg) | 专知 2024-03-02
+        - [港中文深圳提出ALLaVA-4V：百万级别的开源多模态GPT-4V数据集](https://mp.weixin.qq.com/s/otxd8rEVy2kw2mHzb0JFBA) | PaperWeekly 2024-03-03
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -829,6 +830,7 @@
           - [大模型的涌现能力是海市蜃楼吗？](https://mp.weixin.qq.com/s/kCK4bhFN8Tc4i8dk1zeqfQ) | HFL实验室 2024-01-24
           - [大语言模型为什么始终会产生幻觉？](https://mp.weixin.qq.com/s/ZQUBq_R32Rkw9lhqQC3u_w) | 夕小瑶科技说 2024-02-12
           - [Rowen：大模型中用于减轻幻觉的自适应检索增强](https://mp.weixin.qq.com/s/GIcDRC0obfkYMLUb08_1-A) | NLP前沿 2024-02-19
+          - [逼迫大模型消除幻觉，就像杨永信电击治疗网瘾少年](https://mp.weixin.qq.com/s/uwKxAU_gZKw8LlAxMhy90g) | 夕小瑶科技说 2024-03-03
         - Drift (漂移)
           - [LLM 也存在“漂移”现象吗](https://mp.weixin.qq.com/s/AVDyuzhuu3xIkG-LB-PSXQ) | 吃果冻不吐果冻皮 2024-03-02
         - Survey of CoT (思维链综述)
@@ -922,6 +924,7 @@
             - [高级RAG技术——博客阅读](https://mp.weixin.qq.com/s/pbTFiaPO0IFN06rdPrUy6Q) | CS的陋室 2024-01-14
             - [综述-面向大模型的检索增强生成（RAG）](https://mp.weixin.qq.com/s/Ebc-DEpfEBNP1nrQHkQv4g) | CS的陋室 2024-01-21
             - [大模型RAG的迭代路径](https://mp.weixin.qq.com/s/kTZc1UpAzpSNanRx82ZRtg) | 李rumor 2024-01-22
+            - [微调与RAG的优缺点分析](https://mp.weixin.qq.com/s/p9QELz-1BZi06HGwcLNnog) | CS的陋室 2024-03-03
           - [检索增强生成(RAG)有什么好的优化方案？](https://mp.weixin.qq.com/s/urz33zLZq4NJxsxauGhK7w) | 吃果冻不吐果冻皮 2023-12-19
           - [也读大模型RAG问答技术综述及评估思路：兼看UHGEval幻觉评估数据集的构建细节](https://mp.weixin.qq.com/s/PiTWDht3rOTwXE2vN5p6PQ) | 老刘说NLP 2023-12-21
           - [也看面向知识图谱构建的大模型微调多样化prompt：兼看RAG框架Langchain的2023年终总结](https://mp.weixin.qq.com/s/R6OUYD2E0zv4-M9HhVNphQ) | 老刘说NLP 2023-12-22
@@ -971,6 +974,9 @@
           - [超越向量检索！混合检索 + 重排序改善 RAG 应用](https://mp.weixin.qq.com/s/ZkN-TsVlK2mVtjCRtEUdrA) | 夕小瑶科技说 2024-02-27
           - [大模型RAG行业适配过程中的一些思考](https://mp.weixin.qq.com/s/sHAjZuvXM8YnRW2QSp6o3A) | 吃果冻不吐果冻皮 2024-02-29
           - [一篇关于RAG在AIGC领域的综述](https://mp.weixin.qq.com/s/m0N-AQHytJsnZiNyhgHr5w) | NLP前沿 2024-03-01
+          - [【大模型RAG优化】RAG召回环节评估实践](https://mp.weixin.qq.com/s/uKzn8blRTRxr0mbuj4ltYw) | ​​大模型生态圈 2024-03-03
+          - [《检索增强生成在AIGC中的应用》综述](https://mp.weixin.qq.com/s/k9X5fQwQm_BFS5K1PNLDqA) | 专知 2024-03-03
+          - [Advanced RAG series: Indexing](https://mp.weixin.qq.com/s/io6OJ_vsSNDkIlLCGJl_5A) | NLP前沿 2024-03-03
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1899,6 +1905,7 @@
           - [【真伪鉴别】OpenAI内幕文件惊人曝出，Q*疑能破解加密！是否具有元认知能力？](https://mp.weixin.qq.com/s/TB7PPJxXfVY2AUXaUSra7Q) | 深度强化学习实验室 2023-11-29
           - [微软拿下OpenAI董事会席位，奥特曼首次回应Q*：不幸的泄密事件](https://mp.weixin.qq.com/s/14cbXXbLe2hfNX7LwAYZgQ) | 量子位 2023-11-30
           - [OpenAi Q* (Q Star)项目入门介绍](https://mp.weixin.qq.com/s/DL8HA1bREREFxMsLFxPlkA) | AINLP 2023-11-30
+          - [马斯克怒告OpenAI案解密：Ilya看到了什么？125万亿参数Q*细节曝光，53页PDF全网疯转](https://mp.weixin.qq.com/s/YDXO8jX82PhKFoAgjV9Vsg) | 新智元 2024-03-04
         - [OpenAI发布AGI安全风险框架！董事会可随时叫停GPT-5等模型发布，奥特曼也得乖乖听话](https://mp.weixin.qq.com/s/wnFoRl9AjxE2TCQEI_bE3w) | 夕小瑶科技说 2023-12-19
         - [ChatGPT有记忆了！OpenAI官宣记忆功能开启测试，奥特曼称GPT-5更智能](https://mp.weixin.qq.com/s/SINusNr9K6g4R7bY8Qea7g) | 新智元 2024-02-14
  </br>
