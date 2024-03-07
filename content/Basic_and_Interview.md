@@ -683,6 +683,7 @@
   * [CCF论文列表(2022)正式版发布！MICCAI空降B类！PRCV空降C类！ICLR继续陪跑...](https://mp.weixin.qq.com/s/aRHZLlQhKqyfFpCmouKoKQ)
   * [ACL、EMNLP等各顶会领域主席联系方式都在这里了！](https://mp.weixin.qq.com/s/CuAFqWiXURFaTshQ9x-QgQ)
   * [Nature：好导师的16个标准](https://mp.weixin.qq.com/s/4iLdkSwvJVjDhrkgEucY1w)
+  * [中国科研常用LaTeX模板集](https://github.com/huangwb8/ChineseResearchLaTeX)
 
 ---
 ## Interview
