@@ -562,6 +562,7 @@
     - blog:
       - [开源大模型王座易主！谷歌Gemma杀入场，笔记本可跑，可商用](https://mp.weixin.qq.com/s/_iCYfqmXA3enKn3Hm-DwSA) | 机器之心 2024-02-22
       - [谷歌开源模型系列「Gemma」技术报告，中英文版](https://mp.weixin.qq.com/s/DqrYocd1R5dbeNGO8E2_3Q) | 专知 2024-02-23
+      - [Building A RAG System with Gemma, MongoDB and Open Source Models - Hugging Face Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/rag_with_hugging_face_gemma_mongodb)
   
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能研究院):
     - code: https://github.com/OpenGVLab/GITM
