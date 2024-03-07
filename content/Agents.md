@@ -160,6 +160,10 @@
     - [AgentBench](https://llmbench.ai/agent)([paper](https://arxiv.org/abs/2308.03688)): AgentBench: Evaluating LLMs as Agents. 一个全新的Agent能力榜单，评估基础模型智能体, 这是一个多维演进基准测试，包括8个不同环境，用于评估大型语言模型（LLMs）在多回合开放式生成环境中的推理和决策能力。
     - [Awesome Agents](https://github.com/kyrolabs/awesome-agents).
     - [我组提出多智能体学习框架：经验式共同学习，增强多智能体协作式软件开发能力](https://mp.weixin.qq.com/s/kEH7ieNQc8BAehPI2Z7w2w) | TsinghuaNLP 2024-02-21
+    - [《大型多模态智能体》综述](https://mp.weixin.qq.com/s/FJxeStMsi0AusZv5sQhSjA) | 专知 2024-02-27
+    - [互动智能体深度透视人类隐式意图，解锁人机协同的更多可能](https://mp.weixin.qq.com/s/4y9hPBOiQDdgQXdbw_8tEw) | TsinghuaNLP 2024-02-28
+    - [数量即力量！腾讯揭秘：Agent数量越多，大语言模型效果越好](https://mp.weixin.qq.com/s/aIBs7-DOVt40vqhcLbJXTA) | 机器之心 2024-02-28
+    - [RepoAgent：大模型驱动的项目级代码文档生成框架，助力软件开发流程自动化](https://mp.weixin.qq.com/s/RVNxS-olmNbvoSeN6lq4jQ) | TsinghuaNLP 2024-03-01
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
