@@ -34,6 +34,11 @@
       - [medAlpaca](https://github.com/kbressem/medAlpaca): LLM finetuned for medical question answering.
       - [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): A Chinese Instruction-following LLaMA-based Model，一个中文低资源的LLaMA+LoRa方案，结构参考Alpaca.
 
+  * AnyGPT(复旦):
+    - [paper](https://arxiv.org/abs/2402.12226): AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling.
+    - blog:
+      - [复旦发布多模态大模型AnyGPT，文图语乐样样行](https://mp.weixin.qq.com/s/U6NOinUWGWqVqfBVPQ5Q2g) | 夕小瑶科技说 2024-02-25
+
   * Apple GPT(苹果):
     - blog:
       - [Apple GPT明年上iPhone！苹果被爆秘密研发Ajax框架，Siri大升级，市值几秒暴增千亿](https://mp.weixin.qq.com/s/4r3nR-_AeJXee8j9Tj6bXQ) | 新智元 2023-07-20
