@@ -295,6 +295,7 @@
     - [2024年02月21日：超越 Sora 自动学习完整的世界模型结构](https://mp.weixin.qq.com/s/Gg8M9Al-Qw-fAgLnnzPUgg)
     - [2024年02月22日：什么是世界模型？为什么Sora不是 world simulator？](https://mp.weixin.qq.com/s/eSKFqJ2bIrUaaefIt6Bbdg)
     - [2024年02月26日：刚刚，谷歌发布基础世界模型：11B参数，能生成可交互虚拟世界](https://mp.weixin.qq.com/s/TyevzSaWihfxRA4ZZ0F1fg)
+    - [2024年03月03日：什么是世界模型？为什么Sora不是](https://mp.weixin.qq.com/s/yHdFyoJ2CLSJOGhXU_MUEw)
   - [2023年10月05日：Yann LeCun最新AI演讲《从机器学习到自主智能》，大模型不能规划，提出目标驱动AI，附视频与Slides](https://mp.weixin.qq.com/s/I7XyftKGugfWqFF0niLW3A)
   - [2023年10月07日：科研人员提出脑启发的神经环路演化策略](https://mp.weixin.qq.com/s/butg-R9Ns2RK_Gwf1IVzbA)
   - [2023年10月12日：突发！Hinton入局机器人创业，公司新获9000万投资](https://mp.weixin.qq.com/s/gBgAwznRFmFsrj9wBqXBiA)
