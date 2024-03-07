@@ -53,6 +53,7 @@
         - [cometLLM](https://github.com/comet-ml/comet-llm): 一个Python库，可轻松跟踪和可视化LLM的提示和输出。用户可以识别有效的策略，高效解决问题，并确保可重复的工作流程。通过cometLLM，可以简化流程，充分释放LLM的潜力。
         - [零门槛没GPU也能训练自己的大语言模型，Llama中文社区推出共享训练平台！](https://mp.weixin.qq.com/s/uJc-67VyF9u3a72nMFjdvQ) | Llama中文社区 2023-08-13
         - [开源工具 | EasyEdit：开源大模型知识编辑工具](https://mp.weixin.qq.com/s/Ri40ZJyT2O_I_z-UQiHWWw) | ZJUKG 2023-08-24
+          - [开源模型知识编辑黑盒大模型：北邮联合美团提出postEdit](https://mp.weixin.qq.com/s/KUIAugOzQzcbfPc4jlGeuQ) | PaperWeekly 2024-03-05
         - [大模型要占你多少内存？这个神器一键测量，误差低至0.5MB，免费可用](https://mp.weixin.qq.com/s/WCwH9G1gZ-MF4q7QhsfxDA) | 夕小瑶科技说 2023-08-31
         - [你的GPU能跑Llama 2等大模型吗？用这个开源项目上手测一测](https://mp.weixin.qq.com/s/gxoAL6gCkAGntd9_t8RiZQ) | 机器之心 2023-10-23
         - [Awesome Assistants](https://github.com/awesome-assistants/awesome-assistants): 优秀AI助手列表。
@@ -200,6 +201,7 @@
         - [华南理工团队建立眼科专用AI数据集，累计涵盖30多种眼疾，推动病理性近视自动筛查工具的面世](https://mp.weixin.qq.com/s/B-IImP3LVEPenPnGpJUADQ) | DeepTech深科技 2024-02-26
         - [181页《大型语言模型数据集》全面综述，444个数据集涵盖预训练、指令微调、偏好、评估等，附中英文版](https://mp.weixin.qq.com/s/SYJ8bQM9ONK6VjIanMA5Kg) | 专知 2024-03-02
         - [港中文深圳提出ALLaVA-4V：百万级别的开源多模态GPT-4V数据集](https://mp.weixin.qq.com/s/otxd8rEVy2kw2mHzb0JFBA) | PaperWeekly 2024-03-03
+        - [EMNLP 2023 | LLM工业界快速落地之PromptMix: 一种有效的混合数据增强策略将LLM能力迁移到小模型](https://mp.weixin.qq.com/s/cIFSOlnlEdD66GjkJIiAQA) | NLP PaperWeekly 2024-03-06
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -297,6 +299,8 @@
         - [TsinghuaNLP发布首个大模型 Debug 评测集 DebugBench](https://mp.weixin.qq.com/s/_PIf5ToROiQkVcnIEyFWXg) | TsinghuaNLP 2024-01-18
         - [RoTBench｜5种环境，3个阶段，多层级评估LLMs工具学习鲁棒性！](https://mp.weixin.qq.com/s/-FMyaZGUghB4kZx5NJigxw) | FudanNLP 2024-01-19
         - [92秒 < 75秒？E-EVAL揭露一众大模型不会做小学题目！](https://mp.weixin.qq.com/s/R9r-nTnK5-95VWNb4eWdGQ) | 深度学习自然语言处理 2024-02-20
+        - [语言模型安全评估新标杆：SALAD-Bench全面安全评估新基准](https://mp.weixin.qq.com/s/0JBH4z_ft9hpRcNKqKE2Xg) | PaperWeekly 2024-03-04
+        - [CLongEval:中文开/闭源大模型长上下文能力评估新榜单（包含Kimi）](https://mp.weixin.qq.com/s/zE2fOY7iWMBqiMTQSSZbww) | NLP前沿 2024-03-07
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -422,6 +426,7 @@
         - [Transformer升级之路：“复盘”长度外推技术](https://mp.weixin.qq.com/s/oQtaYtIWJo2qlZHeqBwfxA) | PaperWeekly 2024-02-05
         - [一览大模型长文本能力](https://mp.weixin.qq.com/s/hacYYsMSYYyiplZOI3oGpw) | 吃果冻不吐果冻皮 2024-02-18
         - [符尧大佬一作发文，仅改训练数据，就让LLaMa-2上下文长度扩展20倍！](https://mp.weixin.qq.com/s/sTxoxhyG6mAm5fI8tKdMPw) | 夕小瑶科技说 2024-02-23
+          - [符尧：仅靠数据工程我能将LLM的上下文检索能力拓展到128K](https://mp.weixin.qq.com/s/q3Fen2U1GpwmPK3RSs2ZWQ) | NLP PaperWeekly 2024-03-07
         - [微软出品LongROPE：扩展大模型上下文窗口到2M](https://mp.weixin.qq.com/s/X7WleA-OkemBOlxA-MuGMQ) | NLP前沿 2024-02-23
         - [一览大模型长文本能力](https://mp.weixin.qq.com/s/BYENxdip0J3MJ27gCLiaVg) | 李rumor 2024-02-26
         - [陈丹琦团队新作：Llama-2上下文扩展至128k，10倍吞吐量仅需1/6内存](https://mp.weixin.qq.com/s/KTCltdMi3HRwO_LoZvQOGw) | 量子位 2024-02-29
@@ -444,6 +449,7 @@
         - [如何提高LLMs的文本表征(Text Embedding)能力?](https://mp.weixin.qq.com/s/ZIXjMWKIkgWsFZJGJGgfFQ) | NLP工作站 2024-01-08
         - [利用LLM本身训练SoTA embedding模型](https://mp.weixin.qq.com/s/Sbf_hJW9bdRl7yxXRMiChw) | NLP PaperWeekly 2024-01-17
         - [从俄罗斯套娃中启发得到的维度可变向量模型](https://mp.weixin.qq.com/s/4aD9-FzlwFGubLgsWBUAXA) | NLP前沿 2024-02-24
+          - [俄罗斯套娃 (Matryoshka) 嵌入模型概述](https://mp.weixin.qq.com/s/hXTu5q90WB9eFkvIRapJCw) | Hugging Face 2024-03-06
       - Transformer & Attention:
         - [Learn-NLP-with-Transformers](github.com/datawhalechina/Learn-NLP-with-Transformers): 基于transformers的自然语言处理(NLP)入门，一个教学项目。
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
@@ -528,6 +534,7 @@
         - [m-LoRA：如何在单GPU上高效微调数十个大语言模型](https://mp.weixin.qq.com/s/hAYgCL3xM-uu9hrGmE8mBA) | AINLP 2023-12-25
         - [LoRA+： 提高LORA微调效果的一个trick](https://mp.weixin.qq.com/s/izCT6pCsFxCmmKl8qPm4sg) | NLP前沿 2024-02-25
         - [大模型微调新范式：当LoRA遇见MoE](https://mp.weixin.qq.com/s/gTFVNbWRsxONnoE_fq2S3A) | 深度学习自然语言处理 2024-02-27
+          - [大模型微调新范式：当LoRA遇见MoE](https://mp.weixin.qq.com/s/t_X8AHFgi-RHuviTuCYv0Q) | PaperWeekly 2024-03-05
         - [PeriodicLoRA：提高LoRA微调效果的又一个trick](https://mp.weixin.qq.com/s/i_wfckc_wD5JHLLbIJQTBw) | NLP前沿 2024-02-27
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
@@ -664,6 +671,7 @@
         - [一篇关于大模型指令微调数据选择方法的研究综述](https://mp.weixin.qq.com/s/Mso5so0FTyGB2fuwYVmizg) | NLP前沿 2024-02-09
         - [陈丹琦团队新作：数据量砍95%，大模型性能更强了！Less is More](https://mp.weixin.qq.com/s/4ZnL0_uMLBgbVCNVjPWGKg) | 量子位 2024-02-10
         - [大模型如何统一生成和嵌入？最新《生成式表示指令微调》论文详细解答](https://mp.weixin.qq.com/s/FiWBGS2DCHGI1X409RLHLg) | 专知 2024-02-19
+        - [“A是B的dad”<=>“B是A的son"，大模型的“逆转诅咒”](https://mp.weixin.qq.com/s/nGnawMkebUYQfBzGEVKUug) | 深度学习自然语言处理 2024-03-06
       - Mixture of Experts (MoE) & 模型融合:
         - MoE
           - [一文弄懂Mixture of Experts (MoE)的前世今生](https://mp.weixin.qq.com/s/u7bqG3skzklqDWu3MMmkzg) | NLP前沿 2023-12-13
@@ -766,6 +774,8 @@
         - [​北大发表 AI Alignment综述：确保AI与人类价值观一致的四个关键设计原则](https://mp.weixin.qq.com/s/SZrIUS6t1D4DkIkqInadHA) |  夕小瑶科技说 2024-02-03
         - [大语言模型价值观对齐研究与展望](https://mp.weixin.qq.com/s/FLihwfVsSUS8XcujeNKvXQ) | 赛尔实验室 2024-02-20
         - [使用RLHF推动翻译偏好建模：低成本实现“信达雅”](https://mp.weixin.qq.com/s/3u1BcgDOqC1VP8rsfOgqEg) | FudanNLP 2024-02-26
+        - [无需RLHF？ 基于图增强的大模型可控生成框架](https://mp.weixin.qq.com/s/TO3X1koI0peOXVOwA0YjtA) | PaperWeekly 2024-03-04
+        - [语言对齐新范式，全面提升大模型多语言推理表现](https://mp.weixin.qq.com/s/Z7qrtkpfyeDmbj0WKeBo_A) | 南大NLP 2024-03-05
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -925,6 +935,7 @@
             - [综述-面向大模型的检索增强生成（RAG）](https://mp.weixin.qq.com/s/Ebc-DEpfEBNP1nrQHkQv4g) | CS的陋室 2024-01-21
             - [大模型RAG的迭代路径](https://mp.weixin.qq.com/s/kTZc1UpAzpSNanRx82ZRtg) | 李rumor 2024-01-22
             - [微调与RAG的优缺点分析](https://mp.weixin.qq.com/s/p9QELz-1BZi06HGwcLNnog) | CS的陋室 2024-03-03
+            - [一文解构大模型RAG问答关键环节及与LLM微调对比总结](https://mp.weixin.qq.com/s/C8HT7_Iq5uDZVTOaVjSe_Q) | 老刘说NLP 2024-03-06
           - [检索增强生成(RAG)有什么好的优化方案？](https://mp.weixin.qq.com/s/urz33zLZq4NJxsxauGhK7w) | 吃果冻不吐果冻皮 2023-12-19
           - [也读大模型RAG问答技术综述及评估思路：兼看UHGEval幻觉评估数据集的构建细节](https://mp.weixin.qq.com/s/PiTWDht3rOTwXE2vN5p6PQ) | 老刘说NLP 2023-12-21
           - [也看面向知识图谱构建的大模型微调多样化prompt：兼看RAG框架Langchain的2023年终总结](https://mp.weixin.qq.com/s/R6OUYD2E0zv4-M9HhVNphQ) | 老刘说NLP 2023-12-22
