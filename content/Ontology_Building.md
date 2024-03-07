@@ -40,4 +40,10 @@
   * link: https://github.com/atcbosselut/comet-commonsense
   * author: Antoine Bosselut
   * note: Code for ACL 2019 Paper: "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction"
-  
+
+### DeepOnto
+  * link: https://github.com/KRR-Oxford/DeepOnto
+  * link(OpenKG): http://old.openkg.cn/tool/deeponto-python
+  * document: https://krr-oxford.github.io/DeepOnto/
+  * author: 牛津大学计算机系，曼彻斯特大学计算系
+  * blog: [DeepOnto: 基于深度学习和语言模型的本体工程Python软件包](https://mp.weixin.qq.com/s/9nrUdlsFnCXpBHPJY2hZGg)
