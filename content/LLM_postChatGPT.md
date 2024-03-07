@@ -543,10 +543,13 @@
       - [GPT-4/Gemini大翻车，做旅行攻略成功率≈0%！复旦OSU等华人团队：Agent不会复杂任务规划](https://mp.weixin.qq.com/s/DSMw4ES71Dh9QnMFyt7sOA) | 新智元 2024-02-06
       - [Gemini 1.5突然发布，最新技术报告！总体上性能暴增，最惊艳的是支持100万Token窗口！58页pdf](https://mp.weixin.qq.com/s/l8PHG-aybY2EbodxSzcLqA) | 专知 2024-02-19
       - [Atom Capital: 揭秘Gemini 1.5和Sora背后的AI进化 - 视频生成自对弈及其他](https://mp.weixin.qq.com/s/sLHj8SMcqzjvotUv6sl5TQ) | Atom Capital 2024-02-20
+      - [推出不到一个月，谷歌Gemini翻车了](https://mp.weixin.qq.com/s/2cijmTMo_yS2MsSISuNbbw) | 机器之能 2024-02-23
+      - [从Gemini 1.5解读大模型上下文技术发展](https://mp.weixin.qq.com/s/i2e1hb-BwSRw-wcHiomUvg) | 吃果冻不吐果冻皮 2024-02-23
 
   * Gemma(谷歌):
     - blog:
       - [开源大模型王座易主！谷歌Gemma杀入场，笔记本可跑，可商用](https://mp.weixin.qq.com/s/_iCYfqmXA3enKn3Hm-DwSA) | 机器之心 2024-02-22
+      - [谷歌开源模型系列「Gemma」技术报告，中英文版](https://mp.weixin.qq.com/s/DqrYocd1R5dbeNGO8E2_3Q) | 专知 2024-02-23
   
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能研究院):
     - code: https://github.com/OpenGVLab/GITM
@@ -1107,6 +1110,12 @@
     - code: https://github.com/Luodian/otter
     - [paper](https://arxiv.org/abs/2305.03726): Otter: A Multi-Modal Model with In-Context Instruction Tuning
     - note: 一种基于OpenFlamingo构建的指令调优模型，已针对上下文进行了定制。
+
+  * Ouroboros(TsinghuaNLP):
+    - code: https://github.com/thunlp/Ouroboros/
+    - [paper](https://arxiv.org/abs/2402.13720): Ouroboros: Speculative Decoding with Large Model Enhanced Drafting.
+    - blog:
+      - [我组开源Ouroboros衔尾蛇推理框架，显著提升大模型推理速度](https://mp.weixin.qq.com/s/gEX7ezh1QsUs_G7AdJ-6HA) | TsinghuaNLP 2024-02-24
 
   * OWL(云智慧智能研究院&北航):
     - code: https://github.com/HC-Guo/Owl
