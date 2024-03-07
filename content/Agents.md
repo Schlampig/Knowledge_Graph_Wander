@@ -126,8 +126,13 @@
     - [ICML 2023 | RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://mp.weixin.qq.com/s/zOYqW9wTI7ZYuy_FbiIK5A) | 将门创投 2023-12-13
     - [​2023年人工智能体(AI Agent)开发与应用全面调研：概念、原理、开发、应用、挑战、展望](https://mp.weixin.qq.com/s/CVmqZvePPMQgTs3JULyEZQ) | 旺知识 2023-12-09
     - [拆解！何为AI Agent？](https://mp.weixin.qq.com/s/k82YmWnNIIpnu8_xEELJ7A) | 深度学习自然语言处理 2023-12-16
-    - [CogAgent: 清华新开源多模态Agents模型](https://mp.weixin.qq.com/s/BhN4ohc4EZmb-QG-uqi44g) | NLP前沿 2023-12-17
-      - [CogAgent：带 Agent 能力的视觉模型，免费商用](https://mp.weixin.qq.com/s/qc_G9Dodlkn6Osh2u_XLMw) | GLM大模型 2023-12-22
+    - CogVLM
+      - code: https://github.com/THUDM/CogVLM
+      - document: https://zhipu-ai.feishu.cn/wiki/LXQIwqo1OiIVTykMh9Lc3w1Fn7g
+      - author: THUDM
+      - blog:
+        - [CogAgent: 清华新开源多模态Agents模型](https://mp.weixin.qq.com/s/BhN4ohc4EZmb-QG-uqi44g) | NLP前沿 2023-12-17
+        - [CogAgent：带 Agent 能力的视觉模型，免费商用](https://mp.weixin.qq.com/s/qc_G9Dodlkn6Osh2u_XLMw) | GLM大模型 2023-12-22
     - [AI Agent框架——MetaGPT技术详解](https://mp.weixin.qq.com/s/xNQSx7iSr-GYrHOryHWpBA) | 深度学习自然语言处理 2023-12-17
     - [因果科学 x Agents：如何让AI更好地理解因果？｜TMLR (2023) 因果强化学习最新综述](https://mp.weixin.qq.com/s/D9p8eIAnCQfQslOltAeWwQ) | 专知 2023-12-21
     - [数字世界中的大模型Agent：机遇与风险](https://mp.weixin.qq.com/s/9ojqWQ3xmYn2lSuTEoDbzQ) | 人工智能学家 2023-12-24
