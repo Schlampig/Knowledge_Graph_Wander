@@ -721,6 +721,7 @@
   * extra:
     - [自然语言处理（NLP）岗位最新面试经验总结](https://mp.weixin.qq.com/s/Fd4g0kIbHI3x78jBlZ4Itg)
     - [大模型来自面试的一些体会和分享](https://mp.weixin.qq.com/s/lwyGGD1oVNU_h8x4XCZVIQ)
+    - [LLMs Interview 八股文](https://github.com/wdndev/llm_interview_note?tab=readme-ov-file)
 
 ### LLMs 千面郎君
   * link: https://github.com/km1994/LLMs_interview_notes
