@@ -88,3 +88,8 @@
 ### Regex.ai
   * homepage: https://regex.ai/?utm_source=appinn.com
   * blog: [Regex.ai – 让 AI 帮你写正则表达式｜再也不用学习正则了](https://www.appinn.com/regex-ai/)([原文](https://www.appinn.com/regex-ai/))
+
+### LINC
+  * link: https://github.com/benlipkin/linc
+  * [paper](https://arxiv.org/abs/2310.15164): Theo X. Olausson*, Alex Gu*, Ben Lipkin*, Cedegao E. Zhang*, Armando Solar-Lezama, Joshua B. Tenenbaum, & Roger P. Levy. (2023). LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers. EMNLP 2023.
+  * author: Ben Lipkin
