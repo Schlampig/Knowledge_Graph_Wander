@@ -913,6 +913,7 @@
             - [RAG怎么做？同济大学等最新《大型语言模型的检索增强生成》综述](https://mp.weixin.qq.com/s/mDw6Q1dEWxKZQBv3jp5utg) | 专知 2023-12-20
           - [Arguflow](https://github.com/arguflow/arguflow): a project to build semantic search and retrieval-augmented generation (RAG) fast, [website](https://arguflow.ai/).
           - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application): the resources about the application based on LLM with RAG pattern.
+          - [RAG (Retrieved-Augmented Generation) for LLM: A Curated Collection](https://github.com/cavalierlulu/rag_survey): this repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM). 
           - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
           - [大模型如何用向量数据库？清华等最新《向量数据库管理系统》综述](https://mp.weixin.qq.com/s/xyiv6V0uX9BopAytry7JFg) | 专知 2023-10-25
