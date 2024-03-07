@@ -434,6 +434,7 @@
         - [陈丹琦团队新作：Llama-2上下文扩展至128k，10倍吞吐量仅需1/6内存](https://mp.weixin.qq.com/s/KTCltdMi3HRwO_LoZvQOGw) | 量子位 2024-02-29
         - [LongHeads|激活与生俱来的长文本能力：无需训练 & 线性代价的长文本处理器](https://mp.weixin.qq.com/s/YtSLcDBBU88q9Gkalxab8w) | FudanNLP 2024-03-01
       - Tokenization & Embeddings:
+        - [minbpe](https://github.com/karpathy/minbpe): minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
         - [【LLM系列之Tokenizer】如何科学地训练一个LLM分词器](https://mp.weixin.qq.com/s/4_P2G2Q0YmunQh7DwDas3w) | ChallengeHub 2023-05-19
