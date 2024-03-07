@@ -533,6 +533,20 @@
       - [谷歌创始人正式回归，加入LLM大战！指导Gemini研发，与OpenAI、Meta混战一触即发](https://mp.weixin.qq.com/s/rEVoqGpEHG-1WB7t3OVmmw) | 新智元 2023-07-22
       - [GPT-4大杀器谷歌Gemini来袭！26位研发大佬名单曝出，祭出类Midjourney生图能力](https://mp.weixin.qq.com/s/zgBVKKNr4Y0ozHJtEFWmQw) | 新智元 2023-08-17
       - [传谷歌开始小范围测试Gemini：比训练GPT-4算力大5倍，多模态能力大提升](https://mp.weixin.qq.com/s/sHxe9u6FwWx7SPZOACY5zw) | 机器之心 2023-09-15
+      - [谷歌大杀器终于来了，最大规模Gemini震撼发布：真超GPT4，三大版本，手机直接可用](https://mp.weixin.qq.com/s/q8IEFgNwPxrqTd1V4UGRVw) | 机器之心 2023-12-07
+      - [谷歌Gemini刚发就惹质疑：测试标准有失偏颇，效果视频疑似剪辑](https://mp.weixin.qq.com/s/YBF3sMdwXaIC1J0_8eh1Wg) | 量子位 2023-12-07
+      - [Gemini上线首日：用户褒贬不一，演示被质疑「造假」，谷歌承认了](https://mp.weixin.qq.com/s/yboP5fZ9CoPGz_AhTLS9Aw) | 机器之心 2023-12-08
+      - [谷歌Gemini技术报告出炉，作者多达900余人](https://mp.weixin.qq.com/s/FEzsdmN2XHFg9HqAi20h5A) | 机器之心 2023-12-21
+      - [CMU 最新研究：Gemini 综合不敌 ChatGPT，谷歌还需努力](https://mp.weixin.qq.com/s/WFC3i1MQYRBfmT_rppUDqg) | AI科技评论 2023-12-20
+      - [港中文128页全球首份Gemini vs GPT-4V多模态PK报告](https://mp.weixin.qq.com/s/XvnO-XoomHW5XpweH1sZPQ) | PaperWeekly 2023-12-22
+      - [大的要来了：谷歌Bard被曝将更名为Gemini，Ultra 1.0更强但收费、安卓App也会来](https://mp.weixin.qq.com/s/RC9yCU1HWNk1Hk87Hw7UgA) | 机器之心 2024-02-04
+      - [GPT-4/Gemini大翻车，做旅行攻略成功率≈0%！复旦OSU等华人团队：Agent不会复杂任务规划](https://mp.weixin.qq.com/s/DSMw4ES71Dh9QnMFyt7sOA) | 新智元 2024-02-06
+      - [Gemini 1.5突然发布，最新技术报告！总体上性能暴增，最惊艳的是支持100万Token窗口！58页pdf](https://mp.weixin.qq.com/s/l8PHG-aybY2EbodxSzcLqA) | 专知 2024-02-19
+      - [Atom Capital: 揭秘Gemini 1.5和Sora背后的AI进化 - 视频生成自对弈及其他](https://mp.weixin.qq.com/s/sLHj8SMcqzjvotUv6sl5TQ) | Atom Capital 2024-02-20
+
+  * Gemma(谷歌):
+    - blog:
+      - [开源大模型王座易主！谷歌Gemma杀入场，笔记本可跑，可商用](https://mp.weixin.qq.com/s/_iCYfqmXA3enKn3Hm-DwSA) | 机器之心 2024-02-22
   
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能研究院):
     - code: https://github.com/OpenGVLab/GITM
