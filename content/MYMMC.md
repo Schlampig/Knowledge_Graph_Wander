@@ -309,6 +309,7 @@
   - [2024年01月30日：大模型时代，南大周志华埋头做学件，最新论文上线](https://mp.weixin.qq.com/s/Iqtjp1jFaEd3Gtyp4Ycukg)
   - [2024年02月08日：斯坦福最强家务机器人ALOHA 2来了，成本不到20万，联手谷歌DeepMind，完全开源](https://mp.weixin.qq.com/s/neH70mPjuFQEQ8VPgjmrAA)
     - [2024年02月23日：人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://mp.weixin.qq.com/s/G2IJoycHIJsNju-SjTJ7AQ)
+    - [2024年03月03日：北大具身智能成果入选CVPR'24：只需一张图一个指令，就能让大模型玩转机械臂](https://mp.weixin.qq.com/s/YTvN6VDmP9aSxvI5M3YVCg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
