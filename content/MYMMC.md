@@ -291,6 +291,7 @@
     - [2023年10月07日：主观世界模型的3类4组18个惊奇的理论分析](https://mp.weixin.qq.com/s/cON20kpSwYetvQmfM8I0aw)
     - [2023年12月13日：语言模型和世界模型如何连接？NeurIPS 2023最新《语言模型、智能体模型和世界模型》增强机器推理和规划的LAW法则](https://mp.weixin.qq.com/s/2OAnEZrb7KJjGmw7bAmgCw)
     - [2024年02月19日：100万token，一次能分析1小时YouTube视频，「大世界模型」火了](https://mp.weixin.qq.com/s/8ONe7_ejQQIT1UwqDGK-vg)
+    - [2024年02月21日：超越 Sora 自动学习完整的世界模型结构](https://mp.weixin.qq.com/s/Gg8M9Al-Qw-fAgLnnzPUgg)
     - [2024年02月22日：什么是世界模型？为什么Sora不是 world simulator？](https://mp.weixin.qq.com/s/eSKFqJ2bIrUaaefIt6Bbdg)
   - [2023年10月05日：Yann LeCun最新AI演讲《从机器学习到自主智能》，大模型不能规划，提出目标驱动AI，附视频与Slides](https://mp.weixin.qq.com/s/I7XyftKGugfWqFF0niLW3A)
   - [2023年10月07日：科研人员提出脑启发的神经环路演化策略](https://mp.weixin.qq.com/s/butg-R9Ns2RK_Gwf1IVzbA)
