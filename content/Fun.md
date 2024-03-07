@@ -441,7 +441,10 @@
     - World-from-Eyes:
       - [眼球反射解锁3D世界，黑镜成真！马里兰华人新作炸翻科幻迷](https://mp.weixin.qq.com/s/Oaa_8gxRoFGfWV19xc2Vew) | 新智元 2023-06-17
     - DragDiffusion:
-      - [DragGAN重磅开源！扩散模型版的DragDiffusion也来了！](https://mp.weixin.qq.com/s/1nrJF12V-19oaQbTX71ZVA) | CVer 2023-06-29 
+      - [DragGAN重磅开源！扩散模型版的DragDiffusion也来了！](https://mp.weixin.qq.com/s/1nrJF12V-19oaQbTX71ZVA) | CVer 2023-06-29
+    - Stable Diffusion 3
+      - [Stable Diffusion 3突然发布！与Sora同架构，一切都更逼真了](https://mp.weixin.qq.com/s/4Lf-G3iBdvKNXtrgAcOT3w) | 量子位 2024-02-23
+      - [Stable Diffusion 3更多隐藏功能曝光：文字可更改图片细节](https://mp.weixin.qq.com/s/44Un-6GBMYhb3RZPv3jA4Q) | 量子位 2024-02-23
   * Text-to-Video
     - [图像生成卷腻了，谷歌全面转向文字→视频生成，两大利器同时挑战分辨率和长度](https://mp.weixin.qq.com/s/uf1xAg3e1DGDAS7tDMG-KQ)
     - [Phenaki](https://phenaki.video/) with [paper](https://openreview.net/pdf?id=vOEXS39nOF)
@@ -505,4 +508,6 @@
       - [后Sora时代，CV从业者如何选择模型？卷积还是ViT，监督学习还是CLIP范式](https://mp.weixin.qq.com/s/_EmdQhrfkBBfeanSmXALsw) | 机器之心 2024-02-18
       - [Sora背后团队：应届博士带队，00后入列，还专门招了艺术生](https://mp.weixin.qq.com/s/ggST2FiiUN8AgCApKWIh4Q) | 量子位 2024-02-18
       - [复刻Sora有多难？一张图带你读懂Sora的技术路径](https://mp.weixin.qq.com/s/xP46EocNg1x7IlTN_iF8kw) | 魔搭ModelScope社区 2024-02-17
+      - [Sora为何出自OpenAI？一线员工作息时间线揭秘：我们疯狂地卷](https://mp.weixin.qq.com/s/gF-AFBbRFQVPiHV0PT9zZQ) | 机器之心 2024-02-21
+      - [Sora物理悖谬的几何解释](https://mp.weixin.qq.com/s/IUN1Y6TDATtFOK9r8m8iUQ) | 集智俱乐部 2024-02-22
 </br>
