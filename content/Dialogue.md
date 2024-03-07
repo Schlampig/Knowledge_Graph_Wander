@@ -160,6 +160,7 @@
             - [Deita: 用高质量数据在微调中“四两拨千斤”](https://mp.weixin.qq.com/s/pZmBJlPUns_E_zDcUviTAA) | 深度学习自然语言处理 2024-01-10
           - [《大模型数据增强》综述](https://mp.weixin.qq.com/s/1VafMQxrB6VH38XTy5XdvQ) | 专知 2024-01-31
           - [NUS提出全新学习范式！不利用数据样本，仅依靠预训练好的分类器来得到生成器](https://mp.weixin.qq.com/s/4TAmxJPV3ggd0Q_EcXbKHw) | PaperWeekly 2024-01-08
+          - [数据增强已死，数据增强万岁](https://mp.weixin.qq.com/s/wfo1YxHpTPGqig31YdXy4w) | NLP前沿 2024-02-26
         - [谷歌训了28个15亿参数模型，说明数据对大模型训练的影响](https://mp.weixin.qq.com/s/dDUeRHAQiIPLqOKq-zgySg) | 夕小瑶科技说 2023-05-31
         - [总结当前开源可用的Instruct/Prompt Tuning数据](https://mp.weixin.qq.com/s/vDbTJo3F7sy3-NY8xxg8jw) | PaperWeekly 2023-05-31
         - [刘知远团队提出：如何通过扩大高质量指导性对话数据集，来提高模型的性能和效率](https://mp.weixin.qq.com/s/dUZHB8OC8l1oxbUX0FBG5Q) | 深度学习自然语言处理 2023-06-03
@@ -194,6 +195,7 @@
         - [大模型微调数据选择和构造技巧](https://mp.weixin.qq.com/s/VsFdJMnan_NOQC6-RNvWDw) | 吃果冻不吐果冻皮 2023-12-12
         - [蚂蚁集团联合上海仁济医院泌尿科发布国内首个临床专科推理数据集:RJUA-QA](https://mp.weixin.qq.com/s/vvcv4GveeimvFvVvhnWioA) | 开放知识图谱 2023-12-13
         - [为大模型恶补数学，上交开源MathPile语料库，95亿tokens，还可商用](https://mp.weixin.qq.com/s/aTx020RV-0RQ3-_lXcMGkQ) | 机器之心 2024-01-12
+        - [华南理工团队建立眼科专用AI数据集，累计涵盖30多种眼疾，推动病理性近视自动筛查工具的面世](https://mp.weixin.qq.com/s/B-IImP3LVEPenPnGpJUADQ) | DeepTech深科技 2024-02-26
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -377,6 +379,7 @@
         - [ICML 2023 | 神经网络大还是小？Transformer模型规模对训练目标的影响](https://mp.weixin.qq.com/s/m6ttWBIyTUSt6klJXmATvw) | PaperWeekly 2023-08-27
         - [解析大模型中的Scaling Law](https://mp.weixin.qq.com/s/7Zdi8z84grl1BO1k7DGpUQ) | NLP工作站 2023-11-21
         - [训练10B的模型需要多大的数据？详解大模型中的Scaling Law](https://mp.weixin.qq.com/s/lSLJhyT5LKuKtZMD3EaR_A) | PaperWeekly 2023-12-12
+        - [大模型如何蒸馏知识？港大等最新《大型语言模型知识蒸馏》综述](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q) | 专知 2024-02-26
       - Extended Input Length (e.g. RoPE):
         - [paper](https://arxiv.org/abs/2401.07872): The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
@@ -415,6 +418,7 @@
         - [一览大模型长文本能力](https://mp.weixin.qq.com/s/hacYYsMSYYyiplZOI3oGpw) | 吃果冻不吐果冻皮 2024-02-18
         - [符尧大佬一作发文，仅改训练数据，就让LLaMa-2上下文长度扩展20倍！](https://mp.weixin.qq.com/s/sTxoxhyG6mAm5fI8tKdMPw) | 夕小瑶科技说 2024-02-23
         - [微软出品LongROPE：扩展大模型上下文窗口到2M](https://mp.weixin.qq.com/s/X7WleA-OkemBOlxA-MuGMQ) | NLP前沿 2024-02-23
+        - [一览大模型长文本能力](https://mp.weixin.qq.com/s/BYENxdip0J3MJ27gCLiaVg) | 李rumor 2024-02-26
       - Tokenization & Embeddings:
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
         - [一定要「分词」吗？Andrej Karpathy：是时候抛弃这个历史包袱了](https://mp.weixin.qq.com/s/GLZ7JgxpFL0jjNmA11xp8w) | 机器之心 2023-05-16
@@ -752,6 +756,7 @@
         - [112页《人工智能对齐：全面性综述》中文版](https://mp.weixin.qq.com/s/em7BbLHae0hcglPCK12c_Q) | 专知 2024-02-02
         - [​北大发表 AI Alignment综述：确保AI与人类价值观一致的四个关键设计原则](https://mp.weixin.qq.com/s/SZrIUS6t1D4DkIkqInadHA) |  夕小瑶科技说 2024-02-03
         - [大语言模型价值观对齐研究与展望](https://mp.weixin.qq.com/s/FLihwfVsSUS8XcujeNKvXQ) | 赛尔实验室 2024-02-20
+        - [使用RLHF推动翻译偏好建模：低成本实现“信达雅”](https://mp.weixin.qq.com/s/3u1BcgDOqC1VP8rsfOgqEg) | FudanNLP 2024-02-26
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -951,6 +956,8 @@
           - [一文了解向量数据库在RAG中扮演的角色](https://mp.weixin.qq.com/s/Qfq8goSzMKWplqmGK3Jwxw) | 吃果冻不吐果冻皮 2024-02-15
           - [大模型RAG问答落地中的经典思考：什么时候应该进行RAG检索增强？](https://mp.weixin.qq.com/s/5iHoKScTBwixN0Ob8o5tvw) | 老刘说NLP 2024-02-20
           - [也谈长文本取代RAG的局限观点：兼看20240224大模型进展早报及Self-DC RAG问答框架](https://mp.weixin.qq.com/s/I-pu2bK8Ajw-e9qeLx2hbw) | 老刘说NLP 2024-02-24
+          - [谷歌中科院新文：CRAG-可矫正的检索增强生成](https://mp.weixin.qq.com/s/91F_sxXNL1_h9Wg_aZDP2w) | CS的陋室 2024-02-25
+          - [RAG在若干医疗场景的实践和思考](https://mp.weixin.qq.com/s/e-a2J5FGBHspIDRUCv0lag) | AINLP 2024-02-26
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
