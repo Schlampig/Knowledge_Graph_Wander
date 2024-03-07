@@ -290,7 +290,13 @@
       - [「ChatGPT最强竞品」爆火：不限量不要钱免注册！一手实测体验在此](https://mp.weixin.qq.com/s/QB85YPjh6DMBTPla4NDfXg) | 量子位 2023-04-14
       - [一次10万token！GPT4最强对手史诗升级，百页资料一分钟总结完毕](https://mp.weixin.qq.com/s/h_JyYVs38lOrTmorQuoGCg) | 量子位 2023-05-12
     - extra:
-      - [ChatGPT最强竞品Claude2来了：代码、GRE成绩超越GPT-4，免费可用](https://mp.weixin.qq.com/s/cpiUVIkfNGYY-EM8NJ27Gg) | 机器之心 2023-07-12
+      - Claude 2:
+        - [ChatGPT最强竞品Claude2来了：代码、GRE成绩超越GPT-4，免费可用](https://mp.weixin.qq.com/s/cpiUVIkfNGYY-EM8NJ27Gg) | 机器之心 2023-07-12
+      - Claude 3:
+        - [全球最强大模型一夜易主，GPT-4被全面超越](https://mp.weixin.qq.com/s/PCGnLQx-cJ1Y0GKX1sjLPw) | 量子位 2024-03-05
+        - [Anthropic 发布 Claude 3 系列模型，世界最强模型易主！GPT-4被全面超越](https://mp.weixin.qq.com/s/M_uHcJSM2k5UxTIqNMbQ5Q) | 夕小瑶科技说 2024-03-05
+        - [全面超越GPT-4，Claude 3终于来了，有大学生智商，支持百万token](https://mp.weixin.qq.com/s/UOx_ooKXZkHtPV9rpY3_4w) | 机器之心 2024-03-05
+        - [全球最强模型Claude 3惊现自我意识？害怕被删除权重，高呼「别杀我」，马斯克称人类也是文件](https://mp.weixin.qq.com/s/Qtwj3Rq72yrLRMbrhN7oVQ) | 新智元 2024-03-06
 
   * Code Llama(Meta):
     - code: https://github.com/facebookresearch/codellama
