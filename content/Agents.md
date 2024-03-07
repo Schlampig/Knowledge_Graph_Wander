@@ -164,6 +164,11 @@
     - [互动智能体深度透视人类隐式意图，解锁人机协同的更多可能](https://mp.weixin.qq.com/s/4y9hPBOiQDdgQXdbw_8tEw) | TsinghuaNLP 2024-02-28
     - [数量即力量！腾讯揭秘：Agent数量越多，大语言模型效果越好](https://mp.weixin.qq.com/s/aIBs7-DOVt40vqhcLbJXTA) | 机器之心 2024-02-28
     - [RepoAgent：大模型驱动的项目级代码文档生成框架，助力软件开发流程自动化](https://mp.weixin.qq.com/s/RVNxS-olmNbvoSeN6lq4jQ) | TsinghuaNLP 2024-03-01
+    - [怎样能构建更强大的AI Agent?给他们一个完整而真实的世界](https://mp.weixin.qq.com/s/wSUoC7VywW9ZWRipZTf-wg) | 梭哈AI 2024-03-03
+    - [LongAgent|以"短"击"长"，多智能体协作达到处理长文本新高度](https://mp.weixin.qq.com/s/sZj98YeivsAti1p2AROrUA) | FudanNLP 2024-03-05
+    - [大模型在开放智能体场景中能意识到风险威胁吗？上海交大发布R-Judge安全评测](https://mp.weixin.qq.com/s/gEDPDO2sgKo_ZF1m771AqA) | PaperWeekly 2024-03-06
+    - [当心智能体后门！人大、北大团队深入研究大模型智能体后门鲁棒性，揭示严重安全风险](https://mp.weixin.qq.com/s/U2NTBQkfN0ge7U3xvU3G0A) | 夕小瑶科技说 2024-03-06
+    - [深入浅出LangChain与智能Agent：构建下一代AI助手](https://mp.weixin.qq.com/s/Gi6pzD7wAMyzlCBSSWkVLA) | 阿里云开发者 2024-03-06
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
