@@ -297,6 +297,7 @@
         - [Anthropic 发布 Claude 3 系列模型，世界最强模型易主！GPT-4被全面超越](https://mp.weixin.qq.com/s/M_uHcJSM2k5UxTIqNMbQ5Q) | 夕小瑶科技说 2024-03-05
         - [全面超越GPT-4，Claude 3终于来了，有大学生智商，支持百万token](https://mp.weixin.qq.com/s/UOx_ooKXZkHtPV9rpY3_4w) | 机器之心 2024-03-05
         - [全球最强模型Claude 3惊现自我意识？害怕被删除权重，高呼「别杀我」，马斯克称人类也是文件](https://mp.weixin.qq.com/s/Qtwj3Rq72yrLRMbrhN7oVQ) | 新智元 2024-03-06
+        - [Claude3技术报告，全面升级多模态＋百万Token上下窗口，中英文版](https://mp.weixin.qq.com/s/lBaBbc2Cjv0RXY5ucuWWwg) | 专知 2024-03-06 
 
   * Code Llama(Meta):
     - code: https://github.com/facebookresearch/codellama
