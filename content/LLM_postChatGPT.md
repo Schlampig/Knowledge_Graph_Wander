@@ -1208,6 +1208,7 @@
       - [通义千问-Qwen技术报告细节分享](https://mp.weixin.qq.com/s/5uunMZsJa66mTbSfa3cyEg) | 吃果冻不吐果冻皮 2023-10-02
       - [Qwen72B开源：推荐一个开源框架支持4GB显存推理70B大模型!!!（无需量化、剪枝）](https://mp.weixin.qq.com/s/Z0OTWNsTVIo90kBhBsyT4w) | NLP前沿 2023-12-01
       - [QWen升级之路](https://mp.weixin.qq.com/s/drcLtYqt6yYPnBGGPoncbQ) | AINLP 2024-01-12
+      - [从0开始预训练1.4b中文大模型实践](https://mp.weixin.qq.com/s/IGXXb_r6ZzbOdjCxmAnsUw) | 深度学习自然语言处理 2024-03-02
 
 </br>
 
