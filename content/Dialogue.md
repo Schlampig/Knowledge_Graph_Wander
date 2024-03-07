@@ -1,6 +1,10 @@
 ## **Dialogue Methods/ChatBot**
 
 ### Large Models
+  * ELIZA
+    - blog:
+      - [全球第一个聊天机器人是怎样诞生的？](https://mp.weixin.qq.com/s/OaRgzhNXai12UyU4jS1XCw) | 果壳 2024-02-24
+
   * LaMDA
     - [paper](https://arxiv.org/abs/2201.08239): LaMDA: Language Models for Dialog Applications
     - author: Google
@@ -1417,6 +1421,7 @@
           - [赛尔笔记 | 大语言模型与知识融合综述：方法、基准和应用](https://mp.weixin.qq.com/s/JRs4FzKcsREkWAuoTOQAcQ) | 赛尔实验室 2023-12-02
           - [EMNLP2023：Schema自适应的知识图谱构建](https://mp.weixin.qq.com/s/aykN4IoCs0XCfY4TvZ_tTg) | ZJUKG 2023-12-02
           - [知识如何融入大模型？浙大最新《大型知识模型: 视角与挑战》详述LKM涵义](https://mp.weixin.qq.com/s/djYL7Cr9ZOZLBHUjGWd0bA) | 专知 2023-12-12
+          - [ICLR2024｜生成式视角下的实体对齐](https://mp.weixin.qq.com/s/D7U1cnmeHv9An19RVnzAYg) | ZJUKG 2024-02-24
         - [ChatGPT喜欢的秘密提示（附证据）](https://mp.weixin.qq.com/s/uC1xADTiNkpejtSEKF5nMQ) | 大数据文摘 2023-03-16
         - [ChatGPT用于数据标注是否可行：基于推特分类、生成内容排序任务的代表性实验报告介绍](https://mp.weixin.qq.com/s/laHpV38S-HsYEQ84ngTTrA) | 老刘说NLP 2023-03-29
         - [浏览器增强版ChatGPT无敌了？超强插件Monica，能聊能写效率Max](https://mp.weixin.qq.com/s/-ffD2LRwW-M9vPOXgWsnkA) | 新智元 2023-04-17
