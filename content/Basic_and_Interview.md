@@ -684,6 +684,7 @@
   * [ACL、EMNLP等各顶会领域主席联系方式都在这里了！](https://mp.weixin.qq.com/s/CuAFqWiXURFaTshQ9x-QgQ)
   * [Nature：好导师的16个标准](https://mp.weixin.qq.com/s/4iLdkSwvJVjDhrkgEucY1w)
   * [中国科研常用LaTeX模板集](https://github.com/huangwb8/ChineseResearchLaTeX)
+  * [认知偏差手册: 67个常见的认知偏差及其在产品设计时的应用](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
 
 ---
 ## Interview
