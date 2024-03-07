@@ -515,6 +515,7 @@
         - [LongQLoRA：单卡高效扩展LLaMA2-13B的上下文长度](https://mp.weixin.qq.com/s/lptWXi9sZXd2MTTXZsDiPw) | YeungNLP 2023-12-11
         - [一周前被MoE刷屏？来看看LoRAMoE吧！通过类MoE架构来缓解大模型世界知识遗忘](https://mp.weixin.qq.com/s/Dwq2Xu5CXxH-6lT_ksRklw) | FudanNLP 2023-12-19
         - [m-LoRA：如何在单GPU上高效微调数十个大语言模型](https://mp.weixin.qq.com/s/hAYgCL3xM-uu9hrGmE8mBA) | AINLP 2023-12-25
+        - [LoRA+： 提高LORA微调效果的一个trick](https://mp.weixin.qq.com/s/izCT6pCsFxCmmKl8qPm4sg) | NLP前沿 2024-02-25
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
@@ -533,6 +534,7 @@
         - [QuIP#: 最新SOTA 2bit量化方法，让你的3090轻松跑70b大模型](https://mp.weixin.qq.com/s/XzGTTCa38znNmyb2E8pVXg) | NLP前沿 2023-12-10
         - [20倍压缩比！微软提出大模型提示压缩框架LLMLingua](https://mp.weixin.qq.com/s/k4d45Qc1eANBcdNa9CokaQ) | 夕小瑶科技说 2023-12-17
         - [大模型量化技术原理-LLM.int8()、GPTQ](https://mp.weixin.qq.com/s/gChbYs9ncTgpTRhyrfO4tA) | 吃果冻不吐果冻皮 2024-01-30
+        - [OneBit：做到头了！清华和哈工大把大模型量化做到了1比特](https://mp.weixin.qq.com/s/uhZFOxecg7CkkIsEcMiSGw) | 夕小瑶科技说 2024-02-25
       - Parallel & Distribution
         - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
         - [一文详解解 DeepSpeed](https://mp.weixin.qq.com/s/NYHTsxZZ7-DN7rfYPjTogQ) | AINLP 2023-05-23
@@ -1931,6 +1933,7 @@
     - [OpenAI：通用人工智能规划及未来](https://mp.weixin.qq.com/s/lNIXxTumQJP78yHJUCbsVg) | 知识工场 2024-01-12
     - [8年实现 星际superAGI的路线图（理论-验证-部署-生物硬件实现)，超越OpenAI大模型的欧美AI](https://mp.weixin.qq.com/s/0ogl7VUXpX-y6m8l8w3oaw) | CreateAMind 2024-01-14
     - [AAAI2024开会了！Sora为代表的AIGC有何进展？最新《人工智能生成内容(AIGC)进展》教程, 305页ppt](https://mp.weixin.qq.com/s/t5ob5xI1MGSWEggY2WE9ww) | 专知 2024-02-23
+    - [生成式AI 应用设计模式全面指南​](https://mp.weixin.qq.com/s/BZWQkcUv-7gA-twXbx203w) | 吃果冻不吐果冻皮 2024-02-25
   * 大模型与其他技术
     - [大模型如何决策？上交大等最新《面向序列决策的大序列模型》综述](https://mp.weixin.qq.com/s/YXu1In7wj94Y7a8HgtHiEA) | 专知 2023-06-28
     - [图解 72 个机器学习基础知识点](https://mp.weixin.qq.com/s/6rlwP5OF-QocuZ8RZS1Dsw) | 我不爱机器学习 2023-07-04
