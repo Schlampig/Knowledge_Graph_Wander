@@ -1193,6 +1193,10 @@
     - blog:
       - [国内首个可复现的RLHF基准，北大团队开源 PKU-Beaver](https://mp.weixin.qq.com/s/O1RDHrmEg99zCil8ycqOGQ) | 机器之心 2023-05-18
 
+  * PlanGPT(北大):
+    - [paper](https://arxiv.org/abs/2402.19273): PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval.
+    - note: 基于与城市规划机构的合作，该模型利用定制的本地数据库检索框架、领域特定的基础模型微调及先进的工具能力，解决了通用大型语言模型在城市规划文本生成、信息检索和文档评估等任务中的痛点。
+
   * Platypus(波士顿大学):
     - [paper](https://arxiv.org/abs/2308.07317): Platypus: Quick, Cheap, and Powerful Refinement of LLMs.
     - blog:
