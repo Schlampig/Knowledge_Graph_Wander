@@ -1966,6 +1966,7 @@
     - [综述｜大模型时代，对话系统的演进和机会，港中大华为联合发布](https://mp.weixin.qq.com/s/ncrZA9JvVeQRLV7G50lAow) | 夕小瑶科技说 2023-12-16
     - [引导对话式AI的前尘往事](https://mp.weixin.qq.com/s/XyuWwxjh8GjmUqIfqyta-g) | 看个通俗理解吧 2024-02-06
   * 大模型与AIGC
+    - [飞书：通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=999_reallog_mark_ad%3A999%7CWeiboADNatural&continueFlag=3df7d6408df36846f5cf6d0b674b5ee0).
     - [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
     - [从ChatGPT到生成式AI（98页PPT）](https://mp.weixin.qq.com/s/OFmrkms8lNsi9C7BpfNI2w) | 与数据同行 2023-02-19
     - [AIGC最新综述：从 GAN 到 ChatGPT 的AI生成历史](https://mp.weixin.qq.com/s/id57rG9nN_agaE3HXkANZA) | 深度学习自然语言处理 2023-03-11
