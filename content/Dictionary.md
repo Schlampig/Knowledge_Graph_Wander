@@ -106,6 +106,17 @@
   * [Nominatim](https://nominatim.org/): Open-source geocoding with OpenStreetMap data.
   * [行政区划数据（1993年-2022年）](github.com/ruiduobao/shengshixian.com ).
 
+### Maps
+  * [天地图](https://www.tianditu.gov.cn/): 官方出品的地理信息平台，功能丰富，可以看到高清卫星影像，支持自定义制图。
+  * [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/): 目前发布的标准地图包括中国地图249幅、世界地图79幅、专题地图10幅，提供JPG、EPS两种数据格式，可以免费浏览和下载。
+  * [Datav](https://datav.aliyun.com/portal/school/atlas/area_selector): 地图生成器，支持下载各省、市、县的svg格式的地图素材。
+  * [国家地球系统科学数据中心](): 提供丰富的气温、地形、降水、地质等图库资源。
+  * [Earth](http://www.geodata.cn/): 实时模拟全球风向、洋流、天气效果，这个网站的可视化效果、配色都非常绝。
+  * [全球光污染地图](https://www.darkmap.cn/): 从高空角度观看全球的灯光分布情况。
+  * [NB Maps](https://nbcharts.com/map/map.php): 快速生成三维地图的免费工具，可以调整颜色、修改地图的厚度和角度、更换字体的样式，可下载。
+  * [诗人地理分布信息](https://sou-yun.cn/IndexByMap.aspx): 历代诗人地域分布，可查看诗人一生的轨迹。 
+  * [中国历史地图集](http://www.ccamc.co/chinese_historical_map/index.php): 一个历史地图网站，可按年份、年号查询。
+
 ### Name
   * [name-dataset](https://github.com/philipperemy/name-dataset) by Philippe Rémy.
   * [Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) by wainshine.
