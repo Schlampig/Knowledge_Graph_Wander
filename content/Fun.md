@@ -403,6 +403,7 @@
         - [2023年07月19日：在英特尔 CPU 上微调 Stable Diffusion 模型](https://mp.weixin.qq.com/s/YmznHA811TqCrqHOwL2D0Q)
         - [2023年11月19日：AIGC文生图核心技术：StableDiffusion原理详细介绍](https://mp.weixin.qq.com/s/-aQt5JgtrdrgapLxo5YVwg)
         - [2024年01月27日：何恺明谢赛宁团队步步解构扩散模型，最后竟成经典去噪自编码器](https://mp.weixin.qq.com/s/tP_evn-Rn3sy7_R3pQeghQ)
+        - [2024年02月29日：基于扩散模型的图像编辑：首篇综述](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
@@ -510,4 +511,5 @@
       - [复刻Sora有多难？一张图带你读懂Sora的技术路径](https://mp.weixin.qq.com/s/xP46EocNg1x7IlTN_iF8kw) | 魔搭ModelScope社区 2024-02-17
       - [Sora为何出自OpenAI？一线员工作息时间线揭秘：我们疯狂地卷](https://mp.weixin.qq.com/s/gF-AFBbRFQVPiHV0PT9zZQ) | 机器之心 2024-02-21
       - [Sora物理悖谬的几何解释](https://mp.weixin.qq.com/s/IUN1Y6TDATtFOK9r8m8iUQ) | 集智俱乐部 2024-02-22
+      - [北大发起复现Sora，框架已搭！袁粒田永鸿领衔，AnimateDiff大神响应](https://mp.weixin.qq.com/s/DRulMeZETAApD1P28EhxGw) | 量子位 2024-03-03
 </br>
