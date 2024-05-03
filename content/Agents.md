@@ -188,6 +188,7 @@
     - [大模型如何用于游戏？游戏玩家代理与大模型综述：方法、应用与挑战](https://mp.weixin.qq.com/s/bVf3U0_yvJ6LzYYRU4XybA) | 专知 2024-03-20
     - [Debatrix：大模型驱动的多角度辩论评审](https://mp.weixin.qq.com/s/K40FZ83Ttome278SwE8meA) | 复旦DISC 2024-03-22
     - [Agent-FLAN: Agent指令训练让开源大模型Agent能力更进一步](https://mp.weixin.qq.com/s/pvAoJ-U90Du9QMG5mN-uFg) | 深度学习自然语言处理 2024-03-25
+    - [南洋理工发布多模态智能体 FinAgent，开启高效金融交易的创新之旅](https://mp.weixin.qq.com/s/EP1U2m57bCQU8Ut3lC9M7w) | AI科技评论 2024-03-25
     - [智能体DS-Agent基于案例推理，让GPT-4数据科学任务接近100%](https://mp.weixin.qq.com/s/MUl7vIlRiFKgi1rdfv58Yw) | 机器之心 2024-03-26
     - [Multi-Agent实践第2期: @智能体 你怎么看？](https://mp.weixin.qq.com/s/l8h6VQ-XlXky3ATbyvtbvA) | 魔搭ModelScope社区 2024-03-26
     - [Multi-Agent实践第4期：智能体的“想”与“做”-ReAct Agent](https://mp.weixin.qq.com/s/uG-bwoysyy4l3T8aSXBE1g) | 魔搭ModelScope社区 2024-03-28
