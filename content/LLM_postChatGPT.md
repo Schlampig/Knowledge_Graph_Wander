@@ -737,6 +737,10 @@
     - code: https://github.com/vxfla/kanchil
     - note: 基于MT5的小模型。
 
+  * Kimi(月之暗面):
+    - blog:
+      - [月之暗面Kimi模型升级：200万字窗口版可申请，新增“继续”功能](https://mp.weixin.qq.com/s/xsBRTxJWyiI72TNrZJtJGw) | 量子位 2024-03-18
+
   * KnowledGPT(复旦):
     - blog:
       - [KnowledGPT:基于知识库的检索和存储访问增强大型语言模型](https://mp.weixin.qq.com/s/If4ssK68il5C_aEZV6xc1Q) | 知识工场 2023-09-02
