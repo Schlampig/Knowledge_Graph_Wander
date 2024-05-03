@@ -619,6 +619,14 @@
     - blog:
       - [港大联合百度开源通用图大模型GraphGPT：让大语言模型读懂图数据](https://mp.weixin.qq.com/s/KD74RxzgxryBkhdd0-VUtw)
 
+  * Grok(马斯克xAI):
+    - code: https://github.com/xai-org/grok-1
+    - blog:
+      - [懂幽默，嘲讽技能拉满，马斯克打造的ChatGPT竞品终于爆出了聊天截图](https://mp.weixin.qq.com/s/iaJZHoCKMwjKJWLA5hrMHg) | 机器之心 2023-11-04
+      - [马斯克xAI发布首个AI聊天机器人Grok，可对话X用户，并能回答“敏感问题” ](https://mp.weixin.qq.com/s/-U7uFm5z9Q-Q29kvUBgAUA) | 环球科学 2023-11-06
+      - [11人狂训2个月，马斯克精准狙击OpenAI！xAI首个大模型Grok炸场，330亿参数每月16刀](https://mp.weixin.qq.com/s/QTL8KIFpGyVsD_RiXWdfEA) | 新智元 2023-11-06
+      - [马斯克开源Grok-1：3140亿参数迄今最大，权重架构全开放，磁力下载](https://mp.weixin.qq.com/s/hvt5zwoazDx26KOaKuTs_w) | 机器之心 2024-03-18
+
   * Guanaco(华盛顿大学):
     - code: https://github.com/artidoro/qlora
     - [paper](https://arxiv.org/abs/2305.14314): QLoRA: Efficient Finetuning of Quantized LLMs.
