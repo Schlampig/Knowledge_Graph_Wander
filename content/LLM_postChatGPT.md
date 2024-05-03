@@ -746,6 +746,7 @@
   * Kimi(月之暗面):
     - blog:
       - [月之暗面Kimi模型升级：200万字窗口版可申请，新增“继续”功能](https://mp.weixin.qq.com/s/xsBRTxJWyiI72TNrZJtJGw) | 量子位 2024-03-18
+      - [“Kimi概念”降温，长文本“担不起”大模型的下一步](https://mp.weixin.qq.com/s/F3qgOeYtWawf0RVAqN7mGg) | 腾讯科技 2024-03-27
 
   * KnowledGPT(复旦):
     - blog:
