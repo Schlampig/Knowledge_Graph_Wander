@@ -1026,6 +1026,12 @@
         - [HIT-SCIR发布首个中文扩词表增量预训练混合专家模型Chinese-Mixtral-8x7B](https://mp.weixin.qq.com/s/hpoLYcJzPL_ujyIa67ZPtA) | 赛尔实验室 2024-01-18
       - MiniCPM(清华):
         - [1元=1700000tokens！清华系发布国产Mistral仅2B，老手机都带得动，GitHub一天斩获300+星](https://mp.weixin.qq.com/s/tLjETnaLWrrvimUPDcS2yA) | 量子位 2024-02-02
+
+  * MM1(苹果):
+    - [paper](https://arxiv.org/pdf/2403.09611.pdf): MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.
+    - blog:
+      - [苹果大模型MM1杀入场：300亿参数、多模态、MoE架构，超半数作者是华人](https://mp.weixin.qq.com/s/i9bx6M32uk4Jq2KSRhv4ng) | 机器之心 2024-03-15
+      - [MM1:多模态大模型构建的方法、分析与见解](https://mp.weixin.qq.com/s/6TlWxoSRWHwqaBPJ_tOeWQ) |  NLP前沿 2024-03-15
   
   * MOSS(复旦大学): 
     - code: https://github.com/OpenLMLab/MOSS
