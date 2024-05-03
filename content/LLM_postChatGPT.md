@@ -1041,6 +1041,7 @@
         - [paper](https://arxiv.org/abs/2312.15166): SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling.
       - Chinese-Mixtral(哈工大):
         - [HIT-SCIR发布首个中文扩词表增量预训练混合专家模型Chinese-Mixtral-8x7B](https://mp.weixin.qq.com/s/hpoLYcJzPL_ujyIa67ZPtA) | 赛尔实验室 2024-01-18
+        - [扩展词表是必须的吗？中文Mixtral实践与分析](https://mp.weixin.qq.com/s/BFn3mkdSk-BuFrD6nUFgxg) | 深度学习自然语言处理 2024-03-21
       - MiniCPM(清华):
         - [1元=1700000tokens！清华系发布国产Mistral仅2B，老手机都带得动，GitHub一天斩获300+星](https://mp.weixin.qq.com/s/tLjETnaLWrrvimUPDcS2yA) | 量子位 2024-02-02
 
