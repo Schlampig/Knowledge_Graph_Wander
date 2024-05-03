@@ -380,6 +380,7 @@
         - [paper](https://arxiv.org/pdf/2402.11753.pdf): 探讨如何利用字符画来对LLM进行越狱，LLM可以识别字符画内容，把识别结果作为输入的一部分来绕过对其的安全措施。
         - [北大发布,通过上下文提示，让大模型学习一门新的语言](https://mp.weixin.qq.com/s/EBxZRy3DjP0PqHw6Cj6MNA) | 夕小瑶科技说 2024-03-08
         - [R&R：2个提高大模型长文QA效果的提示词技巧](https://mp.weixin.qq.com/s/9tzHbdCK6XQ5NZ5haidBPA) | NLP前沿 2024-03-11
+        - [为何LLM总被Prompt带"偏"？警惕提示中的前提顺序陷阱](https://mp.weixin.qq.com/s/ZV6_kwowixPRrXIJ6xVX1A) | AI修猫Prompt 2024-03-29
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -1047,6 +1048,7 @@
           - [RAG2.0的推出与Adaptive-RAG优化策略：兼看结合文档布局编码与大模型解码的LayoutLLM文档理解方案](https://mp.weixin.qq.com/s/3kuiqW4xW4UuJNfgyIryIA) | 老刘说NLP 2024-03-23
           - [RAG与Long-Context之争—没必要争](https://mp.weixin.qq.com/s/IecOYCNMIOd5xoMSbmYNKw) | NLP工作站 2024-03-25
           - [人机协同Knowledge Copilot - 兼论KG-RAG和文档RAG](https://mp.weixin.qq.com/s/10XBzQQ_1bY9zn7rUiVylQ) | 开放知识图谱 2024-03-25
+          - [T-RAG=RAG+微调+实体识别](https://mp.weixin.qq.com/s/8WYWrHyE4oryCgO9AemImA) | 奇点智源 2024-02-21
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1578,6 +1580,8 @@
           - [将所有有用的信息整合到一张图片中：大型多模态模型能够进行图片内的学习](https://mp.weixin.qq.com/s/VVNih3IFgIDRJMjP-7trKA) | PaperWeekly 2024-03-12
           - [SoMeLVLM—复旦大学DISC团队发布社交媒体信息处理多模态大模型，开源65万微调指令，助力AI4SocialScience](https://mp.weixin.qq.com/s/gLoYqn1qQX7cMuH_ZgpRDQ) | 复旦DISC 2024-03-13
           - [中科院，CMU，Meta等联合出品：去除LLM先验对多模态大模型的负面影响](https://mp.weixin.qq.com/s/pyd2s3AP_kewCCAISPQVPw) | PaperWeekly 2024-03-24
+          - [CVPR 2024 | 从第一人称视角理解世界，多模态模型离我们还有多远？](https://mp.weixin.qq.com/s/w3zRCdfTTQ50OCsKdSYutg) | 将门创投 2024-03-11
+          - [万字长文总结多模态大模型最新进展（Modality Bridging篇）](https://mp.weixin.qq.com/s/PMYAGAHGbi04wzgNRYkj6A) | PaperWeekly 2024-03-29
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
