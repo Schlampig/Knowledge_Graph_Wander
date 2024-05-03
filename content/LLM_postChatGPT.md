@@ -380,6 +380,15 @@
   * DB-GPT(magic.chen):
     - code: https://github.com/csunny/DB-GPT
     - note: 一个开源的以数据库为基础的GPT实验项目，使用本地化的GPT大模型与您的数据和环境进行交互，无数据泄露风险，100% 私密，100% 安全。
+
+  * DBRX(Databricks):
+    - code(github): https://github.com/databricks/dbrx/tree/main
+    - code(huggingface): https://huggingface.co/databricks/dbrx-base
+    - demo: https://huggingface.co/spaces/databricks/dbrx-instruct
+    - homepage: https://www.databricks.com
+    - blog:
+      - [DBRX 132B MOE模型开源、大模型多项目选择题评估的再质疑：兼看长文本压缩新方案LLMLingua-2](https://mp.weixin.qq.com/s/pwvEwcZmuzAQH76LCEnnfw) | 老刘说NLP 2024-03-28
+      - [你也能用上马赛克（MosaicML）的DBRX开源大模型，和马斯克的Grok不一样](https://mp.weixin.qq.com/s/_Ycp0Gc1enEnB1eyK7WKeg) | AI修猫Prompt 2024-03-28
   
   * DeepSpeed Chat(微软):
     - code: https://github.com/microsoft/DeepSpeed
