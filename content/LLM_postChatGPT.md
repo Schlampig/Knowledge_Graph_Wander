@@ -182,6 +182,7 @@
       - [大模型掀起诸神之战，我们更需要人人可用的“普惠模型”](https://mp.weixin.qq.com/s/RMzZIRoSfM4rxCPQb8kXGQ) | 罗超频道 2023-04-17
       - [ChatGLM基座：GLM（General Language Model）](https://mp.weixin.qq.com/s/B1U0GhnikrhFKozs_keM5w) | ChallengeHub 2023-05-15
       - [ChatGLM 金融大模型决赛方案总结](https://mp.weixin.qq.com/s/zdHlw85qZcY0IytYNOOBFQ) | AINLP 2023-10-11
+      - [GLM-CookBook：GLM 大模型入门指南](https://mp.weixin.qq.com/s/_31_s-muYR3O_E1w_W_u9g) | GLM大模型 2024-03-22
     - technic:
       - [从0到1基于ChatGLM-6B使用LoRA进行参数高效微调](https://mp.weixin.qq.com/s/ZqlOFOrDmLIzpTJm5y0Y3Q) | AINLP 2023-05-16
       - [ChatGLM-6B V1.1：平衡微调数据，提升英文能力，加强中英互译](https://mp.weixin.qq.com/s/kkjnYQ8Mr-b_U-H0lgFi1Q) | AINLP 2023-05-17
