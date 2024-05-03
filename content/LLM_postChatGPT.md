@@ -638,6 +638,11 @@
 </br>
 
 ### H
+  * HPT(HyperGAI):
+    - code: https://github.com/hyperGAI/HPT
+    - blog:
+      - [超越 GPT-4V 和 Gemini Pro！HyperGAI 发布最新多模态大模型 HPT，已开源](https://mp.weixin.qq.com/s/-7Tz3g7cOV05rOyfA6XsvA) | 夕小瑶科技说 2024-03-21
+
   * HugGPT(华师大&NUS):
     - code: https://github.com/HugAILab/HugNLP
     - [paper](https://arxiv.org/abs/2302.14286): HugNLP: A Unified and Comprehensive Library for Natural Language Processing
