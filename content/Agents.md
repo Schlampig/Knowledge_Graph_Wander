@@ -184,6 +184,7 @@
     - [“现代AI之父”Jürgen Schmidhuber团队迎新成果：用图结构构建智能体，助力研发AI智能体](https://mp.weixin.qq.com/s/Nsn3rk07mXC_3JaRk4qrTQ) | DeepTech深科技 2024-03-13
     - [Open AI 八年前的设想被谷歌突破啦！DeepMind官宣SIMA，动动嘴就能完成复杂游戏任务](https://mp.weixin.qq.com/s/G9o81CYe77bdUCpH1yCsdA) | 夕小瑶科技说 2024-03-14
     - [AI4SS | 基于智能体的大规模网络社会运动模拟](https://mp.weixin.qq.com/s/Nef8lNOPgJoRlu4XfxJNhQ) | 复旦DISC 2024-03-15
+    - [复旦NLP团队提出全新大模型智能体强化学习范式，大幅提升智能体推理与代码能力](https://mp.weixin.qq.com/s/AGm0ROryuMmfMOum8bm7TA) | PaperWeekly 2024-03-17
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
