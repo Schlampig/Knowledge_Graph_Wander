@@ -310,6 +310,7 @@
         - [CLongEval:中文开/闭源大模型长上下文能力评估新榜单（包含Kimi）](https://mp.weixin.qq.com/s/zE2fOY7iWMBqiMTQSSZbww) | NLP前沿 2024-03-07
         - [OlympiadBench: Olympiad-level 的双语、多模态的科学评测集](https://mp.weixin.qq.com/s/VRe8YB5QH8qZNvMturrttw) | TsinghuaNLP 2024-03-07
         - [让Sora和ChatGPT更可靠！只需这个知识价值定量评估新框架](https://mp.weixin.qq.com/s/u1V6_8oY6nje5CTYSWI4ww) | 量子位 2024-03-14
+        - [如何把大量物理知识塞给AI？EIT和北大团队提出「规则重要性」概念](https://mp.weixin.qq.com/s/iFsM22z_LFEGw8bOgL2T8w) | 机器之心 2024-03-18
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -1026,6 +1027,7 @@
           - [Advanced RAG series: Indexing](https://mp.weixin.qq.com/s/io6OJ_vsSNDkIlLCGJl_5A) | NLP前沿 2024-03-03
           - [在不同的RAG阶段注入知识图](https://mp.weixin.qq.com/s/peOq6RyBGOeO2usVCGvWCA) | 知识工场 2024-03-13
           - [Better RAG： 更好的搭建RAG系统 3篇博客](https://mp.weixin.qq.com/s/0y7-Ti49voueUn7QFDXRSA) | NLP前沿 2024-03-15
+          - [RAG 高级技巧- 生成&评估](https://mp.weixin.qq.com/s/b1cTO6KCWSI6h2OQVpiU5Q) | NLP前沿 2024-03-18
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1207,9 +1209,6 @@
             - [马斯克披露xAI细节：6年实现AGI，特斯拉推特资源都能用！2万块N卡被曝已到位](https://mp.weixin.qq.com/s/_ilWbYd3kisHHiSD09vmvw) | 量子位 2023-07-15
             - [马斯克的 xAI 想干啥？进来看信息要点和八卦](https://mp.weixin.qq.com/s/H9K0Zrx2XR1DRGzJMzHAtg) | 果壳 2023-07-15
             - [推特更名X，马斯克引爆X宇宙！从AI到探索太空，万能APP现雏形](https://mp.weixin.qq.com/s/NorBlTWmJUnyMV1JYjf4og) | 新智元 2023-07-24
-            - [懂幽默，嘲讽技能拉满，马斯克打造的ChatGPT竞品终于爆出了聊天截图](https://mp.weixin.qq.com/s/iaJZHoCKMwjKJWLA5hrMHg) | 机器之心 2023-11-04
-            - [马斯克xAI发布首个AI聊天机器人Grok，可对话X用户，并能回答“敏感问题” ](https://mp.weixin.qq.com/s/-U7uFm5z9Q-Q29kvUBgAUA) | 环球科学 2023-11-06
-            - [11人狂训2个月，马斯克精准狙击OpenAI！xAI首个大模型Grok炸场，330亿参数每月16刀](https://mp.weixin.qq.com/s/QTL8KIFpGyVsD_RiXWdfEA) | 新智元 2023-11-06
           - [支持大模型研发，**第四范式**与西安智算中心达成战略合作](https://mp.weixin.qq.com/s/LArv6IPPKDeUvfM61f_wmQ) | 第四范式 2023-04-12
             - [现场拔网线！第四范式版GPT能力首秀，有点不一样](https://mp.weixin.qq.com/s/OgiHWs0Gher4MTS40rAopg) | 量子位 2023-04-26 
             - [胡时伟：关于大模型技术的三点思考](https://mp.weixin.qq.com/s/k_L3b0v5LZ5Kp2W0t-9gcQ) | 第四范式 2023-05-23
