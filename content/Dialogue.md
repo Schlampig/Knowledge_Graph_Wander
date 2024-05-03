@@ -130,7 +130,8 @@
         - [LLMs-In-China](https://github.com/wgwang/LLMs-In-China): 中国大模型列表，旨在记录中国大模型发展情况。
         - [Tuning LLMs with no tears](github.com/beyondguo/LLM-Tuning): 分享对大模型微调的工具和方法，把预训练模型微调为可对话的模型。
         - [LMDeploy](https://github.com/InternLM/lmdeploy): 涵盖了LLM任务的全套轻量化、部署和服务解决方案。
-      - Dataset & Corpus:
+      - Dataset & Corpus & Data Engineering:
+        - [paper](https://arxiv.org/abs/2402.16827): A Survey on Data Selection for Language Models.
         - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
         - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
           - [再谈大模型的预训数据清洗与微调数据生成：RedPajama数据处理框架与entity-centric指令生成方法解读](https://mp.weixin.qq.com/s/fXmia8LilOKEATblkc3snw) | 老刘说NLP 2023-07-29
@@ -204,7 +205,7 @@
         - [paper](https://arxiv.org/abs/2402.18041): Datasets for Large Language Models: A Comprehensive Survey.
         - [港中文深圳提出ALLaVA-4V：百万级别的开源多模态GPT-4V数据集](https://mp.weixin.qq.com/s/otxd8rEVy2kw2mHzb0JFBA) | PaperWeekly 2024-03-03
         - [EMNLP 2023 | LLM工业界快速落地之PromptMix: 一种有效的混合数据增强策略将LLM能力迁移到小模型](https://mp.weixin.qq.com/s/cIFSOlnlEdD66GjkJIiAQA) | NLP PaperWeekly 2024-03-06
-        - [paper](https://arxiv.org/abs/2402.16827): A Survey on Data Selection for Language Models.
+        - [何恺明刘壮新作：消除数据集偏差的十年之战](https://mp.weixin.qq.com/s/DibCocxjSmlxyoC7dEDH_Q) | 量子位 2024-03-15
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
