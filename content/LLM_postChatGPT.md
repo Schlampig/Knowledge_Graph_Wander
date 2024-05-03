@@ -1032,6 +1032,7 @@
       - [Mixtral-8x7B Pytorch 实现](https://mp.weixin.qq.com/s/HProBDSA9WxyD-JuKpJ9ew) | Hugging Face 2024-01-31
       - [Mistral Large，Le Chat来了！Mistral AI连放两个大招！](https://mp.weixin.qq.com/s/P5XktjiRgY2Q6V1pLyqYAw) | 深度学习自然语言处理 2024-02-27
       - [对比近期发布的几个小模型，sLLM的天花板在哪里？](https://mp.weixin.qq.com/s/fw1VyGk8keGxqRmGjz8lCA) | PaperWeekly 2024-03-11
+      - [32K上下文，Mistral 7B v0.2 基模型突然开源了](https://mp.weixin.qq.com/s/R56Ob5dZjMh1alhMin8DZw) | 机器之心 2024-03-24
     - extra:
       - Zephyr:
         - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
