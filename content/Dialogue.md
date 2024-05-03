@@ -308,6 +308,7 @@
         - [语言模型安全评估新标杆：SALAD-Bench全面安全评估新基准](https://mp.weixin.qq.com/s/0JBH4z_ft9hpRcNKqKE2Xg) | PaperWeekly 2024-03-04
         - [CLongEval:中文开/闭源大模型长上下文能力评估新榜单（包含Kimi）](https://mp.weixin.qq.com/s/zE2fOY7iWMBqiMTQSSZbww) | NLP前沿 2024-03-07
         - [OlympiadBench: Olympiad-level 的双语、多模态的科学评测集](https://mp.weixin.qq.com/s/VRe8YB5QH8qZNvMturrttw) | TsinghuaNLP 2024-03-07
+        - [让Sora和ChatGPT更可靠！只需这个知识价值定量评估新框架](https://mp.weixin.qq.com/s/u1V6_8oY6nje5CTYSWI4ww) | 量子位 2024-03-14
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -400,6 +401,7 @@
         - [训练10B的模型需要多大的数据？详解大模型中的Scaling Law](https://mp.weixin.qq.com/s/lSLJhyT5LKuKtZMD3EaR_A) | PaperWeekly 2023-12-12
         - [大模型如何蒸馏知识？港大等最新《大型语言模型知识蒸馏》综述](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q) | 专知 2024-02-26
         - [PromptKD: 无监督提示蒸馏用于视觉-语言模型](https://mp.weixin.qq.com/s/dBwTQo0FtcL8bCheoHt_Cg) | 专知 2024-03-09
+        - [聊聊字节AML 万卡工作 MegaScale: Scaling Large Language Model Training](https://mp.weixin.qq.com/s/zdVPPnVUIxIS6XLGSnfm-Q) | 吃果冻不吐果冻皮 2024-03-15
       - Extended Input Length (e.g. RoPE):
         - [paper](https://arxiv.org/abs/2401.07872): The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
@@ -551,6 +553,9 @@
         - [PeriodicLoRA：提高LoRA微调效果的又一个trick](https://mp.weixin.qq.com/s/i_wfckc_wD5JHLLbIJQTBw) | NLP前沿 2024-02-27
         - [GaLore：突破内存瓶颈，让一块4090预训练7B大模型](https://mp.weixin.qq.com/s/RQjrsrsrnpljhq1CURAGnQ) | 机器之心 2024-03-08
         - [GaLora：提高大型语言模型（LLMs）训练的内存效率的梯度低秩方法](https://mp.weixin.qq.com/s/yjVFGM7py_5zyBMO_U7wZQ) | NLP前沿 2024-03-08
+        - [LoftQ: 更好地将LLM量化与LoRA微调结合](https://mp.weixin.qq.com/s/80o72TrizYBwSGZujHQcqw) | 深度学习自然语言处理 2024-03-14
+        - [阿里推出Mixture-of-LoRAs，一个多任务高效微调框架](https://mp.weixin.qq.com/s/4vsSKAJF_a5sm2fUkbRKyw) | 深度学习自然语言处理 2024-03-14
+        - [超越LoRA，北京大学提出预训练模型非梯度优化法](https://mp.weixin.qq.com/s/uVxl_QKDZe89ekMmSDMH_g) | 夕小瑶科技说 2024-03-15
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程.
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
@@ -1015,6 +1020,7 @@
             - [最新RAG综述来了！北京大学发布AIGC的检索增强技术综述](https://mp.weixin.qq.com/s/o8oTN06UsQSlb5BNyJH23w) | PaperWeekly 2024-03-10
           - [Advanced RAG series: Indexing](https://mp.weixin.qq.com/s/io6OJ_vsSNDkIlLCGJl_5A) | NLP前沿 2024-03-03
           - [在不同的RAG阶段注入知识图](https://mp.weixin.qq.com/s/peOq6RyBGOeO2usVCGvWCA) | 知识工场 2024-03-13
+          - [Better RAG： 更好的搭建RAG系统 3篇博客](https://mp.weixin.qq.com/s/0y7-Ti49voueUn7QFDXRSA) | NLP前沿 2024-03-15
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1748,6 +1754,7 @@
         - [危！「邪恶版」ChatGPT 出现：每月 60 欧元，毫无道德限制，专为“网络罪犯”而生？](https://mp.weixin.qq.com/s/SUIxbjtMaZ8z95Z1egclXg) | AI科技大本营 2023-07-24
         - [ChatGPT 是 ENTJ，GPT4 竟是 INTJ？一项关于LLMs的MBTI测试](https://mp.weixin.qq.com/s/QpufrvDUSAUD1IAelAL2PQ) | 深度学习自然语言处理 2023-07-31
         - [用语言建模世界：UC伯克利多模态世界模型利用语言预测未来](https://mp.weixin.qq.com/s/7IwJ7YGq_3HayGh0BwmVNg) | 机器之心 2023-08-05
+          - [UC伯克利：用大模型预测未来，准确率超越人类！](https://mp.weixin.qq.com/s/TAGWaQqBN0nLBN4Q1sts0Q) | 夕小瑶科技说 2024-03-14
         - [中科院：大模型一被夸智商就爆表！ChatGPT情商98分秒杀人类，Hinton预言成真？](https://mp.weixin.qq.com/s/z-lg-yDibKoT_gO97HSK5Q) | 新智元 2023-08-07
         - [UC伯克利教授惊人预测：2030年GPT可执行人类180万年工作，一天学2500年知识](https://mp.weixin.qq.com/s/bjfcswz6rcRhNEf4gDldmA) | 新智元 2023-08-13
         - [21岁SpaceX实习生用AI干出重大考古事件，斩获40000美元！](https://mp.weixin.qq.com/s/ZFhGoaKzCTlx_6cUax8cGw) | 量子位 2023-10-15
