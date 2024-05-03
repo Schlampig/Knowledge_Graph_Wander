@@ -389,6 +389,7 @@
     - blog:
       - [DBRX 132B MOE模型开源、大模型多项目选择题评估的再质疑：兼看长文本压缩新方案LLMLingua-2](https://mp.weixin.qq.com/s/pwvEwcZmuzAQH76LCEnnfw) | 老刘说NLP 2024-03-28
       - [你也能用上马赛克（MosaicML）的DBRX开源大模型，和马斯克的Grok不一样](https://mp.weixin.qq.com/s/_Ycp0Gc1enEnB1eyK7WKeg) | AI修猫Prompt 2024-03-28
+      - [开源大模型王座再易主，1320亿参数DBRX上线，基础、微调模型都有](https://mp.weixin.qq.com/s/3h0SDpLi3xI3WA-FxV0QGA) | 机器之心 2024-03-28
   
   * DeepSpeed Chat(微软):
     - code: https://github.com/microsoft/DeepSpeed
@@ -1258,6 +1259,7 @@
       - [Qwen72B开源：推荐一个开源框架支持4GB显存推理70B大模型!!!（无需量化、剪枝）](https://mp.weixin.qq.com/s/Z0OTWNsTVIo90kBhBsyT4w) | NLP前沿 2023-12-01
       - [QWen升级之路](https://mp.weixin.qq.com/s/drcLtYqt6yYPnBGGPoncbQ) | AINLP 2024-01-12
       - [从0开始预训练1.4b中文大模型实践](https://mp.weixin.qq.com/s/IGXXb_r6ZzbOdjCxmAnsUw) | 深度学习自然语言处理 2024-03-02
+      - [Qwen2MOE即将来袭](https://mp.weixin.qq.com/s/3JUGukem1Hkjxb-CYMTDgg) | NLP前沿 2024-03-29
 
 </br>
 
