@@ -195,6 +195,8 @@
   * Text-to-Music
     - [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
     - [Museformer](https://arxiv.org/abs/2210.10349): Transformer with Fine- and Coarse-Grained Attention for Music Generation.
+    - [当歌曲创作遇上大模型，无所不能的AI音乐家SongComposer](https://mp.weixin.qq.com/s/vWP6pMQCPo3L2rvM6lnWrg) | InternLM 2024-03-09
+    - [词曲创作只需几秒，「AI作曲家」Suno引爆音乐圈，第一手体验和攻略来了](https://mp.weixin.qq.com/s/tbFMAVlAt0RzpKdSetFabw) | 机器之心 2024-03-25
   * Speech Synthesis
     - [浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/VLURxAGDozFWgbr0KWGbGA)
     - [一文全面了解火山语音无监督预训练技术的落地实践](https://mp.weixin.qq.com/s/1cWkMut6e3VnPbFczVW7DA)
@@ -405,6 +407,7 @@
         - [2023年11月19日：AIGC文生图核心技术：StableDiffusion原理详细介绍](https://mp.weixin.qq.com/s/-aQt5JgtrdrgapLxo5YVwg)
         - [2024年01月27日：何恺明谢赛宁团队步步解构扩散模型，最后竟成经典去噪自编码器](https://mp.weixin.qq.com/s/tP_evn-Rn3sy7_R3pQeghQ)
         - [2024年02月29日：基于扩散模型的图像编辑：首篇综述](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g)
+        - [2024年03月29日：​249篇文献！北邮发布文本到图像Diffusion可控生成最新综述，已开源！](https://mp.weixin.qq.com/s/9_Sf-O8vNCt42MNEnvEgEg)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
@@ -513,4 +516,10 @@
       - [Sora为何出自OpenAI？一线员工作息时间线揭秘：我们疯狂地卷](https://mp.weixin.qq.com/s/gF-AFBbRFQVPiHV0PT9zZQ) | 机器之心 2024-02-21
       - [Sora物理悖谬的几何解释](https://mp.weixin.qq.com/s/IUN1Y6TDATtFOK9r8m8iUQ) | 集智俱乐部 2024-02-22
       - [北大发起复现Sora，框架已搭！袁粒田永鸿领衔，AnimateDiff大神响应](https://mp.weixin.qq.com/s/DRulMeZETAApD1P28EhxGw) | 量子位 2024-03-03
+      - [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://mp.weixin.qq.com/s/dYfh57A-3b7f0M6yx-pfCQ) | 机器之心 2024-03-12
+      - [没等来OpenAI，等来了Open-Sora全面开源](https://mp.weixin.qq.com/s/vdr1WBCQVr9aS6bJYcdlRA) | 机器之心 2024-03-18
+      - [微软新作「Mora」，复原了Sora](https://mp.weixin.qq.com/s/G08_a5gkzjTIAt8MoprmMA) | 夕小瑶科技说 2024-03-22
+   * Latte
+     - blog:
+       - [详解Latte：去年底上线的全球首个开源文生视频DiT](https://mp.weixin.qq.com/s/lt0iYD-1qeho2oPOfI5PBg) | 机器之心 2024-03-27
 </br>
