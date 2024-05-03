@@ -179,6 +179,8 @@
       - [paper](https://arxiv.org/abs/2402.15538): AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System.
       - note: 一个面向研究的库，用于构建和推进基于LLM的任务导向Agent系统，简化了新Agent/多Agent架构的实现，通过管理Agent实现了多个Agent的轻松编排，无论是构建个体Agent还是复杂的多Agent系统，AgentLite为研究和开发提供了简单而轻量的基础。
     - [南洋理工发布多模态金融交易Agent，平均利润提高36%！](https://mp.weixin.qq.com/s/QBORpQmZrumppLl81aWAxA) | 夕小瑶科技说 2024-03-11
+    - [邱锡鹏团队新作：In-Memory Learning 智能体声明式学习](https://mp.weixin.qq.com/s/U9AuezJ1A_mOcwW2ZlrL_w) | 深度学习自然语言处理 2024-03-11
+    - [浙大&中科院让Agent学会自我进化，玩德州扑克心机尽显](https://mp.weixin.qq.com/s/k7b55PKdLA622G6Qb5Q0hA) | 量子位 2024-03-12
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
