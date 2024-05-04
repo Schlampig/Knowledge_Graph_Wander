@@ -91,6 +91,7 @@
         - [GPT-4最全攻略来袭！OpenAI官方发布，六个月攒下来的使用经验都在里面了](https://mp.weixin.qq.com/s/u72wzup-5DCQrJdNNYJwDA) | 量子位 2023-06-12
         - [State of GPT: A Programmer's Perspective（万字长文梳理学习GPT的相关资料）](https://mp.weixin.qq.com/s/7GIzfcUTPiYLg9ljwnGs7Q) | AINLP 2023-10-10
         - [复旦大学自然语言处理实验室：如何构建和训练ChatGPT](https://mp.weixin.qq.com/s/-0T8tmINQxMs3Ifai_Deog) | PaperWeekly 2023-10-22
+        - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh).
       - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
@@ -954,6 +955,7 @@
         - Drift (漂移) & Memory（记忆）
           - [LLM 也存在“漂移”现象吗](https://mp.weixin.qq.com/s/AVDyuzhuu3xIkG-LB-PSXQ) | 吃果冻不吐果冻皮 2024-03-02
           - [华盛顿大学撰文反驳微软，我们无法删除大模型关于哈利波特的记忆](https://mp.weixin.qq.com/s/3R8VlGvMXdVF4YK9wXEn4g) | 夕小瑶科技说 2024-04-02
+          - [paper](https://arxiv.org/abs/2404.13501): A Survey on the Memory Mechanism of Large Language Model based Agents.
         - Survey of CoT (思维链综述)
           - [AI 新时代，大模型该如何“绞尽脑汁”？](https://mp.weixin.qq.com/s/YkQVk95N8G_mzY09KALkww) | 吃果冻不吐果冻皮 2023-09-02
           - [一文总结提示工程框架，除了CoT还有ToT、GoT、AoT、SoT、PoT](https://mp.weixin.qq.com/s/8H0XRns7jmS4OdbFQ2aZKA) | 夕小瑶科技说 2023-09-20
