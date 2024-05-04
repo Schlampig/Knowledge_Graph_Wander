@@ -205,6 +205,7 @@
     - [NAACL2024｜基于执行反馈的选择性工具学习方法](https://mp.weixin.qq.com/s/j3spVU9V1s2kivb-2S3GVw) | ZJUKG 2024-04-11
     - [企业级AI Agent如何落地汽车行业，这是国内首份系统阐述白皮书](https://mp.weixin.qq.com/s/Zo3fO47yWHRDZx00UtN8rg) | 机器之心 2024-04-12
     - [ResearchAgent？基于LLM+KG+AGENT进行科研想法生成：兼看2023-2024年人工智能代表50公司](https://mp.weixin.qq.com/s/Y-b6YpA-b0AJ_MP-viEuhw) | 老刘说NLP 2024-04-14
+    - [多agent思想显著提升小模型工具调用能力](https://mp.weixin.qq.com/s/0qYu8kuPFh-5EuWLq5BLGw) | NLP PaperWeekly 2024-04-15
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
