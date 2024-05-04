@@ -217,6 +217,7 @@
         - [弱智吧竟成最佳中文AI训练数据？！中科院等：8项测试第一，远超知乎豆瓣小红书](https://mp.weixin.qq.com/s/iq5lGyh9Y5P7NXLUS3-giA) | 量子位 2024-04-04
           - [关于弱智吧数据封神的若干疑问和猜想，以及数据验证实验](https://mp.weixin.qq.com/s/PnJVA66QLp4-gZTss46PqQ) | YeungNLP 2024-04-08
         - [ICLR 2024 | 通用的数据清洗框架：利用多模态大模型检测数据集中的恶意样本](https://mp.weixin.qq.com/s/SvvxaU3KRv3HMj_rJ7KPzg) | 将门创投 2024-04-08
+        - [斯坦福发布法律指令数据集LawInstruct，统一17个辖区24种语言](https://mp.weixin.qq.com/s/lkv0YM9r-oWeQOpxSDDZjA) | 夕小瑶科技说 2024-04-17
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -409,6 +410,7 @@
           - [Scaling Law 又一次性感了吗？](https://mp.weixin.qq.com/s/t8xCgSIZIQg5rWE7_rGDrw) | 机器之心 2024-04-07
           - [被低估的面壁：打造出不输 OpenAI 的 Scaling Law 曲线](https://mp.weixin.qq.com/s/RNWHVnh8PsSed5MMPy0Dig) | AI科技评论 2024-04-11
           - [复旦MOSS｜数据配比的scaling law](https://mp.weixin.qq.com/s/1QX7vKo7rvB8UDKBh3m9NA) | 李rumor 2024-04-16
+          - [Yoshua Bengio独家专访：我不想把大模型未来押注在Scaling Law上，AGI路上要“注意安全”](https://mp.weixin.qq.com/s/dbfZJ6yITlUNzF0fGdrEvA) | 智源社区 2024-04-17
         - Distillation
           - [大模型知识蒸馏概述](https://mp.weixin.qq.com/s/1wLQMUAJ-jjXKOZdNoZn6g) | 吃果冻不吐果冻皮 2023-10-11
           - [ShareGPT平替！利用苏格拉底提问模拟器更好地蒸馏ChatGPT对话能力](https://mp.weixin.qq.com/s/Tv8-QT-M7fZu7DmUCUjBqg) | PaperWeekly 2023-11-03
