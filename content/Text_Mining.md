@@ -15,3 +15,8 @@
   * link: https://github.com/impira/docquery
   * author: [impira](https://www.impira.com/)
   * note: an easy way to extract information from documents.
+
+### Open Parse
+  * link: https://github.com/Filimoa/open-parse
+  * author: Filimoa
+  * note: a tool designed to fill this gap by providing a flexible, easy-to-use library capable of visually discerning document layouts and chunking them effectively.
