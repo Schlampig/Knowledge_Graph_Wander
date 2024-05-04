@@ -223,6 +223,9 @@
       - code: https://github.com/coqui-ai/TTS
       - code(huggingface): https://huggingface.co/spaces/coqui/xtts
       - note: 开放音频基础模型，只需 3 行代码即可实现跨语言和多语言语音生成，支持3秒克隆、跨语言语音克隆、24khz质量。
+    - StableTTS:
+      - code: https://github.com/KdaiP/StableTTS.
+      - note: 轻量TTS模型，专为汉语和英语语音生成服务，参数仅有 10M。
 </br>
 
 ### Recommender system
@@ -295,6 +298,7 @@
     - [Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning)
     - [Awesome-Captioning](https://github.com/terry-r123/Awesome-Captioning)
     - [ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
+    - [bili2text](https://github.com/lanbinshijie/bili2text): Bilibili视频转文字，一步到位，输入链接即可使用.
   * Text-to-Image
     - [2022年6月：文本生成图像这么火，你需要了解这些技术的演变](https://mp.weixin.qq.com/s/hcIPoz9gP9jMRVOOSQWmjA)
     - [Text2Art](https://text2art.com/): Generate art from text with AI ([VQGAN+CLIP](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)).
