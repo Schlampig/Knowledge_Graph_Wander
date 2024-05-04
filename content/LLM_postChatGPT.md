@@ -1078,6 +1078,7 @@
       - [对比近期发布的几个小模型，sLLM的天花板在哪里？](https://mp.weixin.qq.com/s/fw1VyGk8keGxqRmGjz8lCA) | PaperWeekly 2024-03-11
       - [32K上下文，Mistral 7B v0.2 基模型突然开源了](https://mp.weixin.qq.com/s/R56Ob5dZjMh1alhMin8DZw) | 机器之心 2024-03-24
       - [mistral AI 又开源新模型了！！！](https://mp.weixin.qq.com/s/LpLj2aTTtpdPWI4bA35sUg) | NLP前沿 2024-04-10
+      - [终于有人调查了小模型过拟合：三分之二都有数据污染，微软Phi-3、Mixtral 8x22B被点名](https://mp.weixin.qq.com/s/YRYaCSsaegjBtwevpwlLHQ) | 机器之心 2024-05-03
     - extra:
       - Zephyr:
         - [Zephyr 7B Alpha](http://aicoco.net/s/6e): 在UltraChat数据集上微调的Mistral 7B模型，在 MT Bench 上的性能优于 Llama2 70B，通过“直接偏好优化(DPO)”将 SFT 模型与 UltraFeedback 数据集对齐，UltraChat由 gpt-3.5 生成的约 1.6M 对话组成，UltraFeedback包含 64k 提示和补全，涵盖各种开放和封闭访问模型。
