@@ -1047,6 +1047,10 @@
     - note: MiLM-6B 是由小米开发的一个大规模预训练语言模型，参数规模为64亿。在 C-Eval 和 CMMLU 上均取得同尺寸最好的效果。
     - blog:
       - [小米交卷大模型，全新小爱同学实测来了](https://mp.weixin.qq.com/s/aP-FvYHbaEpbCBYfcKR1Xg) | 量子位 2023-08-18
+
+  * 漫谈MindChat(华东理工大学):
+    - code: https://github.com/X-D-Lab/MindChat
+    - note: 漫谈(MindChat)期望从心理咨询、心理评估、心理诊断、心理治疗四个维度帮助人们纾解心理压力与解决心理困惑, 提高心理健康水平. 作为一个心理大模型, MindChat通过营造轻松、开放的交谈环境, 以放松身心、交流感受或分享经验的方式, 与用户建立信任和理解的关系. MindChat希望为用户提供隐私、温暖、安全、及时、方便的对话环境, 从而帮助用户克服各种困难和挑战, 实现自我成长和发展。
   
   * MiniGPT(KAUST):
     - code: https://github.com/Vision-CAIR/MiniGPT-4
