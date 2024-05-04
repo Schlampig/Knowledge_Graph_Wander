@@ -1373,6 +1373,7 @@
             - [OpenAI最强竞对Mistral AI最新万字访谈，吐血整理干货十足](https://mp.weixin.qq.com/s/BAJyKfATpDfKVfV_-84CXQ) | Z Potentials 2024-04-08
           - [万字梳理：阿里、腾讯等8家中国互联网大厂的50款大模型及应用，能否全面超越GPT-4？ | 钛媒体AGI](https://mp.weixin.qq.com/s/dHHilhvBMVynvyjtxUJ4PA) | 钛媒体AGI 2024-03-11
           - [京沪“中国大模型第一城”争夺战爆发](https://mp.weixin.qq.com/s/sgigJJeYtiMLoZGSRuRkJA) | 中国企业家杂志 2024-03-21
+          - [斯坦福李飞飞首次创业：学术休假两年，瞄准「空间智能」](https://mp.weixin.qq.com/s/tffXMdimm7UxSBy1yZEHvw) | 机器之心 2024-05-04
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
