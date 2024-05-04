@@ -195,6 +195,7 @@
     - [吴恩达：别光盯着GPT-5，用GPT-4做个智能体可能提前达到GPT-5的效果](https://mp.weixin.qq.com/s/WOI-owwovML5g2olnO28GQ) | 机器之心 2024-03-30
     - [Multi-Agent实践第5期：RAG智能体的应用：让AgentScope介绍一下自己吧](https://mp.weixin.qq.com/s/jb_lrNGFEEwVQs0JvfHlkg) | 魔搭ModelScope社区 2024-03-30
     - [此时此刻，两个Claude智能体正在无休止对话，无人干预](https://mp.weixin.qq.com/s/celdhD3Kvn68vowr3_-DVA) | 机器之心 2024-03-31
+    - [AI Agent 应该更有趣还是更有用？](https://mp.weixin.qq.com/s/3oO0d5onGvNpgU_h0x_-gA) | NLP工作站 2024-03-30
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
