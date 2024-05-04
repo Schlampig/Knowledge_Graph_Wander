@@ -608,7 +608,8 @@
         - [超越LoRA，北京大学提出预训练模型非梯度优化法](https://mp.weixin.qq.com/s/uVxl_QKDZe89ekMmSDMH_g) | 夕小瑶科技说 2024-03-15
         - [MSRA联合清华在LoRA相关工作最新进展—混合LoRA专家 (MoLE)](https://mp.weixin.qq.com/s/vXYA64b47YpseuZpDn4-qQ) | 深度学习自然语言处理 2024-04-30
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
-        - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程.
+        - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程。
+        - [awesome-pruning](https://github.com/hrcheng1066/awesome-pruning): 深度神经网络剪枝相关论文资源列表。
         - [大规模 Transformer 模型 8 比特矩阵乘简介](https://mp.weixin.qq.com/s/g1f1ECDVDqdpkY_9vkAZfg) | Hugging Face 2023-04-25
         - [训练你的大模型！低资源下的模型轻量化](https://mp.weixin.qq.com/s/9Q6GSVOau0fdx3IzK-RhBA) | AINLP 2023-05-05
         - [越小越好: Q8-Chat，在英特尔至强 CPU 上体验高效的生成式 AI](https://mp.weixin.qq.com/s/O55qgGeD5lDKl9tGVmBN3g) | Hugging Face 2023-05-23
@@ -788,6 +789,7 @@
           - [日本开发出进化模型：模仿生物进化论，jim fan：我最近读到的最具想象力的 LLM 论文](https://mp.weixin.qq.com/s/5IbeIY79CZ5labIXMWta7g) | AI寒武纪 2024-03-25
       - RLHF & RLAIF & Alignment:
         - [RLHF 标注工具](https://github.com/SupritYoung/RLHF-Label-Tool):用于大模型 RLHF 进行人工数据标注排序的工具。
+        - [paper](https://arxiv.org/abs/2404.09932): Foundational Challenges in Assuring Alignment and Safety of Large Language Models.
         - [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗](https://mp.weixin.qq.com/s/Xd5VtRP-ziH-PYFOci65Hg) | Hugging Face 2023-02-01
         - [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ) | 李rumor 2023-02-19
         - [ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://mp.weixin.qq.com/s/hm_bbVebSF4JudctCsiRcA) | 夕小瑶的卖萌屋 2022-12-18
@@ -1025,6 +1027,7 @@
           - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) by Tongji-KGLLM.
             - [paper](https://arxiv.org/pdf/2312.10997.pdf): Retrieval-Augmented Generation for Large Language Models: A Survey.
             - [RAG怎么做？同济大学等最新《大型语言模型的检索增强生成》综述](https://mp.weixin.qq.com/s/mDw6Q1dEWxKZQBv3jp5utg) | 专知 2023-12-20
+            - [paper](https://arxiv.org/abs/2404.10981):A Survey on Retrieval-Augmented Text Generation for Large Language Models.
           - [Arguflow](https://github.com/arguflow/arguflow): a project to build semantic search and retrieval-augmented generation (RAG) fast, [website](https://arguflow.ai/).
           - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application): the resources about the application based on LLM with RAG pattern.
           - [RAG (Retrieved-Augmented Generation) for LLM: A Curated Collection](https://github.com/cavalierlulu/rag_survey): this repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM).
