@@ -201,6 +201,7 @@
     - [基于大型语言模型的游戏智能体综述](https://mp.weixin.qq.com/s/3Cr5N7bGuSBwzSQ8DF7T8Q) | 专知 2024-04-04
     - [AI 争夺继承权？AgentGroupChat，为 AI 群聊打造的通用框架。](https://mp.weixin.qq.com/s/dZvtQVEqhiF7eo8F-SzoJg) | 特工宇宙 2024-04-06
     - [一文带你了解基于大模型的Agent](https://mp.weixin.qq.com/s/tkdNkUIdmWoy_Ib37wiebQ) | Datawhale 2024-04-07
+    - [大模型驱动的自主智能体与群体智能](https://mp.weixin.qq.com/s/0Qb7FDqaYO_f3eIzYVCrtQ) | TsinghuaNLP 2024-04-08
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
