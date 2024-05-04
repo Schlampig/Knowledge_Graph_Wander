@@ -883,6 +883,10 @@
         - [paper](https://arxiv.org/pdf/2309.16039.pdf): Effective Long-Context Scaling of Foundation Models.
         - [最强LLaMA突然来袭！只改一个超参数，实现上下文3.2万token，多个任务打败ChatGPT、Claude 2](https://mp.weixin.qq.com/s/CUNAnrAZs8UuywWw8X8QSQ) | 量子位 2023-09-30
 
+  * LLaMA 3(Meta):
+    - blog:
+      - [行业巨变！LLama3要来了](https://mp.weixin.qq.com/s/WhR1CIJxF8c_kO3i6Lx98A) | Datawhale 2024-04-11
+  
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
     - blog:
