@@ -15,6 +15,7 @@
     - [SCOTT PARTRIDGE](https://jevaart.com/artworkave.htm): 美国艺术家©Scott Partridge 创作的世界鸟类平面化图鉴。
     - [XKCD中文站](https://xkcd.in/): 一个奇奇怪怪的科学漫画站，中文1051 篇，英文2721 篇。
     - [Refined-Anime-Text](https://huggingface.co/datasets/CausalLM/Refined-Anime-Text): 一份包含超过一百万条、约4400万个 GPT-4/3.5 token的、全新合成的文本数据集的动漫主题子集。
+    - [ZuoMeme](https://www.zuomeme.com/): 在线制作MEME梗图生成器。
   * Art and Design
     - [WikiArt](https://www.wikiart.org/): 收录世界名画的维基网站.
     - [ArtStation](https://www.artstation.com/): [新年重磅！Artstation 大师级艺术课程全部免费开放](https://www.uisdc.com/artstation-learning)
