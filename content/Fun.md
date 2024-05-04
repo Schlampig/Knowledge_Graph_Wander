@@ -411,6 +411,7 @@
         - [2024年01月27日：何恺明谢赛宁团队步步解构扩散模型，最后竟成经典去噪自编码器](https://mp.weixin.qq.com/s/tP_evn-Rn3sy7_R3pQeghQ)
         - [2024年02月29日：基于扩散模型的图像编辑：首篇综述](https://mp.weixin.qq.com/s/MFbCt0XfOf9fV0YbdkmR6g)
         - [2024年03月29日：​249篇文献！北邮发布文本到图像Diffusion可控生成最新综述，已开源！](https://mp.weixin.qq.com/s/9_Sf-O8vNCt42MNEnvEgEg)
+        - [2024年04月13日：GPT超越扩散、视觉生成Scaling Law时刻！北大&字节提出VAR范式](https://mp.weixin.qq.com/s/KOEdTgJX4Gga5zRbl57Yow)
     - [A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
     - [ContralNet](https://github.com/lllyasviel/ControlNet) and its [Web UI](https://github.com/Mikubill/sd-webui-controlnet).
       - [ControlNet大更新：仅靠提示词就能精准P图，保持画风不变，网友：效果堪比定制大模型](https://mp.weixin.qq.com/s/0l6sYt_6RX_X5-XAJ31JYw) | 量子位 2023-05-15 
