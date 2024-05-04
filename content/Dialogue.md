@@ -2128,6 +2128,7 @@
 
 ### LLM Blogs & Reviews
 * 大模型综述
+    - [大语言模型(LLMBook-zh)在线电子书](https://llmbook-zh.github.io/).
     - [ChatGPT背后的大模型技术如何炼？MSU等最新《预训练基础模型综述》，97页pdf全面阐述BERT到ChatGPT历史脉络](https://mp.weixin.qq.com/s/yDB9VKSKIu-4spJ2hiH1JQ) | 专知 2023-02-22
     - [从BERT到ChatGPT，北航等9大顶尖研究机构全面综述：那些年一起追过的「预训练基础模型」](https://mp.weixin.qq.com/s/RDpOCcJKQ6h8Ns5xZyTBYw) | 新智元 2023-02-27
     - [开源语言模型百宝袋 (Ver. 1.0)](https://mp.weixin.qq.com/s/VGHlgX66Ql6pjSym2OxqMA) | 看个通俗理解吧 2023-03-17
