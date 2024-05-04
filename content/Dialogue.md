@@ -44,6 +44,7 @@
         - [Free ChatGPT Site List](https://github.com/xx025/carrot): 众多免费好用的ChatGPT镜像站点, [website](https://cc.ai55.cc/).
         - [POE](https://poe.com/login): 同时对比ChatGPT、Claude等机器人效果的网站. 
           - [Poe正式向开发者推出 Poe API ！](https://mp.weixin.qq.com/s/ZFNRXd7RGbaXS5ie6WgS4Q) | AI 共存派 2023-05-17
+        - [Lobe Chat](https://github.com/lobehub/lobe-chat/tree/main): 强大的GPT网页客户端, [项目组Lobe Hub](https://github.com/lobehub).
         - [Coze](https://www.coze.com/): 字节开放的下一代AI搭建平台。
         - [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic): 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验.
         - [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing): this list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
@@ -131,6 +132,8 @@
         - [Tuning LLMs with no tears](github.com/beyondguo/LLM-Tuning): 分享对大模型微调的工具和方法，把预训练模型微调为可对话的模型。
         - [LMDeploy](https://github.com/InternLM/lmdeploy): 涵盖了LLM任务的全套轻量化、部署和服务解决方案。
       - Dataset & Corpus & Data Engineering:
+        - [Dataverse](https://github.com/UpstageAI/dataverse): The Universe of Data. All about data, data science, and data engineering.
+        - [Data is Better Together](https://github.com/huggingface/data-is-better-together): 由Hugging Face、Argilla和开源机器学习社区共同合作的项目，旨在赋予开源社区共同构建有影响力的数据集的能力。目前，该项目已经创建了一个由10,000个提示组成的数据集，按质量进行了排名。
         - [paper](https://arxiv.org/abs/2402.16827): A Survey on Data Selection for Language Models.
         - [COIG](https://huggingface.co/datasets/BAAI/COIG): [Chinese Open Instruction Generalist: a Preliminary Release](https://arxiv.org/pdf/2304.07987.pdf), [首个大规模、可商用的中文开源指令数据](https://mp.weixin.qq.com/s/1hSU5AROH0ZGuDo9oD0bFw) | 夕小瑶科技说 2023-04-21
         - [RedPajama](https://github.com/togethercomputer/RedPajama-Data): [download](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T), [真·从零复刻ChatGPT！斯坦福等开启「红睡衣」计划，先开源1.2万亿token训练集](https://mp.weixin.qq.com/s/CQ_zISKW7j1fW-HzhjffOw) | 新智元 2023-04-22
@@ -402,6 +405,7 @@
         - [用哈佛和伯克利最新的ToM谈判Prompt掌控你升职加薪等各场景谈判主动权](https://mp.weixin.qq.com/s/gUnAHrzmII-gf00S6Plqew) | AI修猫Prompt 2024-04-23
         - [元任务Prompt：改变大语言模型的缩放率（Scaling law），性能超越Fine Tuning](https://mp.weixin.qq.com/s/WWWy3rG4G1imbNkdZKpk8w) | AI修猫Prompt 2024-04-24
         - [别再写脆弱的prompt讨好LLM啦！快用DSPy拯救你宝贵的prompt思维，偷偷甩掉99%的人](https://mp.weixin.qq.com/s/ghjhP--mi5dQMDMnX80qpA) | AI修猫Prompt 2024-04-29
+        - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -755,6 +759,8 @@
         - [利用未标注文本改进遵循指令的语言模型 (5) Some Conclusions II](https://mp.weixin.qq.com/s/N4mUe7hrvXGFArl20kKRCA) | 看个通俗理解吧 2024-04-25
       - Mixture of Experts (MoE) & 模型融合:
         - MoE
+          - [makeMoE](https://github.com/AviSoori1x/makeMoE): from scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
+          - [Mixture of Experts Explained](https://huggingface.co/blog/moe): 混合专家模型 (MoE) 详解（Huggingface博客文章）。
           - [一文弄懂Mixture of Experts (MoE)的前世今生](https://mp.weixin.qq.com/s/u7bqG3skzklqDWu3MMmkzg) | NLP前沿 2023-12-13
           - [2个开源中文moe大模型 + 1个从大模型到moe模型的continual pretraing开源框架](https://mp.weixin.qq.com/s/LQ6owGnVxVDHpPsaBTp52g) | NLP前沿 2023-12-26
           - [混合专家模型 (MoE) 详解](https://mp.weixin.qq.com/s/I1D-mVQCseL4gW9sJLzY2w) | Hugging Face 2023-12-26
@@ -771,6 +777,7 @@
           - [Prompt-prompted MOE：GRIFFIN技术，加速大模型推理](https://mp.weixin.qq.com/s/7B0M80C4AH4V_JEh1VhfoQ) | NLP前沿 2024-04-03
           - [又一开源大模型JetMoE，训练成本仅十万美元，尺寸更小但性能不减](https://mp.weixin.qq.com/s/SypaG-HrlpzkL2xZcd1Rqw) | 水木人工智能学堂 2024-04-05
         - 模型融合
+          - [Mergoo](https://github.com/Leeroo-AI/mergoo): A library for easily merging multiple LLM experts, and efficiently train the merged LLM.
           - [模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://mp.weixin.qq.com/s/_V228WbPr3WKhBtIs7icZQ) | 机器之心 2024-01-06
           - [浅析大模型模型融合算法（Ties、Slerp、Task Arithmetic、DARE、Passthrough）](https://mp.weixin.qq.com/s/2zqDRQr9KUfrOD9CdZk-Sg) | NLP前沿 2024-01-10
           - [大模型Blending is all you need](https://mp.weixin.qq.com/s/WNTGio4ED8ppA2Q7veKyGg) | NLP前沿 2024-01-14
@@ -905,6 +912,7 @@
           - [超级智能AI是否会悄然涌现？新研究说倒不会那么突然](https://mp.weixin.qq.com/s/LJFzqePMvn6NTSDkY8c4yw) | 自然系列 2024-01-26
           - [Loss 才是涌现的关键，而非模型参数](https://mp.weixin.qq.com/s/OVgI3HMpEYdhiWIxNXufqQ) | GLM大模型 2024-04-19
         - Hallucinations (幻觉)
+          - [Awesome-LLM-Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency): a curated list of Self-consistency in Large Language Models.
           - [幻觉？马斯克TruthGPT也搞不定！OpenAI联合创始人直言很复杂](https://mp.weixin.qq.com/s/FcI-MWFPk0ZE3p1kmTCkdA) | 新智元 2023-05-03
           - [大模型幻觉问题调研-LLM Hallucination Survey](https://mp.weixin.qq.com/s/jCGxrn_Mt9_2W_RcfBtAOQ) | NLP工作站 2023-07-11
           - [消除了幻觉，我们就能信任机器吗？](https://mp.weixin.qq.com/s/pPySsvZJaSAEU2j4bfweLg) | 环球科学 2023-07-15
@@ -1019,7 +1027,9 @@
             - [RAG怎么做？同济大学等最新《大型语言模型的检索增强生成》综述](https://mp.weixin.qq.com/s/mDw6Q1dEWxKZQBv3jp5utg) | 专知 2023-12-20
           - [Arguflow](https://github.com/arguflow/arguflow): a project to build semantic search and retrieval-augmented generation (RAG) fast, [website](https://arguflow.ai/).
           - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application): the resources about the application based on LLM with RAG pattern.
-          - [RAG (Retrieved-Augmented Generation) for LLM: A Curated Collection](https://github.com/cavalierlulu/rag_survey): this repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM). 
+          - [RAG (Retrieved-Augmented Generation) for LLM: A Curated Collection](https://github.com/cavalierlulu/rag_survey): this repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM).
+          - [Rageval](https://github.com/gomate-community/rageval): Evaluation tools for Retrieval-augmented Generation (RAG) methods.
+          - [rag-search](https://github.com/thinkany-ai/rag-search): RAG Search API.
           - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
           - [大模型如何用向量数据库？清华等最新《向量数据库管理系统》综述](https://mp.weixin.qq.com/s/xyiv6V0uX9BopAytry7JFg) | 专知 2023-10-25
@@ -1111,6 +1121,7 @@
           - [UC Berkeley ｜RAFT: 对不相关的RAG检索结果进行建模](https://mp.weixin.qq.com/s/ZdlF7yHqURRmZ9b-UXnICg) | NLP PaperWeekly 2024-04-01
           - [RAG的演进：从朴素RAG到高级RAG，再到模块化RAG架构](https://mp.weixin.qq.com/s/yHCASjlqOPWaLzeEZOpbXw) | 奇点智源 2024-04-02
           - [RQ-RAG: RAG中的的query改写、分解、消歧](https://mp.weixin.qq.com/s/YBwsaDcFRbgNEs60-S0OqQ) | NLP前沿 2024-04-02
+          - [Building Retrieval-Augmented Generation Systems](https://medium.com/@iamleonie/building-retrieval-augmented-generation-systems-be587f42aedb) | Medium 2024-04-02
           - [也看RAG优化策略之RQ-RAG及其与EventGround事件推理的结合：兼看值得一看的几个大模型综述](https://mp.weixin.qq.com/s/fKGi3rq3mqgMJrSvSO3OOA) | 老刘说NLP 2024-04-03
           - [OpenRAG Base：RAG的开源开放知识库](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw) | 开放知识图谱 2024-04-07
           - [Rerank，让RAG更近一步](https://mp.weixin.qq.com/s/UxIZwR2w5Hcp-RecsgnckA) | 魔搭ModelScope社区 2024-04-09
@@ -1746,6 +1757,7 @@
           - [AI诊疗或更准确，来自顶刊新研究！大模型搞医疗现状：在CPU上成功落地](https://mp.weixin.qq.com/s/FczMO58QDzccdRlsYHBZAQ) | 量子位 2023-12-01
           - [一篇综述洞悉医学大型语言模型的原理，应用和挑战](https://mp.weixin.qq.com/s/gV3HHkVQXgR-Cego1P0ZBQ) | 将门创投 2024-01-12
           - [“本草”3.0：面向特定病历诊疗的医学大模型](https://mp.weixin.qq.com/s/aF7h_wxc9_6h8BiHR5gv8Q) | 赛尔实验室 2024-04-29
+          - [Multilingual Medicine](https://github.com/FreedomIntelligence/Apollo): 多语言医学模型、数据集、基准和代码的开源项目，旨在为英语、中文、法语、印地语、西班牙语和阿拉伯语提供医学领域的自然语言处理能力.
         - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
           - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
@@ -1870,8 +1882,10 @@
           - [ChatGPT、Sora之后，19位专家提出AI治理新方向](https://mp.weixin.qq.com/s/fQdbmgo8Gw0YiSN8hQ7iLw) | 学术头条 2024-02-19
           - [2024 人工智能安全报告](https://mp.weixin.qq.com/s/muNsZQPB3x9IN43xJZtUog) | 专知 2024-03-09
           - [如何攻击大模型？UIUC等最新《破解防御：大型语言模型攻击方法》综述](https://mp.weixin.qq.com/s/w-Upfg8UJ4CDibnVn-1QPw) | 专知 2024-03-13
+          - [A Primer on LLM Security – Hacking Large Language Models for Beginners](https://kleiber.me/blog/2024/03/17/llm-security-primer/) | Ingo Kleiber 2024-03-17
           - [辛顿、姚期智等中外专家签署“北京共识”：禁止AI自行复制](https://mp.weixin.qq.com/s/6adv4IbGGEYTVnVIkHfjmg) | 腾讯科技 2024-03-18
           - [Hinton、Bengio等联合中国专家达成AI安全共识：AI系统不应违反红线](https://mp.weixin.qq.com/s/qeiZ1zkFoK4XZInBRGHRHw) | 机器之心 2024-03-19
+          - [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP): A reading list for large models safety, security, and privacy.
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
           - [1次训练用电2.4亿度，AI 为什么那么耗电？](https://mp.weixin.qq.com/s/FOrIvzWYWRarzZ-48EpAsA) | 返朴 2024-04-12
       - 逸闻
