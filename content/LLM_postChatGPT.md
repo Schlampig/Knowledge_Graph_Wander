@@ -743,6 +743,7 @@
       - [200亿「书生·浦语2.0」正式开源！数推性能比肩ChatGPT，200K超长上下文完美召回](https://mp.weixin.qq.com/s/-7WQoR72UggdiwP0q5UT4A) | 新智元 2024-01-17
     - extra:
       - [茴香豆：一个新开源基于大模型的领域知识助手（来自书生·浦语团队）](https://mp.weixin.qq.com/s/uDt1StjzwuqnnbsJK0WSiA) | NLP前沿 2024-01-18
+      - [InternLM2技术报告](https://mp.weixin.qq.com/s/YLcTPhcd7yBRDznZgUYAcg) | 李rumor 2024-04-23
   
 </br>
 
@@ -888,8 +889,20 @@
         - [最强LLaMA突然来袭！只改一个超参数，实现上下文3.2万token，多个任务打败ChatGPT、Claude 2](https://mp.weixin.qq.com/s/CUNAnrAZs8UuywWw8X8QSQ) | 量子位 2023-09-30
 
   * LLaMA 3(Meta):
+    - code: https://github.com/meta-llama/llama3
     - blog:
       - [行业巨变！LLama3要来了](https://mp.weixin.qq.com/s/WhR1CIJxF8c_kO3i6Lx98A) | Datawhale 2024-04-11
+      - [Llama 3 发布！目前最强开源大模型，全面登陆 Meta 系产品，即将推出 4000 亿模型](https://mp.weixin.qq.com/s/Ik29LVChNrq8aou8RXVg3Q) | Founder Park 2024-04-19
+      - [欢迎 Llama 3：Meta 的新一代开源大语言模型](https://mp.weixin.qq.com/s/6BsJKYeOqEBATA6g44T72w) | Hugging Face 2024-04-19
+      - [Llama 3超大杯有何惊喜？Meta会一直开源吗？当初为何笃信元宇宙？扎克伯格新访谈回应一切](https://mp.weixin.qq.com/s/e2n4ttcT8raDU877t53GPQ) | 机器之心 2024-04-20
+      - [浅谈Llama3、大模型开源与闭源以及合成数据](https://mp.weixin.qq.com/s/oMZSL_vEAfsHQG1j7lGoGg) | NLP工作站 2024-04-19
+      - [【独家】万字长文带你梳理Llama开源家族：从Llama-1到Llama-3](https://mp.weixin.qq.com/s/5_VnzP3JmOB0D5geV5HRFg) | Datawhale 2024-04-21
+    - extra:
+      - [一大堆Chinese Llama3正在袭来](https://mp.weixin.qq.com/s/x-w10mBU2a0PHNS5y0QO3Q) | NLP工作站 2024-04-21
+      - [四个Llama3中文微调版本的衍生：继续看文档图表理解大模型中的图表-数据对构造方案](https://mp.weixin.qq.com/s/fSt5bMzRd7zF7wAhG_uqfg) | 老刘说NLP 2024-04-21
+      - [还不会本地网页上微调Llama3？用Docker一键部署咱国产的LLAMAFACTORY试试](https://mp.weixin.qq.com/s/vylGqmvUaiJ-5XM1Vvbqsg) | AI修猫Prompt 2024-04-22
+      - [社区版Llama3中文微调模型重磅发布！Llama3-Chinese-8B-Instruct快来体验！](https://mp.weixin.qq.com/s/9XFecBZdabncEPeRBITWRA) | Llama中文社区 2024-04-24
+      - [Llama3 中文通用Agent微调模型来啦！（附手把手微调实战教程）](https://mp.weixin.qq.com/s/IuagQ-S_spbQRyVsJuFIkQ) | 魔搭ModelScope社区 2024-04-24
   
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
@@ -1239,6 +1252,7 @@
     - [paper](https://arxiv.org/abs/2309.05463): Textbooks Are All You Need II: phi-1.5 technical report
     - blog:
       - [1.3>7？微软新模型“以小博大”战胜Llama2，网友：用Benchmark训练的吧？](https://mp.weixin.qq.com/s/4Da7J7QoHbPX7ipgD3UbxQ) | 量子位 2023-09-16
+      - [微软ph3 mini技术报告发布，3.8b 小模型 Ko llama3 8b](https://mp.weixin.qq.com/s/0JS7DRmPIf9xpx5AOvC77Q) | NLP前沿 2024-04-23
 
   * PICA(东北大学):
     - code: https://github.com/NEU-DataMining/PICA
