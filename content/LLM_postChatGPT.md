@@ -397,6 +397,12 @@
     - blog:
       - [人手一个ChatGPT！微软DeepSpeed Chat震撼发布，一键RLHF训练千亿级大模型](https://mp.weixin.qq.com/s/G8W9nSQd600wesSJFE2dhw) | 新智元 2023-04-12
 
+  * 帝江DiJiang(华为):
+    - code: https://github.com/YuchuanTian/DiJiang
+    - [paper](https://arxiv.org/abs/2403.19928): DiJiang: Efficient Large Language Models through Compact Kernelization.
+    - blog:
+      - [华为诺亚频域LLM「帝江」：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://mp.weixin.qq.com/s/3zdfuhNr_HjvcJAy8REayA) | 机器之心 2024-04-03
+
   * DISC-FinLLM(复旦FudanDISC):
     - code: https://github.com/FudanDISC/DISC-FinLLM
     - homepage: https://fin.fudan-disc.com
