@@ -211,6 +211,7 @@
     - [战争还是和平？基于大型语言模型的多智能体系统模拟世界战争爆发](https://mp.weixin.qq.com/s/ZaQ9EY1dqJEsOaH1CoifnQ) | 集智俱乐部 2024-04-19
     - [浅谈当下国内 AI Agent 现状，钉钉和扣子走在前列](https://mp.weixin.qq.com/s/mc1E8BWpmtjMlDdE38Yfug) | 特工宇宙 2024-04-22
     - [阿里智能体“组装工厂”开源！0经验搞定上万Agent并发](https://mp.weixin.qq.com/s/NPUZKE1G16zhFDs4bUHAkg) | 量子位 2024-04-27
+    - [Agent落地范式本质上是工程及产品设计上的花活：兼看文档图表理解的几个关键问题](https://mp.weixin.qq.com/s/8k2Qo5vIJ2Gvm9QLFtZA4Q) | 老刘说NLP 2024-04-29 
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
