@@ -1266,6 +1266,7 @@
       - [QWen升级之路](https://mp.weixin.qq.com/s/drcLtYqt6yYPnBGGPoncbQ) | AINLP 2024-01-12
       - [从0开始预训练1.4b中文大模型实践](https://mp.weixin.qq.com/s/IGXXb_r6ZzbOdjCxmAnsUw) | 深度学习自然语言处理 2024-03-02
       - [Qwen2MOE即将来袭](https://mp.weixin.qq.com/s/3JUGukem1Hkjxb-CYMTDgg) | NLP前沿 2024-03-29
+      - [Qwen家族新成员：32B开源！魔搭社区推理训练最佳实践！](https://mp.weixin.qq.com/s/H5v5AXL1fqAZHVwGhpWcZw) | 魔搭ModelScope社区 2024-04-06
 
 </br>
 
