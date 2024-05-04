@@ -699,6 +699,11 @@
   * author: Nick Scialli
   * keywords: a non-overwhelming list of resources for tech interviews.
 
+### DeepLearing-Interview-Awesome-2024
+  * link: https://github.com/315386775/DeepLearing-Interview-Awesome-2024
+  * author: 315386775
+  * keywords: AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目。
+
 ### machine-learning-interview
   * link: https://github.com/khangich/machine-learning-interview
   * author: Khang Pham
