@@ -58,6 +58,8 @@
     - blog:
       - [重磅来袭！Llama中文社区开源预训练中文版Atom-7B大模型](https://mp.weixin.qq.com/s/Bdx0JTVh1kgPn5ydYxIkEw) | Llama中文社区 2023-08-28
       - [大模型中的闪电侠问世：Atom-1B](https://mp.weixin.qq.com/s/WD15khUptwkUG3EKC6YEWg) | Llama中文社区 2023-12-20
+    - extra:
+      - [AI神助攻！四大羊驼行业专家惊喜现身](https://mp.weixin.qq.com/s/4tz4uwuYyBLqjOgKvRGOhA) | Llama中文社区 2024-04-14
   
   * Aurora genAI(英特尔):
     - blog:
