@@ -557,6 +557,11 @@
     - blog:
       - [对标Llama 2，OpenAI开源模型G3PO已在路上](https://mp.weixin.qq.com/s/hXsKm1M_2utRmj_y9MOBzw) | 机器之心 2023-07-27
 
+  * Gecko(谷歌):
+    - [paper](https://arxiv.org/pdf/2403.20327.pdf): Gecko: Versatile Text Embeddings Distilled from Large Language Models.
+    - blog:
+      - [谷歌DeepMind发布Gecko：专攻检索，与大7倍模型相抗衡](https://mp.weixin.qq.com/s/5e_Py_Xm0RsmP1YMcikpaQ) | 机器之心 2024-04-07
+
   * Gemini(谷歌):
     - blog:
       - [谷歌创始人正式回归，加入LLM大战！指导Gemini研发，与OpenAI、Meta混战一触即发](https://mp.weixin.qq.com/s/rEVoqGpEHG-1WB7t3OVmmw) | 新智元 2023-07-22
@@ -935,7 +940,7 @@
     - blog:
       - [贾佳亚团队开源全球首个70B长文本大语言模型，读论文看小说直接ProMax](https://mp.weixin.qq.com/s/HaTqlerchNV3GmTzDJDS_A) | 量子位 2023-10-09
 
-  * LongLLaMA(IDEAS NCBR & DeepMind等):
+  * LongLLaMA(IDEAS NCBR & 谷歌等):
     - code: https://github.com/CStanKonrad/long_llama
     - code(huggingface): https://huggingface.co/syzymon/long_llama_3b
     - [paper](https://arxiv.org/pdf/2307.03170.pdf): Focused Transformer: Contrastive Training for Context Scaling
@@ -1120,6 +1125,12 @@
 </br>
 
 ### O
+  * Octopus(斯坦福):
+    - code: https://huggingface.co/NexaAIDev/Octopus-v2
+    - [paper](https://arxiv.org/abs/2404.01744): Octopus v2: On-device language model for super agent.
+    - blog:
+      - [超越GPT-4，斯坦福团队手机可跑的大模型火了，一夜下载量超2k](https://mp.weixin.qq.com/s/qnFZOPLpdRxW42_cLUcImA) | 机器之心 2024-04-07
+
   * OlaGPT(?):
     - code: https://github.com/oladata-team/OlaGPT
     - [paper](https://arxiv.org/abs/2305.16334): OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities.
