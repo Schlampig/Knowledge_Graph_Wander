@@ -1369,6 +1369,11 @@
       - [浅谈StreamingLLM中的attention sink和sink token](https://mp.weixin.qq.com/s/J84VN3hkpBcUkCDQLMwIEQ) | AINLP 2023-10-07
       - [多轮对话推理速度提升46%，开源方案打破LLM多轮对话的长度限制​](https://mp.weixin.qq.com/s/ngD97EaRD2pVqli_rsD76Q) | 机器之心 2024-01-08
 
+  * Symbol-LLM(西安交大&上海人工智能研究院):
+    - [paper](https://arxiv.org/abs/2311.09278): Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.
+    - blog:
+      - [首个符号大模型！Symbol- LLM：探索自然语言与符号之间的能力平衡](https://mp.weixin.qq.com/s/XlDO2lPqXOZ3FxsMXSp9Jg) | 深度学习自然语言处理 2024-04-03
+
 </br>
 
 ### T
