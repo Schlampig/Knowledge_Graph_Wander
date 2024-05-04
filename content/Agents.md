@@ -192,6 +192,7 @@
     - [智能体DS-Agent基于案例推理，让GPT-4数据科学任务接近100%](https://mp.weixin.qq.com/s/MUl7vIlRiFKgi1rdfv58Yw) | 机器之心 2024-03-26
     - [Multi-Agent实践第2期: @智能体 你怎么看？](https://mp.weixin.qq.com/s/l8h6VQ-XlXky3ATbyvtbvA) | 魔搭ModelScope社区 2024-03-26
     - [Multi-Agent实践第4期：智能体的“想”与“做”-ReAct Agent](https://mp.weixin.qq.com/s/uG-bwoysyy4l3T8aSXBE1g) | 魔搭ModelScope社区 2024-03-28
+    - [吴恩达：别光盯着GPT-5，用GPT-4做个智能体可能提前达到GPT-5的效果](https://mp.weixin.qq.com/s/WOI-owwovML5g2olnO28GQ) | 机器之心 2024-03-30
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
