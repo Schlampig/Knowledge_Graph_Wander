@@ -39,6 +39,7 @@
   * [PhraseBank 英文学术用语检索](https://www.phrasebank.manchester.ac.uk/)
   * [WeNet 2.0](https://github.com/wenet-e2e/wenet): [WeNet 热词增强 2.0 强势来袭](https://mp.weixin.qq.com/s/GDkLeYgACYiTUlAJH84erQ).
   * [术语在线](https://www.termonline.cn/): 各行各业术语搜索引擎。
+  * [一键换词，智能改写](https://www.5118.com/).
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
