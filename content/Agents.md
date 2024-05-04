@@ -207,6 +207,7 @@
     - [ResearchAgent？基于LLM+KG+AGENT进行科研想法生成：兼看2023-2024年人工智能代表50公司](https://mp.weixin.qq.com/s/Y-b6YpA-b0AJ_MP-viEuhw) | 老刘说NLP 2024-04-14
     - [多agent思想显著提升小模型工具调用能力](https://mp.weixin.qq.com/s/0qYu8kuPFh-5EuWLq5BLGw) | NLP PaperWeekly 2024-04-15
     - [一句话打造Agent！李彦宏：人人都是开发者的时代到来](https://mp.weixin.qq.com/s/jvU0h6eeSjNcQyT_MM1qUQ) | 量子位 2024-04-16
+    - [手把手教你捏一个自己的Agent](https://mp.weixin.qq.com/s/JpFdmubAo4iBnhNl2-xbKA) | 魔搭ModelScope社区 2024-04-18
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
