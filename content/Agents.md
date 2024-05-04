@@ -197,6 +197,7 @@
     - [此时此刻，两个Claude智能体正在无休止对话，无人干预](https://mp.weixin.qq.com/s/celdhD3Kvn68vowr3_-DVA) | 机器之心 2024-03-31
     - [AI Agent 应该更有趣还是更有用？](https://mp.weixin.qq.com/s/3oO0d5onGvNpgU_h0x_-gA) | NLP工作站 2024-03-30
     - [Agent > GPT5？吴恩达最新演讲：四种 Agent 设计范式（通俗易懂版）](https://mp.weixin.qq.com/s/6sh39yEO4YGZI-BGPjJnCg) | 特工宇宙 2024-04-01
+    - [基于大型语言模型的游戏智能体综述](https://mp.weixin.qq.com/s/3Cr5N7bGuSBwzSQ8DF7T8Q) | 专知 2024-04-04
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
