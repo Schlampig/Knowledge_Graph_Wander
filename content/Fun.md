@@ -523,6 +523,7 @@
       - [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://mp.weixin.qq.com/s/dYfh57A-3b7f0M6yx-pfCQ) | 机器之心 2024-03-12
       - [没等来OpenAI，等来了Open-Sora全面开源](https://mp.weixin.qq.com/s/vdr1WBCQVr9aS6bJYcdlRA) | 机器之心 2024-03-18
       - [微软新作「Mora」，复原了Sora](https://mp.weixin.qq.com/s/G08_a5gkzjTIAt8MoprmMA) | 夕小瑶科技说 2024-03-22
+      - [Sora之后，OpenAI Lilian Weng亲自撰文教你从头设计视频生成扩散模型](https://mp.weixin.qq.com/s/C8JoiTHwW7T-g66EBPcfDg) | 机器之心 2024-04-22
    * Latte
      - blog:
        - [详解Latte：去年底上线的全球首个开源文生视频DiT](https://mp.weixin.qq.com/s/lt0iYD-1qeho2oPOfI5PBg) | 机器之心 2024-03-27
