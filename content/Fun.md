@@ -299,6 +299,7 @@
     - [2022年6月：文本生成图像这么火，你需要了解这些技术的演变](https://mp.weixin.qq.com/s/hcIPoz9gP9jMRVOOSQWmjA)
     - [Text2Art](https://text2art.com/): Generate art from text with AI ([VQGAN+CLIP](https://huggingface.co/spaces/akhaliq/VQGAN_CLIP)).
     - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+    - [awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)
     - [arbitrary-text-to-image-papers](https://github.com/lzhbrian/arbitrary-text-to-image-papers)
     - [VQ-VAE](https://kexue.fm/archives/6760): [超越BigGAN，DeepMind提出「史上最强非GAN生成器」VQ-VAE-2](https://baijiahao.baidu.com/s?id=1635480481517977737&wfr=spider&for=pc)
     - VQ-GAN([code](https://github.com/CompVis/taming-transformers), [paper](https://arxiv.org/abs/2012.09841))
