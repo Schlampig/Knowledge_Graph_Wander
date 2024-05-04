@@ -199,6 +199,7 @@
     - [词曲创作只需几秒，「AI作曲家」Suno引爆音乐圈，第一手体验和攻略来了](https://mp.weixin.qq.com/s/tbFMAVlAt0RzpKdSetFabw) | 机器之心 2024-03-25
     - [音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://mp.weixin.qq.com/s/LFuZ0EIPkLrM342JB1EF_A) | 机器之心 2024-04-02
     - [浙大发布歌曲合成工具Prompt-Singer，歌手性别风格均可控！](https://mp.weixin.qq.com/s/kkSJsNTyiGQAvnE2OaCwxQ) | 夕小瑶科技说 2024-04-02
+    - [音乐界Sora隆重发布！效果炸裂，超越Suno！根据指令生成定制音乐，原创续歌样样行！前谷歌Deepmind人员创建](https://mp.weixin.qq.com/s/EABc-U1qR_2cjPDtCUSXtA) | 夕小瑶科技说 2024-04-11
   * Speech Synthesis
     - [浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/VLURxAGDozFWgbr0KWGbGA)
     - [一文全面了解火山语音无监督预训练技术的落地实践](https://mp.weixin.qq.com/s/1cWkMut6e3VnPbFczVW7DA)
