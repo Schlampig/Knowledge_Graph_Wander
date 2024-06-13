@@ -322,6 +322,7 @@
   - [2024年05月16日：从对比看世界：婴儿与人工智能的共同语言 | 追问顶刊](https://mp.weixin.qq.com/s/xddik9_RC7lfZPKipfVZsQ)
   - [2024年05月22日：基于扩散模型的脑电波音乐解码](https://mp.weixin.qq.com/s/CUkJ3rufF0QvXy6_HDxIzw)
   - [2024年05月22日：Hinton万字访谈：用更大模型「预测下一个词」值得全力以赴](https://mp.weixin.qq.com/s/Vloj5W1_Vy7OMrpXcSaDPg)
+  - [2024年05月24日：李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行](https://mp.weixin.qq.com/s/bzVWXFtk0YurG4NjFS3r0g)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
