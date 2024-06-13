@@ -224,6 +224,7 @@
         - [ICLR 2024 | 通用的数据清洗框架：利用多模态大模型检测数据集中的恶意样本](https://mp.weixin.qq.com/s/SvvxaU3KRv3HMj_rJ7KPzg) | 将门创投 2024-04-08
         - [斯坦福发布法律指令数据集LawInstruct，统一17个辖区24种语言](https://mp.weixin.qq.com/s/lkv0YM9r-oWeQOpxSDDZjA) | 夕小瑶科技说 2024-04-17
         - [ISWC 2023 | 孤独症谱系障碍知识库AsdKB](https://mp.weixin.qq.com/s/22B8SkxQCt8uCUaYSCOwLQ) | 东南COIN 2024-04-30, [相关](https://mp.weixin.qq.com/s/Apf7jWBdveDPgT6uASBu5A)
+        - [揭密卡梅隆最新合成数据方法DataTune：赋能你用Deepspeed开启DSPy的Prompt优化力量](https://mp.weixin.qq.com/s/OttYEi-q36McMnR3zXHKzg) | AI修猫Prompt 2024-05-10
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -885,6 +886,7 @@
         - [175页pdf39位作者最新《大型语言模型的对齐与安全的基础挑战》综述](https://mp.weixin.qq.com/s/w-XKimWtjifT2_pDfAijFQ) | 专知 2024-04-22
         - [大语言模型对齐的四种方法！](https://mp.weixin.qq.com/s/nGaL2a_mwKyMswnaefR7xA) | 深度学习自然语言处理 2024-05-07
         - [DPO作者新作｜From r to Q*](https://mp.weixin.qq.com/s/6-jNCemyxloK3sZRFK7F2w) | 李rumor 2024-05-09
+        - [人类偏好就是尺！SPPO对齐技术让大语言模型左右互搏、自我博弈](https://mp.weixin.qq.com/s/ulVGoBkCtFyV_mwSBdzgQg) | 机器之心 2024-05-11
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -1143,6 +1145,8 @@
           - [近期关于RAG的三个技术问题：文本压缩省内存、引入时间增加时效性以及NLP任务处理相结合](https://mp.weixin.qq.com/s/RsH1S_L7fwevQt9-WH7xZQ) | 老刘说NLP 2024-04-25
           - [RAG能否解决生成式AI的幻觉？RAG的真相与谎言](https://mp.weixin.qq.com/s/lmzLiPmQNGLkX0g3rWOmBg) | Z Potentials 2024-05-05
           - [RAG开源项目Qanything源码阅读1-概述+服务](https://mp.weixin.qq.com/s/TD72BXBBa8ovr5NJd-OeGw) | 深度学习自然语言处理 2024-05-09
+          - [RAG 综述集合](https://mp.weixin.qq.com/s/TrWNzKU6htNhb1RgqujnjQ) | ChallengeHub 2024-05-11
+          - [RAG中文档表格解析的2个问题：如何自动化地生成表格标注数据及如何进行表示更合适？](https://mp.weixin.qq.com/s/xHIrQX5wrSc7HgNmO2N_Rw) | 老刘说NLP 2024-05-11
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1773,6 +1777,7 @@
           - [一篇综述洞悉医学大型语言模型的原理，应用和挑战](https://mp.weixin.qq.com/s/gV3HHkVQXgR-Cego1P0ZBQ) | 将门创投 2024-01-12
           - [“本草”3.0：面向特定病历诊疗的医学大模型](https://mp.weixin.qq.com/s/aF7h_wxc9_6h8BiHR5gv8Q) | 赛尔实验室 2024-04-29
           - [Multilingual Medicine](https://github.com/FreedomIntelligence/Apollo): 多语言医学模型、数据集、基准和代码的开源项目，旨在为英语、中文、法语、印地语、西班牙语和阿拉伯语提供医学领域的自然语言处理能力.
+          - [生物医药领域LLM的“幻觉”克星 | BiomedRAG横空出世](https://mp.weixin.qq.com/s/tGRa6XRWc9w-9RIRbVmWkA) | 奇点智源 2024-05-09
         - [大语言模型的技术发展及金融领域应用展望](https://mp.weixin.qq.com/s/5b9PV5TPozLQN0lI99ERYg) | 北京庖丁科技 2023-05-23
           - [领域微调大模型入局的自我和解：领域微调大模型若一定要做，则务必想的若干个前提条件](https://mp.weixin.qq.com/s/pXcaYoNfqm1QAR21aguU2g) | 老刘说NLP 2023-06-17
           - [ChatGPT时代，很想问问AI这些金融难题何解？](https://mp.weixin.qq.com/s/EzviZPHfx37CSc-s84uchg) | 机器之心 2023-06-27
