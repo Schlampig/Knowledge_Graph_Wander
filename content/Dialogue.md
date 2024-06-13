@@ -413,6 +413,7 @@
         - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
         - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
         - [微软PPIG2023 | 从知识中来到实践中去：参与式Prompt发掘用户Workflow中的智能辅助机会](https://mp.weixin.qq.com/s/GnBXhgAPia5rNBm5jlwu7A) | AI修猫Prompt 2024-05-13
+        - [谷歌最新《Prompt指南101》“三三制”战法惊现云端，代号101](https://mp.weixin.qq.com/s/h7aGCQy1Twpmg-qVGHjT-A) | AI修猫Prompt 2024-05-15
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
