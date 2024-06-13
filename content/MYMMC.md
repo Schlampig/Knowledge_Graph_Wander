@@ -318,6 +318,7 @@
     - [2024年02月23日：人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://mp.weixin.qq.com/s/G2IJoycHIJsNju-SjTJ7AQ)
     - [2024年03月03日：北大具身智能成果入选CVPR'24：只需一张图一个指令，就能让大模型玩转机械臂](https://mp.weixin.qq.com/s/YTvN6VDmP9aSxvI5M3YVCg)
   - [2024年05月06日：大骂“深度学习是垃圾”的自由能到底是什么？有什么效果？](https://mp.weixin.qq.com/s/Jjw1BA1ociiCbAxKmjvU6A)
+    - [2024年05月31日：自由能原理：生命、意识与智能的统一原理](https://mp.weixin.qq.com/s/kUwpyUcdSMdczK4BH15cyg)
   - [2024年05月13日：美国教授用2岁女儿训AI模型登Science！人类幼崽头戴相机训练全新AI](https://mp.weixin.qq.com/s/v6xvH1uPq8W5osws_yUzWg)
   - [2024年05月16日：从对比看世界：婴儿与人工智能的共同语言 | 追问顶刊](https://mp.weixin.qq.com/s/xddik9_RC7lfZPKipfVZsQ)
   - [2024年05月22日：基于扩散模型的脑电波音乐解码](https://mp.weixin.qq.com/s/CUkJ3rufF0QvXy6_HDxIzw)
