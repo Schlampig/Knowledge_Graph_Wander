@@ -109,6 +109,7 @@
       - [大模型+搜索构建完整技术栈，百川智能用搜索增强给企业定制化下了一剂「猛药」](https://mp.weixin.qq.com/s/Hy78rtJuJTehAJIC-HK2Rg) | 机器之心 2023-12-20
       - [百川智能发布角色大模型，零代码复刻角色](https://mp.weixin.qq.com/s/zOihQJUrVDFHB2gT1rV3uw) | AI前线 2024-01-15
       - [百川智能上新超千亿大模型Baichuan 3，冲榜成绩：若干中文任务超车GPT-4](https://mp.weixin.qq.com/s/GGhbt93eS9-JkM9qyv1WmQ) | 量子位 2024-01-29
+      - [百川智能首款AI助手大秀神操作！Baichuan 4强势升级登顶国内第一](https://mp.weixin.qq.com/s/JgrFEhxsmdWwpQZAbaWMNw) | 新智元 2024-05-23
 
   * 白泽BaiZe(加州大学圣迭戈分校&中山大学&微软亚研院):
     - code: https://github.com/project-baize/baize/blob/main/README.md
