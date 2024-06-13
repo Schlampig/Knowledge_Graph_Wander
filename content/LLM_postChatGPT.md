@@ -778,6 +778,11 @@
     - code: https://github.com/vxfla/kanchil
     - note: 基于MT5的小模型。
 
+  * 一念KsanaLLM(腾讯PCG):
+    - code: https://github.com/pcg-mlp/KsanaLLM
+    - blog:
+      - [腾讯PCG自研高性能大语言模型推理引擎「一念LLM」正式开源](https://mp.weixin.qq.com/s/rlyJwaOfDfNYMZEH7kfKGA) | 机器之心 2024-05-24
+
   * Kimi(月之暗面):
     - blog:
       - [月之暗面Kimi模型升级：200万字窗口版可申请，新增“继续”功能](https://mp.weixin.qq.com/s/xsBRTxJWyiI72TNrZJtJGw) | 量子位 2024-03-18
