@@ -337,6 +337,7 @@
         - [港中文提出CLongEval中文基准测试集，准确评估大模型长上下文能力](https://mp.weixin.qq.com/s/EPOSvdieaXfFdOjyWQaMhA) | PaperWeekly 2024-04-01
         - [SuperCLUE-Role：重新定义中文角色大模型测评基准](https://mp.weixin.qq.com/s/_57p-aAONNIaXTCScvf8NQ) | CLUE中文语言理解测评基准 2024-04-02
         - [开源医疗大模型排行榜: 健康领域大模型基准测试](https://mp.weixin.qq.com/s/n17IrzUtVawG3BaNRN12-A) | Hugging Face 2024-04-30
+        - [智源评测体系发布 国内外“百模”评估结果出炉](https://mp.weixin.qq.com/s/lnpHWFQA5Waesv0iXEYkOQ) | 全球智博会 2024-05-17
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -414,6 +415,7 @@
         - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
         - [微软PPIG2023 | 从知识中来到实践中去：参与式Prompt发掘用户Workflow中的智能辅助机会](https://mp.weixin.qq.com/s/GnBXhgAPia5rNBm5jlwu7A) | AI修猫Prompt 2024-05-13
         - [谷歌最新《Prompt指南101》“三三制”战法惊现云端，代号101](https://mp.weixin.qq.com/s/h7aGCQy1Twpmg-qVGHjT-A) | AI修猫Prompt 2024-05-15
+        - [浅谈提示词发展现状，Prompt 自动优化是未来。](https://mp.weixin.qq.com/s/D8pPI6BhJoNcqOesbzH_jA) | 特工宇宙 2024-05-18
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -571,6 +573,8 @@
         - [全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究](https://mp.weixin.qq.com/s/5WFJMPJvtaofeGDxFQ9aDw) | 量子位 2024-05-02
           - [Transformer要变Kansformer？用了几十年的MLP迎来挑战者KAN](https://mp.weixin.qq.com/s/IaifBCxztQsVOgHK6q9CBA) | 机器之心 2024-05-02
         - [KAN一作刘子鸣直播总结：KAN的能力边界和待解决的问题](https://mp.weixin.qq.com/s/xiJjnZm7E_clMdAcP2iaJA) | 集智俱乐部 2024-05-13
+        - [​Transformer是推断还是记忆？初始化大小很重要](https://mp.weixin.qq.com/s/hmAUN5GM8AQIxVHFUkip-A) | PaperWeekly 2024-05-17
+        - [缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://mp.weixin.qq.com/s/yCczYU0po0PvPTa-eh2pfg) | PaperWeekly 2024-05-18
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -617,6 +621,7 @@
         - [超越LoRA，北京大学提出预训练模型非梯度优化法](https://mp.weixin.qq.com/s/uVxl_QKDZe89ekMmSDMH_g) | 夕小瑶科技说 2024-03-15
         - [MSRA联合清华在LoRA相关工作最新进展—混合LoRA专家 (MoLE)](https://mp.weixin.qq.com/s/vXYA64b47YpseuZpDn4-qQ) | 深度学习自然语言处理 2024-04-30
         - [LISA微调技术解析：比LoRA更低的显存更快的速度](https://mp.weixin.qq.com/s/XPRwtXZU9Ueg2LZtfAY4ZQ) | 魔搭ModelScope社区 2024-05-06
+        - [Lora微调新探：学得少记得牢，超参设置全解析](https://mp.weixin.qq.com/s/mC71jFJAytsPn2jmVmL7rQ) | NLP前沿 2024-05-18
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程。
         - [awesome-pruning](https://github.com/hrcheng1066/awesome-pruning): 深度神经网络剪枝相关论文资源列表。
@@ -686,6 +691,7 @@
         - [大Batch训练大语言模型的探索与实践](https://mp.weixin.qq.com/s/ulsqKpqtmW34mIAVjKP8FA) | PaperWeekly 2024-01-24
         - [大模型bad case修复方案思考](https://mp.weixin.qq.com/s/6GX9PpMx0J4oqjBtKLMSlw) | 吃果冻不吐果冻皮 2024-01-25
         - [RHO-1：选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30%](https://mp.weixin.qq.com/s/O6zX_ptgAU9FD4z-4fXYow) | PaperWeekly 2024-05-15
+        - [大模型预训练认知分享](https://mp.weixin.qq.com/s/xaQDRXj5yJ7UO3koPHuTMg) | 李rumor 2024-05-17
       - Instruction/Prompt Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
@@ -896,6 +902,8 @@
         - [大语言模型对齐的四种方法！](https://mp.weixin.qq.com/s/nGaL2a_mwKyMswnaefR7xA) | 深度学习自然语言处理 2024-05-07
         - [DPO作者新作｜From r to Q*](https://mp.weixin.qq.com/s/6-jNCemyxloK3sZRFK7F2w) | 李rumor 2024-05-09
         - [人类偏好就是尺！SPPO对齐技术让大语言模型左右互搏、自我博弈](https://mp.weixin.qq.com/s/ulVGoBkCtFyV_mwSBdzgQg) | 机器之心 2024-05-11
+        - [深度解析DPO及其变体在多种任务上的表现如何，该如何选择](https://mp.weixin.qq.com/s/nCN8ilfwOVLmHVOEijZpRg) | 知识工场 2024-05-17
+        - [在对齐 AI 时，为什么在线方法总是优于离线方法？](https://mp.weixin.qq.com/s/Sx9ec_dhdZ452uFqmqSxvw) | 机器之心 2024-05-19
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -1622,6 +1630,7 @@
           - [值得一看的文档理解前沿方案及版式分析开源数据：三种模式、九大数据集](https://mp.weixin.qq.com/s/FsjoUUFssMv2UkbxM-IJ3A) | 老刘说NLP 2024-03-31
           - [也看跨模态大模型遇见文档理解：mPLUG-DocOwl1.5及TextMonkey方案中的数据工程](https://mp.weixin.qq.com/s/1MSOZfbKcPW1BTT4f9XvQg) | 老刘说NLP 2024-04-01
           - [也看大模型遇上表格处理任务：代表综述、大模型工作、数据构造及评估工作](https://mp.weixin.qq.com/s/_AV5_aLlp56eISJQrzG7Tg) | 老刘说NLP 2024-04-09
+          - [表格问答研究综述](https://mp.weixin.qq.com/s/Arzsg2WYQswyff03eCzjDw) | 专知 2024-05-17
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
