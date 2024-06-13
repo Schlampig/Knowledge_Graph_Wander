@@ -416,6 +416,7 @@
         - [微软PPIG2023 | 从知识中来到实践中去：参与式Prompt发掘用户Workflow中的智能辅助机会](https://mp.weixin.qq.com/s/GnBXhgAPia5rNBm5jlwu7A) | AI修猫Prompt 2024-05-13
         - [谷歌最新《Prompt指南101》“三三制”战法惊现云端，代号101](https://mp.weixin.qq.com/s/h7aGCQy1Twpmg-qVGHjT-A) | AI修猫Prompt 2024-05-15
         - [浅谈提示词发展现状，Prompt 自动优化是未来。](https://mp.weixin.qq.com/s/D8pPI6BhJoNcqOesbzH_jA) | 特工宇宙 2024-05-18
+        - [吴恩达强烈推荐研究微软的Medprompt，微调VS提示工程究竟哪个更有效](https://mp.weixin.qq.com/s/GMC29rUkBeS8H7xJxN4_Gg) | AI修猫Prompt 2024-05-20
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -1033,6 +1034,7 @@
           - [提到大模型思维链，不要只会“Let's think step by step”了](https://mp.weixin.qq.com/s/Tsr-L4XCYMB4zixSGH4oiw) | NLP前沿 2024-04-24
           - [赛尔原创@COLING24 ｜无需标注即可增强模型 COT 能力](https://mp.weixin.qq.com/s/jdyKSzkJ7FyZYmwDVlGk8Q) | 赛尔实验室 2024-05-13
           - [思维链不存在了？纽约大学最新研究：推理步骤可「省略」](https://mp.weixin.qq.com/s/w_Ogu7DhtgdQXMRWrFhvxA) | 新智元 2024-05-14
+          - [让大模型复述问题，生成效果跨越思维链，效果飙升！](https://mp.weixin.qq.com/s/38Wr7RqcLDCr66O4Mfq0pQ) | NLP前沿 2024-05-20
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
@@ -1387,6 +1389,7 @@
             - [字节跳动成立新部门Flow，发力AI应用层 | 智涌独家](https://mp.weixin.qq.com/s/1Sk_el6oDyx0IJ95GRTU-A) | 智能涌现 2023-11-27
             - [字节大模型产品首出海，推出“ChitChop”](https://mp.weixin.qq.com/s/9f3nbP7_-22KSPXasouvjw) | Tech星球 2023-11-29
             - [刚刚，字节版GPTs「扣子」上线了](https://mp.weixin.qq.com/s/efNjbeK8Zul39nLzQuawCg) | 机器之心 2024-02-01
+            - [闷声狂奔一年，字节大模型的进阶之路](https://mp.weixin.qq.com/s/SQGtW36TkzeXUndDeOetbg) | 雷峰网 2024-05-20
           - [坚持做行业大模型，**竹间**智能给大模型造了一座「模型工厂」](https://mp.weixin.qq.com/s/QWbuCxatg2D-6eKKXonEcw) | 机器之心 2023-07-03
           - [**MiniMax**：「AGI」之路，我们不走「捷径」](https://mp.weixin.qq.com/s/HCwIRfYtSxzqgUl0DilnIQ) | 雷峰网 2023-07-04
             - [MiniMax不声不响出了款让人惊喜的生产力产品：「海螺AI」大测评](https://mp.weixin.qq.com/s/s6tZ5LJ27OCkV_YX7LJFzg) | 机器之心 2024-04-24
