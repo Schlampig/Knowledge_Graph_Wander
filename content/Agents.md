@@ -222,6 +222,7 @@
     - [IJCAI 2024 | 多智能体强化学习新范式：个性化训练与蒸馏执行](https://mp.weixin.qq.com/s/iBn4cZ9YGBiGRmWu07Um7A) | PaperWeekly 2024-05-17
     - [清华团队医者AI用MoE大模型打造健康管理AI-Agent](https://mp.weixin.qq.com/s/s8pStpXNBvIOxaEPlZRkow) | 非凡产研 2023-11-02
     - [Agentic Workflow：AI重塑了我的工作流](https://mp.weixin.qq.com/s/ncdudTaahYRDR42zI3rueQ) | Datawhale 2024-05-25
+    - [FinRobot：基于多源LLM的开源金融AI代理平台](https://mp.weixin.qq.com/s/5ls22qDm8eBoVJTZNO9K7A) | 奇点智源 2024-05-28
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
