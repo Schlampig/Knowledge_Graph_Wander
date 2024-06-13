@@ -276,6 +276,7 @@
     - [2024年02月19日：中国首部《脑机接口研究伦理指引》公布](https://mp.weixin.qq.com/s/gnF2b8F6SEJTEKuDnMqe9Q)
     - [2024年02月21日：马斯克的脑机接口，如何又一次引发科学家的不满](https://mp.weixin.qq.com/s/t8xg4AT3nbZqmpyZ5RUo0w)
     - [2024年02月24日：专访“脑机接口之父”：我为什么担心马斯克在误导公众](https://mp.weixin.qq.com/s/ToXverm2uO9Ioti95_HjjQ)
+    - [2024年05月21日：Neuralink第2例人体试验已获批，首位被试植入物中85%的电极丝已移位 | 环球科学要闻](https://mp.weixin.qq.com/s/u-o3TNEj8YUFouNIgW56KA)
   - [2023年06月12日：75岁Hinton中国大会最新演讲「通往智能的两种道路」，最后感慨：我已经老了，未来交给年轻人](https://mp.weixin.qq.com/s/DDUfYkIpcRc_2TTZ0eclGA)
   - [2023年06月15日：量子计算新里程碑登Nature封面！100+量子比特无需纠错，超越经典计算](https://mp.weixin.qq.com/s/IQFR1hmjonUFTeVZ4_lSZg)
     - [2023年06月19日：Nature封面：量子计算机离实际应用还有两年](https://mp.weixin.qq.com/s/MqWh7N42Fmo9JqjlFFvLxQ)
