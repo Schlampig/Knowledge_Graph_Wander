@@ -1135,6 +1135,7 @@
           - [中文RAG检索增强生成榜单出炉！仅有一家刚刚及格](https://mp.weixin.qq.com/s/EdoA5fcyzgTw3LarMMe00g) | CLUE中文语言理解测评基准 2024-04-15
           - [一篇新出的大模型检索增强生成（RAG）综述](https://mp.weixin.qq.com/s/_ggs6ZAIUB9DvE2dm2fpWg) | NLP前沿 2024-04-18
           - [近期关于RAG的三个技术问题：文本压缩省内存、引入时间增加时效性以及NLP任务处理相结合](https://mp.weixin.qq.com/s/RsH1S_L7fwevQt9-WH7xZQ) | 老刘说NLP 2024-04-25
+          - [RAG能否解决生成式AI的幻觉？RAG的真相与谎言](https://mp.weixin.qq.com/s/lmzLiPmQNGLkX0g3rWOmBg) | Z Potentials 2024-05-05
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1691,6 +1692,8 @@
           - [“梗王”大模型，靠讲笑话登上CVPR | 中山大学](https://mp.weixin.qq.com/s/k8iH1ZM8sUc_B8gK-MKYDw) | 量子位 2024-04-11
           - [Github揽获8.6K星！《多模态大语言模型综述》重大升级](https://mp.weixin.qq.com/s/9GImu7c7ZlakXSvvb3kjUQ) | PaperWeekly 2024-04-14
           - [也看Graph CoT–大模型与知识图谱结合工作：兼看多模态大模型进展综述](https://mp.weixin.qq.com/s/wnmd10c_KBoOPHtXemaalg) | 老刘说NLP 2024-04-15
+          - [《多模态大型语言模型的幻觉现象》综述](https://mp.weixin.qq.com/s/O89fDn8UtgPF-QKYeeF3-g) | 专知 2024-05-01
+          - [上海AI Lab开源首个可替代GPT-4V的多模态大模型](https://mp.weixin.qq.com/s/6Y_eFZgBGyIicdgs2zx0FA) | 夕小瑶科技说 2024-05-06
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
@@ -1923,6 +1926,7 @@
         - [俄罗斯小哥ChatGPT找女友：聊了5239个女生，现在订婚了](https://mp.weixin.qq.com/s/2FJJtHYBZVXco4OB4aumPw) | 机器之心 2024-02-06
         - [用大模型测试人格/抑郁/认知模式！通过游戏剧情发展测量心理特质｜清华出品](https://mp.weixin.qq.com/s/U24GF1UIHm0I-mj7UgdYsw) | 量子位 2024-03-13
         - [大模型的道德困境测试：文心跌落榜首，豆包胡言乱语](https://mp.weixin.qq.com/s/en7ZeA5XoYWTeUvxWAiJmg) | DATAMUSE 2024-04-19
+        - [中国科学技术大学｜GenderCARE：大型语言模型性别偏见的综合评估与纠偏框架（CCS 2024）](https://mp.weixin.qq.com/s/7j0YH_5rqJ6l_rF-eCD9tQ) | 隐者联盟 2024-05-06
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
@@ -2203,6 +2207,7 @@
     - [《大型语言模型中基于检索的文本生成》综述](https://mp.weixin.qq.com/s/slHksXsbqTDzY3XwGF4nrA) | 专知 2024-04-19
     - [图+大模型如何结合？港理工最新《大语言模型（LLMs）时代的图机器学习》综述](https://mp.weixin.qq.com/s/f_jr05zziSL0p_uUKb9eBg) | 专知 2024-04-25
     - [人大最新《从匹配到生成：生成式信息检索》综述](https://mp.weixin.qq.com/s/t6KC-DtcWRRljr7MYs_nyA) | 专知 2024-04-26
+    - [万字长文总结大模型知识编辑领域最新研究进展](https://mp.weixin.qq.com/s/exk6R9KC_CrrFjbiz5stLQ) | PaperWeekly 2024-05-04
   * 新闻盘点
     - [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
     - [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
