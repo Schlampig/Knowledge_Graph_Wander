@@ -576,6 +576,7 @@
         - [KAN一作刘子鸣直播总结：KAN的能力边界和待解决的问题](https://mp.weixin.qq.com/s/xiJjnZm7E_clMdAcP2iaJA) | 集智俱乐部 2024-05-13
         - [​Transformer是推断还是记忆？初始化大小很重要](https://mp.weixin.qq.com/s/hmAUN5GM8AQIxVHFUkip-A) | PaperWeekly 2024-05-17
         - [缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://mp.weixin.qq.com/s/yCczYU0po0PvPTa-eh2pfg) | PaperWeekly 2024-05-18
+        - [基于联想记忆的Transformer语言模型记忆容量与泛化性能研究](https://mp.weixin.qq.com/s/7rLgrRgb6vk9DfxBWIyxEA) | 奇点智源 2024-05-22
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -623,6 +624,7 @@
         - [MSRA联合清华在LoRA相关工作最新进展—混合LoRA专家 (MoLE)](https://mp.weixin.qq.com/s/vXYA64b47YpseuZpDn4-qQ) | 深度学习自然语言处理 2024-04-30
         - [LISA微调技术解析：比LoRA更低的显存更快的速度](https://mp.weixin.qq.com/s/XPRwtXZU9Ueg2LZtfAY4ZQ) | 魔搭ModelScope社区 2024-05-06
         - [Lora微调新探：学得少记得牢，超参设置全解析](https://mp.weixin.qq.com/s/mC71jFJAytsPn2jmVmL7rQ) | NLP前沿 2024-05-18
+        - [突破Lora局限！全新MoRA方法，高秩更新助LLM高效学习新知识](https://mp.weixin.qq.com/s/8ichNNlcEg3eeLu1T9103g) | NLP前沿 2024-05-23
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程。
         - [awesome-pruning](https://github.com/hrcheng1066/awesome-pruning): 深度神经网络剪枝相关论文资源列表。
@@ -1035,6 +1037,7 @@
           - [赛尔原创@COLING24 ｜无需标注即可增强模型 COT 能力](https://mp.weixin.qq.com/s/jdyKSzkJ7FyZYmwDVlGk8Q) | 赛尔实验室 2024-05-13
           - [思维链不存在了？纽约大学最新研究：推理步骤可「省略」](https://mp.weixin.qq.com/s/w_Ogu7DhtgdQXMRWrFhvxA) | 新智元 2024-05-14
           - [让大模型复述问题，生成效果跨越思维链，效果飙升！](https://mp.weixin.qq.com/s/38Wr7RqcLDCr66O4Mfq0pQ) | NLP前沿 2024-05-20
+          - [Cantor（领唱员）:厦门大学提出多模态 CoT 新架构](https://mp.weixin.qq.com/s/72lrbr1Z8C8gaOxFheeevQ) | AINLP 2024-05-20
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
@@ -1489,6 +1492,7 @@
           - [ChatGPT加剧恐慌？4成AIoT开发者认为AI会产生意识 | 中国AIoT开发者报告正式发布](https://mp.weixin.qq.com/s/v1hclaOdb0WpJodiMfmDLw) | AI科技大本营 2023-04-20
           - [国产大模型，也分「武当」和「少林」丨直击WAIC2023](https://mp.weixin.qq.com/s/iC0AaeSemrRWEeFck5eekw) | 智能涌现 2023-07-09
           - [红杉美国最新AI预判｜新的语言模型技术栈全解](https://mp.weixin.qq.com/s/UcfaeqBzr8KsbkfJ3Gb69g) | 深思圈 2023-06-16
+          - [李开复：中国落后美国大模型差距缩小为 6 个月，疯狂降价是双输](https://mp.weixin.qq.com/s/_kDDQO1y_ReNbj1VXTC6lQ) | AI科技大本营 2024-05-21
       - 学界：
         - [Yann LeCun：ChatGPT缺乏创新，没什么革命性；网友：早点离开Meta做出点突破吧](https://mp.weixin.qq.com/s/qCppJc23H_5-Hd3ZCGr05g) | 机器之心 2023-01-25
           - [被OpenAI CEO取关后，Yann LeCun再次抨击：ChatGPT对现实的把握非常肤浅](https://mp.weixin.qq.com/s/8Udthaf9gD96M1804_HnbQ) | 机器之心 2023-02-02
@@ -1730,6 +1734,7 @@
           - [也看Graph CoT–大模型与知识图谱结合工作：兼看多模态大模型进展综述](https://mp.weixin.qq.com/s/wnmd10c_KBoOPHtXemaalg) | 老刘说NLP 2024-04-15
           - [《多模态大型语言模型的幻觉现象》综述](https://mp.weixin.qq.com/s/O89fDn8UtgPF-QKYeeF3-g) | 专知 2024-05-01
           - [上海AI Lab开源首个可替代GPT-4V的多模态大模型](https://mp.weixin.qq.com/s/6Y_eFZgBGyIicdgs2zx0FA) | 夕小瑶科技说 2024-05-06
+          - [CODIS：评估多模态大模型结合上下文理解图像的能力](https://mp.weixin.qq.com/s/OwzaindgUQfSSyrTPWhYzg) | TsinghuaNLP 2024-05-22
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
@@ -1934,6 +1939,7 @@
           - [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP): A reading list for large models safety, security, and privacy.
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
           - [1次训练用电2.4亿度，AI 为什么那么耗电？](https://mp.weixin.qq.com/s/FOrIvzWYWRarzZ-48EpAsA) | 返朴 2024-04-12
+          - [ChatGPT 一天“吃”50万度电，AI的尽头是能源？](https://mp.weixin.qq.com/s/YsoYLmBOs3hQS9fdOt_fTw) | 三联生活周刊 2024-05-07
       - 逸闻
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
@@ -2180,6 +2186,8 @@
         - [OpenAI爆炸更新：GPT-4免费了！新模型GPT-4o发布，视觉、语音能力大幅增强，速度起飞，API打骨折](https://mp.weixin.qq.com/s/yuD-7RFdiIshZsRwz85gCA) | 夕小瑶科技说 2024-05-14
         - [openai gpt-4o发酵一晚上之后，梳理网友们挖掘出来的那些未公开的秘密](https://mp.weixin.qq.com/s/bF9NhP03h7UitYx835MW1w) | NLP前沿 2024-05-14
         - [GPT-4o炸裂玩法大赏！选股效率爆炸、创造新物种、暴打广告设计、金牌作业辅导...](https://mp.weixin.qq.com/s/YlYGXEFRIrVbs2yyT5lZZg) | 夕小瑶科技说 2024-05-16
+        - [OpenAI GPT-4o系统提示词遭破解！揭秘其中隐藏玄机，OpenAI新闻抢先看！](https://mp.weixin.qq.com/s/9JIzj2LDAU1BY9h5c8VgQA) | NLP前沿 2024-05-21
+        - [微软重新定义AI PC：与GPT-4o共享屏幕，看过的一切再也不会忘](https://mp.weixin.qq.com/s/ARwJsYA6vL2betWfl0HH7g) | 量子位 2024-05-21
  </br>
 
 ### LLM Blogs & Reviews
