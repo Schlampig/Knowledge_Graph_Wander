@@ -58,6 +58,7 @@
         - [大模型要占你多少内存？这个神器一键测量，误差低至0.5MB，免费可用](https://mp.weixin.qq.com/s/WCwH9G1gZ-MF4q7QhsfxDA) | 夕小瑶科技说 2023-08-31
         - [你的GPU能跑Llama 2等大模型吗？用这个开源项目上手测一测](https://mp.weixin.qq.com/s/gxoAL6gCkAGntd9_t8RiZQ) | 机器之心 2023-10-23
         - [Awesome Assistants](https://github.com/awesome-assistants/awesome-assistants): 优秀AI助手列表。
+        - [LLMBox：一个集成各种训练策略、数据处理策略、评估策略的大模型工具包](https://mp.weixin.qq.com/s/rOUHEnE6Hjs3P_fgXCNDfQ) | NLP前沿 2024-05-08
       - Survey & Turtorial:
         - [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/) | [OpenAI official website](https://openai.com/) :thumbsup:
         - [全网唯一，不忽悠的ChatGPT](https://mp.weixin.qq.com/s/m7OMjSDk-z07g7i5szoJBQ) | Datawhale 2022-12-15 :thumbsup:
@@ -407,6 +408,7 @@
         - [元任务Prompt：改变大语言模型的缩放率（Scaling law），性能超越Fine Tuning](https://mp.weixin.qq.com/s/WWWy3rG4G1imbNkdZKpk8w) | AI修猫Prompt 2024-04-24
         - [别再写脆弱的prompt讨好LLM啦！快用DSPy拯救你宝贵的prompt思维，偷偷甩掉99%的人](https://mp.weixin.qq.com/s/ghjhP--mi5dQMDMnX80qpA) | AI修猫Prompt 2024-04-29
         - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
+        - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -779,6 +781,7 @@
           - [Branch-Train-MiX: Meta开源一个融合多个领域专家模型成一个MOE模型的训练框架](https://mp.weixin.qq.com/s/HNinEKp0mI4uX1dBx8oKtQ) | NLP前沿 2024-03-13
           - [Prompt-prompted MOE：GRIFFIN技术，加速大模型推理](https://mp.weixin.qq.com/s/7B0M80C4AH4V_JEh1VhfoQ) | NLP前沿 2024-04-03
           - [又一开源大模型JetMoE，训练成本仅十万美元，尺寸更小但性能不减](https://mp.weixin.qq.com/s/SypaG-HrlpzkL2xZcd1Rqw) | 水木人工智能学堂 2024-04-05
+          - [陈丹琦团队提出最新MoE架构Lory](https://mp.weixin.qq.com/s/xXtuXrDi1ftukcG0aqv8YQ) | 深度学习自然语言处理 2024-05-07
         - 模型融合
           - [Mergoo](https://github.com/Leeroo-AI/mergoo): A library for easily merging multiple LLM experts, and efficiently train the merged LLM.
           - [模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://mp.weixin.qq.com/s/_V228WbPr3WKhBtIs7icZQ) | 机器之心 2024-01-06
@@ -880,6 +883,8 @@
         - [sft的时代过去了？融合监督微调和偏好对齐的新算法orpo来了](https://mp.weixin.qq.com/s/62f-UjuKrCzBxAw6f3AcdA) | NLP前沿 2024-04-20
         - [融合RL与LLM思想，探寻世界模型以迈向AGI](https://mp.weixin.qq.com/s/TDSprHTtiQwuQxaGhplLNQ) | 李rumor 2024-04-22
         - [175页pdf39位作者最新《大型语言模型的对齐与安全的基础挑战》综述](https://mp.weixin.qq.com/s/w-XKimWtjifT2_pDfAijFQ) | 专知 2024-04-22
+        - [大语言模型对齐的四种方法！](https://mp.weixin.qq.com/s/nGaL2a_mwKyMswnaefR7xA) | 深度学习自然语言处理 2024-05-07
+        - [DPO作者新作｜From r to Q*](https://mp.weixin.qq.com/s/6-jNCemyxloK3sZRFK7F2w) | 李rumor 2024-05-09
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -1137,6 +1142,7 @@
           - [一篇新出的大模型检索增强生成（RAG）综述](https://mp.weixin.qq.com/s/_ggs6ZAIUB9DvE2dm2fpWg) | NLP前沿 2024-04-18
           - [近期关于RAG的三个技术问题：文本压缩省内存、引入时间增加时效性以及NLP任务处理相结合](https://mp.weixin.qq.com/s/RsH1S_L7fwevQt9-WH7xZQ) | 老刘说NLP 2024-04-25
           - [RAG能否解决生成式AI的幻觉？RAG的真相与谎言](https://mp.weixin.qq.com/s/lmzLiPmQNGLkX0g3rWOmBg) | Z Potentials 2024-05-05
+          - [RAG开源项目Qanything源码阅读1-概述+服务](https://mp.weixin.qq.com/s/TD72BXBBa8ovr5NJd-OeGw) | 深度学习自然语言处理 2024-05-09
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1928,6 +1934,7 @@
         - [用大模型测试人格/抑郁/认知模式！通过游戏剧情发展测量心理特质｜清华出品](https://mp.weixin.qq.com/s/U24GF1UIHm0I-mj7UgdYsw) | 量子位 2024-03-13
         - [大模型的道德困境测试：文心跌落榜首，豆包胡言乱语](https://mp.weixin.qq.com/s/en7ZeA5XoYWTeUvxWAiJmg) | DATAMUSE 2024-04-19
         - [中国科学技术大学｜GenderCARE：大型语言模型性别偏见的综合评估与纠偏框架（CCS 2024）](https://mp.weixin.qq.com/s/7j0YH_5rqJ6l_rF-eCD9tQ) | 隐者联盟 2024-05-06
+        - [AI解梦靠谱吗？学界目前进展如何？| 追问观察](https://mp.weixin.qq.com/s/ABFDr-WA1Yn2dxr9H1rnjw) | 追问nextquestion 2024-05-07
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
@@ -2036,6 +2043,7 @@
         - [用 Notion 搭建高能效率系统，我们给你准备了一份 Notion 终极指南](https://mp.weixin.qq.com/s/EElCGTozMkAORhXcOCniHw) | 少数派 2023-06-27
         - [大模型惨遭人类大范围攻击！国内各领域专家组团投毒，GPT-4也Hold不住](https://mp.weixin.qq.com/s/l3zwXBBoQPaLCoynGGnevA) | 量子位 2023-07-15
         - [GPT-4调用插件40次都没成功，果断放弃，无效调用、拒绝回答时有发生](https://mp.weixin.qq.com/s/eUmn-TqVN0yUIskD3t4rYg) | 机器之心 2023-08-12
+        - [玩转ChatGPT的最新记忆（Memory）功能把自己打造成真超级个体](https://mp.weixin.qq.com/s/sIjDeceSEuGmJgBfhG-EJg) | AI修猫Prompt 2024-05-08
       - 分析
         - [GPT-4背后的开发者：七大团队，三十余位华人](https://mp.weixin.qq.com/s/PIDqDLYoGO7xQPnaB7G6yA) | 机器之心 2023-03-18
         - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg) | OneFlow 2023-03-20
