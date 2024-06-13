@@ -204,6 +204,7 @@
   * Speech Synthesis
     - [浙大开源快速扩散语音合成模型FastDiff和ProDiff](https://mp.weixin.qq.com/s/VLURxAGDozFWgbr0KWGbGA)
     - [一文全面了解火山语音无监督预训练技术的落地实践](https://mp.weixin.qq.com/s/1cWkMut6e3VnPbFczVW7DA)
+    - [OpenVioce：清华与麻省理工联手打造，零样本声音克隆新框架！](https://mp.weixin.qq.com/s/wsgC-CstHK6gw8e9sFhVHA)
   * Text-to-Speech
     - VITS:
       - code: https://github.com/jaywalnut310/vits
