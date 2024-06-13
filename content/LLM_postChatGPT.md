@@ -392,6 +392,12 @@
       - [DBRX 132B MOE模型开源、大模型多项目选择题评估的再质疑：兼看长文本压缩新方案LLMLingua-2](https://mp.weixin.qq.com/s/pwvEwcZmuzAQH76LCEnnfw) | 老刘说NLP 2024-03-28
       - [你也能用上马赛克（MosaicML）的DBRX开源大模型，和马斯克的Grok不一样](https://mp.weixin.qq.com/s/_Ycp0Gc1enEnB1eyK7WKeg) | AI修猫Prompt 2024-03-28
       - [开源大模型王座再易主，1320亿参数DBRX上线，基础、微调模型都有](https://mp.weixin.qq.com/s/3h0SDpLi3xI3WA-FxV0QGA) | 机器之心 2024-03-28
+
+  * DeepSeek-V2([DeepSeek](https://www.deepseek.com/)):
+    - code: https://github.com/deepseek-ai/DeepSeek-V2
+    - [paper](https://arxiv.org/abs/2405.04434): DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+    - blog:
+      - [deepseek-v2 开源，mla & moe 架构，超强中英文大模型，遥遥领先](https://mp.weixin.qq.com/s/2VjAeDMArPVIUKoRMbVW-A) | NLP前沿 2024-05-07
   
   * DeepSpeed Chat(微软):
     - code: https://github.com/microsoft/DeepSpeed
