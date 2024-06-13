@@ -1104,6 +1104,7 @@
         - [扩展词表是必须的吗？中文Mixtral实践与分析](https://mp.weixin.qq.com/s/BFn3mkdSk-BuFrD6nUFgxg) | 深度学习自然语言处理 2024-03-21
       - MiniCPM(清华):
         - [1元=1700000tokens！清华系发布国产Mistral仅2B，老手机都带得动，GitHub一天斩获300+星](https://mp.weixin.qq.com/s/tLjETnaLWrrvimUPDcS2yA) | 量子位 2024-02-02
+        - [国产「小钢炮」一夜干翻巨无霸GPT-4V、Gemini Pro！稳坐端侧多模态铁王座](https://mp.weixin.qq.com/s/_jgyeWifFjqh0LNBy2asLQ) | 新智元 2024-05-20
 
   * MM1(苹果):
     - [paper](https://arxiv.org/pdf/2403.09611.pdf): MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.
