@@ -314,6 +314,8 @@
   - [2024年02月08日：斯坦福最强家务机器人ALOHA 2来了，成本不到20万，联手谷歌DeepMind，完全开源](https://mp.weixin.qq.com/s/neH70mPjuFQEQ8VPgjmrAA)
     - [2024年02月23日：人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://mp.weixin.qq.com/s/G2IJoycHIJsNju-SjTJ7AQ)
     - [2024年03月03日：北大具身智能成果入选CVPR'24：只需一张图一个指令，就能让大模型玩转机械臂](https://mp.weixin.qq.com/s/YTvN6VDmP9aSxvI5M3YVCg)
+  - [2024年05月06日：大骂“深度学习是垃圾”的自由能到底是什么？有什么效果？](https://mp.weixin.qq.com/s/Jjw1BA1ociiCbAxKmjvU6A)
+  - [2024年05月13日：美国教授用2岁女儿训AI模型登Science！人类幼崽头戴相机训练全新AI](https://mp.weixin.qq.com/s/v6xvH1uPq8W5osws_yUzWg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
