@@ -316,6 +316,7 @@
     - [2024年03月03日：北大具身智能成果入选CVPR'24：只需一张图一个指令，就能让大模型玩转机械臂](https://mp.weixin.qq.com/s/YTvN6VDmP9aSxvI5M3YVCg)
   - [2024年05月06日：大骂“深度学习是垃圾”的自由能到底是什么？有什么效果？](https://mp.weixin.qq.com/s/Jjw1BA1ociiCbAxKmjvU6A)
   - [2024年05月13日：美国教授用2岁女儿训AI模型登Science！人类幼崽头戴相机训练全新AI](https://mp.weixin.qq.com/s/v6xvH1uPq8W5osws_yUzWg)
+  - [2024年05月16日：从对比看世界：婴儿与人工智能的共同语言 | 追问顶刊](https://mp.weixin.qq.com/s/xddik9_RC7lfZPKipfVZsQ)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
