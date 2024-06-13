@@ -431,6 +431,7 @@
           - [被低估的面壁：打造出不输 OpenAI 的 Scaling Law 曲线](https://mp.weixin.qq.com/s/RNWHVnh8PsSed5MMPy0Dig) | AI科技评论 2024-04-11
           - [复旦MOSS｜数据配比的scaling law](https://mp.weixin.qq.com/s/1QX7vKo7rvB8UDKBh3m9NA) | 李rumor 2024-04-16
           - [Yoshua Bengio独家专访：我不想把大模型未来押注在Scaling Law上，AGI路上要“注意安全”](https://mp.weixin.qq.com/s/dbfZJ6yITlUNzF0fGdrEvA) | 智源社区 2024-04-17
+          - [从80个模型中构建Scaling Law：华人博士生新作，思维链提出者力荐](https://mp.weixin.qq.com/s/D8yx5Ma38TXjV3Yepa1_Sg) | 机器之心 2024-05-24
         - Distillation
           - [大模型知识蒸馏概述](https://mp.weixin.qq.com/s/1wLQMUAJ-jjXKOZdNoZn6g) | 吃果冻不吐果冻皮 2023-10-11
           - [ShareGPT平替！利用苏格拉底提问模拟器更好地蒸馏ChatGPT对话能力](https://mp.weixin.qq.com/s/Tv8-QT-M7fZu7DmUCUjBqg) | PaperWeekly 2023-11-03
@@ -656,6 +657,7 @@
         - [QuaRot = 4位量化 + 大模型](https://mp.weixin.qq.com/s/fKaGpvCczY07lDsGGRHJrg) | 奇点智源 2024-04-06
         - [Quanto: PyTorch 量化工具包](https://mp.weixin.qq.com/s/wBanA-E7S5lgHiLgQiiG3w) | Hugging Face 2024-04-09
         - [量化那些事之FP8与LLM-FP4](https://mp.weixin.qq.com/s/H7tlV2X-D2oV9L6G5Sibmg) | 大模型生态圈 2024-05-16
+        - [hf transformers重磅更新：KV Cache量化技术！精度不减，显存大降2.5倍，单卡轻松驾驭100K大模型！](https://mp.weixin.qq.com/s/7vdMXqaZqqZxVkgjYwWwbw) | NLP前沿 2024-05-24
       - Parallel & Distribution
         - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
         - [一文详解解 DeepSpeed](https://mp.weixin.qq.com/s/NYHTsxZZ7-DN7rfYPjTogQ) | AINLP 2023-05-23
@@ -1399,6 +1401,7 @@
           - [坚持做行业大模型，**竹间**智能给大模型造了一座「模型工厂」](https://mp.weixin.qq.com/s/QWbuCxatg2D-6eKKXonEcw) | 机器之心 2023-07-03
           - [**MiniMax**：「AGI」之路，我们不走「捷径」](https://mp.weixin.qq.com/s/HCwIRfYtSxzqgUl0DilnIQ) | 雷峰网 2023-07-04
             - [MiniMax不声不响出了款让人惊喜的生产力产品：「海螺AI」大测评](https://mp.weixin.qq.com/s/s6tZ5LJ27OCkV_YX7LJFzg) | 机器之心 2024-04-24
+            - [MiniMax 闫俊杰：今天的 AI 应用都不会成为 Super App，但这不重要](https://mp.weixin.qq.com/s/G5JBvNNwcqA4ICglY5Py3Q) | Founder Park 2024-05-24
           - [陪伴10亿人的AI！**西湖心辰**再获汤姆猫战略投资，打造超高情商通用大模型](https://mp.weixin.qq.com/s/kFC4CB8jlH7L9UFrMDiWJQ) | 新智元 2023-07-10
           - [多场景落地！**商汤**打造“医疗大模型工厂”引领智慧医疗持续创新](https://mp.weixin.qq.com/s/zx2gLB-DxDo5qseEacpMlg) | 商汤科技SenseTime 2023-07-11
             - [悼念！商汤创始人汤晓鸥逝世，享年55岁](https://mp.weixin.qq.com/s/gr0xaFAj3VID16AlBf2SCg) | 量子位 2023-12-16
@@ -1432,6 +1435,7 @@
           - [万字梳理：阿里、腾讯等8家中国互联网大厂的50款大模型及应用，能否全面超越GPT-4？ | 钛媒体AGI](https://mp.weixin.qq.com/s/dHHilhvBMVynvyjtxUJ4PA) | 钛媒体AGI 2024-03-11
           - [京沪“中国大模型第一城”争夺战爆发](https://mp.weixin.qq.com/s/sgigJJeYtiMLoZGSRuRkJA) | 中国企业家杂志 2024-03-21
           - [斯坦福李飞飞首次创业：学术休假两年，瞄准「空间智能」](https://mp.weixin.qq.com/s/tffXMdimm7UxSBy1yZEHvw) | 机器之心 2024-05-04
+          - [独角兽也卷不动了：AI Agent初创**Adept**被爆考虑出售](https://mp.weixin.qq.com/s/8c38v1zgLp-zzwAI3SIObw) | 机器之能 2024-05-24
         - 商机 & 复现
           - [关于大模型的商业机会，以及下阶段的发展方向](https://mp.weixin.qq.com/s/exHARV0tG4gVbFR00JDmHA) | 李rumor 2023-01-16
             - [被ChatGPT带飞的AIGC，能为垂直产业做些什么？](https://mp.weixin.qq.com/s/ORZ8Oe33-WoHIn0iLvaXlg) | 机器之心 2023-02-16
@@ -1641,6 +1645,7 @@
           - [也看跨模态大模型遇见文档理解：mPLUG-DocOwl1.5及TextMonkey方案中的数据工程](https://mp.weixin.qq.com/s/1MSOZfbKcPW1BTT4f9XvQg) | 老刘说NLP 2024-04-01
           - [也看大模型遇上表格处理任务：代表综述、大模型工作、数据构造及评估工作](https://mp.weixin.qq.com/s/_AV5_aLlp56eISJQrzG7Tg) | 老刘说NLP 2024-04-09
           - [表格问答研究综述](https://mp.weixin.qq.com/s/Arzsg2WYQswyff03eCzjDw) | 专知 2024-05-17
+          - [NAACL 2024 | 基于LLM的问答系统：表格转文本方法为什么能成功？](https://mp.weixin.qq.com/s/ZYjFrEtlkiiK7GOv2o03QQ) | PaperWeekly 2024-05-24
         - [2023 年 8 个 ChatGPT 的替代品](https://mp.weixin.qq.com/s/LlFgJ3cMVmECpFnuXsqLvA) | 我不爱机器学习 2023-02-18
           - [还在为玩不了ChatGPT苦恼？这十几个开源平替也能体验智能对话](https://mp.weixin.qq.com/s/Du9TbPSiIrSe4m9JyCokCQ) | 机器之心 2023-03-19 
           - [全面接入：ChatGPT杀进15个商业应用，让AI替你打工](https://mp.weixin.qq.com/s/5WCjF9kHkVxdylMHoGKhWQ) | 36氪 2023-05-10
@@ -1941,6 +1946,7 @@
           - [Hinton、Bengio等联合中国专家达成AI安全共识：AI系统不应违反红线](https://mp.weixin.qq.com/s/qeiZ1zkFoK4XZInBRGHRHw) | 机器之心 2024-03-19
           - [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP): A reading list for large models safety, security, and privacy.
           - [OpenAI、微软、智谱AI等全球16家公司共同签署前沿人工智能安全承诺](https://mp.weixin.qq.com/s/CsMa-FSp2Kf19ci0_ZoAsw) | 机器之心 2024-05-23
+          - [全球首部AI立法！《人工智能法案》获欧盟最终批准](https://mp.weixin.qq.com/s/IUT0WKKkzMhfLMPbMxS9QQ) | 全球智博会 2024-05-24
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
           - [1次训练用电2.4亿度，AI 为什么那么耗电？](https://mp.weixin.qq.com/s/FOrIvzWYWRarzZ-48EpAsA) | 返朴 2024-04-12
           - [ChatGPT 一天“吃”50万度电，AI的尽头是能源？](https://mp.weixin.qq.com/s/YsoYLmBOs3hQS9fdOt_fTw) | 三联生活周刊 2024-05-07
@@ -2227,6 +2233,7 @@
     - [如何构建LLM？Hugging Face创始人Thomas Wolf《2024年构建大型语言模型的小指南》](https://mp.weixin.qq.com/s/_fmosUp4uVcOg_AdV6W1fg) | 专知 2024-03-13
     - [大型语言模型高效推理综述](https://mp.weixin.qq.com/s/rTZHOzTfAhtHg0Lfuk8jDw) | 专知 2024-04-24
     - [《大型语言模型持续学习》综述](https://mp.weixin.qq.com/s/oBPEwUB0y_qCBZyJ1B23Iw) | 专知 2024-04-27
+    - [大型语言模型遇上自然语言处理：综述](https://mp.weixin.qq.com/s/P1IoUbmBEAgAq9XPNRE35g) | 专知 2024-05-24
   * 大模型与对话综述
     - [2022年对话技术梳理：科研进展、产品创新](https://mp.weixin.qq.com/s/FFLxYB3n2B2g9aDNDeGnGA) | 李rumor 2022-11-08
     - [NLP对话系统及实战项目分享【含源码】](https://mp.weixin.qq.com/s/4qbYPUL7yrFd9UXzvOglCg) | 老刘说NLP 2023-07-14
