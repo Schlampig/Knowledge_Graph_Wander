@@ -919,6 +919,7 @@
       - [社区版Llama3中文微调模型重磅发布！Llama3-Chinese-8B-Instruct快来体验！](https://mp.weixin.qq.com/s/9XFecBZdabncEPeRBITWRA) | Llama中文社区 2024-04-24
       - [Llama3 中文通用Agent微调模型来啦！（附手把手微调实战教程）](https://mp.weixin.qq.com/s/IuagQ-S_spbQRyVsJuFIkQ) | 魔搭ModelScope社区 2024-04-24
       - [【中文Llama-3】Chinese-LLaMA-Alpaca-3开源大模型项目正式发布](https://mp.weixin.qq.com/s/t-9C6OOzh5t8gwrvsHTxcA) | HFL实验室 2024-04-30
+      - [【中文Llama-3】Instruct-v3版指令模型发布，主客观性能大幅提升](https://mp.weixin.qq.com/s/WdqZ85I-yr2o7xub2MhMPA) | HFL实验室 2024-05-30
   
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
