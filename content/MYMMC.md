@@ -236,6 +236,7 @@
     - [2024年03月16日：如何评估具身智能？斯坦福李飞飞等发布《BEHAVIOR-1K: 以人为中心、具身化AI基准测试，含1000种日常活动和真实模拟》](https://mp.weixin.qq.com/s/_QgZZyVgEpYp40lAIvPM_Q)
     - [2024年03月24日：大语言模型无法实现具身认知](https://mp.weixin.qq.com/s/O6G9YEn1eNjNTl5z7vmwng)
     - [2024年05月18日：ICRA 2024：「具身智能」热度飙升，「学习」成机器人行业共识](https://mp.weixin.qq.com/s/0QSeIB0B6nAwOhS-FfX3rw)
+    - [2024年05月22日：李飞飞演讲：只有计算机和机器人具备空间智能，人工智能的潜力才能得到充分发挥](https://mp.weixin.qq.com/s/TliMxXBAZqRLPlbyY7q0QA)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
@@ -320,6 +321,7 @@
   - [2024年05月13日：美国教授用2岁女儿训AI模型登Science！人类幼崽头戴相机训练全新AI](https://mp.weixin.qq.com/s/v6xvH1uPq8W5osws_yUzWg)
   - [2024年05月16日：从对比看世界：婴儿与人工智能的共同语言 | 追问顶刊](https://mp.weixin.qq.com/s/xddik9_RC7lfZPKipfVZsQ)
   - [2024年05月22日：基于扩散模型的脑电波音乐解码](https://mp.weixin.qq.com/s/CUkJ3rufF0QvXy6_HDxIzw)
+  - [2024年05月22日：Hinton万字访谈：用更大模型「预测下一个词」值得全力以赴](https://mp.weixin.qq.com/s/Vloj5W1_Vy7OMrpXcSaDPg)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
