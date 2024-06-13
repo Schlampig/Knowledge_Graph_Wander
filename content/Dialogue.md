@@ -1191,6 +1191,7 @@
         - [「GPT-4只是在压缩数据」，马毅团队造出白盒Transformer，可解释的大模型要来了吗？](https://mp.weixin.qq.com/s/ErrCWbz8zDqSYkC9DH79Mg) | 机器之心 2023-11-26
         - [《可解释人工智能中基于梯度的特征归因》技术综述](https://mp.weixin.qq.com/s/8tduXIyMETeUmKta0ZEp4Q) | 专知 2024-03-21
         - [透明内省的可解释AI框架](https://mp.weixin.qq.com/s/NnFS0D_E1m5ViyOWRIIZfg) | CreateAMind 2024-04-13
+        - [KernelSHAP-IQ：基于高阶交互的机器学习模型可解释性研究](https://mp.weixin.qq.com/s/eBbUDNxQvHi_AiBvtHBDnA) | 奇点智源 2024-05-24
     - news & viewpoints:
       - 优势与不足：
         - [大模型缺陷列表 by 符尧讨论组](https://github.com/LLaMafia/llamafia.github/blob/main/Log/20231217.md) 
@@ -1939,6 +1940,7 @@
           - [辛顿、姚期智等中外专家签署“北京共识”：禁止AI自行复制](https://mp.weixin.qq.com/s/6adv4IbGGEYTVnVIkHfjmg) | 腾讯科技 2024-03-18
           - [Hinton、Bengio等联合中国专家达成AI安全共识：AI系统不应违反红线](https://mp.weixin.qq.com/s/qeiZ1zkFoK4XZInBRGHRHw) | 机器之心 2024-03-19
           - [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP): A reading list for large models safety, security, and privacy.
+          - [OpenAI、微软、智谱AI等全球16家公司共同签署前沿人工智能安全承诺](https://mp.weixin.qq.com/s/CsMa-FSp2Kf19ci0_ZoAsw) | 机器之心 2024-05-23
         - [研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://mp.weixin.qq.com/s/V-24GFSSSuRoiS2mbA-sGg) | 量子位 2023-09-21
           - [1次训练用电2.4亿度，AI 为什么那么耗电？](https://mp.weixin.qq.com/s/FOrIvzWYWRarzZ-48EpAsA) | 返朴 2024-04-12
           - [ChatGPT 一天“吃”50万度电，AI的尽头是能源？](https://mp.weixin.qq.com/s/YsoYLmBOs3hQS9fdOt_fTw) | 三联生活周刊 2024-05-07
