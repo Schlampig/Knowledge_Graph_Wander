@@ -410,6 +410,7 @@
         - [别再写脆弱的prompt讨好LLM啦！快用DSPy拯救你宝贵的prompt思维，偷偷甩掉99%的人](https://mp.weixin.qq.com/s/ghjhP--mi5dQMDMnX80qpA) | AI修猫Prompt 2024-04-29
         - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
         - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
+        - [微软PPIG2023 | 从知识中来到实践中去：参与式Prompt发掘用户Workflow中的智能辅助机会](https://mp.weixin.qq.com/s/GnBXhgAPia5rNBm5jlwu7A) | AI修猫Prompt 2024-05-13
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -783,6 +784,7 @@
           - [Prompt-prompted MOE：GRIFFIN技术，加速大模型推理](https://mp.weixin.qq.com/s/7B0M80C4AH4V_JEh1VhfoQ) | NLP前沿 2024-04-03
           - [又一开源大模型JetMoE，训练成本仅十万美元，尺寸更小但性能不减](https://mp.weixin.qq.com/s/SypaG-HrlpzkL2xZcd1Rqw) | 水木人工智能学堂 2024-04-05
           - [陈丹琦团队提出最新MoE架构Lory](https://mp.weixin.qq.com/s/xXtuXrDi1ftukcG0aqv8YQ) | 深度学习自然语言处理 2024-05-07
+            - [Lory：面向自回归语言模型预训练的可微分MoE架构](https://mp.weixin.qq.com/s/XLEPy00WaelKV4Rcj2iSZA) | 奇点智源 2024-05-13
         - 模型融合
           - [Mergoo](https://github.com/Leeroo-AI/mergoo): A library for easily merging multiple LLM experts, and efficiently train the merged LLM.
           - [模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://mp.weixin.qq.com/s/_V228WbPr3WKhBtIs7icZQ) | 机器之心 2024-01-06
@@ -1014,6 +1016,7 @@
           - [ICLR2024重磅 | CoT又被超越，新型Prompt技术BoT，推理能力飙升24%，离破解AGI的秘密更近一步](https://mp.weixin.qq.com/s/X9ni2A_uqgsLtLgs38P3Xw) | AI修猫Prompt 2024-03-13
           - [google开源chain-of-table框架，解锁LLM表格理解新高度](https://mp.weixin.qq.com/s/ubWoFB4WAjGV9H2k-8ecWQ) | NLP前沿 2024-03-14
           - [提到大模型思维链，不要只会“Let's think step by step”了](https://mp.weixin.qq.com/s/Tsr-L4XCYMB4zixSGH4oiw) | NLP前沿 2024-04-24
+          - [赛尔原创@COLING24 ｜无需标注即可增强模型 COT 能力](https://mp.weixin.qq.com/s/jdyKSzkJ7FyZYmwDVlGk8Q) | 赛尔实验室 2024-05-13
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
@@ -1147,6 +1150,7 @@
           - [RAG开源项目Qanything源码阅读1-概述+服务](https://mp.weixin.qq.com/s/TD72BXBBa8ovr5NJd-OeGw) | 深度学习自然语言处理 2024-05-09
           - [RAG 综述集合](https://mp.weixin.qq.com/s/TrWNzKU6htNhb1RgqujnjQ) | ChallengeHub 2024-05-11
           - [RAG中文档表格解析的2个问题：如何自动化地生成表格标注数据及如何进行表示更合适？](https://mp.weixin.qq.com/s/xHIrQX5wrSc7HgNmO2N_Rw) | 老刘说NLP 2024-05-11
+          - [RAG中半结构化数据的解析和向量化方法](https://mp.weixin.qq.com/s/Q3FHBvF0upSUPtTMd1WwbA) | ChallengeHub 2024-05-12
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
