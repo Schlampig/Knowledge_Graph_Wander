@@ -325,6 +325,7 @@
   - [2024年05月24日：李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行](https://mp.weixin.qq.com/s/bzVWXFtk0YurG4NjFS3r0g)
   - [2024年05月25日：理论比较：主动推理、强化学习、控制论、贝叶斯大脑、效用决策、有限理性、情感动机、动态体内平衡](https://mp.weixin.qq.com/s/TG7g_v_2vfBAUEq9aCHZjA)
   - [2024年05月29日：集成16个人脑类器官，全球首台生物计算平台上线；人工智能再现大脑看见世界的机制；身体方位改变导致听觉定位错觉](https://mp.weixin.qq.com/s/QfolqG-BPJqeeeiuIAYP0A)
+  - [2024年05月30日：清华研究再登Nature！重磅发布世界首个类脑互补视觉芯片](https://mp.weixin.qq.com/s/xBH8Hle0-t5O561Q9UDZdw)
 
 ### Pre-trained Language Model Paradigm Updating
   - [ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A) | 李rumor(符尧) 2022-12-29
