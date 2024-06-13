@@ -1105,6 +1105,7 @@
       - MiniCPM(清华):
         - [1元=1700000tokens！清华系发布国产Mistral仅2B，老手机都带得动，GitHub一天斩获300+星](https://mp.weixin.qq.com/s/tLjETnaLWrrvimUPDcS2yA) | 量子位 2024-02-02
         - [国产「小钢炮」一夜干翻巨无霸GPT-4V、Gemini Pro！稳坐端侧多模态铁王座](https://mp.weixin.qq.com/s/_jgyeWifFjqh0LNBy2asLQ) | 新智元 2024-05-20
+        - [登顶Top2！MiniCPM-V 8B新版本：GPT-4V水准小钢炮，8G显存，4070轻松推理！](https://mp.weixin.qq.com/s/TQVHJlZDExD3nMPRsqa_5w) | PaperWeekly 2024-05-22
 
   * MM1(苹果):
     - [paper](https://arxiv.org/pdf/2403.09611.pdf): MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.
