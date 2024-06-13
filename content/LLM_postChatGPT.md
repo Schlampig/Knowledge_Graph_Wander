@@ -1653,6 +1653,7 @@
       - [李开复说话算数：零一万物大模型首次发布，AI 2.0 正在路上](https://mp.weixin.qq.com/s/XPHqfY22Gv3kOSqXDeC7tg) | AI科技评论 2023-11-06
       - [基于LLaMA却改张量名，李开复公司大模型引争议，官方回应来了](https://mp.weixin.qq.com/s/yY4AEujGvSj9HInpk0zVTQ) | 机器之心 2023-11-14
       - [零一万物 Yi-34B-Chat 微调模型及量化版正式上线](https://mp.weixin.qq.com/s/4nAQQ52Tyn9XJt8dMQrgGw) | Hugging Face 2023-11-27
+      - [零一万物开源Yi-1.5系列大模型](https://mp.weixin.qq.com/s/d-ogq4hcFbsuL348ExJxpA) | NLP工作站 2024-05-13
 
   * youChat(You.com): 
     - blog:
