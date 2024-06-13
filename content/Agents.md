@@ -214,6 +214,7 @@
     - [Agent落地范式本质上是工程及产品设计上的花活：兼看文档图表理解的几个关键问题](https://mp.weixin.qq.com/s/8k2Qo5vIJ2Gvm9QLFtZA4Q) | 老刘说NLP 2024-04-29
     - [GAMA-Bench](https://github.com/CUHK-ARISE/GAMABench): Benchmarking LLMs' Gaming Ability in Multi-Agent Environments.
     - [paper](https://arxiv.org/abs/2403.16971): AIOS: LLM Agent Operating System.
+    - [多智能体博弈学习研究进展](https://mp.weixin.qq.com/s/2L_dhd4Z7G86afKUVZFtWA) | 专知 2024-05-06
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
