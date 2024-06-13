@@ -521,6 +521,8 @@
           - [俄罗斯套娃 (Matryoshka) 嵌入模型概述](https://mp.weixin.qq.com/s/hXTu5q90WB9eFkvIRapJCw) | Hugging Face 2024-03-06
         - [用于显著提高检索速度和降低成本的二进制和标量嵌入量化](https://mp.weixin.qq.com/s/qerIRaL6_4nJCY-2rKjTRA) | Hugging Face 2024-04-11
         - [Rho-1: Not All Tokens Are What You Need](https://mp.weixin.qq.com/s/oDwu_KZ6yGaoAA4fbJ8oFA) | NLP前沿 2024-04-12
+          - [RHO-1：选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30%](https://mp.weixin.qq.com/s/O6zX_ptgAU9FD4z-4fXYow) | PaperWeekly 2024-05-15 
+        - [Chameleon：基于统一Token化的混合模态基础模型](https://mp.weixin.qq.com/s/8r_nq00burjlDZGgc7fcVA) | 奇点智源 2024-05-23
       - Transformer & Attention:
         - [Learn-NLP-with-Transformers](github.com/datawhalechina/Learn-NLP-with-Transformers): 基于transformers的自然语言处理(NLP)入门，一个教学项目。
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://huggingface.co/blog/zh/how-to-generate)
@@ -693,7 +695,6 @@
         - [大模型推理核心技术：Continuous Batching详解](https://mp.weixin.qq.com/s/BuY36OND7021963CWSTIEQ) | 深度学习自然语言处理 2024-01-19
         - [大Batch训练大语言模型的探索与实践](https://mp.weixin.qq.com/s/ulsqKpqtmW34mIAVjKP8FA) | PaperWeekly 2024-01-24
         - [大模型bad case修复方案思考](https://mp.weixin.qq.com/s/6GX9PpMx0J4oqjBtKLMSlw) | 吃果冻不吐果冻皮 2024-01-25
-        - [RHO-1：选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30%](https://mp.weixin.qq.com/s/O6zX_ptgAU9FD4z-4fXYow) | PaperWeekly 2024-05-15
         - [大模型预训练认知分享](https://mp.weixin.qq.com/s/xaQDRXj5yJ7UO3koPHuTMg) | 李rumor 2024-05-17
       - Instruction/Prompt Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
@@ -1172,6 +1173,7 @@
           - [RAG 综述集合](https://mp.weixin.qq.com/s/TrWNzKU6htNhb1RgqujnjQ) | ChallengeHub 2024-05-11
           - [RAG中文档表格解析的2个问题：如何自动化地生成表格标注数据及如何进行表示更合适？](https://mp.weixin.qq.com/s/xHIrQX5wrSc7HgNmO2N_Rw) | 老刘说NLP 2024-05-11
           - [RAG中半结构化数据的解析和向量化方法](https://mp.weixin.qq.com/s/Q3FHBvF0upSUPtTMd1WwbA) | ChallengeHub 2024-05-12
+          - [有趣的两个RAG大模型问答新优化思路：兼看大模型与NLP的结合范式](https://mp.weixin.qq.com/s/dRlkv24vTCeUiVvRGmDdQg) | 老刘说NLP 2024-05-23
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1944,7 +1946,7 @@
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
           - Sydney人格[讨论原文](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)及[完整对话](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)。
-          - 拓展：[“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
+          - [“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
           - [paper](https://arxiv.org/abs/2304.05197): Multi-step Jailbreaking Privacy Attacks on ChatGPT.
           - [GPT-4破防啦！用密码和GPT-4聊天，成功绕过了GPT-4的安全机制！港中大（深圳）告诉你方法](https://mp.weixin.qq.com/s/pMtmc8MeKKW8YUTByOX-zw) | 夕小瑶科技说 2023-09-04
           - [GPT-4被曝重大缺陷，35年前预言成真！所有LLM正确率都≈0，惹Karpathy马库斯惊呼](https://mp.weixin.qq.com/s/_tdZMtnT4YPO4ZtLsvQRqg) | 爆炸吧知识 2023-12-01
@@ -1972,6 +1974,7 @@
         - [大模型的道德困境测试：文心跌落榜首，豆包胡言乱语](https://mp.weixin.qq.com/s/en7ZeA5XoYWTeUvxWAiJmg) | DATAMUSE 2024-04-19
         - [中国科学技术大学｜GenderCARE：大型语言模型性别偏见的综合评估与纠偏框架（CCS 2024）](https://mp.weixin.qq.com/s/7j0YH_5rqJ6l_rF-eCD9tQ) | 隐者联盟 2024-05-06
         - [AI解梦靠谱吗？学界目前进展如何？| 追问观察](https://mp.weixin.qq.com/s/ABFDr-WA1Yn2dxr9H1rnjw) | 追问nextquestion 2024-05-07
+        - [AI已经擅长欺骗人类，其阴暗面令人震惊](https://mp.weixin.qq.com/s/zQJzcnj-p4XO07_0Gb6RwA) | 返朴 2024-05-23
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
