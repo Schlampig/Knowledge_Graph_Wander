@@ -533,4 +533,7 @@
    * Latte
      - blog:
        - [详解Latte：去年底上线的全球首个开源文生视频DiT](https://mp.weixin.qq.com/s/lt0iYD-1qeho2oPOfI5PBg) | 机器之心 2024-03-27
+   * Flag-DiT
+     - blog:
+       - [DiT架构大一统：一个框架集成图像、视频、音频和3D生成，可编辑、能试玩](https://mp.weixin.qq.com/s/NwwbaeRujh-02V6LRs5zMg) | 机器之心 2024-05-12
 </br>
