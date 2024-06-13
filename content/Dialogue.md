@@ -222,7 +222,7 @@
           - [关于弱智吧数据封神的若干疑问和猜想，以及数据验证实验](https://mp.weixin.qq.com/s/PnJVA66QLp4-gZTss46PqQ) | YeungNLP 2024-04-08
         - [ICLR 2024 | 通用的数据清洗框架：利用多模态大模型检测数据集中的恶意样本](https://mp.weixin.qq.com/s/SvvxaU3KRv3HMj_rJ7KPzg) | 将门创投 2024-04-08
         - [斯坦福发布法律指令数据集LawInstruct，统一17个辖区24种语言](https://mp.weixin.qq.com/s/lkv0YM9r-oWeQOpxSDDZjA) | 夕小瑶科技说 2024-04-17
-        - [ISWC 2023 | 孤独症谱系障碍知识库AsdKB](https://mp.weixin.qq.com/s/22B8SkxQCt8uCUaYSCOwLQ) | 东南COIN 2024-04-30
+        - [ISWC 2023 | 孤独症谱系障碍知识库AsdKB](https://mp.weixin.qq.com/s/22B8SkxQCt8uCUaYSCOwLQ) | 东南COIN 2024-04-30, [相关](https://mp.weixin.qq.com/s/Apf7jWBdveDPgT6uASBu5A)
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -608,6 +608,7 @@
         - [阿里推出Mixture-of-LoRAs，一个多任务高效微调框架](https://mp.weixin.qq.com/s/4vsSKAJF_a5sm2fUkbRKyw) | 深度学习自然语言处理 2024-03-14
         - [超越LoRA，北京大学提出预训练模型非梯度优化法](https://mp.weixin.qq.com/s/uVxl_QKDZe89ekMmSDMH_g) | 夕小瑶科技说 2024-03-15
         - [MSRA联合清华在LoRA相关工作最新进展—混合LoRA专家 (MoLE)](https://mp.weixin.qq.com/s/vXYA64b47YpseuZpDn4-qQ) | 深度学习自然语言处理 2024-04-30
+        - [LISA微调技术解析：比LoRA更低的显存更快的速度](https://mp.weixin.qq.com/s/XPRwtXZU9Ueg2LZtfAY4ZQ) | 魔搭ModelScope社区 2024-05-06
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程。
         - [awesome-pruning](https://github.com/hrcheng1066/awesome-pruning): 深度神经网络剪枝相关论文资源列表。
