@@ -645,6 +645,7 @@
         - [Meta&Cisco&MIT：在不损伤精度的前提下删除大模型40%的层](https://mp.weixin.qq.com/s/BnSUOFJl4hYhTKjDB9c67A) | NLP前沿 2024-04-02
         - [QuaRot = 4位量化 + 大模型](https://mp.weixin.qq.com/s/fKaGpvCczY07lDsGGRHJrg) | 奇点智源 2024-04-06
         - [Quanto: PyTorch 量化工具包](https://mp.weixin.qq.com/s/wBanA-E7S5lgHiLgQiiG3w) | Hugging Face 2024-04-09
+        - [量化那些事之FP8与LLM-FP4](https://mp.weixin.qq.com/s/H7tlV2X-D2oV9L6G5Sibmg) | 大模型生态圈 2024-05-16
       - Parallel & Distribution
         - [大语言模型（LLM）分布式训练框架总结](https://mp.weixin.qq.com/s/R8NlrW1de90F__RR5O-ueA) | PaperWeekly 2023-05-08
         - [一文详解解 DeepSpeed](https://mp.weixin.qq.com/s/NYHTsxZZ7-DN7rfYPjTogQ) | AINLP 2023-05-23
@@ -2166,6 +2167,7 @@
         - [OpenAI颠覆世界：GPT-4o完全免费，实时语音视频交互震撼全场，直接进入科幻时代](https://mp.weixin.qq.com/s/PfWnlhXh3n3VDfZaMI-ifQ) | 机器之心 2024-05-14
         - [OpenAI爆炸更新：GPT-4免费了！新模型GPT-4o发布，视觉、语音能力大幅增强，速度起飞，API打骨折](https://mp.weixin.qq.com/s/yuD-7RFdiIshZsRwz85gCA) | 夕小瑶科技说 2024-05-14
         - [openai gpt-4o发酵一晚上之后，梳理网友们挖掘出来的那些未公开的秘密](https://mp.weixin.qq.com/s/bF9NhP03h7UitYx835MW1w) | NLP前沿 2024-05-14
+        - [GPT-4o炸裂玩法大赏！选股效率爆炸、创造新物种、暴打广告设计、金牌作业辅导...](https://mp.weixin.qq.com/s/YlYGXEFRIrVbs2yyT5lZZg) | 夕小瑶科技说 2024-05-16
  </br>
 
 ### LLM Blogs & Reviews
