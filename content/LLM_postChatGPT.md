@@ -588,6 +588,7 @@
       - [Atom Capital: 揭秘Gemini 1.5和Sora背后的AI进化 - 视频生成自对弈及其他](https://mp.weixin.qq.com/s/sLHj8SMcqzjvotUv6sl5TQ) | Atom Capital 2024-02-20
       - [推出不到一个月，谷歌Gemini翻车了](https://mp.weixin.qq.com/s/2cijmTMo_yS2MsSISuNbbw) | 机器之能 2024-02-23
       - [从Gemini 1.5解读大模型上下文技术发展](https://mp.weixin.qq.com/s/i2e1hb-BwSRw-wcHiomUvg) | 吃果冻不吐果冻皮 2024-02-23
+      - [Gemini 1.5 PRO技术报告揭秘：颠覆性多模态大模型！10M超长上下文引领全球！](https://mp.weixin.qq.com/s/fJgCe631jVRbUQrH7SuXaQ) | NLP前沿 2024-05-19
     - extra:
       - [刷爆多模态任务榜单！贾佳亚团队Mini-Gemini登热榜，代码、模型、数据全部开源](https://mp.weixin.qq.com/s/j5CGuJ_-Sf0Pqi_-dDjABA) | 机器之心 2024-04-15
 
