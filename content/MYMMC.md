@@ -235,6 +235,7 @@
     - [2024年03月11日：具身智能的Scaling Law在哪里？](https://mp.weixin.qq.com/s/6bC2e3dWnAXdBl84V8douw)
     - [2024年03月16日：如何评估具身智能？斯坦福李飞飞等发布《BEHAVIOR-1K: 以人为中心、具身化AI基准测试，含1000种日常活动和真实模拟》](https://mp.weixin.qq.com/s/_QgZZyVgEpYp40lAIvPM_Q)
     - [2024年03月24日：大语言模型无法实现具身认知](https://mp.weixin.qq.com/s/O6G9YEn1eNjNTl5z7vmwng)
+    - [2024年05月18日：ICRA 2024：「具身智能」热度飙升，「学习」成机器人行业共识](https://mp.weixin.qq.com/s/0QSeIB0B6nAwOhS-FfX3rw)
   - [2022年07月08日：人工智能是不是走错了方向？](https://mp.weixin.qq.com/s/6kVjsiAGtfVHr6L2b3tmZA) :smile:
   - [2022年07月12日：DeepMind最新研究：让 AI 像婴儿一样思考](https://mp.weixin.qq.com/s/dBUrGlIWb3Xtf8z1F9nf9w)
   - [2022年07月18日：马毅沈向洋曹颖最新 AI 综述火了！耗时 3 月打造，网友：必读论文](https://mp.weixin.qq.com/s/xQZ8Lp_lklzcJjqPIuEmQg)
