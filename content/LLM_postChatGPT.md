@@ -227,6 +227,7 @@
       - [国产「GPTs」登场！清华系重磅发布GLM-4全家桶，性能可达90% GPT-4](https://mp.weixin.qq.com/s/fQO7Dj80DnuA8GK_e5Pxrw) | 新智元 2024-01-16
       - [智谱 技术发布日：GLM-4-9B 开源](https://mp.weixin.qq.com/s/Zi5yaacVq15-5wITD6ORuw) | NLP前沿 2024-06-05
       - [GLM4模型开源，意料之中的尺寸，意料之外的效果](https://mp.weixin.qq.com/s/LPsRps5OcYBKWRNizuwIsw) | NLP工作站 2024-06-05
+      - [GLM-4实测：写科幻微小说，可以呈现完整故事，但还差点悬念](https://mp.weixin.qq.com/s/7EidshpcPPF3IRtDueyFdA) | 机器之心SOTA模型 2024-06-06
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
