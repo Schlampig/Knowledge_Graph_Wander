@@ -91,6 +91,7 @@
         - [State of GPT: A Programmer's Perspective（万字长文梳理学习GPT的相关资料）](https://mp.weixin.qq.com/s/7GIzfcUTPiYLg9ljwnGs7Q) | AINLP 2023-10-10
         - [复旦大学自然语言处理实验室：如何构建和训练ChatGPT](https://mp.weixin.qq.com/s/-0T8tmINQxMs3Ifai_Deog) | PaperWeekly 2023-10-22
         - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh).
+        - [大模型白盒子构建指南](https://github.com/datawhalechina/tiny-universe): 一个从原理出发、以“白盒”为导向、围绕大模型全链路的“手搓”大模型指南，旨在帮助有传统深度学习基础的读者从底层原理出发，“纯手搓”搭建一个清晰、可用的大模型系统，包括大模型本身、RAG 框架、Agent 系统及大模型评估体系。
       - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
@@ -422,6 +423,7 @@
         - [元任务Prompt：改变大语言模型的缩放率（Scaling law），性能超越Fine Tuning](https://mp.weixin.qq.com/s/WWWy3rG4G1imbNkdZKpk8w) | AI修猫Prompt 2024-04-24
         - [别再写脆弱的prompt讨好LLM啦！快用DSPy拯救你宝贵的prompt思维，偷偷甩掉99%的人](https://mp.weixin.qq.com/s/ghjhP--mi5dQMDMnX80qpA) | AI修猫Prompt 2024-04-29
         - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
+        - [paper](https://arxiv.org/abs/2404.18424): PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval.
         - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
         - [微软PPIG2023 | 从知识中来到实践中去：参与式Prompt发掘用户Workflow中的智能辅助机会](https://mp.weixin.qq.com/s/GnBXhgAPia5rNBm5jlwu7A) | AI修猫Prompt 2024-05-13
         - [谷歌最新《Prompt指南101》“三三制”战法惊现云端，代号101](https://mp.weixin.qq.com/s/h7aGCQy1Twpmg-qVGHjT-A) | AI修猫Prompt 2024-05-15
@@ -1209,6 +1211,7 @@
           - [一篇新出的大模型检索增强生成（RAG）综述](https://mp.weixin.qq.com/s/_ggs6ZAIUB9DvE2dm2fpWg) | NLP前沿 2024-04-18
           - [近期关于RAG的三个技术问题：文本压缩省内存、引入时间增加时效性以及NLP任务处理相结合](https://mp.weixin.qq.com/s/RsH1S_L7fwevQt9-WH7xZQ) | 老刘说NLP 2024-04-25
           - [RAG能否解决生成式AI的幻觉？RAG的真相与谎言](https://mp.weixin.qq.com/s/lmzLiPmQNGLkX0g3rWOmBg) | Z Potentials 2024-05-05
+          - [paper](https://arxiv.org/abs/2404.19543): RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing.
           - [RAG开源项目Qanything源码阅读1-概述+服务](https://mp.weixin.qq.com/s/TD72BXBBa8ovr5NJd-OeGw) | 深度学习自然语言处理 2024-05-09
           - [RAG 综述集合](https://mp.weixin.qq.com/s/TrWNzKU6htNhb1RgqujnjQ) | ChallengeHub 2024-05-11
           - [RAG中文档表格解析的2个问题：如何自动化地生成表格标注数据及如何进行表示更合适？](https://mp.weixin.qq.com/s/xHIrQX5wrSc7HgNmO2N_Rw) | 老刘说NLP 2024-05-11
