@@ -582,6 +582,7 @@
   * tools:
     - [Grammarly](https://www.grammarly.com/)
     - [Paperpal](https://paperpal.com/)
+    - [Beyond LaTeX Templates](https://github.com/hantang/latex-templates)
 
 ### document-style-guide
   * link: https://github.com/ruanyf/document-style-guide
