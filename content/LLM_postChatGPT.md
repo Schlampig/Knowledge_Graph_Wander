@@ -916,7 +916,7 @@
       - [浅谈Llama3、大模型开源与闭源以及合成数据](https://mp.weixin.qq.com/s/oMZSL_vEAfsHQG1j7lGoGg) | NLP工作站 2024-04-19
       - [【独家】万字长文带你梳理Llama开源家族：从Llama-1到Llama-3](https://mp.weixin.qq.com/s/5_VnzP3JmOB0D5geV5HRFg) | Datawhale 2024-04-21
       - [从头预训练一只超迷你 LLaMA 3](https://mp.weixin.qq.com/s/i_qNHo86hxmiZ3Ls_Lm1mw) | AINLP 2024-05-24
-      - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch).
+      - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch): 阿尼亚带你从零实现LLaMA 3, [中文版](https://github.com/wdndev/llama3-from-scratch-zh)。
     - extra:
       - [一大堆Chinese Llama3正在袭来](https://mp.weixin.qq.com/s/x-w10mBU2a0PHNS5y0QO3Q) | NLP工作站 2024-04-21
       - [四个Llama3中文微调版本的衍生：继续看文档图表理解大模型中的图表-数据对构造方案](https://mp.weixin.qq.com/s/fSt5bMzRd7zF7wAhG_uqfg) | 老刘说NLP 2024-04-21
