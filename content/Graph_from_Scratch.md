@@ -60,3 +60,9 @@
   * link: https://github.com/rahulnyk/knowledge_graph
   * author: rahulnyk
   * note: Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA. 将任意文本转换为知识图谱，可用于图增强生成或基于知识图谱的问答。特色：将文本转换为图表示，可视化并进行查询。
+
+### prettygraph
+  * link: https://github.com/yoheinakajima/prettygraph
+  * author: Yohei Nakajima
+  * note: a Python-based web application developed to demonstrate a new UI pattern for text-to-knowledge graph generation. 文字到知识图谱，仅201行代码，用到了ChatGPT。
+ 
