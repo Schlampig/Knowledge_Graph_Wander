@@ -260,6 +260,11 @@
   * author: d2l-ai
   * keywords: 面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
+### THE LITTLE BOOK OF DEEP LEARNING
+  * link: https://fleuret.org/francois/lbdl.html
+  * author: François Fleuret
+  * keywords: François Fleuret教授个人主页上的深度学习小书，排版适合手机阅读。
+
 ### Machine Learning Crash Course
   * link: https://developers.google.cn/machine-learning/crash-course/
   * keywords: a self-study guide for aspiring machine learning practitioners by google
