@@ -1333,6 +1333,12 @@
       - [Qwen家族新成员：32B开源！魔搭社区推理训练最佳实践！](https://mp.weixin.qq.com/s/H5v5AXL1fqAZHVwGhpWcZw) | 魔搭ModelScope社区 2024-04-06
       - [Qwen家族新成员+1 : CodeQwen1.5](https://mp.weixin.qq.com/s/mgVRu4SWF6ssagpRzK3DzQ) | NLP前沿 2024-04-17
 
+  * Qwen2(阿里):
+    - code: https://github.com/QwenLM/Qwen
+    - homepage: https://qwenlm.github.io/blog/qwen2/
+    - blog:
+      - [Qwen2模型开源，你值得拥有！](https://mp.weixin.qq.com/s/YMf6EmmSfy-SnihM5wP0RA) | NLP工作站 2024-06-07
+      - [你好，Qwen2！](https://mp.weixin.qq.com/s/s5vChAY6B2s_ZVK-ALYP2w) | 魔搭ModelScope社区 2024-06-07
 </br>
 
 ### R
