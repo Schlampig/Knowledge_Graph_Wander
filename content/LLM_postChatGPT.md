@@ -228,6 +228,7 @@
       - [智谱 技术发布日：GLM-4-9B 开源](https://mp.weixin.qq.com/s/Zi5yaacVq15-5wITD6ORuw) | NLP前沿 2024-06-05
       - [GLM4模型开源，意料之中的尺寸，意料之外的效果](https://mp.weixin.qq.com/s/LPsRps5OcYBKWRNizuwIsw) | NLP工作站 2024-06-05
       - [GLM-4实测：写科幻微小说，可以呈现完整故事，但还差点悬念](https://mp.weixin.qq.com/s/7EidshpcPPF3IRtDueyFdA) | 机器之心SOTA模型 2024-06-06
+      - [Datawhale出品：《GLM-4 大模型部署微调教程》发布！](https://mp.weixin.qq.com/s/uvgsedPSnEOIP5y10dOPNg) | Datawhale 2024-06-06
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
