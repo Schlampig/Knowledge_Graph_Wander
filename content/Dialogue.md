@@ -1234,6 +1234,7 @@
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
           - [百万token上下文窗口也杀不死向量数据库？CPU笑了](https://mp.weixin.qq.com/s/VIeYOVB3_nu53KgUjIAb8A) | 量子位 2024-03-19
           - [cTBLS：使用对话表格增强大型语言模型](https://mp.weixin.qq.com/s/gDuGxjuYT3gTsAGFsHuzGA) | 开放知识图谱 2024-04-01
+          - [AI搜索选哪个？18家AI搜索产品横向测评](https://mp.weixin.qq.com/s/nvn0Lq4p78_g5B6O0qR5TQ?utm_source=wechat_session) | 橘子汽水铺 2024-06-03
           - [大语言模型何时需要检索？UCLA提出全新自监督选择性检索策略](https://mp.weixin.qq.com/s/1fGt0egAYYa36EMWSzRD6g) | PaperWeekly 2024-06-07 
       - Explanation:
         - [paper](https://arxiv.org/abs/2401.12874): From Understanding to Utilization: A Survey on Explainability for Large Language Models.
