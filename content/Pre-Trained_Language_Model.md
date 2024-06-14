@@ -64,6 +64,7 @@
     - [Long Range Arena: A Benchmark for Efficient Transformers (2020-11)](https://arxiv.org/pdf/2011.04006.pdf)
     - [Efficient Transformers: A Survey (2020-09)](https://arxiv.org/pdf/2009.06732.pdf)
   * introduction/tutorial:
+    - [2024年：TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers) with [code](https://github.com/pbloem/former).
     - [2023年：How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
     - [2022年：transformer-walkthrough](https://github.com/markriedl/transformer-walkthrough): a walkthrough of transformer architecture code.
     - [2022年：简单实现 BERT](https://mp.weixin.qq.com/s/tV7DwiFx7SAccgh2byqb2g)
