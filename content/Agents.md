@@ -229,6 +229,7 @@
     - [a16z 发布 AI 语音 Agent 图谱：重塑通话的时机到了](https://mp.weixin.qq.com/s/B-u0uJSjsTDIF7_9OCKTFA) | Founder Park 2024-05-30
     - [AI智能体(Agent)能力定义与分级：L0-L5，揭秘AI智能体的进化之路](https://mp.weixin.qq.com/s/ug2nTBdO5EivJSs1XW_uPA) | 知识工场 2024-06-01
     - [增强大语言模型 Agents 的工作记忆能力](https://mp.weixin.qq.com/s/fnQ7Pnb-TviVUoSJByFJbw) | 吃果冻不吐果冻皮 2024-06-03
+    - [多智能体经验迭代精炼框架——实现多智能体经验动态积累以增强任务解决能力](https://mp.weixin.qq.com/s/qcamUch2wkeazRDYgppPPQ) | TsinghuaNLP 2024-06-03
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
