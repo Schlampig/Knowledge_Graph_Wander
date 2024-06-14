@@ -1189,6 +1189,13 @@
     - blog:
       - [首个模拟人类认知的思维框架OlaGPT：六大模块增强语言模型，推理能力最高提升85%](https://mp.weixin.qq.com/s/pb8aIkda9IMAKeE36qgpEQ) | 新智元 2023-06-05 
 
+  * Ollama(Jeffrey Morgan):
+    - code: https://github.com/ollama/ollama
+    - homepage: https://ollama.com/
+    - blog:
+      - [43.7k star! 轻松在本地运行Llama2、Gemma等多种大模型，无需GPU！](https://mp.weixin.qq.com/s/CqtvMA5jjJivudcHyd2Mag) | AI技术实战 2024-03-04
+      - [ollama 使用技巧集锦](https://mp.weixin.qq.com/s/BWesTSINP8fSfqpHMwQ8HQ) | alitrack 2024-04-09
+
   * OpenChatKit(Together):
     - website: https://www.together.xyz/blog/openchatkit 
     - blog:
