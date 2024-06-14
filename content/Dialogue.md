@@ -362,6 +362,7 @@
         - [Prompts Royale](https://github.com/meistrari/prompts-royale): automatically create prompts and make them fight each other to know which is the best.
         - [ChatGPT_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): 获取 GPTs 的 Prompt、Knowledge 以及如何防护的教程，另外单独对破解官方 GPTs 的 Prompt 进行分类。
         - [Prompts of GPTs](https://github.com/linexjlin/GPTs).
+        - [Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/).
         - [ChatGPT背后“推理”如何做？浙大等最新《基于语言模型提示的推理》综述，阐述大模型提示推理机制与方法体系](https://mp.weixin.qq.com/s/4_EJh2AsJexNLrRo5MELSg) | 专知 2023-05-06
         - [OpenAI出品的ChatGPT调校指南你读了吗](https://mp.weixin.qq.com/s/zSSJ2u9Jt546McE2WVE9fA) | 朴素人工智能 2023-05-09
         - [微软官方亲自出教程，拿捏「Prompt工程」高级玩法](https://mp.weixin.qq.com/s/luovRT3AJJd93LhjpxeYRA) | 机器之心 2023-05-11
