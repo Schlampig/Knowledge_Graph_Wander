@@ -232,6 +232,7 @@
     - [多智能体经验迭代精炼框架——实现多智能体经验动态积累以增强任务解决能力](https://mp.weixin.qq.com/s/qcamUch2wkeazRDYgppPPQ) | TsinghuaNLP 2024-06-03
     - [金融场景中的多智能体应用探索](https://mp.weixin.qq.com/s/IUCFsaVxPK4X-NGbtlGDbg) | agentUniverse智多星 2024-06-06
     - [Atomic Agents：新开源轻量级、灵活透明，打造全新真实场景全自动Agent框架！](https://mp.weixin.qq.com/s/Qx0Np4Y0DyA2xUGv3ohjlw) | NLP前沿 2024-06-06
+    - [KG-Agent：面向KG复杂推理的高效自治代理框架](https://mp.weixin.qq.com/s/dvNluJGGR3S6UqzN1b6EBQ) | 将门创投 2024-06-14
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
