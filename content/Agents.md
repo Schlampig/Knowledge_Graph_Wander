@@ -233,6 +233,8 @@
     - [金融场景中的多智能体应用探索](https://mp.weixin.qq.com/s/IUCFsaVxPK4X-NGbtlGDbg) | agentUniverse智多星 2024-06-06
     - [Atomic Agents：新开源轻量级、灵活透明，打造全新真实场景全自动Agent框架！](https://mp.weixin.qq.com/s/Qx0Np4Y0DyA2xUGv3ohjlw) | NLP前沿 2024-06-06
     - [KG-Agent：面向KG复杂推理的高效自治代理框架](https://mp.weixin.qq.com/s/dvNluJGGR3S6UqzN1b6EBQ) | 将门创投 2024-06-14
+    - [Promptulate](https://github.com/Undertone0809/promptulate): AI Agent 应用开发框架，通过 Pythonic 的开发范式，旨在为开发者们提供一种极其简洁而高效的 Agent 应用构建体验。
+    - [AgentForge](https://github.com/DataBassGit/AgentForge): 可扩展AI框架，为AI驱动的自主Agent和认知架构的快速开发、测试和迭代提供低代码框架，支持多种大型语言模型(LLM)。
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
