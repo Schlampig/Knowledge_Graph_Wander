@@ -1401,6 +1401,9 @@
       - [Qwen2模型开源，你值得拥有！](https://mp.weixin.qq.com/s/YMf6EmmSfy-SnihM5wP0RA) | NLP工作站 2024-06-07
       - [你好，Qwen2！](https://mp.weixin.qq.com/s/s5vChAY6B2s_ZVK-ALYP2w) | 魔搭ModelScope社区 2024-06-07
       - [Qwen2-Math开源，包含1.5B/7B/72B三种参数规模的数学模型](https://mp.weixin.qq.com/s/uAzlvmIciNdtEHxMthjpng) | YeungNLP 2024年08月09日
+    - extra:
+      - Qwen2.5:
+        - [Qwen2.5 全链路模型体验、下载、推理、微调、部署实战！](https://mp.weixin.qq.com/s/Gn8kV04e_Y_BmXdxSMBiSQ) | 魔搭ModelScope社区 2024年09月19日
 </br>
 
 ### R
