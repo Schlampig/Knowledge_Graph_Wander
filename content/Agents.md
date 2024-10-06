@@ -242,6 +242,7 @@
     - [智能体的存储与记忆能力](https://mp.weixin.qq.com/s/swX8iSN7nMNErw1gwfqmCA) | Databri AI 2024年06月19日
     - [Meta AI开源新Agent框架 “哈士奇”，对复杂推理进行优化的新智能体，效果起飞](https://mp.weixin.qq.com/s/VYNQebfEu8K2pkqkbUtPvw) | NLP前沿 2024年06月21日
     - [阿里开源多Agent框架agentUniverse：10+组件、PEER与DOE协同、RAG注入领域知识！](https://mp.weixin.qq.com/s/C4jIw6NPKU6_XtcPg5vIRA) | PaperAgent 2024年06月23日
+    - [LangChain技术报告：如何构建可靠智能体Agent？](https://mp.weixin.qq.com/s/rW4q2wBAVmU9yOaIE4NbeA) | PaperAgent 2024年06月29日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
