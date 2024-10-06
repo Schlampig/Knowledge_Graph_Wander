@@ -1159,6 +1159,7 @@
         - [国产「小钢炮」一夜干翻巨无霸GPT-4V、Gemini Pro！稳坐端侧多模态铁王座](https://mp.weixin.qq.com/s/_jgyeWifFjqh0LNBy2asLQ) | 新智元 2024-05-20
         - [登顶Top2！MiniCPM-V 8B新版本：GPT-4V水准小钢炮，8G显存，4070轻松推理！](https://mp.weixin.qq.com/s/TQVHJlZDExD3nMPRsqa_5w) | PaperWeekly 2024-05-22
         - [斯坦福AI项目作者对抄袭中国大模型致歉！承诺撤下相关模型](https://mp.weixin.qq.com/s/pAS8tjHYNsKupCE2UiFsRQ) | 第一财经 2024-06-04
+        - [小模型杀疯了！仅4B参数性能超GPT-3.5！无限长文本性能超Kimi](https://mp.weixin.qq.com/s/qJM9OTDHS3pJB9ozFuRP1g) | PaperWeekly 2024年09月05日
       - Mistral Large 2:
         - [重磅！Mistral Large 2深夜发布！Llama3.1仅一天被超越，最强开源再易主](https://mp.weixin.qq.com/s/BmCxHPzAM0HJ7pcDMwDolQ) | 夕小瑶科技说 2024年07月25日
       - SmolLM:
