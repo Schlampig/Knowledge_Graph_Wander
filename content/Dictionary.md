@@ -40,6 +40,7 @@
   * [WeNet 2.0](https://github.com/wenet-e2e/wenet): [WeNet 热词增强 2.0 强势来袭](https://mp.weixin.qq.com/s/GDkLeYgACYiTUlAJH84erQ).
   * [术语在线](https://www.termonline.cn/): 各行各业术语搜索引擎。
   * [一键换词，智能改写](https://www.5118.com/).
+  * [《威威的GPT单词本 (8000词)》](https://github.com/Ceelog/DictionaryByGPT4): 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事.
   
 ### Profanity Words
   * [funNLP 敏感词词库](https://github.com/fighting41love/funNLP) by Yang fighting41love.
