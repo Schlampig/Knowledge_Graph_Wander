@@ -777,6 +777,7 @@
       - [24GB显卡轻松微调InternLM-20B，手把手带你打造专属大模型！](https://mp.weixin.qq.com/s/Sn0NWzY04ogNYDo4ig92LA) | InternLM 2023-10-25
       - [仅需一块3090显卡，高效部署InternLM-20B模型](https://mp.weixin.qq.com/s/pu6TOHo98FF1i45LO4v7TA) | InternLM 2023-11-08
       - [200亿「书生·浦语2.0」正式开源！数推性能比肩ChatGPT，200K超长上下文完美召回](https://mp.weixin.qq.com/s/-7WQoR72UggdiwP0q5UT4A) | 新智元 2024-01-17
+      - [面向多样应用需求，书生·浦语2.5开源超轻量、高性能多种参数版本](https://mp.weixin.qq.com/s/JoddkJd1Q2jtc_UkBx-9dw) | 书生Intern 2024年08月05日
     - extra:
       - [茴香豆：一个新开源基于大模型的领域知识助手（来自书生·浦语团队）](https://mp.weixin.qq.com/s/uDt1StjzwuqnnbsJK0WSiA) | NLP前沿 2024-01-18
       - [InternLM2技术报告](https://mp.weixin.qq.com/s/YLcTPhcd7yBRDznZgUYAcg) | 李rumor 2024-04-23
