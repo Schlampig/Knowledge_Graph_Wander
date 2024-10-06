@@ -481,6 +481,7 @@
         - [微软：当你的结构化Prompt遇到优化瓶颈，用语义分解、结构化方法可以快速优化](https://mp.weixin.qq.com/s/c80Tp8YCyCD_h0Tfi7mF4w) | AI修猫Prompt 2024年06月26日
         - [从最少到最多的提示可在大型语言模型中实现复杂的推理](https://mp.weixin.qq.com/s/HX0p0nTmtgOsgzNM8rT_SA) | 开放知识图谱 2024年07月03日
         - [ChatLogic：增强LLM多步推理能力的新框架](https://mp.weixin.qq.com/s/iDObma9ttCpdXgsNCga01w) | 奇点智源 2024年07月21日
+        - [微软最新，让Prompt进化自动化，用Auto EvolInstruct来拯救你的结构化提示词](https://mp.weixin.qq.com/s/sS3L0hRjLUxMCXucwZRdvQ) | AI修猫Prompt 2024年07月23日
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -1965,6 +1966,7 @@
           - [高能力全透明双语大语言模型MAP-Neo完全开源，开放所有细节！](https://mp.weixin.qq.com/s/hKdufVyzAhxFKFIScT9YQA) | 魔搭ModelScope社区 2024-05-30
           - [MAP-Neo：兼顾高性能和透明度的开源双语大语言模型](https://mp.weixin.qq.com/s/I5pv84KCw7TnXjuEN3bC_w) | 奇点智源 2024-06-03
           - [LLM的「母语」是什么？](https://mp.weixin.qq.com/s/sERP3yuiSMRvhwsjBG2adw) | 机器学习算法与自然语言处理 2024-06-10
+          - [B2NER | 充分释放大模型在实体识别上的潜力！一个数据集帮助LLM学习跨语言跨领域的统一实体分类体系](https://mp.weixin.qq.com/s/Efk2CgzailHEsCfpd5qfQg) | FudanNLP 2024年07月23日
       - 出圈 & 观点 & 故事：
         - [美版头条ChatGPT上岗写稿消息一出，股价暴涨119%，此前刚裁员12%](https://mp.weixin.qq.com/s/OPZ0s4uGhShy9T43LkBQzw) | 量子位 2023-01-27
           - [特德·姜：ChatGPT 是网络上的一个模糊的JPEG 文件](https://mp.weixin.qq.com/s/nVDpYi2ZAhRPcnEKKxqoZg) | 摩登语言学 2023-02-10
@@ -2057,6 +2059,7 @@
           - [智慧城市大模型来啦！港大联合百度推出UrbanGPT](https://mp.weixin.qq.com/s/J1d0r_jHBE0U9Ttusu9MjA) | PaperWeekly 2024-03-12
           - [最新发布的AlphaFold 3有多厉害？我们请使用者聊了聊](https://mp.weixin.qq.com/s/E8VaQ01jpXi6MLmIXAZedA) | 未来光锥 2024-05-14
           - [用AI给化石“算命”，发现长这样的动物最容易灭绝](https://mp.weixin.qq.com/s/xZmmDxVfIpIAzmKGzWpm1Q) | 科学大院 2024年07月15日
+          - [Nature重磅：AI击败最先进全球传统天气、气候模型，30秒生成22.8天大气模拟，准确预测40年全球变暖趋势](https://mp.weixin.qq.com/s/Lu5pk6-9dO8Pbi3Kd8B-FQ) | 学术头条 2024年07月23日
         - [ChatGPT竟有9岁小孩心智？斯坦福教授逆天发现，AI统治人类还远吗](https://mp.weixin.qq.com/s/cIs6BV0XOVtq_HeXoNmJzQ) | 新智元 2023-02-12
           - [当ChatGPT“一本正经地胡说八道”时，我们该思考什么](https://mp.weixin.qq.com/s/FL5cwHUm3Mwxnok6VJVOEA) |  三联生活周刊 2023-02-18
           - [ChatGPT能有意识吗：关于ChatGPT的误解与夸大](https://mp.weixin.qq.com/s/KnMqNx2cowu8v7C7x05rJA) | FT中文网 2023-02-21
