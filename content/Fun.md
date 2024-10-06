@@ -56,6 +56,7 @@
     - [free-font](https://github.com/wordshub/free-font): 2020年最全的免费可商用字体.
     - [Lucide](https://github.com/lucide-icons/lucide): beautiful & consistent icon toolkit made by the community, open-source project and a fork of feather icons.
     - [得意黑 Smiley Sans](https://github.com/atelier-anchor/smiley-sans): 一款在人文观感和几何特征中寻找平衡的中文黑体.
+    - [Logo Galleria](https://logogalleria.com/zh-CN/app): 在线logo生成工具，默认免费免登录.
   * Machine Learning & Neural Networks
     - [Neural Network Architecture Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams): diagrams for visualizing neural network architecture (created with [diagrams.net](https://app.diagrams.net/))
     - [Python Graphs](https://github.com/google-research/python-graphs)([paper](https://arxiv.org/pdf/2208.07461.pdf)): A LIBRARY FOR REPRESENTING PYTHON PROGRAMS AS GRAPHS FOR MACHINE LEARNING.
