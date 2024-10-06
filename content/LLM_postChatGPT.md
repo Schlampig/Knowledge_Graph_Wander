@@ -801,6 +801,7 @@
       - [月之暗面Kimi模型升级：200万字窗口版可申请，新增“继续”功能](https://mp.weixin.qq.com/s/xsBRTxJWyiI72TNrZJtJGw) | 量子位 2024-03-18
       - [“Kimi概念”降温，长文本“担不起”大模型的下一步](https://mp.weixin.qq.com/s/F3qgOeYtWawf0RVAqN7mGg) | 腾讯科技 2024-03-27
       - [月之暗面kimi底层推理系统方案揭秘](https://mp.weixin.qq.com/s/MgJ01ZcQ922BX0-UHGdRKg) | 吃果冻不吐果冻皮 2024年07月01日
+      - [牛了，复现kimi？一个集前后端一体的开源框架，内置Agent、RAG、联网……](https://mp.weixin.qq.com/s/54PISjzDMsYx5Z-wTGmNNA) | NLP前沿 2024年07月06日
 
   * KnowledGPT(复旦):
     - blog:
