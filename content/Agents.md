@@ -255,6 +255,7 @@
     - [可「自主进化」的Agent？首个端到端智能体符号化训练框架开源了](https://mp.weixin.qq.com/s/8juRBFEd-VmoGUUDKylSGg) | PaperWeekly 2024年07月22日
     - [ACL 2024 | 基于自我规划的自动化问答智能体学习](https://mp.weixin.qq.com/s/i7Z8DnZOFD6SEfgsf1Xfkw) | ZJUKG 2024年07月26日
     - [曾被吴恩达点赞，清华&面壁团队重磅开源AI Agent最新研究：把全世界智能体连接起来！](https://mp.weixin.qq.com/s/wPywXV34447heJR4jY6kPg) | PaperWeekly 2024年07月29日
+    - [基于后悔值差距的多智能体模仿学习](https://mp.weixin.qq.com/s/DD8t6DyOodzHkUtWrAQPUA) | 奇点智源 2024年08月01日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
