@@ -1355,6 +1355,7 @@
           - [ACL2024主会：无需训练的大模型推荐系统！](https://mp.weixin.qq.com/s/-P2kMETWeDi4CQ_LtKwzTg) | 夕小瑶科技说 2024年06月28日
           - [PlanRAG：基于迭代计划再RAG解决复杂数据分析任务，比迭代RAG提升15.8%](https://mp.weixin.qq.com/s/RUIJuuVjn7q7DW8YFJgzBg) | PaperAgent 2024年06月30日
           - [EventChat：面向中小企业的对话推荐系统](https://mp.weixin.qq.com/s/gPVpgnBUWCOv2ac0DWCX7g) | 奇点智源 2024年07月16日
+          - [DeepMind | 在生成的过程中进行检索：一种有潜力完全替代RAG的思路"RICHES"](https://mp.weixin.qq.com/s/IbYwnLpu-d4EK7tt7sbJ2w) | NLP PaperWeekly 2024年07月20日
       - Explanation:
         - [paper](https://arxiv.org/abs/2401.12874): From Understanding to Utilization: A Survey on Explainability for Large Language Models.
         - [ACL 2023 | 我把GPT 的学习轨迹可视化了！竟和人类十分类似](https://mp.weixin.qq.com/s/3kNqhdfZz6FEFvWey1lPIQ) | 夕小瑶科技说 2023-06-22
@@ -2523,6 +2524,7 @@
     - [边缘人工智能：分类法、系统综述及未来方向](https://mp.weixin.qq.com/s/diYWf5TW-yZINvzBA1_-9Q) | 专知 2024年07月09日
     - [具身大模型研究综述](https://mp.weixin.qq.com/s/I8OVIbzN1rZFDKKsT_ZSWQ) | 赛尔实验室 2024年07月10日
     - [大型视觉语言模型攻击综述：资源、进展与未来趋势](https://mp.weixin.qq.com/s/kXFXpa8b7VkgSJQLAFux_w) | 专知 2024年07月12日
+    - [「深度时间序列模型」综述](https://mp.weixin.qq.com/s/S_IOHUGJCwRrlC52ilmjIA) | 专知 2024年07月20日
   * 新闻盘点
     - [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
     - [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
