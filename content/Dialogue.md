@@ -237,6 +237,7 @@
         - [AUTOIF：基于代码验证的LLM指令微调数据生成方法](https://mp.weixin.qq.com/s/tGc4POY2OzHs4KizwCTfnw) | 奇点智源 2024年06月26日
         - [240万亿巨量数据被洗出，足够训出18个GPT-4！全球23所机构联手，清洗秘籍公开](https://mp.weixin.qq.com/s/DKajq2yLG34NHFHhIIWCxw) | 机器学习算法与自然语言处理 2024年06月27日
         - [腾讯AI Lab技术报告：一种以10亿人物角色驱动的新颖数据构造方法](https://mp.weixin.qq.com/s/1TbWDrkVy4JaNTJpTx9hog) | PaperAgent 2024年07月01日
+        - [大模型数据质量评估及优化工具整理：兼看用多模态模型处理表格理解的数据集及任务设计](https://mp.weixin.qq.com/s/CXGv6NNvZ8pImAN5G1ZFtg) | 老刘说NLP 2024年07月02日
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -367,6 +368,9 @@
         - [更难、更好、更快、更强：LLM Leaderboard v2 现已发布](https://mp.weixin.qq.com/s/SW62l1J92xzo108-jCe9pQ) | Hugging Face 2024年06月26日
         - [NOCHA：长文本理解模型评估新方法](https://mp.weixin.qq.com/s/K67dI6P85lw9Vho38lFEVA) | 奇点智源 2024年06月29日
         - [CharXiv：评估 MLLM 图表理解能力的新基准测试集](https://mp.weixin.qq.com/s/TJR4DzjdcSrvT42hOfFDtA) | 奇点智源 2024年06月30日
+        - [谷歌LOFT评测：告别RAG，长上下文的大语言模型无需检索增强](https://mp.weixin.qq.com/s/lOORnoyrA8lqOEXWKxhAQg) | 夕小瑶科技说 2024年07月02日
+        - [SORRY-Bench：大语言模型安全拒绝行为评测基准](https://mp.weixin.qq.com/s/I2lB65Q88D3I6rKKRm04Jg) | 奇点智源 2024年07月03日
+        - [RouteLLM：并非所有的任务都需要GPT-4](https://mp.weixin.qq.com/s/iEil5Me8PAJN3ZhwuxsFaw) | PaperAgent 2024年07月05日
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -462,6 +466,7 @@
         - [MIPRO：多阶段语言模型程序优化](https://mp.weixin.qq.com/s/JUjQBCariJnA7xPatnMdBA) | 奇点智源 2024年06月25日
         - [谷歌DeepMind重磅：提示工程师必须掌握OPRO，用LLM就能自动优化Prompt|ICLR2024](https://mp.weixin.qq.com/s/1kAzTxZ4MWWQrdwwoj--9A) | AI修猫Prompt 2024年06月25日
         - [微软：当你的结构化Prompt遇到优化瓶颈，用语义分解、结构化方法可以快速优化](https://mp.weixin.qq.com/s/c80Tp8YCyCD_h0Tfi7mF4w) | AI修猫Prompt 2024年06月26日
+        - [从最少到最多的提示可在大型语言模型中实现复杂的推理](https://mp.weixin.qq.com/s/HX0p0nTmtgOsgzNM8rT_SA) | 开放知识图谱 2024年07月03日
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -499,6 +504,7 @@
           - [视觉Transformer中ReLU替代softmax，DeepMind新招让成本速降](https://mp.weixin.qq.com/s/lSwPkkXdxd1hat3Y5z9_Tg) | 机器之心 2023-09-19
           - [什么是从模型中学习(LFM)? 武汉大学等《超越微调: 从模型中学习》综述，详述模型调整、模型蒸馏、模型重用、元学习和模型编辑](https://mp.weixin.qq.com/s/ufpFK06JG3DHlM4lWmyhCw) | 专知 2023-10-16
           - [加快大模型训练、减少显存消耗的很多技巧](https://mp.weixin.qq.com/s/Ypm2RX9zi14dzYDah3F9Dg) | NLP前沿 2023-12-22
+          - [如何加速大语言模型推理？万字长文综述大语言模型高效推理技术](https://mp.weixin.qq.com/s/YV6xuiI88FRT3Cop1gxbkA) | 深度学习自然语言处理 2024年07月03日
       - Extended Input Length (e.g. RoPE):
         - [paper](https://arxiv.org/abs/2401.07872): The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey.
         - [真·量子速读：突破GPT-4一次只能理解50页文本限制，新研究扩展到百万token](https://mp.weixin.qq.com/s/qbB278u5lthl1kkrtGwxag) | 机器之心 2023-04-25
@@ -855,6 +861,7 @@
         - [指令微调要不要mask提示词部分的损失？](https://mp.weixin.qq.com/s/AkmnQlqROmMneV59lIzXoA) | NLP前沿 2024年06月20日
         - [ENVISIONS：一种无需人类标注的LLM自训练框架](https://mp.weixin.qq.com/s/enxakexDqKy7bxLFur8WLw) | 深度学习自然语言处理 2024年06月26日
         - [无需人类标注！在环境交互中实现LLM的自我进化](https://mp.weixin.qq.com/s/ZNUL2ehyLi2cGWuTiZfDog) | AINLP 2024年06月26日
+        - [大模型训练十戒](https://mp.weixin.qq.com/s/EBA88fp3De5KK9-ztA_Ktg) | AINLP 2024年07月02日
       - Mixture of Experts (MoE) & 模型融合:
         - MoE
           - [makeMoE](https://github.com/AviSoori1x/makeMoE): from scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
@@ -1167,6 +1174,7 @@
           - [Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application): the resources about the application based on LLM with RAG pattern.
           - [RAG (Retrieved-Augmented Generation) for LLM: A Curated Collection](https://github.com/cavalierlulu/rag_survey): this repository is dedicated to curating high-quality papers, resources, and tools related to RAG in the context of Large Language Models (LLM).
           - [Rageval](https://github.com/gomate-community/rageval): Evaluation tools for Retrieval-augmented Generation (RAG) methods.
+          - [RAG评估方案汇总及RankRAG上下文排名、答案生成优化方案：兼看昨日大模型进展回顾](https://mp.weixin.qq.com/s/MJesLGXs_z4Ej7sGkvEpTw) | 老刘说NLP 2024年07月05日
           - [rag-search](https://github.com/thinkany-ai/rag-search): RAG Search API.
           - [大模型前沿热点最新综述：大模型微调遗忘、Agent智能体、幻觉及RAG检索增强模型推介](https://mp.weixin.qq.com/s/b7IL4yb7GGGC-zXUzfQJiw) | 老刘说NLP 2023-09-17
           - [也看引入自我反思的大模型RAG检索增强生成框架：SELF-RAG的数据构造及基本实现思路](https://mp.weixin.qq.com/s/VyrkSnYb4Uss8cfZp1yrvA) | 老刘说NLP 2023-10-20
@@ -1293,6 +1301,8 @@
           - [文本分块哪家强？LumberChunker、语义分块、段落级、循环分块、HyDE、命题级](https://mp.weixin.qq.com/s/7Dzn4oETJQyPHXfgsnofYA) | PaperAgent 2024年06月28日
           - [RAG、ROG、RCG傻傻分不清？概念辨识及RCG在SimplyRetrieve中的naive实现](https://mp.weixin.qq.com/s/KxaiKjrsMyy8kh7Sju2oJg) | 老刘说NLP 2024年06月28日
           - [赛尔笔记 | 大模型上下文长度扩展中的检索增强技术简述](https://mp.weixin.qq.com/s/S69fHfDIjfTL9maYS9HrXQ) | 赛尔实验室 2024年06月29日
+          - [重磅！微软开源GraphRAG项目](https://mp.weixin.qq.com/s/2Est5SU4gyP_fqeHGKAfrA) | PaperAgent 2024年07月03日
+            - [再看微软GraphRAG框架的目的及实现逻辑详解：面向实际场景做RAG优化](https://mp.weixin.qq.com/s/I_-rpMNVoQz-KvUlgQH-2w) | 老刘说NLP 2024年07月04日
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -1663,6 +1673,7 @@
           - [姚期智院士：人工智能最高层一直有“路线之争”](https://mp.weixin.qq.com/s/B1AS6E37W-SLOX_-gUlk_w) | 人工智能学家 2023-09-23
           - [Michael Jordan：大模型在两个方向仍需“努力”丨智源专访](https://mp.weixin.qq.com/s/tPfJmfNoJZpmG42mzBm9Pg) | 人工智能学家 2023-12-20
           - [梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩](https://mp.weixin.qq.com/s/eX5Mn-GJGdE2oYTtCqaOPw) | 人工智能学家 2024-03-31
+          - [陈华钧教授：大型知识模型—观点和挑战](https://mp.weixin.qq.com/s/pIrE1mRj5Y9sSXl27eJ29A) | 数据智能英文刊 2024年07月02日
         - [ICML征稿禁止使用大型语言模型，LeCun转发：中小型模型可以用吗？](https://mp.weixin.qq.com/s/nWc3mL4aRMM2thCc-Kgb7w) |  新智元 2023-01-04
           - [Nature给学术界立规矩：ChatGPT等大模型不可以成为作者](https://mp.weixin.qq.com/s/DzT-JpBKS1-1zUYaqJUV7A) | 机器之心 2023-01-26
           - [0.5美元润色一篇论文：ChatGPT们对科研意味着什么？](https://mp.weixin.qq.com/s/_OQEhd-95tWjwO4ErIKKHQ) | 科研圈 2023-02-21
@@ -1886,6 +1897,7 @@
           - [上海AI Lab开源首个可替代GPT-4V的多模态大模型](https://mp.weixin.qq.com/s/6Y_eFZgBGyIicdgs2zx0FA) | 夕小瑶科技说 2024-05-06
           - [CODIS：评估多模态大模型结合上下文理解图像的能力](https://mp.weixin.qq.com/s/OwzaindgUQfSSyrTPWhYzg) | TsinghuaNLP 2024-05-22
           - [13位作者，200篇文献，腾讯最新综述高效多模态大模型：性能要强，规模要小](https://mp.weixin.qq.com/s/oXdj09kRJ3pFwJ0Qpi72_g) | 夕小瑶科技说 2024-05-31
+          - [哈工大提出创新迭代推理框架 DPE-MNER ：充分发挥多模态表示潜力](https://mp.weixin.qq.com/s/SEu72A-J-gBSjEFCuwNDjw) | 赛尔实验室 2024年07月05日
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
@@ -2106,6 +2118,8 @@
         - [ChatGPT版必应被华人小哥攻破，一句话「催眠」问出所有Prompt](https://mp.weixin.qq.com/s/6bFOxxzO_pfl_PmUW_qqRw) | 量子位 2023-02-10
           - [ChatGPT版必应发飙！怒斥人类：放尊重些](https://mp.weixin.qq.com/s/fL-GHTj3h3IjzqMJMbCKyA) | 量子位 2023-02-14
           - Sydney人格[讨论原文](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html)及[完整对话](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)。
+            - [用大模型测试人格/抑郁/认知模式！通过游戏剧情发展测量心理特质｜清华出品](https://mp.weixin.qq.com/s/U24GF1UIHm0I-mj7UgdYsw) | 量子位 2024-03-13
+            - [大型语言模型中的人格综述](https://mp.weixin.qq.com/s/G046kA5aVcMSSUB6HT-FZg) | 专知 2024年07月01日
           - [“召唤”惊悚红脸女子，被禁止的AI绘图方式里竟然藏着这么可怕的东西](https://mp.weixin.qq.com/s/MSMqS0_sqzkI02B5kYkepA) | 环球科学 2023-02-06
           - [paper](https://arxiv.org/abs/2304.05197): Multi-step Jailbreaking Privacy Attacks on ChatGPT.
           - [GPT-4破防啦！用密码和GPT-4聊天，成功绕过了GPT-4的安全机制！港中大（深圳）告诉你方法](https://mp.weixin.qq.com/s/pMtmc8MeKKW8YUTByOX-zw) | 夕小瑶科技说 2023-09-04
@@ -2131,7 +2145,6 @@
         - [21岁SpaceX实习生用AI干出重大考古事件，斩获40000美元！](https://mp.weixin.qq.com/s/ZFhGoaKzCTlx_6cUax8cGw) | 量子位 2023-10-15
         - [ChatGPT成为Nature年度十大人物，首个非人类实体](https://mp.weixin.qq.com/s/cpTNb7v1GQhx4MUfX-gHvA) | 机器之心 2023-12-14
         - [俄罗斯小哥ChatGPT找女友：聊了5239个女生，现在订婚了](https://mp.weixin.qq.com/s/2FJJtHYBZVXco4OB4aumPw) | 机器之心 2024-02-06
-        - [用大模型测试人格/抑郁/认知模式！通过游戏剧情发展测量心理特质｜清华出品](https://mp.weixin.qq.com/s/U24GF1UIHm0I-mj7UgdYsw) | 量子位 2024-03-13
         - [大模型的道德困境测试：文心跌落榜首，豆包胡言乱语](https://mp.weixin.qq.com/s/en7ZeA5XoYWTeUvxWAiJmg) | DATAMUSE 2024-04-19
         - [中国科学技术大学｜GenderCARE：大型语言模型性别偏见的综合评估与纠偏框架（CCS 2024）](https://mp.weixin.qq.com/s/7j0YH_5rqJ6l_rF-eCD9tQ) | 隐者联盟 2024-05-06
         - [AI解梦靠谱吗？学界目前进展如何？| 追问观察](https://mp.weixin.qq.com/s/ABFDr-WA1Yn2dxr9H1rnjw) | 追问nextquestion 2024-05-07
@@ -2447,6 +2460,7 @@
     - [《面向具身智能的视觉-语言-动作模型》综述](https://mp.weixin.qq.com/s/5GpChZeS6BYcW_0Q435-aQ) | 专知 2024-05-25
     - [大语言模型的终身学习综述](https://mp.weixin.qq.com/s/S7eq26JeGMphQV3PUnZ40w) | 专知 2024年06月16日
     - [大规模语言模型的人类偏好学习综述](https://mp.weixin.qq.com/s/kgI0wg0zARTIF75n-EOJvg) | 专知 2024年06月20日
+    - [大语言模型增强知识表示学习综述](https://mp.weixin.qq.com/s/AmttGtvKGIxdUKCKoNAnBw) | 专知 2024年07月03日
   * 新闻盘点
     - [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
     - [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
