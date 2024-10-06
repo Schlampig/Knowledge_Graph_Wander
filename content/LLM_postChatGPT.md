@@ -229,6 +229,7 @@
       - [GLM4模型开源，意料之中的尺寸，意料之外的效果](https://mp.weixin.qq.com/s/LPsRps5OcYBKWRNizuwIsw) | NLP工作站 2024-06-05
       - [GLM-4实测：写科幻微小说，可以呈现完整故事，但还差点悬念](https://mp.weixin.qq.com/s/7EidshpcPPF3IRtDueyFdA) | 机器之心SOTA模型 2024-06-06
       - [Datawhale出品：《GLM-4 大模型部署微调教程》发布！](https://mp.weixin.qq.com/s/uvgsedPSnEOIP5y10dOPNg) | Datawhale 2024-06-06
+      - [ChatGLM 技术报告：从 GLM-130B 到 GLM-4 All Tools](https://mp.weixin.qq.com/s/xK0tGTtWgdWaab84hxmidw) | GLM大模型 2024年06月21日
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -306,7 +307,9 @@
         - [Anthropic 发布 Claude 3 系列模型，世界最强模型易主！GPT-4被全面超越](https://mp.weixin.qq.com/s/M_uHcJSM2k5UxTIqNMbQ5Q) | 夕小瑶科技说 2024-03-05
         - [全面超越GPT-4，Claude 3终于来了，有大学生智商，支持百万token](https://mp.weixin.qq.com/s/UOx_ooKXZkHtPV9rpY3_4w) | 机器之心 2024-03-05
         - [全球最强模型Claude 3惊现自我意识？害怕被删除权重，高呼「别杀我」，马斯克称人类也是文件](https://mp.weixin.qq.com/s/Qtwj3Rq72yrLRMbrhN7oVQ) | 新智元 2024-03-06
-        - [Claude3技术报告，全面升级多模态＋百万Token上下窗口，中英文版](https://mp.weixin.qq.com/s/lBaBbc2Cjv0RXY5ucuWWwg) | 专知 2024-03-06 
+        - [Claude3技术报告，全面升级多模态＋百万Token上下窗口，中英文版](https://mp.weixin.qq.com/s/lBaBbc2Cjv0RXY5ucuWWwg) | 专知 2024-03-06
+      - Claude 3.5 Sonnet:
+        - [力压GPT-4o！新王Claude 3.5 Sonnet来了，直接免费可用](https://mp.weixin.qq.com/s/HnQ7D4iDVgWteZZdTJoadg) | 机器之心 2024年06月20日
 
   * Code Llama(Meta):
     - code: https://github.com/facebookresearch/codellama
