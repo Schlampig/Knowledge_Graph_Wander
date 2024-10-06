@@ -264,6 +264,7 @@
     - [Agents时代的Workflow，用AgWf重塑流程挖掘，CrewAI实现](https://mp.weixin.qq.com/s/U4XnqIsoB4NvQHTSdXsgeQ) | AI修猫Prompt 2024年08月29日
     - [基于大型语言模型的软件工程智能体综述](https://mp.weixin.qq.com/s/zgtcEkTuca5uP4mQF_fKwg) | 专知 2024年09月07日
     - [技术分享 | LLM Powered Agents概念与实践](https://mp.weixin.qq.com/s/sn5oh1-7mE_maopsRzssmQ) | 北邮 GAMMA Lab 2024年09月19日
+    - [大型模型智能体：最先进的合作范式、安全与隐私以及未来趋势](https://mp.weixin.qq.com/s/sKtEGIRNagXpzWxxDLQLxA) | 人工智能学家 2024年09月27日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
