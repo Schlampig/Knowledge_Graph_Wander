@@ -310,6 +310,7 @@
         - [Claude3技术报告，全面升级多模态＋百万Token上下窗口，中英文版](https://mp.weixin.qq.com/s/lBaBbc2Cjv0RXY5ucuWWwg) | 专知 2024-03-06
       - Claude 3.5 Sonnet:
         - [力压GPT-4o！新王Claude 3.5 Sonnet来了，直接免费可用](https://mp.weixin.qq.com/s/HnQ7D4iDVgWteZZdTJoadg) | 机器之心 2024年06月20日
+        - [奥林匹克竞赛里选最聪明的AI：Claude-3.5-Sonnet vs. GPT-4o？](https://mp.weixin.qq.com/s/YdGPDE5Jgp3vnWCxrwMsgA) | 机器之心 2024年06月24日
 
   * Code Llama(Meta):
     - code: https://github.com/facebookresearch/codellama
