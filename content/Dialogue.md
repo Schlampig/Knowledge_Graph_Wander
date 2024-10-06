@@ -651,6 +651,7 @@
         - [CGE：基于Causal LLM的Code Embedding模型](https://mp.weixin.qq.com/s/8Jo2QZa2QvWxQmXGAOLiWw) | 深度学习自然语言处理 2024年09月21日
       - Transformer & Attention:
         - [Learn-NLP-with-Transformers](github.com/datawhalechina/Learn-NLP-with-Transformers): 基于transformers的自然语言处理(NLP)入门，一个教学项目。
+        - [Attention Heads of Large Language Models: A Survey](https://arxiv.org/abs/2409.03752): 基于人类思维过程框架，归纳了语言模型Attention Head的功能类型、协作机制和探索方法。 
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://huggingface.co/blog/zh/how-to-generate)
         - [chatgpt下query理解是否还有意义](https://mp.weixin.qq.com/s/INiJZ-jjLpGDs37O2SulMA) | CS的陋室 2023-02-19
         - [一步步了解 ChatGPT，先来看名字中的 T (Transformer)](https://mp.weixin.qq.com/s/aWQxsjBQGvWerOh1RK4HfQ) | 人工智能学家 2023-02-20
@@ -859,6 +860,7 @@
         - [大模型bad case修复方案思考](https://mp.weixin.qq.com/s/6GX9PpMx0J4oqjBtKLMSlw) | 吃果冻不吐果冻皮 2024-01-25
         - [大模型预训练认知分享](https://mp.weixin.qq.com/s/xaQDRXj5yJ7UO3koPHuTMg) | 李rumor 2024-05-17
       - Post-Training: Instruction/Prompt Tuning & 3M(Multi-Modal/Lingual/Task) & Code on Training:
+        - [A recipe for frontier model post-training](https://www.interconnects.ai/p/frontier-model-post-training).
         - [Delta Tuning：全方位分析大模型参数高效微调，清华研究登Nature子刊](https://mp.weixin.qq.com/s/bznilN7BJ9q28LQQZjMvlw) | 机器之心 2023-03-06
         - [也谈ChatGPT的低成本“平替”当下实现路线：语言模型+指令微调数据+微调加速架构下的代表项目和开放数据](https://mp.weixin.qq.com/s/_Ps5U1XeYaNgRr-BsIRThA) | 老刘说NLP 2023-04-01
         - [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/qheGhW_U593EBlhdyHOqAQ) | PaperWeekly 2023-03-15
@@ -1279,6 +1281,7 @@
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
           - [ChainFury](https://github.com/NimbleBoxAI/ChainFury): Build complex chat apps using LLMs in 4 clicks (简化了提示链的创建和管理，可以更轻松地使用LLM构建复杂的聊天应用，支持多种功能，包括记录所有提示和响应并将它们存储在数据库，收集指标以提供易于使用的评分机制，查询OpenAI的API以获取响应的评级，并使用回调组件来扩展ChainFury的功能).
           - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): Langchain-Chatchat（原Langchain-ChatGLM）基于Langchain与ChatGLM等语言模型的本地知识库问答.
+          - [从API到Agent：万字长文洞悉LangChain工程化设计](https://www.cnblogs.com/fanzhidongyzby/p/18075179/langchain).
           - [当大模型开始规划合作，一个模型打造软件开发团队，代码生成性能狂升](https://mp.weixin.qq.com/s/VxadbNVwKG4hOB2ZFAuJMg) | 机器之心 2023-05-11
           - [LangChain and LlamaIndex Projects Lab (e-book)](https://leanpub.com/langchain/read).
           - [也谈langchain大模型外挂知识库问答系统核心部件：如何更好地解析、分割复杂非结构化文本](https://mp.weixin.qq.com/s/rOWfCQuUPohatMF_dU2nIA) | 老刘说NLP 2023-06-28
