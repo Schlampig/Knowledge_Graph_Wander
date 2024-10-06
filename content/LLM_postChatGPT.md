@@ -942,6 +942,7 @@
       - [从头预训练一只超迷你 LLaMA 3](https://mp.weixin.qq.com/s/i_qNHo86hxmiZ3Ls_Lm1mw) | AINLP 2024-05-24
       - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch): 阿尼亚带你从零实现LLaMA 3, [中文版](https://github.com/wdndev/llama3-from-scratch-zh)。
       - [从零预训练LLAMA3的完整指南：一个文件，探索Scaling Law](https://mp.weixin.qq.com/s/aeh6kudCXqkCfd452vUnPw) | 深度学习自然语言处理 2024年07月19日
+      - [LLama3的100页Know How](https://mp.weixin.qq.com/s/Gcsq4smzLsjWgsb6Ulcd_A) | 李rumor 2024年07月25日
     - extra:
       - [一大堆Chinese Llama3正在袭来](https://mp.weixin.qq.com/s/x-w10mBU2a0PHNS5y0QO3Q) | NLP工作站 2024-04-21
       - [四个Llama3中文微调版本的衍生：继续看文档图表理解大模型中的图表-数据对构造方案](https://mp.weixin.qq.com/s/fSt5bMzRd7zF7wAhG_uqfg) | 老刘说NLP 2024-04-21
@@ -1147,6 +1148,8 @@
         - [国产「小钢炮」一夜干翻巨无霸GPT-4V、Gemini Pro！稳坐端侧多模态铁王座](https://mp.weixin.qq.com/s/_jgyeWifFjqh0LNBy2asLQ) | 新智元 2024-05-20
         - [登顶Top2！MiniCPM-V 8B新版本：GPT-4V水准小钢炮，8G显存，4070轻松推理！](https://mp.weixin.qq.com/s/TQVHJlZDExD3nMPRsqa_5w) | PaperWeekly 2024-05-22
         - [斯坦福AI项目作者对抄袭中国大模型致歉！承诺撤下相关模型](https://mp.weixin.qq.com/s/pAS8tjHYNsKupCE2UiFsRQ) | 第一财经 2024-06-04
+      - Mistral Large 2:
+        - [重磅！Mistral Large 2深夜发布！Llama3.1仅一天被超越，最强开源再易主](https://mp.weixin.qq.com/s/BmCxHPzAM0HJ7pcDMwDolQ) | 夕小瑶科技说 2024年07月25日
 
   * MM1(苹果):
     - [paper](https://arxiv.org/pdf/2403.09611.pdf): MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.
