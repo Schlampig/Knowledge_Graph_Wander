@@ -1,5 +1,7 @@
 ## **Dialogue Methods/ChatBot**
 
+> Collected information of various open-resources from 2022-11-08 to 2024-09-30, taking the first glimmpse of the sprouting of the neo generation of large language models.
+
 ### Large Models
   * ELIZA
     - blog:
