@@ -612,6 +612,7 @@
   * Gemma 2(谷歌):
     - blog:
       - [Google 深夜突袭，Gemma 2 狂卷 Llama 3](https://mp.weixin.qq.com/s/-z8QvrFNyYfkAvXQej0teQ) | AI科技大本营 2024年06月28日
+      - [Gemma2 模型解读](https://mp.weixin.qq.com/s/sNRVnh6TwWEtPBwPmVeNeg) | AINLP 2024年07月09日
   
   * Ghost in the Minecraft(GITM, 商汤&清华&上海人工智能研究院):
     - code: https://github.com/OpenGVLab/GITM
