@@ -234,6 +234,8 @@
         - [数据合成方法-让模型自己说出用了哪些指令对齐数据](https://mp.weixin.qq.com/s/eEomRiON3n1X_nN28W_klA) | NLP工作站 2024年06月14日
         - [ACL2024 | AI的时空穿越记：大型语言模型共时推理的奇幻之旅！](https://mp.weixin.qq.com/s/_RjIDj36ecaVgZ4TjDRrrQ) | 深度学习自然语言处理 2024年06月19日
         - [研发大模型的血液--万字长文详谈数据工程](https://mp.weixin.qq.com/s/ZI20vUp-IhlkSj4xb74RHA) | 吃果冻不吐果冻皮 2024年06月19日
+        - [AUTOIF：基于代码验证的LLM指令微调数据生成方法](https://mp.weixin.qq.com/s/tGc4POY2OzHs4KizwCTfnw) | 奇点智源 2024年06月26日
+        - [240万亿巨量数据被洗出，足够训出18个GPT-4！全球23所机构联手，清洗秘籍公开](https://mp.weixin.qq.com/s/DKajq2yLG34NHFHhIIWCxw) | 机器学习算法与自然语言处理 2024年06月27日
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -360,6 +362,8 @@
         - [ToT：评估大语言模型时间推理能力的新基准测试](https://mp.weixin.qq.com/s/OR7WjjnzxH1GPnk6jmHQgQ) | 奇点智源 2024年06月18日
         - [2024KDD挑战任务，GPT-4仅得40分，Meta发布最新RAG评价基准](https://mp.weixin.qq.com/s/GNLk6BzJXNxTsLoM0JL1AA) | 夕小瑶科技说 2024年06月20日
         - [CS-Bench：首个评估LLM计算机科学能力的基准测试集](https://mp.weixin.qq.com/s/jl3fK-pO_OKTZ5xnAGfZAA) | 奇点智源 2024年06月22日
+        - [NCB：代码新榜，GPT-4 通过率仅 53%](https://mp.weixin.qq.com/s/j8gddQnjZZcyfJxz8tx0IA) | GLM大模型 2024年06月26日
+        - [更难、更好、更快、更强：LLM Leaderboard v2 现已发布](https://mp.weixin.qq.com/s/SW62l1J92xzo108-jCe9pQ) | Hugging Face 2024年06月26日
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -437,6 +441,7 @@
           - [DSPy：别再执着于大模型提示词技巧了，一起迈向program llms新时代！](https://mp.weixin.qq.com/s/T6pqC7jnuPmk4jPqHTjaqA) | NLP前沿 2024-06-04
           - [意图识别，用DSPy理解用户的“弦外音”](https://mp.weixin.qq.com/s/wSuzTJEy6sRSDQwjTY3biQ) | AI修猫Prompt 2024-06-04
           - [DSPy程序优化Prompt的五个重要教训，NLP 的未来不是修改Prompt，而是构建更高抽象级别的模块](https://mp.weixin.qq.com/s/TF6YAUCga5fNbgIzAEvSRg) | AI修猫Prompt 2024年06月20日
+          - [DSPy并非手写Prompt万能替代品，掌握这6个有效策略，能增强DSPy应用程序](https://mp.weixin.qq.com/s/3dVbzAJH3Sf90bCPjdCseg) | AI修猫Prompt 2024年06月27日
         - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
         - [paper](https://arxiv.org/abs/2404.18424): PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval.
         - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
@@ -450,6 +455,10 @@
         - [Prompt工程师必会 | 你不懂伪代码提示？就真的不懂代码！](https://mp.weixin.qq.com/s/F638uA_GY1qYDFFxb-5ZaQ) |  AI修猫Prompt 2024-06-06
         - [如何全面了解提示技术？马里兰大学等最新76页《提示报告：提示技术》系统综述](https://mp.weixin.qq.com/s/AHIPLU4c-sxbq5R-PRYRIA) | 专知 2024-06-13
         - [防骗| 连这些引用量最高的核心Prompt都不知道，还敢打着专家大师旗号蒙人](https://mp.weixin.qq.com/s/b2tg6RtoKQhnbOIcif-LyQ) | AI修猫Prompt 2024年06月18日
+        - [利用大模型生成prompt指令 | APE方法](https://mp.weixin.qq.com/s/iSPK0b54Dxad7XAhKPcIsg) | 模型艺术家七时 2023年06月29日
+        - [MIPRO：多阶段语言模型程序优化](https://mp.weixin.qq.com/s/JUjQBCariJnA7xPatnMdBA) | 奇点智源 2024年06月25日
+        - [谷歌DeepMind重磅：提示工程师必须掌握OPRO，用LLM就能自动优化Prompt|ICLR2024](https://mp.weixin.qq.com/s/1kAzTxZ4MWWQrdwwoj--9A) | AI修猫Prompt 2024年06月25日
+        - [微软：当你的结构化Prompt遇到优化瓶颈，用语义分解、结构化方法可以快速优化](https://mp.weixin.qq.com/s/c80Tp8YCyCD_h0Tfi7mF4w) | AI修猫Prompt 2024年06月26日
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -538,6 +547,8 @@
         - [SirLLM：面向无限输入长度的LLM记忆增强机制](https://mp.weixin.qq.com/s/a-GLnKaHHP140Gica37Iog) | 奇点智源 2024-05-28
         - [用 KV 缓存量化解锁长文本生成](https://mp.weixin.qq.com/s/Iqr7UMVk9vW6tMuRK6AIOg) | Hugging Face 2024-06-11
         - [Transformer升级之路：RoPE的底数设计原则](https://mp.weixin.qq.com/s/YhpfIz0Pi1OMLwN3V3J1mQ) | PaperWeekly 2024年06月16日
+        - [如何让大模型的输出长度可控？Meta AI开源新方法](https://mp.weixin.qq.com/s/598CW8giFplDimPXD62qxQ) | NLP前沿 2024年06月26日
+        - [RoPE的远距离衰减](https://mp.weixin.qq.com/s/O3jIn6ft16D9XDrQ_yMIWQ) | AINLP 2024年06月26日
       - Tokenization & Embeddings:
         - [minbpe](https://github.com/karpathy/minbpe): minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
@@ -734,6 +745,7 @@
         - [万字干货！手把手教你如何训练超大规模集群下的大语言模型](https://mp.weixin.qq.com/s/bRLwj6vZB81S2ae8q-7nHA) | AI前线 2024-06-12
         - [「大力未必出奇迹」：AI算力集群背后的逻辑透露了哪些关键要素？](https://mp.weixin.qq.com/s/3084L8qOhyHkntDVh_uzjQ) | AI好好用 2024年06月16日
         - [千卡集群大模型训练思考与总结](https://mp.weixin.qq.com/s/j7TcasCd8ZgUcYhFIfqYZA) | 吃果冻不吐果冻皮 2024年06月23日
+        - [Seq1F1B：节省50%显存的长文本模型流水线并行训练技术](https://mp.weixin.qq.com/s/MJaWdar-rnYC8YnYyJsBnw) | TsinghuaNLP 2024年06月24日
       - Pre-Training:
         - [从头预训练大模型实践经验](https://mp.weixin.qq.com/s/_6--D3IWtJErWrEjd8hOpw) | 吃果冻不吐果冻皮 2023-08-27
         - [除了训练，大模型还有很多重要工作](https://mp.weixin.qq.com/s/ss2CmXA-hb-og6anPZbx7w) | CS的陋室 2023-08-27
@@ -837,6 +849,8 @@
         - [利用未标注文本改进遵循指令的语言模型 (5) Some Conclusions II](https://mp.weixin.qq.com/s/N4mUe7hrvXGFArl20kKRCA) | 看个通俗理解吧 2024-04-25
         - [ChatGPT 负责人：GPT-4 越来越聪明是因为 post-traning，大模型短期没有数据瓶颈](https://mp.weixin.qq.com/s/I_-RXtMAy5YXPRQ7XsBNRQ) | Founder Park 2024-05-31
         - [指令微调要不要mask提示词部分的损失？](https://mp.weixin.qq.com/s/AkmnQlqROmMneV59lIzXoA) | NLP前沿 2024年06月20日
+        - [ENVISIONS：一种无需人类标注的LLM自训练框架](https://mp.weixin.qq.com/s/enxakexDqKy7bxLFur8WLw) | 深度学习自然语言处理 2024年06月26日
+        - [无需人类标注！在环境交互中实现LLM的自我进化](https://mp.weixin.qq.com/s/ZNUL2ehyLi2cGWuTiZfDog) | AINLP 2024年06月26日
       - Mixture of Experts (MoE) & 模型融合:
         - MoE
           - [makeMoE](https://github.com/AviSoori1x/makeMoE): from scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
@@ -862,6 +876,8 @@
           - [GPT-4o核心技术？哈工大最新《Uni-MoE：使用专家混合模型扩展统一多模态大语言模型》](https://mp.weixin.qq.com/s/0rEb2Wa2uSu6eWJ_zTqDuA) | 专知 2024-05-27
           - [MoEUT：基于专家混合的通用Transformer高效建模方法](https://mp.weixin.qq.com/s/aqiJZVShUk2Qk_vAqtC1Kg) | 奇点智源 2024-06-02
           - [MEFT：基于稀疏MoE的高效大语言模型微调方法](https://mp.weixin.qq.com/s/qVuRAmYr4pCtriE5__Vrqg) | 奇点智源 2024-06-13
+          - [MoE专家大模型汇总](https://mp.weixin.qq.com/s/pWCQs1iAFwmcyleIalOnuw) | 吃果冻不吐果冻皮 2024年06月24日
+          - [大模型面试之MoE高频问题](https://mp.weixin.qq.com/s/QTX4E015f3d6_X_A3t3I3w) | AINLP 2024年06月26日
         - 模型融合
           - [Mergoo](https://github.com/Leeroo-AI/mergoo): A library for easily merging multiple LLM experts, and efficiently train the merged LLM.
           - [模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://mp.weixin.qq.com/s/_V228WbPr3WKhBtIs7icZQ) | 机器之心 2024-01-06
@@ -1112,6 +1128,7 @@
           - [Cantor（领唱员）:厦门大学提出多模态 CoT 新架构](https://mp.weixin.qq.com/s/72lrbr1Z8C8gaOxFheeevQ) | AINLP 2024-05-20
           - [ACL2024重磅 | CoT升级为SymbCoT：符号思维链开启可靠逻辑推理，用DSPy实现](https://mp.weixin.qq.com/s/-IX5YiFBSDO5HjLVp-LA9g) | AI修猫Prompt 2024-06-07
           - [最新BoT | Buffer of Thoughts，在缓冲区蒸馏Prompt模板，让内容更有价值](https://mp.weixin.qq.com/s/hicmBAkPhwJwq1Basek77A) | AI修猫Prompt 2024-06-11
+          - [揭开思维链、思维树和思维图的神秘面纱](https://mp.weixin.qq.com/s/IjhmdxsyTo92L81i28K5Rw) | 开放知识图谱 2024年06月24日
       - RAG & LangChain & LangFlow & other auto/self-plans:
         - LangChain
           - [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程。
@@ -1262,6 +1279,11 @@
           - [【RAG提升技巧】查询改写HyDE](https://mp.weixin.qq.com/s/kpg3KwD55J45o5vvgYUlYg) | ChallengeHub 2024-06-06
           - [MRAG：一种多头RAG，提升具有显著不同内容的多个文档复杂查询的检索准确性](https://mp.weixin.qq.com/s/TT1K9YIbpO4S9FR5FWAN9Q) | PaperAgent 2024-06-11
           - [RichRAG框架：为用户提供丰富全面且令人满意的回答](https://mp.weixin.qq.com/s/ZQnzUBKQ4goh_DBMXMs2xQ) | PaperAgent 2024年06月20日
+          - [DB-GPT X TuGraph 会带来怎样的新惊喜？蚂蚁首个开源 Graph RAG 框架设计全解读](https://mp.weixin.qq.com/s/vF94ZSBO8Z01qTZY9gs2Vg) | EosphorosAI 2024年06月24日
+          - [RAG与长文本结合之LongRAG框架：兼看KG与DocGraph的KG-RAG开源小demo实现思路](https://mp.weixin.qq.com/s/Lk0Io4XEzq73dFc2MRN1pg) | 老刘说NLP 2024年06月25日
+          - [RAG生成任务：Base LLM竟然比Instruct LLM高出20%](https://mp.weixin.qq.com/s/Fx-GLcH-RgKC-6kMzKDPzA) | PaperAgent 2024年06月26日
+          - [复旦+上海AI Lab提出统一主动检索RAG，减少延迟，提升响应](https://mp.weixin.qq.com/s/4i5lWgTkp1GpsCJzdq6PEg) | 深度学习自然语言处理 2024年06月26日
+          - [文本分块哪家强？LumberChunker、语义分块、段落级、循环分块、HyDE、命题级](https://mp.weixin.qq.com/s/7Dzn4oETJQyPHXfgsnofYA) | PaperAgent 2024年06月28日
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -2104,6 +2126,7 @@
         - [AI已经擅长欺骗人类，其阴暗面令人震惊](https://mp.weixin.qq.com/s/zQJzcnj-p4XO07_0Gb6RwA) | 返朴 2024-05-23
         - [ACL 2024 | 新一代艺术媒介：探索基于大语言模型的互动戏剧](https://mp.weixin.qq.com/s/QdkNklv7jnpcE0SkQTRWMA) | PaperWeekly 2024-06-03
         - [大语言模型会“读心”吗？](https://mp.weixin.qq.com/s/kyCyM0q5rMaq8gXGqiPgvQ) | 追问nextquestion 2024-06-05
+        - [中国杀出全球首个烹饪大模型](https://mp.weixin.qq.com/s/DfgNfAQZvHedHD-GgYCHXA) | 量子位 2024年06月25日
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
@@ -2309,6 +2332,7 @@
           - [马斯克怒告OpenAI案解密：Ilya看到了什么？125万亿参数Q*细节曝光，53页PDF全网疯转](https://mp.weixin.qq.com/s/YDXO8jX82PhKFoAgjV9Vsg) | 新智元 2024-03-04
           - [GPT-4升级被曝引入Q*，推理/数学更强废话更少，竞技场重夺王位](https://mp.weixin.qq.com/s/THsEr_Lhd_gFE0G-KiYFeA) | 量子位 2024-04-12
           - [这就是OpenAI神秘的Q*？斯坦福：语言模型就是Q函数](https://mp.weixin.qq.com/s/Mz_k5ensgiuXu-3cFQ1Dkw) | 机器之心 2024-04-23
+          - [Q*项目公开发布！研究团队并非OpenAI](https://mp.weixin.qq.com/s/DZz_1I-QbrJQLNoOvx7rWQ) | 量子位 2024年06月25日
         - [OpenAI发布AGI安全风险框架！董事会可随时叫停GPT-5等模型发布，奥特曼也得乖乖听话](https://mp.weixin.qq.com/s/wnFoRl9AjxE2TCQEI_bE3w) | 夕小瑶科技说 2023-12-19
         - [ChatGPT有记忆了！OpenAI官宣记忆功能开启测试，奥特曼称GPT-5更智能](https://mp.weixin.qq.com/s/SINusNr9K6g4R7bY8Qea7g) | 新智元 2024-02-14
         - [刚刚！奥特曼放出来了GPT-5的内容：能力提升幅度超乎想象](https://mp.weixin.qq.com/s/Ys4KmO7S3yNzXb5mGZ1qww) | 夕小瑶科技说 2024-03-19
@@ -2373,6 +2397,7 @@
     - [基于LLM的多轮对话系统的最新进展综述](https://mp.weixin.qq.com/s/7g6Eazb-hZoTLEW7ffN8Jw) | 专知 2024-03-08
     - [情感对话技术综述](https://mp.weixin.qq.com/s/C0S4pnS4MW3v9kox89YfKQ) | 专知 2024-04-04
     - [大模型与任务型对话的结合：Rasa CALM](https://mp.weixin.qq.com/s/qi1uOpZaucX3hZ8U21dHEQ) | AINLP 2024-05-27
+    - [基于大型语言模型的AI聊天机器人的完整综述](https://mp.weixin.qq.com/s/ROLWjjv6JTtyZwnj1I5Bzw) | 专知 2024年06月27日
   * 大模型与AIGC
     - [飞书：通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=999_reallog_mark_ad%3A999%7CWeiboADNatural&continueFlag=3df7d6408df36846f5cf6d0b674b5ee0).
     - [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
