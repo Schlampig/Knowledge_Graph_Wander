@@ -260,6 +260,7 @@
     - [开闭源模型「大乱斗」：看看哪个智能体最能窥见人类真实意图](https://mp.weixin.qq.com/s/p2xojI4G5gaL8qTtArPAnA) | 机器之心 2024年08月10日
     - [谷歌Re-Invoke多视图重排，让Agent多工具调用提升39%！](https://mp.weixin.qq.com/s/Xr9Qg2fraX3SENwS3P-SdQ) | PaperAgent 2024年08月12日
     - [不用CoT和微调！微软提出自博弈相互推理，小模型互相验证直接比肩大模型](https://mp.weixin.qq.com/s/KYYtrnWYNPr49O8PDxqSfg) | PaperWeekly 2024年08月20日
+    - [2024中国AI Agent市场研究报告-爱分析](https://mp.weixin.qq.com/s/clmm6h7rZnKGHK2nyC_tBQ) | 水木人工智能学堂 2024年08月22日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
