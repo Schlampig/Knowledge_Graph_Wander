@@ -1715,6 +1715,7 @@
     - blog:
       - [首个开源中文金融大模型来了！解释授信额度、计算收益率、决策参考样样通，来自度小满](https://mp.weixin.qq.com/s/cQ72KvOhYf6Cojzn2l35dQ) | 量子位 2023-05-26
       - [度小满“轩辕70B”金融大模型开源！登顶两大权威测评榜单，所有用户均可下载](https://mp.weixin.qq.com/s/J1vmRoxuNJlP2iob4wNAWg) | 量子位 2023-09-25
+      - [度小满开源「轩辕3.0」，金融业务能力表现亮眼](https://mp.weixin.qq.com/s/GePib9fFehKKoHTKE4oNEg) | 始智AI wisemodel 2024年09月18日 
 
   * XVERSE(元象科技):
     - blog:
