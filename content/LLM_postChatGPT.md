@@ -1404,6 +1404,7 @@
     - extra:
       - Qwen2.5:
         - [Qwen2.5 全链路模型体验、下载、推理、微调、部署实战！](https://mp.weixin.qq.com/s/Gn8kV04e_Y_BmXdxSMBiSQ) | 魔搭ModelScope社区 2024年09月19日
+        - [Qwen2.5全家桶发布，包含7种尺寸规模](https://mp.weixin.qq.com/s/0wSk7nCbxcKF1DV5YTa43A) | YeungNLP 2024年09月19日
 </br>
 
 ### R
