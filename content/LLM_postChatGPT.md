@@ -412,6 +412,7 @@
     - dataset: https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0
     - blog:
       - [卷出天际？用了240T数据！苹果完全开源新大模型DCLM](https://mp.weixin.qq.com/s/_jvydca9GIBO2t__3MHjNw) | NLP前沿 2024年07月21日
+      - [苹果开源7B大模型，训练过程数据集一口气全给了，网友：开放得不像苹果](https://mp.weixin.qq.com/s/JTCnjvkSqwAC2uRWEEK08g) | 量子位 2024年07月22日
 
   * DeepSeek-V2([DeepSeek](https://www.deepseek.com/)):
     - code: https://github.com/deepseek-ai/DeepSeek-V2
