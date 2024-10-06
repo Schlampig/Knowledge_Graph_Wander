@@ -1331,6 +1331,7 @@
     - blog:
       - [1.3>7？微软新模型“以小博大”战胜Llama2，网友：用Benchmark训练的吧？](https://mp.weixin.qq.com/s/4Da7J7QoHbPX7ipgD3UbxQ) | 量子位 2023-09-16
       - [微软ph3 mini技术报告发布，3.8b 小模型 Ko llama3 8b](https://mp.weixin.qq.com/s/0JS7DRmPIf9xpx5AOvC77Q) | NLP前沿 2024-04-23
+      - [谢谢微软，又又又Open了！一口气发布3款Phi-3.5新模型，领先Llama3.1和谷歌同级模型](https://mp.weixin.qq.com/s/pST2aZI1VPc_4ruMtzGxYg) | 夕小瑶科技说 2024年08月21日
 
   * PICA(东北大学):
     - code: https://github.com/NEU-DataMining/PICA
