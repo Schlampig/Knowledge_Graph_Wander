@@ -230,6 +230,7 @@
       - [GLM-4实测：写科幻微小说，可以呈现完整故事，但还差点悬念](https://mp.weixin.qq.com/s/7EidshpcPPF3IRtDueyFdA) | 机器之心SOTA模型 2024-06-06
       - [Datawhale出品：《GLM-4 大模型部署微调教程》发布！](https://mp.weixin.qq.com/s/uvgsedPSnEOIP5y10dOPNg) | Datawhale 2024-06-06
       - [ChatGLM 技术报告：从 GLM-130B 到 GLM-4 All Tools](https://mp.weixin.qq.com/s/xK0tGTtWgdWaab84hxmidw) | GLM大模型 2024年06月21日
+      - [GLM4报告的一些技术点](https://mp.weixin.qq.com/s/KwnrXaLwfHv3ZfYUClsOAw) | AINLP 2024年07月04日
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
