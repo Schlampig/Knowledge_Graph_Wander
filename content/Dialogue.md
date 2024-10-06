@@ -241,6 +241,7 @@
         - [厦门大学首发多模态阅读理解新任务： 图文深度融合数据集VEGA](https://mp.weixin.qq.com/s/y4N-e5KX1JRCHfrhmprg7g) | 我爱计算机视觉 2024年07月08日
         - [WizardLM新作！ArenaLearning: 通过模拟LLM竞技场来构建大规模数据飞轮](https://mp.weixin.qq.com/s/9k9k9hK9wGF8mcR9VuTsCA) | PaperWeekly 2024年07月14日
         - [INTERSPEECH2024 | WenetSpeech4TTS: 12800小时中文大规模语音生成模型训练数据集](https://mp.weixin.qq.com/s/xmZ3pnffut9CyE_IZNQ9nQ) | WeNet步行街 2024年07月15日
+        - [AI训AI惨遭投毒9次大崩溃，牛津剑桥等惊天发现登Nature封面！](https://mp.weixin.qq.com/s/1kUNJDqW6R5lSDH_2dM-sA) | 新智元 2024年07月25日
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -482,6 +483,7 @@
         - [从最少到最多的提示可在大型语言模型中实现复杂的推理](https://mp.weixin.qq.com/s/HX0p0nTmtgOsgzNM8rT_SA) | 开放知识图谱 2024年07月03日
         - [ChatLogic：增强LLM多步推理能力的新框架](https://mp.weixin.qq.com/s/iDObma9ttCpdXgsNCga01w) | 奇点智源 2024年07月21日
         - [微软最新，让Prompt进化自动化，用Auto EvolInstruct来拯救你的结构化提示词](https://mp.weixin.qq.com/s/sS3L0hRjLUxMCXucwZRdvQ) | AI修猫Prompt 2024年07月23日
+        - [谷歌Deepmind最新 | 规划究竟属于哪种推理？用变分规划Prompt提升策略分布](https://mp.weixin.qq.com/s/hsTg9_HZ13MVzGonifRikQ) | AI修猫Prompt 2024年07月25日
       - Scaling Law & Low Resource Method (e.g. Knowledge Distillation):
         - Scaling Law
           - [基于量子化假设推导模型的尺度定律（Scaling Law）](https://mp.weixin.qq.com/s/0nPhVXdZVcB7Ciw7cVT4wg) | PaperWeekly 2023-05-20
@@ -1029,6 +1031,8 @@
         - [超越DPO之Step-DPO](https://mp.weixin.qq.com/s/APuSmpJclDiq6Jv9-j501Q) | 李rumor 2024年07月09日
         - [ACL 2024 | Temperature-scaling surprisal提高模型与人类阅读的相似；但是否"原因正确"?](https://mp.weixin.qq.com/s/uLcQMpk9ml83Ue0bI2l0Uw) | AINLP 2024年07月14日
         - [ACL 2024 | KnowPAT: 大模型的知识偏好对齐与垂域应用](https://mp.weixin.qq.com/s/8LlgU3DdxtzhyLZYD4m4Zw) | ZJUKG 2024年07月19日
+        - [ICML 2024 | DPO是否比PPO更适合LLM？清华吴翼团队最新揭秘](https://mp.weixin.qq.com/s/EOgoi4QYFHlRCGY-EcfDPA) | PaperWeekly 2024年07月25日
+        - [大型语言模型对齐技术综述：RLHF、RLAIF、PPO、DPO 等](https://mp.weixin.qq.com/s/dYSOoMs38bX0WALcyNpy9Q) | 专知 2024年07月25日
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
