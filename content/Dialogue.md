@@ -380,6 +380,7 @@
         - [DISCOVERYBENCH：基于大语言模型的自动化科学发现基准测试平台](https://mp.weixin.qq.com/s/qYck71Z-XT0TvTy70EF3Bw) | 奇点智源 2024年07月14日
         - [ComplexBench：LLM 多约束复杂指令遵循新基准](https://mp.weixin.qq.com/s/0_jNbXHK2XY6LPsSuiG_4A) | GLM大模型 2024年07月15日
         - [HumanEval的新替代基准，GPT4准确率不足5%！](https://mp.weixin.qq.com/s/CxuprJObZjet3Uaa-Gwp8w) | NLP前沿 2024年07月17日
+        - [MMEVALPRO: 更加可靠、高效的多模态大模型评测基准](https://mp.weixin.qq.com/s/_IUvokRZ5pJjsenUWnr9iA) | AINLP 2024年07月19日
       - Prompt Engineering:
         - [ChatGPT指令生成器](http://www.atoolbox.net/Tool.php?Id=1100)
         - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): a collection of prompt examples to be used with the ChatGPT model.
@@ -568,6 +569,7 @@
         - [Transformer升级之路：RoPE的底数设计原则](https://mp.weixin.qq.com/s/YhpfIz0Pi1OMLwN3V3J1mQ) | PaperWeekly 2024年06月16日
         - [如何让大模型的输出长度可控？Meta AI开源新方法](https://mp.weixin.qq.com/s/598CW8giFplDimPXD62qxQ) | NLP前沿 2024年06月26日
         - [RoPE的远距离衰减](https://mp.weixin.qq.com/s/O3jIn6ft16D9XDrQ_yMIWQ) | AINLP 2024年06月26日
+        - [GLM Long：如何将 LLM 的上下文扩展至百万级](https://mp.weixin.qq.com/s/Rs2o8K3Hb-I103eDgNBhVQ) | GLM大模型 2024年07月18日
       - Tokenization & Embeddings:
         - [minbpe](https://github.com/karpathy/minbpe): minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
         - [开源大模型如何更好地适应中文场景：LLAMA扩充词表、BLOOM裁剪词表基本原理与开源实现](https://mp.weixin.qq.com/s/pikAI1jL13kNsG8o4wzdHg) | 老刘说NLP 2023-05-14 
@@ -713,6 +715,7 @@
         - [Lora微调新探：学得少记得牢，超参设置全解析](https://mp.weixin.qq.com/s/mC71jFJAytsPn2jmVmL7rQ) | NLP前沿 2024-05-18
         - [突破Lora局限！全新MoRA方法，高秩更新助LLM高效学习新知识](https://mp.weixin.qq.com/s/8ichNNlcEg3eeLu1T9103g) | NLP前沿 2024-05-23
         - [如何使用“LoRa”的方式加载ONNX模型：StableDiffusion相关模型 的C++推理](https://mp.weixin.qq.com/s/KMYVDSsGc3bqMnXR-Wjq8g) | AINLP 2024年06月23日
+        - [LoRA综述来了! 浙大《大语言模型的LoRA研究》综述](https://mp.weixin.qq.com/s/sb0j6wTHI7YtELzoQ9wCpw) | 专知 2024年07月18日
       - Pruning or Quantization (e.g., fp16, bf16, int8, int4)
         - [Awesome Compression](https://github.com/bupt-ai-club/awesome-compression): 模型压缩的小白入门教程。
         - [awesome-pruning](https://github.com/hrcheng1066/awesome-pruning): 深度神经网络剪枝相关论文资源列表。
@@ -1018,6 +1021,7 @@
         - [从RLHF到DPO再到TDPO，大模型对齐算法已经是「token-level」](https://mp.weixin.qq.com/s/JQDc9D5vbd1NBtaEx0cyAg) | 机器之心 2024年06月23日
         - [超越DPO之Step-DPO](https://mp.weixin.qq.com/s/APuSmpJclDiq6Jv9-j501Q) | 李rumor 2024年07月09日
         - [ACL 2024 | Temperature-scaling surprisal提高模型与人类阅读的相似；但是否"原因正确"?](https://mp.weixin.qq.com/s/uLcQMpk9ml83Ue0bI2l0Uw) | AINLP 2024年07月14日
+        - [ACL 2024 | KnowPAT: 大模型的知识偏好对齐与垂域应用](https://mp.weixin.qq.com/s/8LlgU3DdxtzhyLZYD4m4Zw) | ZJUKG 2024年07月19日
       - Decoding:
         - [如何让大模型生成解码阶段的结果更好：从Beam Search到top_k、top_p等参数的实现原理与脚本实现](https://mp.weixin.qq.com/s/IswrgDEn94vy5dCO51I1sw) | 老刘说NLP 2023-04-16  
         - [如何生成文本: 通过 Transformers 用不同的解码方法生成文本](https://mp.weixin.qq.com/s/Pv7FAGpf6jRbmsaupYqcwA) | Hugging Face 2023-04-24
@@ -1366,6 +1370,7 @@
         - [KernelSHAP-IQ：基于高阶交互的机器学习模型可解释性研究](https://mp.weixin.qq.com/s/eBbUDNxQvHi_AiBvtHBDnA) | 奇点智源 2024-05-24
         - [AI黑盒研究的突破性进展：Anthropic详解大模型的「思维」特征](https://mp.weixin.qq.com/s/ImRWeE4b99qC1qlZPnHH-Q) | Founder Park 2024-05-25
         - [OpenAI新研究破解GPT-4大脑，分解1600万个特征打开“黑匣子”，Ilya 、Jan Leike也参与了！](https://mp.weixin.qq.com/s/YEtg06uYfadm_-ABuWQc7A) | 夕小瑶科技说 2024-06-07
+        - [OpenAI凌晨发布新研究成果！证明者和验证者无限套娃，大模型黑盒变可解释又近一大步！](https://mp.weixin.qq.com/s/ZgyfF6Ax2n45M3JuhOKK6Q) | 夕小瑶科技说 2024年07月18日
     - news & viewpoints:
       - 优势与不足：
         - [大模型缺陷列表 by 符尧讨论组](https://github.com/LLaMafia/llamafia.github/blob/main/Log/20231217.md) 
@@ -1783,6 +1788,7 @@
           - [跨越300多年的接力：受陶哲轩启发，数学家决定用AI形式化费马大定理的证明](https://mp.weixin.qq.com/s/DUerfscoPnQlMjBWRS2pzw) | 机器之心 2024-05-02
           - [黎曼猜想显著突破！陶哲轩强推MIT、牛津新论文，37岁菲尔兹奖得主参与](https://mp.weixin.qq.com/s/SXuihqv7nDhnMexTMsL_gQ) | 机器之心 2024-06-05
           - [从高考到奥林匹克竞技场：大模型与人类智能的终极较量](https://mp.weixin.qq.com/s/M16i34Vejq9DruMvfYsOtA) | 机器之心 2024年06月20日
+          - [ACL 2024 | 对25个开闭源模型数学评测，GPT-3.5-Turbo才勉强及格](https://mp.weixin.qq.com/s/4CHOkfocG9bg-VfqPZoYEw) | 机器之心 2024年07月18日
         - [Yoshua Bengio领衔跨学科团队，Nature刊文综述人工智能时代的科学发现](https://mp.weixin.qq.com/s/_daNLMGhGp3KIsXilbvXHA) | 知识工场 2023-08-14
           - [Bengio等人88页新论文：构建有意识的AI没有明显障碍](https://mp.weixin.qq.com/s/3Hd3gLSPREWZkZTiCBjgww) | 机器之心 2023-08-22
           - [OceanGPT：面向海洋科学的大型语言模型初探](https://mp.weixin.qq.com/s/YHK5-qiOjSQzzFzICJbyig) | PaperWeekly 2023-10-25
@@ -1936,6 +1942,7 @@
           - [CODIS：评估多模态大模型结合上下文理解图像的能力](https://mp.weixin.qq.com/s/OwzaindgUQfSSyrTPWhYzg) | TsinghuaNLP 2024-05-22
           - [13位作者，200篇文献，腾讯最新综述高效多模态大模型：性能要强，规模要小](https://mp.weixin.qq.com/s/oXdj09kRJ3pFwJ0Qpi72_g) | 夕小瑶科技说 2024-05-31
           - [哈工大提出创新迭代推理框架 DPE-MNER ：充分发挥多模态表示潜力](https://mp.weixin.qq.com/s/SEu72A-J-gBSjEFCuwNDjw) | 赛尔实验室 2024年07月05日
+          - [VoCoT | 视觉CoT？多模态多步推理新玩法](https://mp.weixin.qq.com/s/cX9W2RoATlADbvRFF5RzJA) | 复旦DISC 2024年07月18日
         - [大语言模型的多语言理解能力探究](https://mp.weixin.qq.com/s/mTiJProor7IiDCsBZLpjUA) | 南大NLP 2023-08-14
           - [通过语言对齐将大语言模型英语能力外推到非英语语言](https://mp.weixin.qq.com/s/7cQ_hPo6q5kyUU8Pi2BwQQ) | 南大NLP 2023-10-12
           - [北京理工大学发布双语轻量级语言模型，明德大模型—MindLLM，看小模型如何比肩大模型](https://mp.weixin.qq.com/s/6g2m0E-NwBygDY3o3ArzJw) | 机器学习算法与自然语言处理 2023-10-29
@@ -2469,7 +2476,8 @@
     - [大模型与任务型对话的结合：Rasa CALM](https://mp.weixin.qq.com/s/qi1uOpZaucX3hZ8U21dHEQ) | AINLP 2024-05-27
     - [基于大型语言模型的AI聊天机器人的完整综述](https://mp.weixin.qq.com/s/ROLWjjv6JTtyZwnj1I5Bzw) | 专知 2024年06月27日
     - [构建LLM应用：大语言模型LLM（第六部分）](https://mp.weixin.qq.com/s/TqROP_HcfCw0VtwjcyMJ0Q) | AI公园 2024年07月15日
-    - [构建LLM应用：开源聊天机器人（第七部分）](https://mp.weixin.qq.com/s/hpYPR5N_AaokYRxEmQmWug) | AI公园 2024年07月16日
+      - [构建LLM应用：开源聊天机器人（第七部分）](https://mp.weixin.qq.com/s/hpYPR5N_AaokYRxEmQmWug) | AI公园 2024年07月16日
+      - [构建LLM应用：高级RAG（第十部分）](https://mp.weixin.qq.com/s/D1jXVZ47QZyp8UDXx15UEQ) | AI公园 2024年07月19日
   * 大模型与AIGC
     - [飞书：通往AGI之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?mark_id=999_reallog_mark_ad%3A999%7CWeiboADNatural&continueFlag=3df7d6408df36846f5cf6d0b674b5ee0).
     - [ChatGPT is not all you need，一文看尽SOTA生成式AI模型：6大公司9大类别21个模型全回顾](https://mp.weixin.qq.com/s/GWO5yA13DfsDaYbGHomtKw) | HsuDan 2023-02-15
