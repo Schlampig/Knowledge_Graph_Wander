@@ -254,6 +254,7 @@
         - [《Mixup数据增强及其扩展》综述](https://mp.weixin.qq.com/s/V8SGvKqBFr77TO5nCMBYvA) | 专知 2024年09月16日
         - [TalkFunny：大规模可解释中文幽默数据集](https://mp.weixin.qq.com/s/UwmKxnddF1rQHOufpZoCmw) | 知识工场 2024年09月17日
         - [斯坦福重磅，突破小规模语料瓶颈，EntiGraph合成数据增强算法让LLM更聪明](https://mp.weixin.qq.com/s/kZBdwvw-mT6AAhtdyhgRIg) | AI修猫Prompt 2024年09月20日
+        - [Awesome-Medical-Dataset](https://github.com/openmedlab/Awesome-Medical-Dataset): 医学数据集资源集合：为医学图像分析提供最新的医学数据集列表，包含全身、头部、颈部、胸部、腹部、心脏、骨骼、内窥镜、视网膜、皮肤、显微镜成像以及图像与文本、纯文本数据集。
       - Benchmark:
         - [GAOKAO-bench](https://github.com/OpenLMLab/GAOKAO-Bench) by [OpenLMLab](https://github.com/OpenLMLab): 以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架。
         - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): 全面、客观的开放大语言模型排行榜，可以看到开放大模型日新月异的发展，同时反思数据污染可能造成的负面影响.
@@ -722,6 +723,7 @@
         - [简单图解一下线性注意力机制](https://mp.weixin.qq.com/s/7P-kwV9yaOsbsC2OZaJL1w) | 深度学习自然语言处理 2024年09月16日
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
+        - [动手实现 LoRA - LoRA from scratch](https://zhuanlan.zhihu.com/p/702419731)
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
         - [LLM+LoRa微调加速技术原理及基于PEFT的动手实践：一些思考和mt0-large+lora完整案例](https://mp.weixin.qq.com/s/xpbJ6qjLpp1IO5WEvTwKMQ) | 老刘说NLP 2023-04-15
         - [再看大模型Lora微调加速是否有效：Full-Parameter全参数微调与LoRA低秩微调的性能对比开源实验介绍](https://mp.weixin.qq.com/s/oh42jxhMq7rU9_NUlSUoog) | 老刘说NLP 2023-04-22
