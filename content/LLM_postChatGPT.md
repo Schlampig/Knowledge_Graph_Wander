@@ -410,6 +410,7 @@
     - blog:
       - [deepseek-v2 开源，mla & moe 架构，超强中英文大模型，遥遥领先](https://mp.weixin.qq.com/s/2VjAeDMArPVIUKoRMbVW-A) | NLP前沿 2024-05-07
       - [DeepSeek模型解读:Scaling Law,MLA,MoE](https://mp.weixin.qq.com/s/Vmkd5Fq9AvSkZrMvjSRKlA) | AINLP 2024年07月09日
+      - [首届AI奥数竞赛方案公布：4支获奖队伍，竟都选择国产模型DeepSeekMath](https://mp.weixin.qq.com/s/R4eNNoRdfXnMQZiaYR59Jg) | 机器之心 2024年07月11日
   
   * DeepSpeed Chat(微软):
     - code: https://github.com/microsoft/DeepSpeed
