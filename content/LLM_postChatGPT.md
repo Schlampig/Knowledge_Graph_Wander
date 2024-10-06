@@ -1660,6 +1660,7 @@
       - [讯飞星火升级 3.0：整体超越 ChatGPT，2024 年将实现对标 GPT-4](https://mp.weixin.qq.com/s/Uncef5_JaZWSjMdwumUA_A) | 机器之心 2023-10-24
       - [实测讯飞星火V3.5：全语音交互比肩GPT-4！超逼真唠嗑让你根本停不下来](https://mp.weixin.qq.com/s/OeUU-Qf-MxQbLE7Lj8w4cg) | 量子位 2024-01-30
       - [星火大模型：服务升级，免费开放！](https://mp.weixin.qq.com/s/xn5Lq9ZuriC1XCyDr4dhIw) | 讯飞开放平台 2024-05-23
+      - [国产大模型新高度！讯飞星火4.0发布：整体超越GPT-4 Turbo，8个国际权威测试集测评第一](https://mp.weixin.qq.com/s/2b6RUB4evBQduTMejijdTQ) | 机器之心 2024年06月27日
 
   * 轩辕(度小满):
     - blog:
