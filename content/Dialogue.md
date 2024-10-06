@@ -93,6 +93,7 @@
         - [复旦大学自然语言处理实验室：如何构建和训练ChatGPT](https://mp.weixin.qq.com/s/-0T8tmINQxMs3Ifai_Deog) | PaperWeekly 2023-10-22
         - [ChatGPT 中文指南](https://gitlab.com/awesomeai/awesome-chatgpt-zh).
         - [大模型白盒子构建指南](https://github.com/datawhalechina/tiny-universe): 一个从原理出发、以“白盒”为导向、围绕大模型全链路的“手搓”大模型指南，旨在帮助有传统深度学习基础的读者从底层原理出发，“纯手搓”搭建一个清晰、可用的大模型系统，包括大模型本身、RAG 框架、Agent 系统及大模型评估体系。
+        - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/).
       - Technical Overview:
         - [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/InP6I2du2hFMsRtcGINXNQ) | 张家俊 2023-02-15
         - [ChatGPT成功做对了这4步](https://mp.weixin.qq.com/s/U5v8CFmGIpjWBheDDWXCPA) | 符尧 2023-02-15
