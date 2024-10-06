@@ -1288,6 +1288,7 @@
       - [华为的大模型终于来了，我的评价是：相当震撼。](https://mp.weixin.qq.com/s/0BDOziIYX0a-SDAvIpHkCg) | 差评 2023-07-08
       - [挑战Transformer，华为诺亚新架构盘古π来了，已有1B、7B模型](https://mp.weixin.qq.com/s/4oYzEbczqB_ttLtUjLVwTQ) | 机器之心 2023-12-30
       - [华为盘古大模型变「小」，1.5B也很能打](https://mp.weixin.qq.com/s/0CysMLnaC-OfUqGFJk9qqw) | 机器之心 2024-02-12
+      - [华为盘古大模型5.0技术解密：更多模态，复杂推理](https://mp.weixin.qq.com/s/1gZHO4R-x4BqxEnPFMxTBg) | 机器之心 2024年06月22日
 
   * phi-1.5(微软):
     - [paper](https://arxiv.org/abs/2309.05463): Textbooks Are All You Need II: phi-1.5 technical report
