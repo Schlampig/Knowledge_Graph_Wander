@@ -257,6 +257,7 @@
     - [Tulip Agent：一种利用增删改查让LLM使用大量工具解决复杂任务的新框架！](https://mp.weixin.qq.com/s/Pdz65V183bwxRRNxxjNP8g) | PaperAgent 2024年08月02日
     - [GNN+多智能体？剑桥大学最新《图神经网络多智能体学习》博士论文](https://mp.weixin.qq.com/s/xazjxUsGFyeCMjD6UwzzuQ) | 专知 2024年08月05日
     - [Github 1.3K星的程序开发智能体！UIUC/CMU/耶鲁等联合发布OpenDevin技术报告](https://mp.weixin.qq.com/s/vxwqsM7XWAtxl0JAIdDWFw) | 夕小瑶科技说 2024年08月06日
+    - [开闭源模型「大乱斗」：看看哪个智能体最能窥见人类真实意图](https://mp.weixin.qq.com/s/p2xojI4G5gaL8qTtArPAnA) | 机器之心 2024年08月10日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
