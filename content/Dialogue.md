@@ -461,6 +461,7 @@
           - [意图识别，用DSPy理解用户的“弦外音”](https://mp.weixin.qq.com/s/wSuzTJEy6sRSDQwjTY3biQ) | AI修猫Prompt 2024-06-04
           - [DSPy程序优化Prompt的五个重要教训，NLP 的未来不是修改Prompt，而是构建更高抽象级别的模块](https://mp.weixin.qq.com/s/TF6YAUCga5fNbgIzAEvSRg) | AI修猫Prompt 2024年06月20日
           - [DSPy并非手写Prompt万能替代品，掌握这6个有效策略，能增强DSPy应用程序](https://mp.weixin.qq.com/s/3dVbzAJH3Sf90bCPjdCseg) | AI修猫Prompt 2024年06月27日
+          - [能PK过DSPy的自动Prompt优化方法来了，GRAD-SUM：用梯度汇总优化你的提示词](https://mp.weixin.qq.com/s/hpp24EkbrPJpA-pTb7_Ndw) | AI修猫Prompt 2024年07月22日
         - [paper](https://arxiv.org/abs/2403.09629): Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.
         - [paper](https://arxiv.org/abs/2404.18424): PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval.
         - [8个好用的提示词策略，教你把AI玩溜](https://mp.weixin.qq.com/s/2GgiwfiDJGV1krc9IP2U_g) | 自然系列 2024-05-07
@@ -1345,6 +1346,7 @@
           - [增强RAG：选择最佳的嵌入和重排模型](https://mp.weixin.qq.com/s/ACzc-aulswX9O9D01lhHNw) | AI公园 2024年07月04日
           - [RankRAG：基于排序增强的单一LLM问答生成框架](https://mp.weixin.qq.com/s/itugneRQ9YgV2fKZfICqJQ) | 奇点智源 2024年07月10日
           - [谷歌Speculative RAG：多打草稿少出错，效果优于Self-RAG、CRAG](https://mp.weixin.qq.com/s/HvrLltG_DZ7HjFlYxAolpw) | PaperAgent 2024年07月15日
+          - [RAG 工业落地方案框架（Qanything、RAGFlow、FastGPT、智谱RAG）细节比对](https://mp.weixin.qq.com/s/egrgzskqeJpepsZfEwrOVw) | 大模型生态圈 2024年07月22日
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
@@ -2210,6 +2212,7 @@
         - [ACL 2024 | 新一代艺术媒介：探索基于大语言模型的互动戏剧](https://mp.weixin.qq.com/s/QdkNklv7jnpcE0SkQTRWMA) | PaperWeekly 2024-06-03
         - [大语言模型会“读心”吗？](https://mp.weixin.qq.com/s/kyCyM0q5rMaq8gXGqiPgvQ) | 追问nextquestion 2024-06-05
         - [中国杀出全球首个烹饪大模型](https://mp.weixin.qq.com/s/DfgNfAQZvHedHD-GgYCHXA) | 量子位 2024年06月25日
+        - [ICML2024: 华中科大发现大模型具有自我认知](https://mp.weixin.qq.com/s/jfuL2uEflSie4XerSJRrIQ) | 夕小瑶科技说 2024年07月22日
     - expand methods: see [Large Language Models from the Post-ChatGPT-Age](https://github.com/Schlampig/Knowledge_Graph_Wander/blob/master/content/LLM_postChatGPT.md).
 </br>
 
@@ -2535,6 +2538,7 @@
     - [大型视觉语言模型攻击综述：资源、进展与未来趋势](https://mp.weixin.qq.com/s/kXFXpa8b7VkgSJQLAFux_w) | 专知 2024年07月12日
     - [「深度时间序列模型」综述](https://mp.weixin.qq.com/s/S_IOHUGJCwRrlC52ilmjIA) | 专知 2024年07月20日
     - [大一统！深度学习和传统机器学习终迎来统一的RPN理论框架表示](https://mp.weixin.qq.com/s/dhdod5qLK7MPEhcRhVop5A) | PaperWeekly 2024年07月20日
+    - [大型语言模型在不同自然语言处理任务中的提示工程方法综述](https://mp.weixin.qq.com/s/wFSm7O6QHXkjpx8q9dCTGw) | 专知 2024年07月22日
   * 新闻盘点
     - [2023必看AI干货!《ChatGPT/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合](https://mp.weixin.qq.com/s/20GtZewFswNebr_e_Hnclg) | 专知 2023-03-27
     - [10张图总结2023年人工智能状况](https://mp.weixin.qq.com/s/vAJ9pNq_WxHkdxseta6m2Q) | 知识工场 2023-04-20
