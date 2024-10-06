@@ -238,6 +238,7 @@
     - [Agent设计模式一览（飞书文档）](https://a8o6k6y8gp.feishu.cn/wiki/PxPXw0uSoirtT2kwC7XcwvnEnre)。
     - [KG-Agent：面向KG复杂推理的高效自治代理框架](https://mp.weixin.qq.com/s/dvNluJGGR3S6UqzN1b6EBQ) | 将门创投 2024年06月14日
     - [SELFGOAL：基于自适应子目标的语言智能体框架](https://mp.weixin.qq.com/s/3Syn2mmgHYKzyQ0XigJ8-A) | 奇点智源 2024年06月16日
+    - [打通智能体「自我进化」全流程！复旦推出通用智能体平台AgentGym](https://mp.weixin.qq.com/s/WyxQMJoj03FsNT3QRVD05A) | PaperWeekly 2024年06月16日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
