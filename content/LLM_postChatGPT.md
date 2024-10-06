@@ -1720,6 +1720,7 @@
       - [零一万物 Yi-34B-Chat 微调模型及量化版正式上线](https://mp.weixin.qq.com/s/4nAQQ52Tyn9XJt8dMQrgGw) | Hugging Face 2023-11-27
       - [零一万物开源Yi-1.5系列大模型](https://mp.weixin.qq.com/s/d-ogq4hcFbsuL348ExJxpA) | NLP工作站 2024-05-13
       - [中国大模型头名易主：全球盲测榜单上，Yi-Large与GPT-4o中文并列第一](https://mp.weixin.qq.com/s/NIEjClwPT4BVF7_7U8n43w) | 机器之心 2024-05-21
+      - [大模型训练方法论及Yi-Large的实践](https://mp.weixin.qq.com/s/Mn4a0AIkdxXXvjNNlMioUw) | 大模型生态圈 2024年07月26日
 
   * youChat(You.com): 
     - blog:
