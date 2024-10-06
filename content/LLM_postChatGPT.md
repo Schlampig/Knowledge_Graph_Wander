@@ -964,6 +964,7 @@
       - [【中文Llama-3】Instruct-v3版指令模型发布，主客观性能大幅提升](https://mp.weixin.qq.com/s/WdqZ85I-yr2o7xub2MhMPA) | HFL实验室 2024-05-30
       - [李沐团队发布Higgs-Llama-3-70B，角色扮演专用模型](https://mp.weixin.qq.com/s/Ua6cikbGlL5GDW3SQ4xCnQ) | 机器之心SOTA模型 2024-06-06
       - [微调神器LLaMA-Factory官方保姆级教程来了，从环境搭建到模型训练评估全覆盖](https://mp.weixin.qq.com/s/J3f-t5RQQtVyShtQhHc_7A) | AINLP 2024年07月04日
+      - [Llama 3.2 90B刚开源就被Molmo-72B全面击败！](https://mp.weixin.qq.com/s/EwN-rJ9Aee7aYL79YcKPpw) | PaperAgent 2024年09月26日
   
   * LLaMA-Adapter(上海人工智能研究院&港中文):
     - [paper](https://arxiv.org/pdf/2304.15010.pdf): LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model.
