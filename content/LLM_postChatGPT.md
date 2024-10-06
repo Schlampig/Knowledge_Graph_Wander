@@ -948,6 +948,7 @@
       - [LLama 3 405B 技术报告解读](https://mp.weixin.qq.com/s/x8QsMQqtUo0A1q9LkaYf2Q) | AINLP 2024年07月25日
       - [浅谈Llama3.1，从结构、训练过程、影响到数据合成](https://mp.weixin.qq.com/s/9lOsJzUbDjVqiI6MkU3Byw) | AINLP 2024年07月25日
       - [《Llama 3大模型》技术报告中英文版，95页pdf](https://mp.weixin.qq.com/s/uqzqENLm2pLhfadq15ugFQ) | 专知 2024年08月03日
+      - [LLaMA3.1为什么选择405B作为最大参数量？](https://mp.weixin.qq.com/s/Xx1It0Y42_MB-CTcqpDk0w) | 吃果冻不吐果冻皮 2024年08月10日
     - extra:
       - [一大堆Chinese Llama3正在袭来](https://mp.weixin.qq.com/s/x-w10mBU2a0PHNS5y0QO3Q) | NLP工作站 2024-04-21
       - [四个Llama3中文微调版本的衍生：继续看文档图表理解大模型中的图表-数据对构造方案](https://mp.weixin.qq.com/s/fSt5bMzRd7zF7wAhG_uqfg) | 老刘说NLP 2024-04-21
