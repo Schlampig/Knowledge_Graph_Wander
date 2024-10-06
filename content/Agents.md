@@ -252,6 +252,7 @@
     - [多模态交互智能体(Agent)全面综述：定义、范式、学习、系统、分类、应用、评估](https://mp.weixin.qq.com/s/sFDhCmeJeztp2pZnV1ILNA) | 知识工场 2024年07月18日
     - [AI Agent 阶段性总结与创投观察](https://mp.weixin.qq.com/s/YSFoNEuGGm-Ory0SeDij0A?poc_token=HGtOAmejhXNPgLKIjY5PmDZL6HHFodAMxFW0_beH) | 特工宇宙 2024年07月18日
     - [基于条件扩散模型的策略生成：Make-An-Agent 方法](https://mp.weixin.qq.com/s/1Q7HBlV7sNJr-tsNZdXx7Q) | 奇点智源 2024年07月20日
+    - [可「自主进化」的Agent？首个端到端智能体符号化训练框架开源了](https://mp.weixin.qq.com/s/8juRBFEd-VmoGUUDKylSGg) | PaperWeekly 2024年07月22日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
