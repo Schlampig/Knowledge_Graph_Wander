@@ -233,6 +233,7 @@
       - [ChatGLM 技术报告：从 GLM-130B 到 GLM-4 All Tools](https://mp.weixin.qq.com/s/xK0tGTtWgdWaab84hxmidw) | GLM大模型 2024年06月21日
       - [GLM4报告的一些技术点](https://mp.weixin.qq.com/s/KwnrXaLwfHv3ZfYUClsOAw) | AINLP 2024年07月04日
       - [终于！GLM-4-9B 支持 Ollama 部署](https://mp.weixin.qq.com/s/do_MPhh4qneLvsSMoOthOA) | GLM大模型 2024年07月11日
+      - [GLM-4-Long：长、无损、理解复杂语义、更便宜](https://mp.weixin.qq.com/s/E-jm5Eny_iU0vbjVgU_6lA) | 学术头条 2024年08月13日
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
