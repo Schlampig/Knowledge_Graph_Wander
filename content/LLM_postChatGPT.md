@@ -1406,6 +1406,7 @@
         - [Qwen2.5 全链路模型体验、下载、推理、微调、部署实战！](https://mp.weixin.qq.com/s/Gn8kV04e_Y_BmXdxSMBiSQ) | 魔搭ModelScope社区 2024年09月19日
         - [Qwen2.5全家桶发布，包含7种尺寸规模](https://mp.weixin.qq.com/s/0wSk7nCbxcKF1DV5YTa43A) | YeungNLP 2024年09月19日
         - [Qwen2.5-Coder 技术报告详细解读](https://mp.weixin.qq.com/s/pMsDs95hyLh7gZbZYzC-NQ) | 深度学习自然语言处理 2024年09月21日
+        - [实现一个简洁的代码模型评测框架（以Qwen2.5-coder 评测Humaneval为例）](https://mp.weixin.qq.com/s/pvtrtVrjrl27Ilugf3VwkQ) | 深度学习自然语言处理 2024年09月21日
 </br>
 
 ### R
