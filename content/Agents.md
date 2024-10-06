@@ -249,6 +249,8 @@
     - [LlamaIndex技术报告：知识助手的尽头是Multi-Agents！](https://mp.weixin.qq.com/s/uSHGFKpPzdrJjDL3BZVDWw) | PaperAgent 2024年07月06日
     - [Memory3：基于显式记忆的低成本大语言模型](https://mp.weixin.qq.com/s/gRCLicGtXvYca62r6p1ISw) | 奇点智源 2024年07月06日
     - [GAIA: 一个严苛的智能体基准](https://mp.weixin.qq.com/s/ZaDZvjLJoi6UzZVc7Pm_4g) | Hugging Face 2024年07月09日
+    - [多模态交互智能体(Agent)全面综述：定义、范式、学习、系统、分类、应用、评估](https://mp.weixin.qq.com/s/sFDhCmeJeztp2pZnV1ILNA) | 知识工场 2024年07月18日
+    - [AI Agent 阶段性总结与创投观察](https://mp.weixin.qq.com/s/YSFoNEuGGm-Ory0SeDij0A?poc_token=HGtOAmejhXNPgLKIjY5PmDZL6HHFodAMxFW0_beH) | 特工宇宙 2024年07月18日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
