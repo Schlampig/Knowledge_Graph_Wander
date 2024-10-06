@@ -245,6 +245,7 @@
     - [LangChain技术报告：如何构建可靠智能体Agent？](https://mp.weixin.qq.com/s/rW4q2wBAVmU9yOaIE4NbeA) | PaperAgent 2024年06月29日
     - [「大模型」检测「大模型」缺陷，从错误中高效学习](https://mp.weixin.qq.com/s/mZo2BYA85DY_DOWt1LfVqw) | 人工智能学家 2024年06月29日
     - [专题解读 | 大语言模型中的记忆设计](https://mp.weixin.qq.com/s/GAKBBMkCl4jtf4icpSWrFg) | 北邮 GAMMA Lab 2024年07月03日
+    - [Agent Hospital | 对话数据合成：清华利用多Agent合成大量医疗对话数据显著提升LLM在医疗场景效果](https://mp.weixin.qq.com/s/wm9NLBd06FvjwjMf2hhADg) | NLP PaperWeekly 2024年07月03日
 ### 智能决策：
     - [【2023新书】决策智能手册：在复杂世界中基于证据做出决策的实用步骤, 376页pdf](https://mp.weixin.qq.com/s/V2dbSmOlv3xXq-thMZHDEw) | 专知 2023-07-06
     - [AI-ML用于决策和风险分析：规范决策理论的挑战与机遇，443页pdf](https://mp.weixin.qq.com/s/m_zO9CZjCiW4nQnKthVTrQ) | 专知 2023-07-16
