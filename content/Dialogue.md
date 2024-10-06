@@ -640,6 +640,7 @@
         - [ACL 2024 | 提升大模型持续学习性能，哈工大、度小满提出共享注意力框架SAPT](https://mp.weixin.qq.com/s/6d0jt3avoe9_8B_tD7QWTA) | 将门创投 2024年06月17日
         - [拯救Transformer推理能力！DeepMind新研究TransNAR：给模型嵌入「算法推理大脑」](https://mp.weixin.qq.com/s/YPICpkYHAC7zTLC_0M_XkQ) | 新智元 2024年06月17日
         - [最近爆火的无矩阵乘法的大模型架构是怎么一回事？](https://mp.weixin.qq.com/s/NoTbX2VZOPKxYthZBWVpSw) | NLP前沿 2024年06月23日
+        - [ICML 2024 | 揭示非线形Transformer在上下文学习中学习和泛化的机制](https://mp.weixin.qq.com/s/SJQiIp1W5kwWSVJaOXA9yA) | 机器之心 2024年06月27日
       - Low Rank Tech (e.g., LoRA & PEFT):
         - [Lorax](https://github.com/davisyoshida/lorax): JAX transform which implements Low Rank Adaptation (LoRA).
         - [使用 LoRA 和 Hugging Face 高效训练大语言模型](https://mp.weixin.qq.com/s/KzZX83Hw9FD1c6Z1dDz73g) | Hugging Face 2023-04-12
@@ -1284,6 +1285,7 @@
           - [RAG生成任务：Base LLM竟然比Instruct LLM高出20%](https://mp.weixin.qq.com/s/Fx-GLcH-RgKC-6kMzKDPzA) | PaperAgent 2024年06月26日
           - [复旦+上海AI Lab提出统一主动检索RAG，减少延迟，提升响应](https://mp.weixin.qq.com/s/4i5lWgTkp1GpsCJzdq6PEg) | 深度学习自然语言处理 2024年06月26日
           - [文本分块哪家强？LumberChunker、语义分块、段落级、循环分块、HyDE、命题级](https://mp.weixin.qq.com/s/7Dzn4oETJQyPHXfgsnofYA) | PaperAgent 2024年06月28日
+          - [RAG、ROG、RCG傻傻分不清？概念辨识及RCG在SimplyRetrieve中的naive实现](https://mp.weixin.qq.com/s/KxaiKjrsMyy8kh7Sju2oJg) | 老刘说NLP 2024年06月28日
         - Others
           - [a16z：大语言模型（LLM）的新兴架构](https://mp.weixin.qq.com/s/bEKEQiy3uSO-iZSvj7G2Kw) | AI 共存派 2023-07-13
           - [LLM变现平台来了！LangChain+DemoGPT合作：有了idea就能挣钱，「只缺程序员」的时代宣告结束](https://mp.weixin.qq.com/s/JsriEk8UNwVDjLQwSKbkew) | 新智元 2023-09-19
