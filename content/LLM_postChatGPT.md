@@ -1153,6 +1153,8 @@
         - [斯坦福AI项目作者对抄袭中国大模型致歉！承诺撤下相关模型](https://mp.weixin.qq.com/s/pAS8tjHYNsKupCE2UiFsRQ) | 第一财经 2024-06-04
       - Mistral Large 2:
         - [重磅！Mistral Large 2深夜发布！Llama3.1仅一天被超越，最强开源再易主](https://mp.weixin.qq.com/s/BmCxHPzAM0HJ7pcDMwDolQ) | 夕小瑶科技说 2024年07月25日
+      - SmolLM:
+        - [SmolLM: 一个超快速、超高性能的小模型集合](https://mp.weixin.qq.com/s/M-rpJnb4hDKWwE_jLDbtcw) | Hugging Face 2024年08月02日
 
   * MM1(苹果):
     - [paper](https://arxiv.org/pdf/2403.09611.pdf): MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training.
