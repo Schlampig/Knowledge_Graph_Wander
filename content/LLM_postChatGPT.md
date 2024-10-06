@@ -234,6 +234,9 @@
       - [GLM4报告的一些技术点](https://mp.weixin.qq.com/s/KwnrXaLwfHv3ZfYUClsOAw) | AINLP 2024年07月04日
       - [终于！GLM-4-9B 支持 Ollama 部署](https://mp.weixin.qq.com/s/do_MPhh4qneLvsSMoOthOA) | GLM大模型 2024年07月11日
       - [GLM-4-Long：长、无损、理解复杂语义、更便宜](https://mp.weixin.qq.com/s/E-jm5Eny_iU0vbjVgU_6lA) | 学术头条 2024年08月13日
+    - extra:
+      - GLM-4-plus:
+        - [智谱发布新一代基座模型](https://mp.weixin.qq.com/s/f0Wl2qJEqMOxZP3vxdQdJg) | GLM大模型 2024年08月29日
 
   * ChatLaw(北大深圳&兔展智能):
     - code: https://github.com/PKU-YuanGroup/ChatLaw
@@ -1259,6 +1262,11 @@
   * OpenLLaMA-Chinese(FittenTech):
     - code: https://github.com/FittenTech/OpenLLaMA-Chinese
     - note: 免费的中文大型语言模型，基于OpenLLaMA，可用于非商业和商业目的。OpenLLaMA-Chinese是在RedPajama数据集上训练的Meta AI的LLaMA 7B和13B模型的开源实现。使用OpenLLaMA基础模型对中文和英文指令进行了微调，并公开了权重。使用了中文-LLaMA-Alpaca项目的alpaca_data_zh_51k.json进行中文微调，使用了StanfordAlpaca项目的alpaca_data.json进行英文微调。
+
+  * OpenRLHF(苏州大学):
+    - code: https://github.com/OpenRLHF/OpenRLHF
+    - blog:
+      - [OpenRLHF：大规模分布式RLHF训练系统介绍](https://mp.weixin.qq.com/s/OpgLjyrhJY0dlZ9CIaw5MA) | 深度学习自然语言处理 2024年08月29日
 
   * OpinionGPT(洪堡大学):
     - [paper](https://arxiv.org/pdf/2309.03876.pdf): OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs.
