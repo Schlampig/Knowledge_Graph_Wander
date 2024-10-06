@@ -76,6 +76,7 @@
     - extra:
       - [GPT-4等大模型迎来进化转折点：不只是使用，还会自己制作工具了](https://mp.weixin.qq.com/s/HD8XYv9-U0q6YAU6-jFEmg) | 机器之心 2023-05-30
       - [WorkGPT](https://github.com/team-openpm/workgpt): A GPT agent framework for invoking APIs.
+      - [爆火AutoGPT进阶版来了：定制节点、多智能体协同](https://mp.weixin.qq.com/s/dBL47yYoVNkyPoPG8pcLLA) | 机器之心 2024年07月18日
 
   * Auto-J(上海交大):
     - code: https://github.com/GAIR-NLP/auto-j
@@ -932,6 +933,7 @@
       - [【独家】万字长文带你梳理Llama开源家族：从Llama-1到Llama-3](https://mp.weixin.qq.com/s/5_VnzP3JmOB0D5geV5HRFg) | Datawhale 2024-04-21
       - [从头预训练一只超迷你 LLaMA 3](https://mp.weixin.qq.com/s/i_qNHo86hxmiZ3Ls_Lm1mw) | AINLP 2024-05-24
       - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch): 阿尼亚带你从零实现LLaMA 3, [中文版](https://github.com/wdndev/llama3-from-scratch-zh)。
+      - [从零预训练LLAMA3的完整指南：一个文件，探索Scaling Law](https://mp.weixin.qq.com/s/aeh6kudCXqkCfd452vUnPw) | 深度学习自然语言处理 2024年07月19日
     - extra:
       - [一大堆Chinese Llama3正在袭来](https://mp.weixin.qq.com/s/x-w10mBU2a0PHNS5y0QO3Q) | NLP工作站 2024-04-21
       - [四个Llama3中文微调版本的衍生：继续看文档图表理解大模型中的图表-数据对构造方案](https://mp.weixin.qq.com/s/fSt5bMzRd7zF7wAhG_uqfg) | 老刘说NLP 2024-04-21
