@@ -1384,6 +1384,7 @@
     - blog:
       - [Qwen2模型开源，你值得拥有！](https://mp.weixin.qq.com/s/YMf6EmmSfy-SnihM5wP0RA) | NLP工作站 2024-06-07
       - [你好，Qwen2！](https://mp.weixin.qq.com/s/s5vChAY6B2s_ZVK-ALYP2w) | 魔搭ModelScope社区 2024-06-07
+      - [Qwen2-Math开源，包含1.5B/7B/72B三种参数规模的数学模型](https://mp.weixin.qq.com/s/uAzlvmIciNdtEHxMthjpng) | YeungNLP 2024年08月09日
 </br>
 
 ### R
