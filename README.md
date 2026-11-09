@@ -1,4 +1,4 @@
-# Learn Knowledge Graph and other NLP Methods
+# Learn Knowledge Graph and other NLP Methods（Stop updating）
 ---
 *Collected by [KuyiKing](https://github.com/Schlampig)*
 
