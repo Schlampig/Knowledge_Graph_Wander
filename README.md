@@ -1,4 +1,4 @@
-# Learn Knowledge Graph and other NLP Methods（Stop updating）
+# Learn Knowledge Graph and other NLP Methods（2019-2024，stop updating）
 ---
 *Collected by [KuyiKing](https://github.com/Schlampig)*
 
